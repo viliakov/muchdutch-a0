@@ -177,6 +177,73 @@ Suggested columns:
 | om de beurt | in turns | по очереди | phrase | les-04 | speaking task |
 | wisselen van rol | to switch roles | поменяться ролями | phrase | les-04 | speaking task |
 
+## Les 5
+
+| Dutch | English | Russian | Type | Lesson | Notes |
+| --- | --- | --- | --- | --- | --- |
+| mijn | my | мой, моя, мое | possessive | les-05 | possessive review; also appeared in les-02 |
+| jouw | your | твой, твоя, твое | possessive | les-05 | stressed informal possessive |
+| uw | your | Ваш, Ваша, Ваше | possessive | les-05 | formal possessive |
+| zijn | his | его | possessive | les-05 | possessive pronoun, not verb here |
+| haar | her | ее | possessive | les-05 | possessive pronoun |
+| ons | our | наш, наше | possessive | les-05 | for het-words: `ons huis` |
+| onze | our | наша, наши | possessive | les-05 | for de-words/plural: `onze auto`, `onze kinderen` |
+| hun | their | их | possessive | les-05 | possessive pronoun |
+| het weer | weather | погода | noun | les-05 | weather topic |
+| warm | warm | теплый | adjective | les-05 | weather |
+| koud | cold | холодный | adjective | les-05 | weather |
+| waaien | to blow, to be windy | дуть | verb | les-05 | weather: `het waait` |
+| het waait | it is windy | ветрено | phrase | les-05 | weather phrase |
+| regenen | to rain | идти дождю | verb | les-05 | weather: `het regent` |
+| het regent | it is raining | идет дождь | phrase | les-05 | weather phrase |
+| sneeuwen | to snow | идти снегу | verb | les-05 | weather: `het sneeuwt` |
+| het sneeuwt | it is snowing | идет снег | phrase | les-05 | weather phrase |
+| bewolkt | cloudy | облачно | adjective | les-05 | weather |
+| mistig | foggy | туманно | adjective | les-05 | weather |
+| zonnig | sunny | солнечно | adjective | les-05 | weather |
+| vandaag | today | сегодня | adverb | les-05 | time expression |
+| morgen | tomorrow | завтра | adverb | les-05 | time expression |
+| overmorgen | the day after tomorrow | послезавтра | adverb | les-05 | time expression |
+| gisteren | yesterday | вчера | adverb | les-05 | time expression |
+| eergisteren | the day before yesterday | позавчера | adverb | les-05 | time expression |
+| de agenda | agenda, calendar | ежедневник, расписание | noun | les-05 | planning |
+| de dag | day | день | noun | les-05 | calendar |
+| de week | week | неделя | noun | les-05 | calendar |
+| de maand | month | месяц | noun | les-05 | calendar |
+| de datum | date | дата | noun | les-05 | calendar |
+| maandag | Monday | понедельник | noun | les-05 | day of week |
+| dinsdag | Tuesday | вторник | noun | les-05 | day of week; also appeared in les-04 |
+| woensdag | Wednesday | среда | noun | les-05 | day of week |
+| donderdag | Thursday | четверг | noun | les-05 | day of week |
+| vrijdag | Friday | пятница | noun | les-05 | day of week; also appeared in les-04 |
+| zaterdag | Saturday | суббота | noun | les-05 | day of week |
+| zondag | Sunday | воскресенье | noun | les-05 | day of week |
+| januari | January | январь | noun | les-05 | month |
+| februari | February | февраль | noun | les-05 | month |
+| maart | March | март | noun | les-05 | month |
+| april | April | апрель | noun | les-05 | month |
+| mei | May | май | noun | les-05 | month |
+| juni | June | июнь | noun | les-05 | month |
+| juli | July | июль | noun | les-05 | month |
+| augustus | August | август | noun | les-05 | month |
+| september | September | сентябрь | noun | les-05 | month |
+| oktober | October | октябрь | noun | les-05 | month |
+| november | November | ноябрь | noun | les-05 | month |
+| december | December | декабрь | noun | les-05 | month |
+| eerste | first | первый | ordinal | les-05 | dates/order |
+| laatste | last | последний | adjective | les-05 | dates/order |
+| de jongen | boy | мальчик | noun | les-05 | listening vocabulary |
+| het meisje | girl | девочка | noun | les-05 | listening vocabulary |
+| de baby | baby | младенец | noun | les-05 | listening vocabulary |
+| het gezin | family, household | семья | noun | les-05 | listening vocabulary |
+| horen | to hear | слышать | verb | les-05 | listening vocabulary |
+| praten | to talk | разговаривать | verb | les-05 | listening vocabulary |
+| raden | to guess | угадывать | verb | les-05 | speaking task |
+| beschrijven | to describe | описывать | verb | les-05 | speaking task |
+| noemen | to name, mention | называть | verb | les-05 | speaking task |
+| lenen | to borrow | одалживать | verb | les-05 | classroom phrase |
+| betekenen | to mean | значить | verb | les-05 | classroom phrase |
+
 ## Les 6
 
 | Dutch | English | Russian | Type | Lesson | Notes |
