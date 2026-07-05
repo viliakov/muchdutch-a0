@@ -1,0 +1,47 @@
+# MuchDutch A0
+
+Personal Dutch learning repo for turning lesson screenshots into structured notes, vocabulary, and extra homework.
+
+## Structure
+
+```text
+.
+├── README.md
+├── WORDS.md
+├── CODEX.md
+└── les-06
+    ├── summary.md
+    └── homework.md
+```
+
+Each lesson folder should be named `les-XX`, for example `les-01`, `les-02`, `les-06`.
+
+## Lesson Files
+
+Each `les-XX` folder can contain:
+
+- `summary.md`: lesson summary generated from screenshots or notes.
+- `homework.md`: extra exercises generated from the lesson summary and cumulative word bank.
+- `materials.md`: optional manual notes, links, or transcript fragments.
+- `screenshots/`: optional source images if they are added to the repo later.
+
+The most important file is `summary.md`. It should capture what was learned in the lesson, especially grammar, vocabulary themes, pronunciation, listening/speaking topics, and common example sentences.
+
+## Vocabulary
+
+`WORDS.md` is the cumulative word bank for the whole course. New words from every lesson should be added there instead of keeping separate vocabulary lists per lesson.
+
+This makes later exercises richer: homework for `les-06` can use words from earlier lessons, while still prioritizing the new material from the current lesson.
+
+## Workflow
+
+1. Post a screenshot of a Miro board or lesson material to Codex.
+2. Codex analyzes the screenshot and creates or updates `les-XX/summary.md`.
+3. Codex adds new vocabulary to `WORDS.md`.
+4. When requested, Codex generates `les-XX/homework.md` using:
+   - the current lesson summary,
+   - grammar learned so far,
+   - the cumulative vocabulary in `WORDS.md`,
+   - pronunciation patterns visible in the lesson material.
+
+See `CODEX.md` for the detailed instructions Codex should follow.
