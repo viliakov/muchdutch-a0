@@ -43,6 +43,52 @@ Suggested columns:
 | de letter | letter | буква | noun | les-01 | alphabet |
 | het alfabet | alphabet | алфавит | noun | les-01 | spelling |
 
+## Les 2
+
+| Dutch | English | Russian | Type | Lesson | Notes |
+| --- | --- | --- | --- | --- | --- |
+| de man | man | мужчина | noun | les-02 | people |
+| de vrouw | woman, wife | женщина, жена | noun | les-02 | people/family |
+| het kind | child | ребенок | noun | les-02 | plural: de kinderen |
+| de kinderen | children | дети | noun | les-02 | plural noun |
+| mijn | my | мой, моя, мое | possessive | les-02 | `mijn naam`, `mijn man` |
+| de moeder | mother | мать | noun | les-02 | family |
+| de vader | father | отец | noun | les-02 | family |
+| de zoon | son | сын | noun | les-02 | family |
+| de dochter | daughter | дочь | noun | les-02 | family |
+| getrouwd | married | женат, замужем | adjective | les-02 | status |
+| niet getrouwd | not married | не женат, не замужем | phrase | les-02 | status |
+| hebben | to have | иметь | verb | les-02 | `Wij hebben 2 kinderen.` |
+| komen uit | to come from | быть родом из | verb phrase | les-02 | country/origin |
+| het jaar | year | год | noun | les-02 | age/time in country |
+| de leeftijd | age | возраст | noun | les-02 | personal information |
+| Peru | Peru | Перу | place | les-02 | country |
+| Spanje | Spain | Испания | place | les-02 | country |
+| China | China | Китай | place | les-02 | country |
+| Irak | Iraq | Ирак | place | les-02 | country |
+| Utrecht | Utrecht | Утрехт | place | les-02 | city |
+| de | the | определенный артикль | article | les-02 | definite article for de-words |
+| het | the, it | определенный артикль, оно | article/pronoun | les-02 | definite article for het-words |
+| een | a, an | неопределенный артикль | article | les-02 | indefinite article |
+| je | you, your | ты, твой | pronoun/possessive | les-02 | unstressed form of `jij`; can mean `your` |
+| hij | he | он | pronoun | les-02 | subject pronoun |
+| zij | she, they | она, они | pronoun | les-02 | subject pronoun |
+| ze | she, they | она, они | pronoun | les-02 | unstressed form of `zij` |
+| wij | we | мы | pronoun | les-02 | subject pronoun |
+| we | we | мы | pronoun | les-02 | unstressed form of `wij` |
+| jullie | you plural | вы | pronoun | les-02 | informal plural |
+| zijn | to be | быть | verb | les-02 | irregular verb |
+| ben | am | есть | verb form | les-02 | form of `zijn` with `ik` |
+| bent | are | есть | verb form | les-02 | form of `zijn` with `jij/u` |
+| is | is | есть | verb form | les-02 | form of `zijn` with singular subjects |
+| zijn (plural form) | are | есть | verb form | les-02 | plural form of `zijn`: wij/jullie/zij zijn |
+| hartstikke goed | very good | очень хорошо | phrase | les-02 | answer to `Hoe gaat het?` |
+| best | fine, okay | неплохо | adjective/adverb | les-02 | answer to `Hoe gaat het?` |
+| goedemiddag | good afternoon | добрый день | phrase | les-02 | greeting |
+| goedenavond | good evening | добрый вечер | phrase | les-02 | greeting |
+| meneer | mister, sir | господин | noun/title | les-02 | polite address |
+| mevrouw | madam, Mrs | госпожа | noun/title | les-02 | polite address |
+
 ## Les 6
 
 | Dutch | English | Russian | Type | Lesson | Notes |
