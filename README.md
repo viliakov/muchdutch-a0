@@ -9,6 +9,8 @@ Personal Dutch learning repo for turning lesson screenshots into structured note
 ├── README.md
 ├── WORDS.md
 ├── CODEX.md
+├── les-01
+│   └── summary.md
 └── les-06
     ├── summary.md
     └── homework.md

@@ -7,6 +7,42 @@ Suggested columns:
 | Dutch | English | Russian | Type | Lesson | Notes |
 | --- | --- | --- | --- | --- | --- |
 
+## Les 1
+
+| Dutch | English | Russian | Type | Lesson | Notes |
+| --- | --- | --- | --- | --- | --- |
+| hallo | hello | здравствуйте, привет | phrase | les-01 | neutral greeting |
+| hoi | hi | привет | phrase | les-01 | informal greeting |
+| ik | I | я | pronoun | les-01 | subject pronoun |
+| jij | you | ты | pronoun | les-01 | informal subject pronoun |
+| u | you | Вы | pronoun | les-01 | formal/polite |
+| jou | you | тебя, тебе | pronoun | les-01 | informal object form |
+| ik ben | I am | я есть, меня зовут | phrase | les-01 | introductions |
+| en jij | and you | а ты | phrase | les-01 | asking back informally |
+| hoe gaat het | how are you | как дела | phrase | les-01 | basic question |
+| hoe is het met jou | how are you | как у тебя дела | phrase | les-01 | informal |
+| hoe is het met u | how are you | как у Вас дела | phrase | les-01 | formal |
+| goed | good, well | хорошо | adjective/adverb | les-01 | answer to `Hoe gaat het?` |
+| heel goed | very good | очень хорошо | phrase | les-01 | answer to `Hoe gaat het?` |
+| prima | fine, great | отлично | phrase | les-01 | answer to `Hoe gaat het?` |
+| uitstekend | excellent | превосходно | adjective/adverb | les-01 | answer to `Hoe gaat het?` |
+| het gaat wel | it is okay | нормально, более-менее | phrase | les-01 | neutral answer |
+| niet zo goed | not so good | не очень хорошо | phrase | les-01 | negative answer |
+| niet zo best | not so great | не очень | phrase | les-01 | negative answer |
+| slecht | bad | плохо | adjective/adverb | les-01 | negative answer |
+| dank je | thank you | спасибо | phrase | les-01 | informal |
+| dank u | thank you | спасибо | phrase | les-01 | formal |
+| fijne dag | have a nice day | хорошего дня | phrase | les-01 | good wish |
+| fijne avond | have a nice evening | хорошего вечера | phrase | les-01 | good wish |
+| fijn weekend | have a nice weekend | хороших выходных | phrase | les-01 | good wish |
+| dag | bye, hello | пока, здравствуйте | phrase | les-01 | greeting or goodbye |
+| doei | bye | пока | phrase | les-01 | informal goodbye |
+| tot ziens | goodbye, see you | до свидания | phrase | les-01 | goodbye |
+| de naam | name | имя | noun | les-01 | spelling practice |
+| spellen | to spell | произносить по буквам | verb | les-01 | alphabet practice |
+| de letter | letter | буква | noun | les-01 | alphabet |
+| het alfabet | alphabet | алфавит | noun | les-01 | spelling |
+
 ## Les 6
 
 | Dutch | English | Russian | Type | Lesson | Notes |
