@@ -105,18 +105,25 @@ When the user asks for homework:
 1. Use the current lesson summary as the main source.
 2. Use `WORDS.md` to reuse words from previous lessons.
 3. Prioritize the grammar from the current lesson.
-4. Include a balanced set of exercises:
+4. Generate a substantial homework set by default. Use `les-06/homework.md` as the baseline size, then make new homework about twice as large unless the user asks for a shorter set.
+5. Include a balanced set of exercises:
    - recognition exercises,
    - fill-in-the-blank grammar,
-   - translation into Dutch,
+   - English-to-Dutch translation,
+   - Russian-to-Dutch translation,
    - short sentence writing,
    - speaking prompts,
    - pronunciation practice when relevant,
    - an answer key.
-5. Keep the level appropriate for A0/A1 beginners.
-6. Use simple sentences and familiar vocabulary.
-7. If using Russian prompts from the screenshot, also allow English prompts when useful.
-8. Put generated homework in `les-XX/homework.md`.
+6. Include at least two translation sections when enough vocabulary is available:
+   - one section translating from English to Dutch,
+   - one section translating from Russian to Dutch, because Russian is the user's native language.
+7. Make translation sections large enough to be useful: usually 10-15 sentences for English-to-Dutch and 10-15 sentences for Russian-to-Dutch.
+8. Keep the level appropriate for A0/A1 beginners.
+9. Use simple sentences and familiar vocabulary.
+10. Prefer sentences that combine the current lesson grammar with older vocabulary from `WORDS.md`.
+11. If a screenshot already contains Russian prompts, preserve that style and add English prompts where useful.
+12. Put generated homework in `les-XX/homework.md`.
 
 ## Style
 
