@@ -89,6 +89,52 @@ Suggested columns:
 | meneer | mister, sir | господин | noun/title | les-02 | polite address |
 | mevrouw | madam, Mrs | госпожа | noun/title | les-02 | polite address |
 
+## Les 3
+
+| Dutch | English | Russian | Type | Lesson | Notes |
+| --- | --- | --- | --- | --- | --- |
+| hebben | to have | иметь | verb | les-03 | main grammar verb; also appeared in les-02 |
+| heb | have, am having | имею | verb form | les-03 | form of `hebben` with `ik`; also in inversion: `heb jij?` |
+| hebt | have | имеешь | verb form | les-03 | form of `hebben` with `jij/je/u` |
+| heeft | has | имеет | verb form | les-03 | form of `hebben` with hij/zij/het/u |
+| hebben (plural form) | have | имеем, имеете, имеют | verb form | les-03 | wij/jullie/zij hebben |
+| wie | who | кто | question word | les-03 | questions |
+| wat | what | что | question word | les-03 | questions |
+| waar | where | где, куда | question word | les-03 | questions |
+| waar vandaan | from where | откуда | question phrase | les-03 | origin |
+| wanneer | when | когда | question word | les-03 | questions |
+| hoe | how | как | question word | les-03 | questions |
+| hoeveel | how many, how much | сколько | question word | les-03 | quantity |
+| welke | which | какой, какая, какие | question word | les-03 | choice |
+| de vraag | question | вопрос | noun | les-03 | grammar topic |
+| de vraagzin | question sentence | вопросительное предложение | noun | les-03 | grammar topic |
+| de familie | family | семья | noun | les-03 | writing topic |
+| de broer | brother | брат | noun | les-03 | family |
+| de zus | sister | сестра | noun | les-03 | family |
+| de opa | grandfather | дедушка | noun | les-03 | family |
+| de oma | grandmother | бабушка | noun | les-03 | family |
+| de oom | uncle | дядя | noun | les-03 | family |
+| de tante | aunt | тетя | noun | les-03 | family |
+| de neef | male cousin, nephew | двоюродный брат, племянник | noun | les-03 | family |
+| het neefje | little nephew, male cousin | племянник, маленький двоюродный брат | noun | les-03 | family |
+| het nichtje | niece, female cousin | племянница, двоюродная сестра | noun | les-03 | family |
+| de zwager | brother-in-law | шурин, деверь, зять | noun | les-03 | in-law family |
+| de schoonmoeder | mother-in-law | теща, свекровь | noun | les-03 | in-law family |
+| de schoondochter | daughter-in-law | невестка, сноха | noun | les-03 | in-law family |
+| de schoonzoon | son-in-law | зять | noun | les-03 | in-law family |
+| de stiefzus | stepsister | сводная сестра | noun | les-03 | stepfamily |
+| de grootvader | grandfather | дедушка | noun | les-03 | family |
+| de overgrootmoeder | great-grandmother | прабабушка | noun | les-03 | family |
+| de auto | car | машина | noun | les-03 | possession example |
+| de hond | dog | собака | noun | les-03 | possession example |
+| veel | much, many | много | quantity | les-03 | `veel huiswerk` |
+| geen | no, not any | нет, никакой | negation | les-03 | `geen hond`, `geen kinderen` |
+| elkaar | each other | друг друга | pronoun | les-03 | speaking prompt |
+| stellen | to ask, to put | задавать, ставить | verb | les-03 | `vragen stellen` |
+| het verhaal | story | история, рассказ | noun | les-03 | writing homework |
+| kort | short | короткий | adjective | les-03 | `een kort verhaal` |
+| minimaal | minimum, at least | минимум | adverb | les-03 | writing requirement |
+
 ## Les 6
 
 | Dutch | English | Russian | Type | Lesson | Notes |

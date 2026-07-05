@@ -13,6 +13,8 @@ Personal Dutch learning repo for turning lesson screenshots into structured note
 │   └── summary.md
 ├── les-02
 │   └── summary.md
+├── les-03
+│   └── summary.md
 └── les-06
     ├── summary.md
     └── homework.md
