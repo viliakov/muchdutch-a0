@@ -135,6 +135,48 @@ Suggested columns:
 | kort | short | короткий | adjective | les-03 | `een kort verhaal` |
 | minimaal | minimum, at least | минимум | adverb | les-03 | writing requirement |
 
+## Les 4
+
+| Dutch | English | Russian | Type | Lesson | Notes |
+| --- | --- | --- | --- | --- | --- |
+| drinken | to drink | пить | verb | les-04 | present tense model verb |
+| drink | drink | пью | verb form | les-04 | ik-form and inversion with jij/je |
+| drinkt | drinks | пьет, пьешь | verb form | les-04 | jij/u/hij/zij/het form |
+| de pauze | break | перерыв | noun | les-04 | small-talk setting; also appeared in les-06 |
+| het kantoor | office | офис | noun | les-04 | dialogue setting |
+| de keuken | kitchen | кухня | noun | les-04 | dialogue setting |
+| de koffie | coffee | кофе | noun | les-04 | drink |
+| de thee | tea | чай | noun | les-04 | drink |
+| de melk | milk | молоко | noun | les-04 | drink/addition |
+| de suiker | sugar | сахар | noun | les-04 | drink/addition |
+| graag | gladly, please | охотно, пожалуйста | adverb | les-04 | polite request: `koffie graag` |
+| alsjeblieft | please, here you are | пожалуйста | phrase | les-04 | informal polite phrase |
+| dank je wel | thank you | спасибо | phrase | les-04 | informal thanks |
+| wil je | do you want | хочешь | phrase | les-04 | request/offer pattern |
+| ik wil graag | I would like | я хотел бы | phrase | les-04 | polite request |
+| met | with | с | preposition | les-04 | `met melk en suiker` |
+| zonder | without | без | preposition | les-04 | `zonder melk` |
+| of | or | или | conjunction | les-04 | `koffie of thee` |
+| voor | for | для | preposition | les-04 | `voor Ton` |
+| zitten | to sit | сидеть | verb | les-04 | dialogue: people sit in the kitchen |
+| nemen | to take | брать | verb | les-04 | drink/choice context |
+| typen | to type | печатать | verb | les-04 | present tense practice |
+| begrijpen | to understand | понимать | verb | les-04 | present tense practice |
+| werken | to work | работать | verb | les-04 | question practice |
+| de zin | sentence | предложение | noun | les-04 | grammar homework |
+| het antwoord | answer | ответ | noun | les-04 | text questions |
+| de tekst | text | текст | noun | les-04 | reading homework; also appeared in les-06 |
+| de nationaliteit | nationality | национальность | noun | les-04 | reading questions |
+| het land | country | страна | noun | les-04 | origin questions |
+| Annabelle | Annabelle | Аннабель | name | les-04 | reading text name |
+| Frans | French | французский язык | language | les-04 | question practice |
+| Italiaans | Italian | итальянский язык | language | les-04 | question practice |
+| Pools | Polish | польский язык | language | les-04 | possible language/country context |
+| dinsdag | Tuesday | вторник | noun | les-04 | question practice |
+| vrijdag | Friday | пятница | noun | les-04 | question practice |
+| om de beurt | in turns | по очереди | phrase | les-04 | speaking task |
+| wisselen van rol | to switch roles | поменяться ролями | phrase | les-04 | speaking task |
+
 ## Les 6
 
 | Dutch | English | Russian | Type | Lesson | Notes |
