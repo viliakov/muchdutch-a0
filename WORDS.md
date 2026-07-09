@@ -296,3 +296,42 @@ Suggested columns:
 | dat | that | то | demonstrative | les-06 | het-word, far away |
 | deze | this, these | этот, эти | demonstrative | les-06 | de-word/plural, nearby |
 | die | that, those | тот, те | demonstrative | les-06 | de-word/plural, far away |
+
+## Les 7
+
+| Dutch | English | Russian | Type | Lesson | Notes |
+| --- | --- | --- | --- | --- | --- |
+| de agenda | agenda, schedule | расписание, повестка | noun | les-07 | topic: daily plans |
+| op kantoor werken | to work at the office | работать в офисе | verb phrase | les-07 | agenda activity |
+| thuis werken | to work at home | работать дома | verb phrase | les-07 | agenda activity |
+| kinderen naar school brengen | to bring children to school | отвезти детей в школу | verb phrase | les-07 | agenda activity |
+| kinderen van school ophalen | to pick children up from school | забрать детей из школы | verb phrase | les-07 | agenda activity |
+| naar de gym gaan | to go to the gym | идти в спортзал | verb phrase | les-07 | agenda activity |
+| boodschappen doen | to do groceries | делать покупки | verb phrase | les-07 | agenda activity |
+| in het park wandelen | to walk in the park | гулять в парке | verb phrase | les-07 | agenda activity |
+| een afspraak hebben | to have an appointment | иметь встречу | verb phrase | les-07 | agenda activity |
+| schoonmaken | to clean | убираться | verb | les-07 | agenda activity |
+| een boek lezen | to read a book | читать книгу | verb phrase | les-07 | agenda activity |
+| naar een film kijken | to watch a film | смотреть фильм | verb phrase | les-07 | agenda activity |
+| nieuws lezen | to read news | читать новости | verb phrase | les-07 | agenda activity |
+| op het internet surfen | to surf the internet | сидеть в интернете | verb phrase | les-07 | agenda activity |
+| komen | to come | приходить | verb | les-07 | present tense review |
+| doen | to do | делать | verb | les-07 | present tense review |
+| reizen | to travel | путешествовать, ехать | verb | les-07 | used with gaan + infinitief |
+| sporten | to exercise, play sports | заниматься спортом | verb | les-07 | used with gaan + infinitief |
+| repareren | to repair | ремонтировать | verb | les-07 | agenda/home task |
+| helpen | to help | помогать | verb | les-07 | agenda/home task |
+| brengen | to bring | приносить, отвозить | verb | les-07 | phrase verb |
+| ophalen | to pick up | забирать | verb | les-07 | separable verb |
+| altijd | always | всегда | frequency adverb | les-07 | frequency |
+| vaak | often | часто | frequency adverb | les-07 | frequency |
+| meestal | usually | обычно | frequency adverb | les-07 | frequency |
+| soms | sometimes | иногда | frequency adverb | les-07 | frequency |
+| niet zo vaak | not so often | не так часто | frequency phrase | les-07 | frequency |
+| nooit | never | никогда | frequency adverb | les-07 | frequency |
+| vanavond | tonight | сегодня вечером | time expression | les-07 | inversion practice |
+| straks | later, soon | позже, скоро | time expression | les-07 | agenda planning |
+| na het werk | after work | после работы | phrase | les-07 | time expression |
+| in de woonkamer | in the living room | в гостиной | place phrase | les-07 | inversion practice |
+| druk | busy | занятый, насыщенный | adjective | les-07 | een drukke dag |
+| de afspraak | appointment | встреча | noun | les-07 | een afspraak met vrienden |
