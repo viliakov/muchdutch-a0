@@ -335,3 +335,51 @@ Suggested columns:
 | in de woonkamer | in the living room | в гостиной | place phrase | les-07 | inversion practice |
 | druk | busy | занятый, насыщенный | adjective | les-07 | een drukke dag |
 | de afspraak | appointment | встреча | noun | les-07 | een afspraak met vrienden |
+
+## Les 8
+
+| Dutch | English | Russian | Type | Lesson | Notes |
+| --- | --- | --- | --- | --- | --- |
+| er is | there is | есть, имеется | phrase | les-08 | singular existence |
+| er zijn | there are | есть, имеются | phrase | les-08 | plural existence |
+| geen | no, not any | нет, никакой | negation | les-08 | with nouns |
+| dit is | this is | это | phrase | les-08 | presenting singular nearby |
+| dat is | that is | то, это там | phrase | les-08 | presenting singular far away |
+| dit zijn | these are | это, эти | phrase | les-08 | presenting plural nearby |
+| dat zijn | those are | то, те | phrase | les-08 | presenting plural far away |
+| het huis | house | дом | noun | les-08 | house topic |
+| de flat | apartment building, flat | квартира, многоквартирный дом | noun | les-08 | housing |
+| de woning | home, dwelling | жилье | noun | les-08 | housing |
+| het dak | roof | крыша | noun | les-08 | house part |
+| de deur | door | дверь | noun | les-08 | house part |
+| het raam | window | окно | noun | les-08 | house part |
+| de muur | wall | стена | noun | les-08 | house part |
+| de garage | garage | гараж | noun | les-08 | house part |
+| de tuin | garden | сад | noun | les-08 | house part |
+| het balkon | balcony | балкон | noun | les-08 | house part |
+| de keuken | kitchen | кухня | noun | les-08 | room |
+| de woonkamer | living room | гостиная | noun | les-08 | room |
+| de slaapkamer | bedroom | спальня | noun | les-08 | room |
+| de badkamer | bathroom | ванная | noun | les-08 | room |
+| de wc | toilet | туалет | noun | les-08 | room |
+| de gang | hallway | коридор | noun | les-08 | room/place |
+| de zolder | attic | чердак | noun | les-08 | room/place |
+| de kamer | room | комната | noun | les-08 | room |
+| de tafel | table | стол | noun | les-08 | furniture |
+| de stoel | chair | стул | noun | les-08 | furniture |
+| de stoelen | chairs | стулья | noun | les-08 | plural |
+| het bed | bed | кровать | noun | les-08 | furniture |
+| de bank | couch | диван | noun | les-08 | furniture |
+| de lamp | lamp | лампа | noun | les-08 | object |
+| de televisie | television | телевизор | noun | les-08 | object |
+| de douche | shower | душ | noun | les-08 | bathroom |
+| het bad | bath | ванна | noun | les-08 | bathroom |
+| boven | upstairs, above | наверху | adverb | les-08 | location |
+| beneden | downstairs, below | внизу | adverb | les-08 | location |
+| de buurman | male neighbor | сосед | noun | les-08 | listening vocabulary |
+| de buurvrouw | female neighbor | соседка | noun | les-08 | listening vocabulary |
+| de buren | neighbors | соседи | noun | les-08 | listening vocabulary |
+| de straat | street | улица | noun | les-08 | listening vocabulary |
+| voorstellen | to introduce | представлять | verb | les-08 | listening vocabulary |
+| alleen | alone | один, одна | adverb | les-08 | listening vocabulary |
+| gezellig | cozy, pleasant | уютный, приятный | adjective | les-08 | common Dutch word |
