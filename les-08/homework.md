@@ -457,3 +457,368 @@ Extra: neem jezelf op en markeer 5 moeilijke woorden.
 13. Ik schrijf met een pen.
 14. De docent leest de tekst.
 15. Ali schrijft het woord op papier.
+
+---
+
+# Les 8 - Extra huiswerk (Ronde 2)
+
+Doel: dezelfde grammatica (`er is / er zijn`, `dit/dat`, tegenwoordige tijd) oefenen met ander woordmateriaal: meubels, buren, en woorden uit eerdere lessen.
+
+## 1. Tegenwoordige tijd: vul de goede vorm in
+
+1. Zij ____ een cadeau aan haar oma. `(geven)`
+2. ____ jij het antwoord? `(weten)`
+3. De buurman ____ altijd veel. `(vragen)`
+4. Wij ____ samen naar de gym. `(lopen)`
+5. Mijn opa ____ een boek. `(kiezen)`
+6. De kinderen ____ in het park. `(spelen)`
+7. Ik ____ mijn buurvrouw voor. `(voorstellen)`
+8. Jullie ____ elke dag koffie. `(drinken)`
+9. Zij ____ vaak alleen thuis. `(zitten)`
+10. De docent ____ het niet. `(begrijpen)`
+
+## 2. Kies: `er is` of `er zijn`
+
+1. ____ een bank in de woonkamer.
+2. ____ een lamp naast het bed.
+3. ____ geen televisie in de slaapkamer.
+4. ____ twee buren naast ons huis.
+5. ____ een douche en een bad in de badkamer.
+6. ____ geen mensen op straat.
+7. ____ veel buren in deze straat.
+8. ____ een gezellige sfeer in huis.
+
+## 3. Maak zinnen met `er is / er zijn`
+
+Voorbeeld: `een bank / in de woonkamer` -> `Er is een bank in de woonkamer.`
+
+1. een lamp / op de tafel
+2. een televisie / in de woonkamer
+3. een douche / naast het bad
+4. geen buren / aan de overkant
+5. drie buren / in de straat
+6. geen lamp / in de gang
+7. een bad / in de badkamer
+8. veel gezelligheid / bij ons thuis
+
+## 4. Negatief met `geen`
+
+Voorbeeld: `Er is een televisie.` -> `Er is geen televisie.`
+
+1. Er is een bank.
+2. Er zijn buren aan de overkant.
+3. Er is een douche.
+4. Er zijn lampen in de kamer.
+5. Er is een bad.
+6. Er zijn mensen op straat.
+
+## 5. Dit is / dat is / dit zijn / dat zijn
+
+1. ____ mijn broer. `(dichtbij, singular)`
+2. ____ mijn opa en oma. `(dichtbij, plural)`
+3. ____ mijn buurman. `(ver weg, singular)`
+4. ____ onze oom en tante. `(ver weg, plural)`
+5. ____ mijn nichtje. `(dichtbij, singular)`
+6. ____ onze buren. `(dichtbij, plural)`
+7. ____ haar neef. `(ver weg, singular)`
+8. ____ jouw vrienden. `(ver weg, plural)`
+
+## 6. Woordenschat: in en om het huis
+
+Vertaal naar het Nederlands. Schrijf het artikel erbij waar nodig.
+
+1. couch
+2. lamp
+3. television
+4. shower
+5. bath
+6. neighbor (male)
+7. neighbor (female)
+8. neighbors
+9. street
+10. alone
+11. at home
+12. cozy
+
+## 7. Waar is het?
+
+Kies uit: `in de woonkamer`, `in de badkamer`, `op straat`, `naast het bed`, `in de slaapkamer`.
+
+1. De bank staat ____.
+2. De douche is ____.
+3. De lamp staat ____.
+4. De buren wonen ____.
+5. Het bad is ____.
+6. De televisie staat ____.
+
+## 8. Lees de tekst en antwoord
+
+```text
+Hallo, ik ben Peter.
+Dit zijn mijn buren: Sanne en Tom.
+Zij wonen naast ons in de straat.
+Wij zijn niet alleen, want we hebben gezellige buren.
+Sanne heeft een grote bank in de woonkamer.
+Tom heeft geen televisie, maar hij heeft veel boeken.
+Soms drinken wij samen koffie thuis.
+```
+
+Schrijf `waar` of `niet waar`.
+
+1. Sanne en Tom zijn de buren van Peter.
+2. Peter is altijd alleen.
+3. Sanne heeft een bank in de woonkamer.
+4. Tom heeft een televisie.
+5. Tom heeft veel boeken.
+6. Zij drinken nooit koffie samen.
+
+## 9. Beantwoord de vragen
+
+1. Wie zijn de buren van Peter?
+2. Heeft Sanne een bank?
+3. Heeft Tom een televisie?
+4. Wat drinken Peter en zijn buren samen?
+
+## 10. Getallen
+
+Schrijf het getal als woord.
+
+1. 219
+2. 463
+3. 528
+4. 671
+5. 734
+6. 806
+7. 942
+8. 157
+9. 388
+10. 512
+11. 649
+12. 725
+13. 863
+14. 971
+15. 296
+
+## 11. Getallen: vul in
+
+1. tweehonderdachttien, tweehonderdnegentien, ____
+2. vierhonderdtweeënzestig, ____, vierhonderdvierenzestig
+3. vijfhonderdzevenentwintig, ____, vijfhonderdnegenentwintig
+4. zeshonderdzeventig, ____, zeshonderdtweeënzeventig
+5. achthonderdvijf, achthonderdzes, ____
+6. negenhonderdeenenveertig, ____, negenhonderddrieënveertig
+
+## 12. English -> Dutch
+
+1. There is a couch in the living room.
+2. There is no television in the bedroom.
+3. There are three neighbors in our street.
+4. There is a shower and a bath in the bathroom.
+5. This is my brother.
+6. This is my grandfather and my grandmother.
+7. That is our neighbor (male).
+8. Those are our friends.
+9. We are not alone, we have cozy neighbors.
+10. My grandfather chooses a book.
+11. Do you know the answer?
+12. My neighbor always asks a lot.
+13. We walk together to the gym.
+14. Sometimes we drink coffee together at home.
+15. The children play in the park.
+
+## 13. Russian -> Dutch
+
+1. В гостиной есть диван.
+2. В спальне нет телевизора.
+3. На нашей улице три соседа.
+4. В ванной есть душ и ванна.
+5. Это мой брат.
+6. Это мой дедушка и моя бабушка.
+7. То наш сосед.
+8. То наши друзья.
+9. Мы не одни, у нас уютные соседи.
+10. Мой дедушка выбирает книгу.
+11. Ты знаешь ответ?
+12. Мой сосед всегда много спрашивает.
+13. Мы идем вместе в спортзал.
+14. Иногда мы пьем кофе вместе дома.
+15. Дети играют в парке.
+
+## 14. Maak zinnen met oude woorden
+
+Gebruik woorden uit eerdere lessen.
+
+1. mijn opa / kiezen / een boek
+2. de buurvrouw / geven / koffie
+3. wij / lopen / naar de gym
+4. mijn broer / weten / het antwoord niet
+5. de kinderen / vragen / iets
+6. mijn oma / wonen / in Utrecht
+7. Julia / voorstellen / haar buurman
+8. wij / zitten / gezellig thuis
+
+## 15. Schrijven
+
+Vertel over je buren en je huis. Schrijf 10 zinnen.
+
+Gebruik minimaal:
+
+- 2 zinnen met `er is / er zijn`
+- 2 zinnen met `geen`
+- 1 zin met `dit is` of `dit zijn`
+- 1 zin met `boven` of `beneden`
+- het woord `gezellig` of `alleen`
+
+## 16. Uitspraak
+
+Lees hardop.
+
+1. `kijken`, `kakken`, `koken`, `kikken`, `kieken`, `keken`, `keuken`, `kuiken`
+2. `den`, `deen`, `daan`, `duin`
+3. `net`, `neet`, `niet`, `nat`, `naad`, `noot`, `neut`
+
+Extra: neem jezelf op en markeer 5 moeilijke woorden.
+
+## Antwoorden (Ronde 2)
+
+### 1
+
+1. geeft
+2. Weet
+3. vraagt
+4. lopen
+5. kiest
+6. spelen
+7. stel ... voor
+8. drinken
+9. zitten
+10. begrijpt
+
+### 2
+
+1. Er is
+2. Er is
+3. Er is
+4. Er zijn
+5. Er is
+6. Er zijn
+7. Er zijn
+8. Er is
+
+### 3
+
+1. Er is een lamp op de tafel.
+2. Er is een televisie in de woonkamer.
+3. Er is een douche naast het bad.
+4. Er zijn geen buren aan de overkant.
+5. Er zijn drie buren in de straat.
+6. Er is geen lamp in de gang.
+7. Er is een bad in de badkamer.
+8. Er is veel gezelligheid bij ons thuis.
+
+### 4
+
+1. Er is geen bank.
+2. Er zijn geen buren aan de overkant.
+3. Er is geen douche.
+4. Er zijn geen lampen in de kamer.
+5. Er is geen bad.
+6. Er zijn geen mensen op straat.
+
+### 5
+
+1. Dit is
+2. Dit zijn
+3. Dat is
+4. Dat zijn
+5. Dit is
+6. Dit zijn
+7. Dat is
+8. Dat zijn
+
+### 6
+
+1. de bank
+2. de lamp
+3. de televisie
+4. de douche
+5. het bad
+6. de buurman
+7. de buurvrouw
+8. de buren
+9. de straat
+10. alleen
+11. thuis
+12. gezellig
+
+### 8
+
+1. waar
+2. niet waar
+3. waar
+4. niet waar
+5. waar
+6. niet waar
+
+### 10
+
+1. tweehonderdnegentien
+2. vierhonderddrieënzestig
+3. vijfhonderdachtentwintig
+4. zeshonderdeenenzeventig
+5. zevenhonderdvierendertig
+6. achthonderdzes
+7. negenhonderdtweeënveertig
+8. honderdzevenenvijftig
+9. driehonderdachtentachtig
+10. vijfhonderdtwaalf
+11. zeshonderdnegenenveertig
+12. zevenhonderdvijfentwintig
+13. achthonderddrieënzestig
+14. negenhonderdeenenzeventig
+15. tweehonderdzesennegentig
+
+### 11
+
+1. tweehonderdtwintig
+2. vierhonderddrieënzestig
+3. vijfhonderdachtentwintig
+4. zeshonderdeenenzeventig
+5. achthonderdzeven
+6. negenhonderdtweeënveertig
+
+### 12
+
+1. Er is een bank in de woonkamer.
+2. Er is geen televisie in de slaapkamer.
+3. Er zijn drie buren in onze straat.
+4. Er is een douche en een bad in de badkamer.
+5. Dit is mijn broer.
+6. Dit zijn mijn opa en mijn oma.
+7. Dat is onze buurman.
+8. Dat zijn onze vrienden.
+9. Wij zijn niet alleen, wij hebben gezellige buren.
+10. Mijn opa kiest een boek.
+11. Weet jij het antwoord?
+12. Mijn buurman vraagt altijd veel.
+13. Wij lopen samen naar de gym.
+14. Soms drinken wij samen koffie thuis.
+15. De kinderen spelen in het park.
+
+### 13
+
+1. Er is een bank in de woonkamer.
+2. Er is geen televisie in de slaapkamer.
+3. Er zijn drie buren in onze straat.
+4. Er is een douche en een bad in de badkamer.
+5. Dit is mijn broer.
+6. Dit zijn mijn opa en mijn oma.
+7. Dat is onze buurman.
+8. Dat zijn onze vrienden.
+9. Wij zijn niet alleen, wij hebben gezellige buren.
+10. Mijn opa kiest een boek.
+11. Weet jij het antwoord?
+12. Mijn buurman vraagt altijd veel.
+13. Wij lopen samen naar de gym.
+14. Soms drinken wij samen koffie thuis.
+15. De kinderen spelen in het park.

@@ -347,6 +347,11 @@ Suggested columns:
 | dat is | that is | то, это там | phrase | les-08 | presenting singular far away |
 | dit zijn | these are | это, эти | phrase | les-08 | presenting plural nearby |
 | dat zijn | those are | то, те | phrase | les-08 | presenting plural far away |
+| kiezen | to choose | выбирать | verb | les-08 | ik kies, jij/hij kiest |
+| geven | to give | давать | verb | les-08 | ik geef, jij/hij geeft |
+| weten | to know | знать | verb | les-08 | irregular: ik/jij/hij weet, wij/jullie/zij weten |
+| vragen | to ask | спрашивать | verb | les-08 | ik vraag, jij/hij vraagt |
+| lopen | to walk | идти, ходить пешком | verb | les-08 | ik loop, jij/hij loopt |
 | het huis | house | дом | noun | les-08 | house topic |
 | de flat | apartment building, flat | квартира, многоквартирный дом | noun | les-08 | housing |
 | de woning | home, dwelling | жилье | noun | les-08 | housing |
