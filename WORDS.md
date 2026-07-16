@@ -388,3 +388,59 @@ Suggested columns:
 | voorstellen | to introduce | представлять | verb | les-08 | listening vocabulary |
 | alleen | alone | один, одна | adverb | les-08 | listening vocabulary |
 | gezellig | cozy, pleasant | уютный, приятный | adjective | les-08 | common Dutch word |
+
+## Les 9
+
+| Dutch | English | Russian | Type | Lesson | Notes |
+| --- | --- | --- | --- | --- | --- |
+| willen | to want | хотеть | verb | les-09 | modal verb; sing. `wil`, plural `willen` |
+| wil | want, wants | хочу, хочешь, хочет | verb form | les-09 | singular form of `willen` (ik/jij/hij/zij/u) |
+| wilt | want | хотите, хочешь | verb form | les-09 | alternative form with `jij`/`u` |
+| willen (plural form) | want | хотим, хотите, хотят | verb form | les-09 | wij/jullie/zij willen |
+| huren | to rent | снимать, арендовать | verb | les-09 | housing |
+| kopen | to buy | покупать | verb | les-09 | housing |
+| zoeken | to look for, search | искать | verb | les-09 | `een huis zoeken` |
+| te huur | for rent | сдается в аренду | phrase | les-09 | advertisement |
+| de huur | rent | аренда, арендная плата | noun | les-09 | housing cost |
+| de prijs | price | цена | noun | les-09 | housing cost |
+| per maand | per month | в месяц | phrase | les-09 | rent price |
+| het aantal | number, amount | количество | noun | les-09 | `aantal kamers` |
+| de plaats | place, town | место, населенный пункт | noun | les-09 | advertisement field |
+| nu | now | сейчас | adverb | les-09 | time expression |
+| zonder | without | без | preposition | les-09 | also appeared in les-04 |
+| druk | busy | шумный, оживленный | adjective | les-09 | `een drukke stad`; also in les-07 |
+| rustig | quiet, calm | тихий, спокойный | adjective | les-09 | `een rustig dorp` |
+| het huis | house | дом | noun | les-09 | housing; also in les-08 |
+| de flat | flat, apartment building | квартира, многоэтажка | noun | les-09 | housing; also in les-08 |
+| de woning | home, dwelling | жилье | noun | les-09 | housing; also in les-08 |
+| het appartement | apartment | квартира | noun | les-09 | woningtype |
+| de bungalow | bungalow | бунгало | noun | les-09 | woningtype |
+| het hoekhuis | corner house | угловой дом | noun | les-09 | woningtype |
+| het huurhuis | rental house | съемный дом | noun | les-09 | woningtype |
+| het koophuis | owner-occupied house | дом в собственности | noun | les-09 | woningtype |
+| het rijtjeshuis | terraced house, row house | дом в ряду, таунхаус | noun | les-09 | woningtype |
+| de twee-onder-een-kapwoning | semi-detached house | дом на две семьи | noun | les-09 | woningtype |
+| het vrijstaand huis | detached house | отдельно стоящий дом | noun | les-09 | woningtype |
+| de villa | villa | вилла | noun | les-09 | woningtype |
+| de boerderij | farm, farmhouse | ферма, хутор | noun | les-09 | woningtype |
+| de verdieping | floor, storey | этаж | noun | les-09 | `de eerste verdieping` |
+| de lift | lift, elevator | лифт | noun | les-09 | building |
+| de trap | stairs | лестница | noun | les-09 | building |
+| de stad | city | город | noun | les-09 | place |
+| het dorp | village | деревня | noun | les-09 | place |
+| de buurt | neighborhood | район | noun | les-09 | place |
+| het park | park | парк | noun | les-09 | place |
+| de winkel | shop, store | магазин | noun | les-09 | plural: de winkels |
+| het internet | internet | интернет | noun | les-09 | `op het internet` |
+| hoog | high, tall | высокий | adjective | les-09 | building |
+| weinig | little, few | мало | quantity | les-09 | opposite of `veel` |
+| aardig | nice, kind | приятный, добрый | adjective | les-09 | describing people |
+| de kom | bowl | миска | noun | les-09 | woordenschat |
+| het koekje | cookie, biscuit | печенье | noun | les-09 | diminutive; also in les-08 |
+| het kopje | cup | чашка | noun | les-09 | diminutive; also in les-08 |
+| een beetje | a little | немного | phrase | les-09 | quantity |
+| het verkleinwoord | diminutive | уменьшительное слово | noun | les-09 | grammar term |
+| het handje | little hand | ручка (кисть) | noun | les-09 | diminutive example |
+| het huisje | little house | домик | noun | les-09 | diminutive example |
+| het jasje | little jacket | пиджачок | noun | les-09 | diminutive example |
+| het glaasje | little glass | стаканчик | noun | les-09 | diminutive example |
