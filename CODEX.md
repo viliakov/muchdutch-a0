@@ -14,7 +14,8 @@ Turn each lesson screenshot or Miro board into:
 
 - Use lesson folders named `les-XX`, for example `les-01`, `les-06`.
 - Store lesson summaries in `les-XX/summary.md`.
-- Store generated homework in `les-XX/homework.md`.
+- Store the lesson's own homework (the exercises from the screenshot) in `les-XX/homework.md`.
+- Store extra practice tasks that you generate in `les-XX/homework_extra.md`.
 - Keep vocabulary in the single cumulative file `WORDS.md`.
 - Do not create separate per-lesson word-bank files unless the user explicitly asks.
 
@@ -102,11 +103,14 @@ When adding to `WORDS.md`:
 
 When the user asks for homework:
 
-1. Use the current lesson summary as the main source.
-2. Use `WORDS.md` to reuse words from previous lessons.
+1. Produce two files:
+   - `les-XX/homework.md`: the lesson's own homework, reproduced from the screenshot's `huiswerk` section (same tasks and style). This mirrors what the lesson already assigns.
+   - `les-XX/homework_extra.md`: additional practice tasks that you generate to reinforce the lesson.
+2. Use the current lesson summary as the main source.
 3. Prioritize the grammar from the current lesson.
-4. Generate a substantial homework set by default. Use `les-06/homework.md` as the baseline size, then make new homework about twice as large unless the user asks for a shorter set.
-5. Include a balanced set of exercises:
+4. For the extra homework, draw on the whole cumulative `WORDS.md`, not only the current lesson. Every extra task should mix current-lesson grammar and vocabulary with words from earlier lessons so the user keeps revising. Do not build the extra tasks exclusively from current-lesson words.
+5. Generate a substantial extra homework set by default. Use `les-06/homework.md` as the baseline size, then make `homework_extra.md` about twice as large unless the user asks for a shorter set.
+6. Include a balanced set of exercises in `homework_extra.md`:
    - recognition exercises,
    - fill-in-the-blank grammar,
    - English-to-Dutch translation,
@@ -115,15 +119,15 @@ When the user asks for homework:
    - speaking prompts,
    - pronunciation practice when relevant,
    - an answer key.
-6. Include at least two translation sections when enough vocabulary is available:
+7. Include at least two translation sections when enough vocabulary is available:
    - one section translating from English to Dutch,
    - one section translating from Russian to Dutch, because Russian is the user's native language.
-7. Make translation sections large enough to be useful: usually 10-15 sentences for English-to-Dutch and 10-15 sentences for Russian-to-Dutch.
-8. Keep the level appropriate for A0/A1 beginners.
-9. Use simple sentences and familiar vocabulary.
-10. Prefer sentences that combine the current lesson grammar with older vocabulary from `WORDS.md`.
-11. If a screenshot already contains Russian prompts, preserve that style and add English prompts where useful.
-12. Put generated homework in `les-XX/homework.md`.
+8. The English-to-Dutch and Russian-to-Dutch sections must use different sentences. Never reuse the same sentences (or a straight translation of them) across the two sections; each section gets its own distinct set so the two answer keys never match.
+9. Make translation sections large enough to be useful: usually 10-15 sentences for English-to-Dutch and 10-15 sentences for Russian-to-Dutch.
+10. Keep the level appropriate for A0/A1 beginners.
+11. Use simple sentences and familiar vocabulary.
+12. Prefer sentences that combine the current lesson grammar with older vocabulary from `WORDS.md`.
+13. If a screenshot already contains Russian prompts, preserve that style and add English prompts where useful.
 
 ## Style
 
