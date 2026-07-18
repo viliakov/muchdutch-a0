@@ -444,3 +444,54 @@ Suggested columns:
 | het huisje | little house | домик | noun | les-09 | diminutive example |
 | het jasje | little jacket | пиджачок | noun | les-09 | diminutive example |
 | het glaasje | little glass | стаканчик | noun | les-09 | diminutive example |
+
+## Les 10
+
+| Dutch | English | Russian | Type | Lesson | Notes |
+| --- | --- | --- | --- | --- | --- |
+| moeten | must, to have to | надо, должен | verb | les-10 | modal; sing. `moet`, plural `moeten` |
+| moet | must, has to | надо, должен | verb form | les-10 | singular form of `moeten` |
+| moeten (plural form) | must, have to | должны | verb form | les-10 | wij/jullie/zij moeten |
+| hoeven | to need to | быть нужным | verb | les-10 | negative of `moeten`: `hoeft ... niet` |
+| hoeft niet | does not have to | не обязательно, не нужно | phrase | les-10 | `Nee, dat hoeft niet.` |
+| en | and | и, а | conjunction | les-10 | straight word order |
+| want | because, for | потому что | conjunction | les-10 | straight word order |
+| maar | but | но | conjunction | les-10 | straight word order |
+| dus | so, therefore | поэтому | conjunction | les-10 | straight word order |
+| of | or | или | conjunction | les-10 | also appeared in les-04 |
+| opstaan | to get up | вставать | verb | les-10 | separable verb |
+| opruimen | to tidy up, clean up | убирать | verb | les-10 | separable verb; `de kamer opruimen` |
+| vertrekken | to leave, depart | уходить, отправляться | verb | les-10 | `om acht uur vertrekken` |
+| verhuizen | to move (house) | переезжать | verb | les-10 | housing |
+| delen | to share | делить, делиться | verb | les-10 | `we delen een tuin` |
+| betalen | to pay | платить | verb | les-10 | `huur betalen` |
+| meenemen | to take along | брать с собой | verb | les-10 | separable verb |
+| invullen | to fill in | заполнять | verb | les-10 | `een formulier invullen` |
+| poetsen | to brush, to polish | чистить | verb | les-10 | `tanden poetsen` |
+| koken | to cook | готовить | verb | les-10 | in de keuken |
+| zetten | to put, to place | ставить | verb | les-10 | `de auto/fiets zetten` |
+| pakken | to take, to grab | брать, хватать | verb | les-10 | `de sleutel pakken` |
+| vinden | to find | находить | verb | les-10 | `de sleutel niet vinden` |
+| vergeten | to forget | забывать | verb | les-10 | `de sleutel vergeten` |
+| kunnen | can, to be able to | мочь | verb | les-10 | `ik kan niet werken` |
+| lachen | to laugh | смеяться | verb | les-10 | reading text |
+| liggen | to lie, to be located | лежать | verb | les-10 | `de sleutel ligt binnen` |
+| de sleutel | key | ключ | noun | les-10 | keys and doors |
+| op slot | locked | на замке | phrase | les-10 | `de deur is op slot` |
+| het formulier | form | бланк, анкета | noun | les-10 | `formulier invullen` |
+| de medicijnen | medicine, medication | лекарства | noun | les-10 | `medicijnen nemen` |
+| de bibliotheek | library | библиотека | noun | les-10 | place |
+| de file | traffic jam | пробка | noun | les-10 | `in de file staan` |
+| de meubels | furniture | мебель | noun | les-10 | plural; writing task |
+| de bijkeuken | utility room, scullery | кладовка, подсобка | noun | les-10 | room/place |
+| de schuur | shed | сарай | noun | les-10 | room/place |
+| de kast | cupboard, wardrobe | шкаф | noun | les-10 | furniture |
+| het bureau | desk | письменный стол | noun | les-10 | furniture |
+| de spiegel | mirror | зеркало | noun | les-10 | furniture |
+| de wasmachine | washing machine | стиральная машина | noun | les-10 | appliance |
+| de koelkast | fridge | холодильник | noun | les-10 | appliance |
+| vroeg | early | рано | adverb/adjective | les-10 | `vroeg opstaan` |
+| ziek | sick, ill | больной | adjective | les-10 | `ik ben ziek` |
+| kapot | broken | сломанный | adjective | les-10 | `de auto is kapot` |
+| te laat | too late | слишком поздно | phrase | les-10 | `te laat op mijn werk` |
+| hoofdpijn | headache | головная боль | noun | les-10 | `ik heb hoofdpijn` |
