@@ -495,3 +495,83 @@ Suggested columns:
 | kapot | broken | сломанный | adjective | les-10 | `de auto is kapot` |
 | te laat | too late | слишком поздно | phrase | les-10 | `te laat op mijn werk` |
 | hoofdpijn | headache | головная боль | noun | les-10 | `ik heb hoofdpijn` |
+
+## Les 11
+
+| Dutch | English | Russian | Type | Lesson | Notes |
+| --- | --- | --- | --- | --- | --- |
+| kunnen | can, to be able to | мочь, уметь | verb | les-11 | modal; sing. `kan`, jij/u also `kunt`, plural `kunnen` |
+| kan | can | могу, можешь, может | verb form | les-11 | singular form of `kunnen` |
+| kunt | can | можешь, можете | verb form | les-11 | alternative form with `jij`/`u` |
+| kunnen (plural form) | can | можем, можете, могут | verb form | les-11 | wij/jullie/zij kunnen |
+| autorijden | to drive (a car) | водить машину | verb | les-11 | `Ik kan autorijden.` |
+| passen | to fit, to try on | подходить, примерять | verb | les-11 | `de trui past` |
+| halen | to fetch, to get | забирать, доставать | verb | les-11 | `medicijnen halen` |
+| eerste | first | первый | ordinal | les-11 | 1e; also in les-05 |
+| tweede | second | второй | ordinal | les-11 | 2e |
+| derde | third | третий | ordinal | les-11 | 3e |
+| vierde | fourth | четвертый | ordinal | les-11 | 4e |
+| vijfde | fifth | пятый | ordinal | les-11 | 5e |
+| zesde | sixth | шестой | ordinal | les-11 | 6e |
+| zevende | seventh | седьмой | ordinal | les-11 | 7e |
+| achtste | eighth | восьмой | ordinal | les-11 | 8e |
+| negende | ninth | девятый | ordinal | les-11 | 9e |
+| tiende | tenth | десятый | ordinal | les-11 | 10e |
+| elfde | eleventh | одиннадцатый | ordinal | les-11 | 11e |
+| twaalfde | twelfth | двенадцатый | ordinal | les-11 | 12e |
+| twintigste | twentieth | двадцатый | ordinal | les-11 | 20e; `-ste` from 20 up |
+| eenentwintigste | twenty-first | двадцать первый | ordinal | les-11 | 21e |
+| dertigste | thirtieth | тридцатый | ordinal | les-11 | 30e |
+| honderdste | hundredth | сотый | ordinal | les-11 | 100e |
+| duizendste | thousandth | тысячный | ordinal | les-11 | 1000e |
+| voor | in front of | перед | preposition | les-11 | place; also "for" in les-04 |
+| achter | behind | за, позади | preposition | les-11 | place |
+| boven | above | над | preposition | les-11 | place; also "upstairs" in les-08 |
+| onder | under, below | под | preposition | les-11 | place |
+| op | on | на | preposition | les-11 | place |
+| tussen | between | между | preposition | les-11 | place |
+| naast | next to | рядом с | preposition | les-11 | place |
+| bij | by, near | у, около | preposition | les-11 | place |
+| tegen | against | у, к (вплотную) | preposition | les-11 | place |
+| tegenover | opposite | напротив | preposition | les-11 | place |
+| rond | around | вокруг | preposition | les-11 | place; = `om` |
+| om | around | вокруг | preposition | les-11 | place; = `rond` |
+| aan | on, at (hanging) | на (висит на) | preposition | les-11 | `aan de muur` |
+| de salontafel | coffee table | журнальный столик | noun | les-11 | furniture |
+| de eettafel | dining table | обеденный стол | noun | les-11 | furniture |
+| de boekenkast | bookcase | книжный шкаф | noun | les-11 | furniture |
+| de schemerlamp | floor lamp | торшер | noun | les-11 | furniture |
+| de lichtknop | light switch | выключатель | noun | les-11 | object |
+| de klok | clock | часы | noun | les-11 | object |
+| het schilderij | painting | картина | noun | les-11 | object |
+| het kleed | rug, carpet | ковер | noun | les-11 | object |
+| de mobiele telefoon | mobile phone | мобильный телефон | noun | les-11 | object |
+| de trui | sweater | свитер | noun | les-11 | clothing |
+| de tram | tram | трамвай | noun | les-11 | transport |
+| de kat | cat | кошка | noun | les-11 | animal |
+| het varken | pig | свинья | noun | les-11 | animal |
+| de hamster | hamster | хомяк | noun | les-11 | animal |
+| de schildpad | tortoise, turtle | черепаха | noun | les-11 | animal |
+| het konijn | rabbit | кролик | noun | les-11 | animal |
+| de slang | snake | змея | noun | les-11 | animal |
+| de cavia | guinea pig | морская свинка | noun | les-11 | animal |
+| energiek | energetic | энергичный | adjective | les-11 | mood/character |
+| verdrietig | sad | грустный | adjective | les-11 | mood/character |
+| vrolijk | cheerful | веселый | adjective | les-11 | mood/character |
+| moe | tired | усталый | adjective | les-11 | mood/character |
+| slaperig | sleepy | сонный | adjective | les-11 | mood/character |
+| boos | angry | злой | adjective | les-11 | mood/character |
+| slank | slim | стройный | adjective | les-11 | describing people |
+| bang | afraid, scared | испуганный | adjective | les-11 | mood/character |
+| de nieuwbouwwijk | new-build district | новый жилой район | noun | les-11 | neighborhood |
+| de buitenwijk | suburb | пригород, окраина | noun | les-11 | neighborhood |
+| het centrum | center, downtown | центр | noun | les-11 | neighborhood |
+| het platteland | countryside | сельская местность | noun | les-11 | `op het platteland` |
+| de rand | edge | край | noun | les-11 | `aan de rand van de stad` |
+| het bos | forest | лес | noun | les-11 | place |
+| kindvriendelijk | child-friendly | подходящий для детей | adjective | les-11 | describing a neighborhood |
+| dat is lang geleden | that was long ago | давно не виделись | phrase | les-11 | listening |
+| zullen wij afspreken | shall we make an appointment | давай договоримся о встрече | phrase | les-11 | listening |
+| doe de groeten | say hi (to them) | передавай привет | phrase | les-11 | listening |
+| bezoeken | to visit | посещать, навещать | verb | les-11 | listening |
+| inderdaad | indeed | действительно | adverb | les-11 | listening |

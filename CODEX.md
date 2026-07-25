@@ -110,15 +110,16 @@ When the user asks for homework:
 3. Prioritize the grammar from the current lesson.
 4. For the extra homework, draw on the whole cumulative `WORDS.md`, not only the current lesson. Every extra task should mix current-lesson grammar and vocabulary with words from earlier lessons so the user keeps revising. Do not build the extra tasks exclusively from current-lesson words.
 5. Generate a substantial extra homework set by default. Use `les-06/homework.md` as the baseline size, then make `homework_extra.md` about twice as large unless the user asks for a shorter set.
-6. Include a balanced set of exercises in `homework_extra.md`:
-   - recognition exercises,
-   - fill-in-the-blank grammar,
-   - English-to-Dutch translation,
+6. Always use the same set of task types as `les-10/homework_extra2.md`, in this order:
+   - fill-in-the-blank grammar for the current lesson's main grammar,
+   - `de`-woord or `het`-woord recognition,
    - Russian-to-Dutch translation,
-   - short sentence writing,
-   - speaking prompts,
-   - pronunciation practice when relevant,
-   - an answer key.
+   - English-to-Dutch translation,
+   - ontkennende zinnen (`niet` / `geen`),
+   - vragen (yes/no questions plus questions with a question word),
+   - an answer key for every section.
+   Add or adapt a grammar fill-in section to match the current lesson's grammar, but keep the overall structure above.
+   Never generate tasks that cannot have a fixed answer key (e.g. `Spreken`, `Vertellen`, free writing / describe-a-picture prompts). Every task must have answers in the answer key.
 7. Include at least two translation sections when enough vocabulary is available:
    - one section translating from English to Dutch,
    - one section translating from Russian to Dutch, because Russian is the user's native language.
