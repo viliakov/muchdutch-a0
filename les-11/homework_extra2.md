@@ -51,7 +51,7 @@ Schrijf het woord voluit (bijvoorbeeld: 1e -> eerste).
 5. Dit is haar (11e) ____ les Nederlands.
 6. Donderdag is de (4e) ____ dag van de week.
 7. Mei is de (5e) ____ maand van het jaar.
-8. Vandaag is het de (20e) ____ dag van de maand.
+8. Vandaag is de (20e) ____ dag van de maand.
 9. September is de (9e) ____ maand van het jaar.
 10. Mijn oma woont op de (8e) ____ verdieping.
 11. Dit is de (30e) ____ dag van de maand.
