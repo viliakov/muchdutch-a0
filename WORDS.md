@@ -575,3 +575,88 @@ Suggested columns:
 | doe de groeten | say hi (to them) | передавай привет | phrase | les-11 | listening |
 | bezoeken | to visit | посещать, навещать | verb | les-11 | listening |
 | inderdaad | indeed | действительно | adverb | les-11 | listening |
+
+## Les 12
+
+| Dutch | English | Russian | Type | Lesson | Notes |
+| --- | --- | --- | --- | --- | --- |
+| mogen | may, to be allowed to | можно, разрешено | verb | les-12 | modal; all singular `mag`, plural `mogen` |
+| eten | to eat | есть, кушать | verb | les-12 | `ik eet`, `wij eten` |
+| het eten | the food, the meal | еда | noun | les-12 | `Het eten is klaar.` |
+| het ontbijt | breakfast | завтрак | noun | les-12 | meal; `bij het ontbijt` |
+| de lunch | lunch | обед | noun | les-12 | meal |
+| het avondeten | dinner, evening meal | ужин | noun | les-12 | meal |
+| 's ochtends | in the morning | утром | time adverb | les-12 | mealtime |
+| 's middags | in the afternoon | днем | time adverb | les-12 | mealtime |
+| 's avonds | in the evening | вечером | time adverb | les-12 | mealtime |
+| dan | then | тогда, потом | adverb | les-12 | `Ik eet dan brood.` |
+| het brood | bread | хлеб | noun | les-12 | food |
+| de boterham | slice of bread, sandwich | бутерброд | noun | les-12 | plural `de boterhammen` |
+| de kaas | cheese | сыр | noun | les-12 | food |
+| de worst | sausage | колбаса | noun | les-12 | food |
+| de kip | chicken | курица | noun | les-12 | food |
+| de vis | fish | рыба | noun | les-12 | food |
+| de rijst | rice | рис | noun | les-12 | food |
+| de aardappel | potato | картошка | noun | les-12 | plural `de aardappels` |
+| de groente | vegetable | овощ | noun | les-12 | plural `de groenten` |
+| het vlees | meat | мясо | noun | les-12 | food |
+| de bloemkool | cauliflower | цветная капуста | noun | les-12 | food |
+| de tomaat | tomato | помидор | noun | les-12 | plural `de tomaten` |
+| de soep | soup | суп | noun | les-12 | `soep eten met een lepel` |
+| het ijs | ice cream, ice | мороженое, лед | noun | les-12 | food; `het ijsje` = an ice cream |
+| het water | water | вода | noun | les-12 | drink |
+| de wijn | wine | вино | noun | les-12 | drink |
+| het glas | glass | стакан | noun | les-12 | plural `de glazen` |
+| het mes | knife | нож | noun | les-12 | cutlery |
+| de vork | fork | вилка | noun | les-12 | cutlery |
+| de lepel | spoon | ложка | noun | les-12 | cutlery |
+| het bord (2) | plate | тарелка | noun | les-12 | plural `de borden`; in les-06 `het bord` = board |
+| de pan | pan, pot | кастрюля | noun | les-12 | kitchen |
+| snijden | to cut, to slice | резать | verb | les-12 | `het vlees snijden met een mes` |
+| roepen | to call, to shout | звать, кричать | verb | les-12 | `Julia roept de kinderen.` |
+| krijgen | to get, to receive | получать | verb | les-12 | `Ze krijgen ijs.` |
+| lekker | tasty, nice | вкусный | adjective | les-12 | `lekker vinden` = to like (food) |
+| lekker vinden | to like (the taste of) | нравиться (о еде) | phrase | les-12 | `Ik vind kip lekker.` |
+| eet smakelijk | enjoy your meal | приятного аппетита | phrase | les-12 | said before eating |
+| klaar | ready, finished | готовый | adjective | les-12 | `Het eten is klaar.` |
+| op (klaar) | finished, all gone | закончился | adjective | les-12 | `Het eten is op.`; `De melk is op.` |
+| allemaal | all, everyone | все | pronoun/adverb | les-12 | `Ze hebben allemaal een glas.` |
+| de markt | market | рынок | noun | les-12 | place |
+| nodig hebben | to need | нуждаться | phrase | les-12 | `Hoeveel tomaten heb ik nodig?` |
+| roken | to smoke | курить | verb | les-12 | `Je mag hier niet roken.` |
+| zwemmen | to swim | плавать | verb | les-12 | `Wij kunnen goed zwemmen.` |
+| parkeren | to park | парковаться | verb | les-12 | `U mag hier parkeren.` |
+| gebruiken | to use | использовать | verb | les-12 | `Mag ik je telefoon gebruiken?` |
+| spelen | to play | играть | verb | les-12 | `buiten spelen` |
+| wachten | to wait | ждать | verb | les-12 | `U mag hier wachten.` |
+| eerder | earlier | раньше | adverb | les-12 | `eerder naar huis` |
+| later | later | позже | adverb | les-12 | `wat later komen` |
+| de leraar | teacher | учитель | noun | les-12 | school |
+| het feest | party | праздник, вечеринка | noun | les-12 | event |
+| de dokter | doctor | врач | noun | les-12 | `van de dokter` = doctor's orders |
+| het cadeau | present, gift | подарок | noun | les-12 | `een cadeau voor jou`; diminutive `het cadeautje` |
+| de vriendin | female friend, girlfriend | подруга | noun | les-12 | plural `de vriendinnen` |
+| de kassa | checkout, till | касса | noun | les-12 | shop |
+| de klant | customer | клиент, покупатель | noun | les-12 | shop |
+| de kantine | canteen | столовая | noun | les-12 | place |
+| de broek | trousers | брюки | noun | les-12 | clothing |
+| het shirt | shirt | рубашка, футболка | noun | les-12 | clothing |
+| de maat | size | размер | noun | les-12 | `een kleinere maat` |
+| tegenkomen | to run into, to meet | встречать | verb | les-12 | separable: `Ik kom haar vaak tegen.` |
+| wensen | to wish | желать | verb | les-12 | `Ik wens u een fijne dag.` |
+| de schoonouders | parents-in-law | родители супруга | noun | les-12 | family; plural |
+| het kleinkind | grandchild | внук, внучка | noun | les-12 | plural `de kleinkinderen` |
+| allebei | both | оба | pronoun | les-12 | `wij zijn allebei getrouwd` |
+| bestaan uit | to consist of | состоять из | verb | les-12 | `De familie bestaat uit elf personen.` |
+| mijn / m'n | my | мой | possessive | les-12 | `m'n` is the informal short form |
+| jouw | your | твой | possessive | les-12 | informal; unstressed form `je` |
+| uw | your | Ваш | possessive | les-12 | formal |
+| zijn / z'n | his | его | possessive | les-12 | `z'n` is the informal short form |
+| haar / d'r | her | её | possessive | les-12 | `d'r` is the informal short form |
+| ons / onze | our | наш | possessive | les-12 | `onze` before `de`-words, `ons` before `het`-words |
+| hun | their | их | possessive | les-12 | possessive; also indirect object pronoun |
+| mij / me | me | меня, мне | object pronoun | les-12 | `Kun je mij helpen?` |
+| jou | you | тебя, тебе | object pronoun | les-12 | `voor jou` |
+| hem | him, it | его | object pronoun | les-12 | also refers back to `de`-words |
+| ons | us | нас, нам | object pronoun | les-12 | `Je kunt vragen stellen aan ons.` |
+| hen | them | их | object pronoun | les-12 | direct object and after a preposition |
