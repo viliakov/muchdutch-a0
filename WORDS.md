@@ -660,3 +660,57 @@ Suggested columns:
 | hem | him, it | его | object pronoun | les-12 | also refers back to `de`-words |
 | ons | us | нас, нам | object pronoun | les-12 | `Je kunt vragen stellen aan ons.` |
 | hen | them | их | object pronoun | les-12 | direct object and after a preposition |
+
+## Les 13
+
+| Dutch | English | Russian | Type | Lesson | Notes |
+| --- | --- | --- | --- | --- | --- |
+| niet | not | не | negation | les-13 | negates verbs, adjectives, adverbs and definite nouns |
+| geen | no, not any | нет, никакой | negation | les-13 | `geen` = `niet een`; before indefinite nouns; also in les-03, les-08 |
+| de negatie | negation | отрицание | noun | les-13 | grammar term |
+| houden van | to like, to love | любить, нравиться | verb phrase | les-13 | negated with `niet`: `Ik houd niet van brood.` |
+| leuk | nice, fun | приятный, интересный | adjective | les-13 | `Ik vind mijn werk niet leuk.` |
+| fout | wrong, mistake | неправильный, ошибка | adjective/noun | les-13 | `is de zin goed of fout?` |
+| genoeg | enough | достаточно | adverb/quantity | les-13 | `Hij heeft niet genoeg geld.` |
+| meer | more | больше | quantity | les-13 | comparison of quantity |
+| minder | less | меньше | quantity | les-13 | comparison of quantity |
+| dom | stupid, silly | глупый | adjective | les-13 | `Wat dom!` |
+| oké | okay | окей, ладно | phrase | les-13 | agreement |
+| aan | on (switched on) | включен | adverb | les-13 | `De oven staat aan.`; also preposition in les-11 |
+| uit | off (switched off) | выключен | adverb | les-13 | `De oven staat uit.` |
+| de gram | gram | грамм | noun | les-13 | `150 gram boter` |
+| de snor | moustache | усы | noun | les-13 | grammar example: `Hij heeft geen snor.` |
+| de zon | sun | солнце | noun | les-13 | `Ik zie de zon niet.` |
+| op tijd | on time | вовремя | phrase | les-13 | `Niet alle studenten komen op tijd.` |
+| 's morgens | in the morning | утром | time adverb | les-13 | variant of `'s ochtends` (les-12) |
+| het ontbijt | breakfast | завтрак | noun | les-13 | `Wat eet je graag bij het ontbijt?`; also in les-12 |
+| het broodje | roll, bread bun | булочка | noun | les-13 | plural `de broodjes` |
+| de boterham | slice of bread, sandwich | бутерброд | noun | les-13 | plural `de boterhammen`; also in les-12 |
+| de boter | butter | масло | noun | les-13 | ontbijt |
+| de hagelslag | chocolate sprinkles | шоколадная крошка | noun | les-13 | typical Dutch breakfast topping |
+| de pindakaas | peanut butter | арахисовая паста | noun | les-13 | ontbijt |
+| de jam | jam | джем, варенье | noun | les-13 | ontbijt |
+| de honing | honey | мед | noun | les-13 | ontbijt |
+| de muesli | muesli | мюсли | noun | les-13 | ontbijt |
+| de havermout | oatmeal, porridge oats | овсянка | noun | les-13 | ontbijt |
+| de yoghurt | yoghurt | йогурт | noun | les-13 | ontbijt |
+| het ei | egg | яйцо | noun | les-13 | plural `de eieren` |
+| de eieren | eggs | яйца | noun | les-13 | irregular plural of `het ei` |
+| het ontbijtkoek | breakfast cake, spiced cake | пряный кекс | noun | les-13 | typical Dutch breakfast item |
+| de halfvolle melk | semi-skimmed milk | молоко 1,5% | noun | les-13 | supermarket label |
+| de sinaasappelsap | orange juice | апельсиновый сок | noun | les-13 | drink |
+| de taart | cake, pie | торт, пирог | noun | les-13 | `de appeltaart` |
+| de appeltaart | apple pie | яблочный пирог | noun | les-13 | listening topic |
+| de oven | oven | печь, духовка | noun | les-13 | kitchen appliance |
+| de supermarkt | supermarket | супермаркет | noun | les-13 | shop |
+| de bakker | baker, bakery | булочник, булочная | noun | les-13 | `brood bij de bakker` |
+| de slager | butcher, butcher's shop | мясник, мясная лавка | noun | les-13 | `vlees bij de slager` |
+| de markt | market | рынок | noun | les-13 | `op de markt`; also in les-12 |
+| boodschappen doen | to do the groceries | делать покупки | verb phrase | les-13 | also in les-07 |
+| kopen | to buy | покупать | verb | les-13 | `Ze koopt appels.`; also in les-09 |
+| het ding | thing | вещь | noun | les-13 | plural `de dingen`: `veel dingen kopen` |
+| nodig hebben | to need | нуждаться | phrase | les-13 | `Hij heeft vier appels nodig.`; also in les-12 |
+| waar (2) | true | правда, верно | adjective | les-13 | listening task `waar / niet waar`; in les-03 `waar` = where |
+| niet waar | not true, false | неправда | phrase | les-13 | listening task |
+| Assen | Assen | Ассен | place | les-13 | city, grammar example |
+| Amsterdam | Amsterdam | Амстердам | place | les-13 | city, grammar example |
