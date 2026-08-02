@@ -714,3 +714,27 @@ Suggested columns:
 | niet waar | not true, false | неправда | phrase | les-13 | listening task |
 | Assen | Assen | Ассен | place | les-13 | city, grammar example |
 | Amsterdam | Amsterdam | Амстердам | place | les-13 | city, grammar example |
+| dansen | to dance | танцевать | verb | les-13 | huiswerk: `Ik kan niet dansen.` |
+| studeren | to study | учиться | verb | les-13 | `Loes studeert in Delft.` |
+| de oefening | exercise | упражнение | noun | les-13 | huiswerk |
+| het ziekenhuis | hospital | больница | noun | les-13 | workplace |
+| de spaghetti | spaghetti | спагетти | noun | les-13 | food |
+| moeilijk | difficult | трудный | adjective | les-13 | `Ik vind Nederlands moeilijk.` |
+| Spaans | Spanish | испанский язык | language | les-13 | `We spreken geen Spaans.` |
+| Delft | Delft | Делфт | place | les-13 | city |
+| de ouders | parents | родители | noun | les-13 | plural; `bij hun ouders wonen` |
+| de uitspraak | pronunciation | произношение | noun | les-13 | `mijn uitspraak is slecht` |
+| de test | test | тест | noun | les-13 | school |
+| uitdoen | to switch off, to take off | выключать, снимать | verb | les-13 | separable: `de telefoon uitdoen` |
+| de baan | job | работа | noun | les-13 | `een leuke baan` |
+| trouwen | to marry | жениться, выходить замуж | verb | les-13 | `Wij gaan trouwen.` |
+| het trouwfeest | wedding party | свадьба | noun | les-13 | event |
+| de gast | guest | гость | noun | les-13 | plural `de gasten` |
+| welkom | welcome | добро пожаловать | adjective | les-13 | `gasten zijn welkom`; also in les-06 |
+| vanaf | from (a time) | начиная с | preposition | les-13 | `vanaf 15.00 uur` |
+| nooit | never | никогда | frequency adverb | les-13 | word order practice; also in les-07 |
+| meestal | usually | обычно | frequency adverb | les-13 | word order practice; also in les-07 |
+| koken (2) | to boil, to cook | варить | verb | les-13 | `De rijst moet acht minuten koken.`; also in les-10 |
+| de minuut | minute | минута | noun | les-13 | plural `de minuten` |
+| iets | something | что-то | pronoun | les-13 | `Zullen we samen iets drinken?` |
+| zullen | shall | давай, ...ли | verb | les-13 | `Zullen we samen iets drinken?` |
