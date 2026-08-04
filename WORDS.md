@@ -738,3 +738,73 @@ Suggested columns:
 | de minuut | minute | минута | noun | les-13 | plural `de minuten` |
 | iets | something | что-то | pronoun | les-13 | `Zullen we samen iets drinken?` |
 | zullen | shall | давай, ...ли | verb | les-13 | `Zullen we samen iets drinken?` |
+
+## Les 14
+
+| Dutch | English | Russian | Type | Lesson | Notes |
+| --- | --- | --- | --- | --- | --- |
+| zal | shall (1st/3rd sg) | буду, давай | verb form | les-14 | `ik zal`, `hij zal`; also `je zal` |
+| zult | shall (2nd sg / u) | будете | verb form | les-14 | `u zult`, `jij zult` |
+| het voorstel | proposal, suggestion | предложение | noun | les-14 | function of `zullen`: `Zullen we gaan?` |
+| de belofte | promise | обещание | noun | les-14 | function of `zullen`: `Ik zal het doen.` |
+| de waarschijnlijkheid | probability | вероятность | noun | les-14 | function of `zullen`: `Je zal wel moe zijn.` |
+| waarschijnlijk | probably | вероятно | adverb | les-14 | `Hij is waarschijnlijk ziek.` |
+| de handeling | action | действие | noun | les-14 | `een handeling in de toekomst` |
+| de toekomst | future | будущее | noun | les-14 | `in de toekomst` |
+| teruggeven | to give back | отдавать назад | verb | les-14 | separable: `Ik zal het geld teruggeven.` |
+| terug | back | назад, обратно | adverb | les-14 | `U krijgt € 2,- terug.` |
+| de bioscoop | cinema | кинотеатр | noun | les-14 | `naar de bioscoop gaan` |
+| op vakantie gaan | to go on holiday | ехать в отпуск | verb phrase | les-14 | `in juli op vakantie gaan` |
+| Parijs | Paris | Париж | place | les-14 | grammar example |
+| goed of fout | right or wrong | верно или неверно | phrase | les-14 | exercise instruction |
+| het geld | money | деньги | noun | les-14 | `Ik heb geen geld bij me.` |
+| de euro | euro | евро | noun | les-14 | `€ 2,- = twee euro` |
+| de cent | cent | цент | noun | les-14 | `€ 0,05 = vijf cent` |
+| het briefje (2) | banknote | банкнота | noun | les-14 | 7 briefjes: 5, 10, 20, 50, 100, 200, 500 |
+| de munt | coin | монета | noun | les-14 | 8 munten: 1 cent - € 2,- |
+| het bedrag | amount, sum | сумма | noun | les-14 | `€ staat voor het bedrag` |
+| kosten | to cost | стоить | verb | les-14 | `De kaas kost € 6,24.` |
+| duur | expensive | дорогой | adjective | les-14 | `Het is niet duur.` |
+| goedkoop | cheap | дешёвый | adjective | les-14 | opposite of `duur` |
+| in de aanbieding | on sale, on offer | по акции | phrase | les-14 | supermarket |
+| de bon | receipt | чек | noun | les-14 | `Wilt u de bon?` |
+| pinnen | to pay by debit card | платить картой | verb | les-14 | `Ik wil pinnen.` |
+| de pinpas | debit card | банковская карта | noun | les-14 | `met de pinpas betalen` |
+| contant betalen | to pay cash | платить наличными | verb phrase | les-14 | `contant of pinnen?` |
+| het pak | pack, carton | пакет, упаковка | noun | les-14 | `een pak melk` |
+| de zegel | stamp, sticker | наклейка, марка | noun | les-14 | plural `de zegels`; supermarket loyalty stamps |
+| de kilo | kilo | килограмм | noun | les-14 | 1 kilo = 1.000 gram |
+| het pond | pound (500 g) | полкило | noun | les-14 | 1 pond = 500 gram = de helft van een kilo |
+| het ons | 100 grams | 100 грамм | noun | les-14 | `Ik wil één ons kaas.` |
+| per kilo | per kilo | за килограмм | phrase | les-14 | `€ 3,- per kilo` |
+| de helft | half | половина | noun | les-14 | `de helft van een kilo` |
+| bijna | almost | почти | adverb | les-14 | `Het boek kost bijna € 30,-.` |
+| de verkoper | seller, shop assistant | продавец | noun | les-14 | market dialogue |
+| de druiven | grapes | виноград | noun | les-14 | plural; `een pond druiven` |
+| de komkommer | cucumber | огурец | noun | les-14 | plural `de komkommers` |
+| alstublieft | here you are, please (formal) | пожалуйста | phrase | les-14 | polite form |
+| Anders nog iets? | Anything else? | Что-нибудь ещё? | phrase | les-14 | shop dialogue |
+| gebruiken | to use | использовать | verb | les-14 | `Nederlanders gebruiken die munt niet vaak.` |
+| verschillend | different, various | разный | adjective | les-14 | `zeven verschillende briefjes` |
+| de kleur | colour | цвет | noun | les-14 | `Welke kleur heeft het briefje?` |
+| het tussendoortje | snack (between meals) | перекус | noun | les-14 | warm-up topic |
+| omdat | because | потому что | conjunction | les-14 | verb goes to the end: `omdat het lekker is` |
+| gezond | healthy | полезный, здоровый | adjective | les-14 | `omdat het gezond is` |
+| de energie | energy | энергия | noun | les-14 | `omdat het energie geeft` |
+| makkelijk | easy | легко | adjective | les-14 | `makkelijk mee te nemen` |
+| vullen | to fill, to be filling | наполнять, насыщать | verb | les-14 | `omdat het goed vult` |
+| blij maken | to make happy | радовать | verb phrase | les-14 | `omdat dat me blij maakt` |
+| blij | happy, glad | радостный | adjective | les-14 | `Ik ben blij.` |
+| snel | fast, quick | быстро | adverb/adjective | les-14 | `omdat het snel klaar is` |
+| het fruit | fruit | фрукты | noun | les-14 | `een heel fruit` |
+| het stuk | piece | кусок | noun | les-14 | `een stuk brood` |
+| de proteïnereep | protein bar | протеиновый батончик | noun | les-14 | tussendoortje |
+| de cappuccino | cappuccino | капучино | noun | les-14 | drink |
+| de rijstwafel | rice cake | рисовая вафля | noun | les-14 | tussendoortje |
+| de smoothie | smoothie | смузи | noun | les-14 | drink |
+| de noten | nuts | орехи | noun | les-14 | plural of `de noot`; `een handje noten` |
+| het handje | small handful | горсть | noun | les-14 | `een handje noten` |
+| de humus | hummus | хумус | noun | les-14 | `groenten met humus` |
+| de groenten | vegetables | овощи | noun | les-14 | plural of `de groente` |
+| ideaal | ideal | идеальный | adjective | les-14 | `Wat is jouw ideale tussendoortje?` |
+| Fijne dag! | Have a nice day! | Хорошего дня! | phrase | les-14 | shop farewell |
