@@ -808,3 +808,32 @@ Suggested columns:
 | de groenten | vegetables | овощи | noun | les-14 | plural of `de groente` |
 | ideaal | ideal | идеальный | adjective | les-14 | `Wat is jouw ideale tussendoortje?` |
 | Fijne dag! | Have a nice day! | Хорошего дня! | phrase | les-14 | shop farewell |
+| de brommer | moped, scooter | мопед | noun | les-14 | huiswerk: `Ik heb geen brommer.` |
+| het proefwerk | test, quiz | контрольная работа | noun | les-14 | school; huiswerk |
+| het cijfer | grade, mark, digit | оценка, цифра | noun | les-14 | `een goed cijfer` |
+| de jas | coat, jacket | куртка, пальто | noun | les-14 | clothing |
+| de schoenen | shoes | обувь, туфли | noun | les-14 | plural of `de schoen` |
+| lusten | to like (food) | любить (еду) | verb | les-14 | `Lust u aardappels?` |
+| de weg | way, road | дорога, путь | noun | les-14 | `Weet je de weg?` |
+| meegaan | to come along | идти вместе | verb | les-14 | separable: `Ga je mee?` |
+| de slagerij | butcher's shop | мясная лавка | noun | les-14 | winkelnamen |
+| de bakkerij | bakery | булочная | noun | les-14 | winkelnamen |
+| de banketbakker | pastry chef, confectioner | кондитер | noun | les-14 | persoon + winkel |
+| de banketbakkerij | pastry shop | кондитерская | noun | les-14 | winkelnamen |
+| het gebak | pastry, cake | выпечка | noun | les-14 | `gebak en koek` |
+| de koek | cake, biscuit | пряник, коврижка | noun | les-14 | `gebak en koek` |
+| de groenteboer | greengrocer | зеленщик | noun | les-14 | persoon + winkel |
+| de groentewinkel | greengrocer's shop | овощной магазин | noun | les-14 | winkelnamen |
+| de kaasboer | cheese seller | торговец сыром | noun | les-14 | persoon + winkel |
+| de kaaswinkel | cheese shop | магазин сыра | noun | les-14 | winkelnamen |
+| de visboer | fishmonger | торговец рыбой | noun | les-14 | persoon + winkel |
+| de viswinkel | fish shop | рыбный магазин | noun | les-14 | winkelnamen |
+| de slijter | liquor seller | продавец алкоголя | noun | les-14 | persoon + winkel |
+| de slijterij | liquor store | винный магазин | noun | les-14 | winkelnamen |
+| de drank | drink, alcohol | напиток, спиртное | noun | les-14 | `de slijter verkoopt drank` |
+| de marktkoopman | market vendor (male) | торговец на рынке | noun | les-14 | vrouwelijk: `de marktkoopvrouw` |
+| de marktkoopvrouw | market vendor (female) | торговка на рынке | noun | les-14 | `op de markt` |
+| verkopen | to sell | продавать | verb | les-14 | `De bakker verkoopt brood.` |
+| de pasta | pasta | паста, макароны | noun | les-14 | huiswerk: `Ik zal morgen pasta eten.` |
+| honger hebben | to be hungry | быть голодным | phrase | les-14 | `Je zult wel honger hebben.` |
+| dorst hebben | to be thirsty | хотеть пить | phrase | les-14 | `Jullie zullen wel dorst hebben.` |
