@@ -837,3 +837,91 @@ Suggested columns:
 | de pasta | pasta | паста, макароны | noun | les-14 | huiswerk: `Ik zal morgen pasta eten.` |
 | honger hebben | to be hungry | быть голодным | phrase | les-14 | `Je zult wel honger hebben.` |
 | dorst hebben | to be thirsty | хотеть пить | phrase | les-14 | `Jullie zullen wel dorst hebben.` |
+
+## Les 15
+
+| Dutch | English | Russian | Type | Lesson | Notes |
+| --- | --- | --- | --- | --- | --- |
+| het meervoud | plural | множественное число | noun | les-15 | grammar term |
+| het enkelvoud | singular | единственное число | noun | les-15 | grammar term |
+| de klinker | vowel | гласная | noun | les-15 | `korte klinker` / `lange klinker` |
+| de medeklinker | consonant | согласная | noun | les-15 | doubling rule |
+| de lettergreep | syllable | слог | noun | les-15 | `twee of meer lettergrepen` |
+| de wortel | carrot | морковь | noun | les-15 | plural `de wortels` |
+| de boon | bean | фасоль, боб | noun | les-15 | plural `de bonen` |
+| de sla | lettuce | салат (листовой) | noun | les-15 | geen meervoud |
+| de banaan | banana | банан | noun | les-15 | plural `de bananen` |
+| de peer | pear | груша | noun | les-15 | plural `de peren` |
+| de druif | grape | виноградина | noun | les-15 | plural `de druiven` |
+| de sinaasappel | orange | апельсин | noun | les-15 | plural `de sinaasappels` |
+| de citroen | lemon | лимон | noun | les-15 | plural `de citroenen` |
+| de ui | onion | лук | noun | les-15 | plural `de uien` |
+| de zak | bag, sack | мешок, пакет | noun | les-15 | `een zak aardappels` |
+| de soort | kind, sort | сорт, вид | noun | les-15 | `verschillende soorten appels` |
+| verschillend | different, various | разный | adjective | les-15 | `verschillende soorten` |
+| gratis | free (of charge) | бесплатно | adjective/adverb | les-15 | `1 + 1 gratis` |
+| het boodschappenkarretje | shopping trolley | тележка для покупок | noun | les-15 | short: `het karretje` |
+| het karretje | trolley, cart | тележка | noun | les-15 | plural `de karretjes` |
+| de weegschaal | scales | весы | noun | les-15 | `op de weegschaal leggen` |
+| wegen | to weigh | взвешивать | verb | les-15 | `Ze wegen ongeveer een kilo.` |
+| ongeveer | about, approximately | примерно | adverb | les-15 | `ongeveer een kilo` |
+| de afdeling | department, section | отдел | noun | les-15 | `de drankafdeling` |
+| de medewerker | employee, staff member | сотрудник | noun | les-15 | `een medewerker van de supermarkt` |
+| de krat | crate | ящик | noun | les-15 | `een krat bier` |
+| de fles | bottle | бутылка | noun | les-15 | plural `de flessen` |
+| het rek | rack, shelf | стойка, полка | noun | les-15 | `het wijnrek` |
+| de tros | bunch | гроздь, связка | noun | les-15 | `een tros bananen` |
+| de keuze | choice | выбор | noun | les-15 | `veel keuze hebben` |
+| de kwaliteit | quality | качество | noun | les-15 | `van goede kwaliteit` |
+| de hoek | corner | угол | noun | les-15 | `op de hoek`, `aan de kant` |
+| het humeur | mood | настроение | noun | les-15 | `een slecht humeur` |
+| vervelend | annoying, unpleasant | неприятно, досадно | adjective | les-15 | `Dat is vervelend!` |
+| de moraal | moral (of a story) | мораль | noun | les-15 | `de moraal van dit verhaal` |
+| de uitnodiging | invitation | приглашение | noun | les-15 | luisteren |
+| een feestje geven | to throw a party | устраивать вечеринку | phrase | les-15 | luisteren |
+| het cadeautje | small present | подарочек | noun | les-15 | diminutive of `het cadeau` |
+| ruilen | to swap, to exchange | обменивать | verb | les-15 | luisteren |
+| lijken op | to resemble, to look like | быть похожим на | verb | les-15 | `Hij lijkt op zijn vader.` |
+| missen | to miss (someone/something) | скучать по | verb | les-15 | `Ik mis mijn familie.` |
+| overleden | deceased, passed away | умерший | adjective | les-15 | `Mijn moeder is overleden.` |
+| dol zijn op | to be keen on, to love | очень любить | phrase | les-15 | `Ik ben dol op fruit.` |
+| trakteren | to treat (pay for others) | угощать | verb | les-15 | `Ik trakteer!` |
+| bestellen | to order | заказывать | verb | les-15 | `Mag ik bestellen?` |
+| afrekenen | to settle the bill, to pay | расплачиваться | verb | les-15 | separable: `Mogen we afrekenen?` |
+| het rondje | round (of drinks) | круг (напитков) | noun | les-15 | `het eerste rondje betalen` |
+| Alles samen? | All together? | Всё вместе? | phrase | les-15 | question from the waiter |
+| Zegt u het maar. | Go ahead / What can I get you? | Заказывайте. | phrase | les-15 | waiter's phrase |
+| Proost! | Cheers! | Ваше здоровье! | phrase | les-15 | toast |
+| Op je verjaardag! | To your birthday! | За твой день рождения! | phrase | les-15 | toast |
+| Gefeliciteerd met je verjaardag! | Happy birthday! | Поздравляю с днём рождения! | phrase | les-15 | congratulation |
+| Prettig met je kennis te maken. | Nice to meet you. | Приятно познакомиться. | phrase | les-15 | introductions |
+| Hoe kennen jullie elkaar? | How do you know each other? | Как вы познакомились? | phrase | les-15 | introductions |
+| de ober | waiter | официант | noun | les-15 | café |
+| het bier | beer | пиво | noun | les-15 | `een biertje`, `een krat bier` |
+| de cola | cola | кола | noun | les-15 | `een glaasje cola` |
+| het glaasje | small glass | стаканчик | noun | les-15 | diminutive of `het glas` |
+| gezellig | cosy, pleasant, sociable | уютно, приятно | adjective | les-15 | `Ja, gezellig!` |
+| de vrijheid | freedom | свобода | noun | les-15 | plural `de vrijheden` (`-heid` -> `-heden`) |
+| de hoeveelheid | quantity, amount | количество | noun | les-15 | plural `de hoeveelheden` |
+| de mogelijkheid | possibility, option | возможность | noun | les-15 | plural `de mogelijkheden` |
+| het idee | idea | идея | noun | les-15 | plural `de ideeën` |
+| de zee | sea | море | noun | les-15 | plural `de zeeën` |
+| de stad | city, town | город | noun | les-15 | irregular plural `de steden` |
+| het ei | egg | яйцо | noun | les-15 | irregular plural `de eieren` |
+| het schip | ship | корабль | noun | les-15 | irregular plural `de schepen` |
+| het lid | member | член | noun | les-15 | irregular plural `de leden` |
+| het blad | leaf, sheet, tray | лист, поднос | noun | les-15 | plural `de bladeren` (leaves) / `de bladen` (sheets) |
+| het museum | museum | музей | noun | les-15 | plural `de musea` |
+| het pad | path | тропа | noun | les-15 | plural `de paden` |
+| de koe | cow | корова | noun | les-15 | plural `de koeien` |
+| de hersenen | brain(s) | мозг | noun | les-15 | alleen meervoud |
+| de mazelen | measles | корь | noun | les-15 | alleen meervoud |
+| de zaal | hall, room | зал | noun | les-15 | plural `de zalen` (lange klank) |
+| de muis | mouse | мышь | noun | les-15 | plural `de muizen` (`s` -> `z`) |
+| de brief | letter | письмо | noun | les-15 | plural `de brieven` (`f` -> `v`) |
+| de kilometer | kilometre | километр | noun | les-15 | blijft enkelvoud na een getal |
+| de liter | litre | литр | noun | les-15 | blijft enkelvoud na een getal |
+| de meter | metre | метр | noun | les-15 | blijft enkelvoud na een getal |
+| het kwartier | quarter of an hour | четверть часа | noun | les-15 | `over drie kwartier` |
+| de seconde | second | секунда | noun | les-15 | `tien seconden` |
+| de afkorting | abbreviation | сокращение | noun | les-15 | `wc`, `tv` -> `'s` in het meervoud |
