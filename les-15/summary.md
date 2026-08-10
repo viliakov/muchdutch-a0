@@ -12,6 +12,7 @@
 - Luisteren: `02_03.mp3` - invitation / party vocabulary
 - Woordenschat / lezen: `Samen boodschappen doen. Ja, gezellig!` - replace the underlined words with pronouns (`hij`, `hem`, `zijn`, `het`, `ze`, `haar`, `hun`)
 - Woordenschat: café dialogue (Edit's birthday) with `handige woorden en uitdrukkingen` and a `waar of niet waar?` check
+- Huiswerk: modale werkwoorden drillen (`zullen`, `willen`, `kunnen`, `mogen`, `moeten`), meervoud (schema + `kies de goede vorm`), and a creative PowerPoint / AH-video task
 
 ## Grammar
 
@@ -90,6 +91,24 @@ But with `secondelang`, `minutenlang`, `dagenlang` and with counted periods you 
 
 A few words only exist in the plural: `de hersenen`, `de mazelen`. And some verbs of "activity" have no singular noun form: `spullen`, `kleren`.
 
+### Modale werkwoorden (huiswerkherhaling)
+
+| | zullen | willen | kunnen | mogen | moeten |
+| --- | --- | --- | --- | --- | --- |
+| ik | zal | wil | kan | mag | moet |
+| je / u | zal / zult | wil / wilt | kan / kunt | mag | moet |
+| vraagvorm | zal je / zul je | wil je | kan je / kun je | mag je | moet je |
+| hij / zij | zal | wil | kan | mag | moet |
+| we / jullie / ze | zullen | willen | kunnen | mogen | moeten |
+
+Betekenis:
+
+- `zullen` = een voorstel, een afspraak, een belofte - `Zullen we dansen?`, `Ja, dat zal ik doen.`
+- `willen` = wensen, verlangen - `Wil jij een kopje koffie?`, `Ik wil goed Nederlands spreken.`
+- `kunnen` = mogelijk zijn - `U kunt het cadeautje ruilen.`, `Hij kan een beetje Nederlands verstaan.`
+- `mogen` = niet verboden zijn, toegestaan zijn - `Mag ik hier roken?`, `Hier mag u niet parkeren.`
+- `moeten` = verplicht zijn, nodig zijn - `U moet een examen Nederlands doen.`, `We moeten een cadeautje kopen.`
+
 ## Vocabulary Themes
 
 - Groente en fruit: de wortel, de boon, de sla, de bloemkool, de banaan, de appel, de peer, de sinaasappel, de citroen, de druif, de aardappel, de ui
@@ -152,4 +171,4 @@ A few words only exist in the plural: `de hersenen`, `de mazelen`. And some verb
 - The small `schrijf het meervoud (1)-(4)` and `welk woord past in de zin?` per-student cards are too low-resolution to read the individual words; only the exercise structure is visible.
 - The `luister en beantwoord de vragen` cloud cards are unreadable in detail.
 - Some gaps in the reading text `Samen boodschappen doen` are not legible, so the reproduced version is not complete.
-- The lesson's own `huiswerk` section is not on the board, so `homework.md` is not created in this pass.
+- In the huiswerk `vul het schema in!` task, the `Vocabulaire - Groente en Fruit` picture sheet is too small to read every item, so `homework.md` gives a representative filled-in schema rather than the exact list from the plate.

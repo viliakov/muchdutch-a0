@@ -925,3 +925,53 @@ Suggested columns:
 | het kwartier | quarter of an hour | четверть часа | noun | les-15 | `over drie kwartier` |
 | de seconde | second | секунда | noun | les-15 | `tien seconden` |
 | de afkorting | abbreviation | сокращение | noun | les-15 | `wc`, `tv` -> `'s` in het meervoud |
+| het modale werkwoord | modal verb | модальный глагол | noun | les-15 | `zullen, willen, kunnen, mogen, moeten` |
+| de belofte | promise | обещание | noun | les-15 | functie van `zullen` |
+| de afspraak | appointment, arrangement | договорённость | noun | les-15 | functie van `zullen` |
+| verlangen | to desire, to long for | желать | verb | les-15 | betekenis van `willen` |
+| toegestaan | allowed, permitted | разрешено | adjective | les-15 | betekenis van `mogen` |
+| verboden | forbidden | запрещено | adjective | les-15 | `Hier is roken verboden.` |
+| verplicht | obliged, compulsory | обязательный | adjective | les-15 | betekenis van `moeten` |
+| verstaan | to understand (hear) | понимать (на слух) | verb | les-15 | `Hij kan een beetje Nederlands verstaan.` |
+| de tandarts | dentist | стоматолог | noun | les-15 | `Ik moet naar de tandarts.` |
+| het woordenboek | dictionary | словарь | noun | les-15 | `Mag ik jouw woordenboek?` |
+| het talenpracticum | language lab | лингафонный кабинет | noun | les-15 | `In het talenpracticum mag je niet eten.` |
+| het zwemdiploma | swimming certificate | диплом по плаванию | noun | les-15 | plural `de zwemdiploma's` |
+| zwemmen | to swim | плавать | verb | les-15 | `Ik kan goed zwemmen.` |
+| de alcohol | alcohol | алкоголь | noun | les-15 | `geen alcohol drinken` |
+| dicht | closed, shut | закрытый | adjective | les-15 | `Mag de deur dicht?` |
+| Pardon | Excuse me | Извините | phrase | les-15 | `Pardon, mag ik u iets vragen?` |
+| het verslag | report | отчёт, доклад | noun | les-15 | plural `de verslagen` |
+| de moeilijkheid | difficulty | трудность | noun | les-15 | plural `de moeilijkheden` |
+| het gat | hole | дыра | noun | les-15 | plural `de gaten` (lange klank) |
+| het slot | lock, castle, ending | замок | noun | les-15 | plural `de sloten`; `op slot` |
+| het lied | song | песня | noun | les-15 | plural `de liederen` |
+| het café | café, pub | кафе, бар | noun | les-15 | plural `de cafés` |
+| het restaurant | restaurant | ресторан | noun | les-15 | plural `de restaurants` |
+| het bord | plate, board | тарелка, доска | noun | les-15 | plural `de borden` |
+| de plaat | picture, sheet, record | картинка, пластинка | noun | les-15 | plural `de platen` |
+| het meubel | piece of furniture | предмет мебели | noun | les-15 | plural `de meubels` |
+| de assistent | assistant | ассистент | noun | les-15 | plural `de assistenten` |
+| de collega | colleague | коллега | noun | les-15 | plural `de collega's` |
+| de metro | metro, underground | метро | noun | les-15 | plural `de metro's` |
+| de dame | lady | дама | noun | les-15 | plural `de dames` |
+| de reactie | reaction, response | реакция, ответ | noun | les-15 | plural `de reacties` |
+| de vinger | finger | палец | noun | les-15 | plural `de vingers` |
+| het ijsje | ice cream | мороженое | noun | les-15 | plural `de ijsjes` |
+| het kruid | herb, spice | пряность, трава | noun | les-15 | plural `de kruiden` |
+| verpakt | packaged, pre-packed | упакованный | adjective | les-15 | schema groente en fruit |
+| het bosje | bunch (of herbs/flowers) | пучок | noun | les-15 | `een bosje wortels` |
+| de zoekbalk | search bar | поисковая строка | noun | les-15 | huiswerk: AH-video |
+| toevoegen | to add | добавлять | verb | les-15 | separable: `ik klik op toevoegen` |
+| kiezen | to choose | выбирать | verb | les-15 | `ik kies dit product` |
+| het product | product | продукт, товар | noun | les-15 | plural `de producten` |
+| het gerecht | dish (food) | блюдо | noun | les-15 | `traditionele Nederlandse gerechten` |
+| het snoepje | sweet, candy | конфета | noun | les-15 | plural `de snoepjes` |
+| de menukaart | menu | меню | noun | les-15 | `de menukaart in een restaurant` |
+| smakelijk | tasty; enjoy your meal | вкусный; приятного аппетита | adjective | les-15 | `Wat vinden kinderen smakelijk?` |
+| de presentatie | presentation | презентация | noun | les-15 | huiswerk: `minimaal 5 dia's` |
+| de dia | slide | слайд | noun | les-15 | plural `de dia's` |
+| de video | video | видео | noun | les-15 | plural `de video's` |
+| minimaal | at least, minimum | минимум | adverb | les-15 | `minimaal 10 producten` |
+| meestal | usually, mostly | обычно | adverb | les-15 | `Wat koop je meestal?` |
+| uit de muur eten | to eat from the wall (vending) | еда из автомата | phrase | les-15 | Dutch fast-food (FEBO) |
