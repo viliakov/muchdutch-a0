@@ -2,59 +2,61 @@
 
 Doel: oefenen met het **meervoud** (`-en`, `-s`, `'s`, onregelmatig, maateenheden), `de`/`het`-woorden, vertalen, ontkennende zinnen en vragen. De woorden komen uit les 15 en uit alle vorige lessen (zie `WORDS.md`).
 
-## 1. Schrijf het meervoud (regelmatig `-en`)
+## 1. Schrijf het meervoud (gemengd, deel 1)
 
-1. één kaart - twee ____
-2. één feest - twee ____
-3. één bed - twee ____
-4. één zus - twee ____
-5. één zaal - twee ____
-6. één brief - twee ____
-7. één muis - twee ____
-8. één boek - twee ____
+Let op: elke rij kan `-en`, `-s`, `'s` of een onregelmatige vorm zijn.
+
+1. één kind - twee ____
+2. één sleutel - twee ____
+3. één kaart - twee ____
+4. één foto - twee ____
+5. één stad - twee ____
+6. één boek - twee ____
+7. één oma - twee ____
+8. één ei - twee ____
 9. één jas - twee ____
-10. één huis - twee ____
-11. één maand - twee ____
-12. één trap - twee ____
-13. één neef - twee ____
-14. één prijs - twee ____
-15. één dokter - twee ____
+10. één museum - twee ____
+11. één meisje - twee ____
+12. één dag - twee ____
+13. één trap - twee ____
+14. één tv - twee ____
+15. één zee - twee ____
 
-## 2. Schrijf het meervoud (`-s` of `'s`)
+## 2. Schrijf het meervoud (gemengd, deel 2)
 
-1. één meisje - drie ____
-2. één sleutel - vier ____
-3. één jongen - tien ____
-4. één opa - twee ____
-5. één oma - twee ____
-6. één taxi - twee ____
-7. één foto - twee ____
+1. één feest - twee ____
+2. één opa - twee ____
+3. één schip - twee ____
+4. één muis - twee ____
+5. één koekje - twee ____
+6. één datum - twee ____
+7. één brief - twee ____
+8. één taxi - twee ____
+9. één weg - twee ____
+10. één zus - twee ____
+11. één kamer - twee ____
+12. één lid - twee ____
+13. één bed - twee ____
+14. één baby - twee ____
+15. één idee - twee ____
+
+## 3. Schrijf het meervoud (gemengd, deel 3)
+
+1. één zaal - twee ____
+2. één jongen - twee ____
+3. één pad - twee ____
+4. één huis - twee ____
+5. één cadeau - twee ____
+6. één koe - twee ____
+7. één maand - twee ____
 8. één menu - twee ____
-9. één baby - twee ____
-10. één tv - twee ____
+9. één mogelijkheid - twee ____
+10. één neef - twee ____
 11. één wc - twee ____
-12. één cadeau - twee ____
-13. één koekje - vijf ____
+12. één vrijheid - twee ____
+13. één prijs - twee ____
 14. één karretje - twee ____
-15. één kamer - drie ____
-
-## 3. Schrijf het meervoud (onregelmatig)
-
-1. het kind - de ____
-2. het ei - de ____
-3. de stad - de ____
-4. het schip - de ____
-5. de dag - de ____
-6. het lid - de ____
-7. de datum - de ____
-8. het museum - de ____
-9. het pad - de ____
-10. de weg - de ____
-11. de koe - de ____
-12. de zee - de ____
-13. het idee - de ____
-14. de mogelijkheid - de ____
-15. de vrijheid - de ____
+15. één dokter - twee ____
 
 ## 4. Enkelvoud of meervoud? Vul in
 
@@ -172,57 +174,57 @@ Maak nu vragen met een vraagwoord (`wie`, `wat`, `waar`, `wanneer`, `hoe`, `hoev
 
 ### 1
 
-1. kaarten
-2. feesten
-3. bedden
-4. zussen
-5. zalen
-6. brieven
-7. muizen
-8. boeken
+1. kinderen
+2. sleutels
+3. kaarten
+4. foto's
+5. steden
+6. boeken
+7. oma's
+8. eieren
 9. jassen
-10. huizen
-11. maanden
-12. trappen
-13. neven
-14. prijzen
-15. dokters
+10. musea (ook goed: museums)
+11. meisjes
+12. dagen
+13. trappen
+14. tv's
+15. zeeën
 
 ### 2
 
-1. meisjes
-2. sleutels
-3. jongens
-4. opa's
-5. oma's
-6. taxi's
-7. foto's
-8. menu's
-9. baby's
-10. tv's
-11. wc's
-12. cadeaus
-13. koekjes
-14. karretjes
-15. kamers
+1. feesten
+2. opa's
+3. schepen
+4. muizen
+5. koekjes
+6. data (ook goed: datums)
+7. brieven
+8. taxi's
+9. wegen
+10. zussen
+11. kamers
+12. leden
+13. bedden
+14. baby's
+15. ideeën
 
 ### 3
 
-1. de kinderen
-2. de eieren
-3. de steden
-4. de schepen
-5. de dagen
-6. de leden
-7. de data
-8. de musea
-9. de paden
-10. de wegen
-11. de koeien
-12. de zeeën
-13. de ideeën
-14. de mogelijkheden
-15. de vrijheden
+1. zalen
+2. jongens
+3. paden
+4. huizen
+5. cadeaus
+6. koeien
+7. maanden
+8. menu's
+9. mogelijkheden
+10. neven
+11. wc's
+12. vrijheden
+13. prijzen
+14. karretjes
+15. dokters
 
 ### 4
 
