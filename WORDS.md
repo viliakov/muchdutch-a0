@@ -975,3 +975,26 @@ Suggested columns:
 | minimaal | at least, minimum | минимум | adverb | les-15 | `minimaal 10 producten` |
 | meestal | usually, mostly | обычно | adverb | les-15 | `Wat koop je meestal?` |
 | uit de muur eten | to eat from the wall (vending) | еда из автомата | phrase | les-15 | Dutch fast-food (FEBO) |
+
+## Les 16
+
+| Dutch | English | Russian | Type | Lesson | Notes |
+| --- | --- | --- | --- | --- | --- |
+| de verjaardag | birthday | день рождения | noun | les-16 | `op mijn verjaardag`; also in les-15 |
+| het feestje | party | праздник, вечеринка | noun | les-16 | plural `de feestjes`; `een feestje geven` |
+| het voorstel | proposal, suggestion | предложение | noun | les-16 | `Wat een goed voorstel!`; also in les-14 |
+| uit eten | to eat out | ужинать в кафе/ресторане | phrase | les-16 | `Wij gaan uit eten.` |
+| kletsen | to chat | болтать | verb | les-16 | `We kletsen graag.` |
+| de verrassing | surprise | сюрприз | noun | les-16 | plural `de verrassingen` |
+| Wat een mooie verrassing! | What a nice surprise! | Какой отличный сюрприз! | phrase | les-16 | luisteren |
+| het eetcafé | eetcafé (café serving meals) | кафе с едой | noun | les-16 | `een eetcafé = café met eten` |
+| geweldig | great, wonderful | чудесный, замечательный | adjective | les-16 | `Dat is geweldig!` |
+| afspreken | to arrange to meet | договариваться о встрече | verb | les-16 | separable: `Zullen we afspreken?` |
+| het seizoen | season | сезон | noun | les-16 | plural `de seizoenen` |
+| aan de beurt zijn | to be someone's turn | быть на очереди | phrase | les-16 | `Wie is er aan de beurt?` |
+| over de datum | past the expiry date | просроченный | phrase | les-16 | `Deze melk is over de datum.` |
+| de margarine | margarine | маргарин | noun | les-16 | `echte boter of margarine` |
+| de spruitjes | Brussels sprouts | брюссельская капуста | noun | les-16 | meestal meervoud |
+| op tafel | on the table | на столе | phrase | les-16 | zonder lidwoord: `Het eten staat op tafel.` |
+| geen zin hebben | to not feel like it | не хотеться | phrase | les-16 | `Ik heb geen zin.` |
+| een presentatie geven | to give a presentation | делать презентацию | phrase | les-16 | spreken-opdracht |
