@@ -655,11 +655,11 @@ Suggested columns:
 | haar / d'r | her | её | possessive | les-12 | `d'r` is the informal short form |
 | ons / onze | our | наш | possessive | les-12 | `onze` before `de`-words, `ons` before `het`-words |
 | hun | their | их | possessive | les-12 | possessive; also indirect object pronoun |
-| mij / me | me | меня, мне | object pronoun | les-12 | `Kun je mij helpen?` |
-| jou | you | тебя, тебе | object pronoun | les-12 | `voor jou` |
-| hem | him, it | его | object pronoun | les-12 | also refers back to `de`-words |
-| ons | us | нас, нам | object pronoun | les-12 | `Je kunt vragen stellen aan ons.` |
-| hen | them | их | object pronoun | les-12 | direct object and after a preposition |
+| mij / me | me | меня, мне | object pronoun | les-12, les-17 | full / unstressed form; `Kun je mij helpen?` |
+| jou / je | you | тебя, тебе | object pronoun | les-12, les-17 | full / unstressed informal form; `voor jou` |
+| hem | him, it | его, ему | object pronoun | les-12, les-17 | person or singular `de`-word |
+| ons | us | нас, нам | object pronoun | les-12, les-17 | `Je kunt vragen stellen aan ons.` |
+| hen / ze | them | их, им | object pronoun | les-12, les-17 | full / unstressed form; people |
 
 ## Les 13
 
@@ -998,3 +998,57 @@ Suggested columns:
 | op tafel | on the table | на столе | phrase | les-16 | zonder lidwoord: `Het eten staat op tafel.` |
 | geen zin hebben | to not feel like it | не хотеться | phrase | les-16 | `Ik heb geen zin.` |
 | een presentatie geven | to give a presentation | делать презентацию | phrase | les-16 | spreken-opdracht |
+
+## Les 17
+
+| Dutch | English | Russian | Type | Lesson | Notes |
+| --- | --- | --- | --- | --- | --- |
+| de koolhydraatbasis | carbohydrate base | углеводная основа | noun | les-17 | meal-building step |
+| de eiwitbron | protein source | источник белка | noun | les-17 | plural `de eiwitbronnen` |
+| de groentetopping | vegetable topping | овощной топпинг | noun | les-17 | plural `de groentetoppings` |
+| het gezonde vet | healthy fat | полезный жир | noun | les-17 | plural `de gezonde vetten` |
+| de topping | topping | топпинг, добавка | noun | les-17 | plural `de toppings` |
+| de dressing | dressing | заправка | noun | les-17 | salad/meal dressing |
+| de zoete aardappel | sweet potato | батат | noun | les-17 | plural `de zoete aardappels` |
+| de volkoren pasta | whole-wheat pasta | цельнозерновая паста | noun | les-17 | uncountable |
+| de quinoa | quinoa | киноа | noun | les-17 | meal base |
+| de couscous | couscous | кускус | noun | les-17 | meal base |
+| de tofu | tofu | тофу | noun | les-17 | protein source |
+| de tempeh | tempeh | темпе | noun | les-17 | protein source |
+| de feta | feta | фета | noun | les-17 | cheese/protein source |
+| de mozzarella | mozzarella | моцарелла | noun | les-17 | cheese/protein source |
+| de broccoli | broccoli | брокколи | noun | les-17 | vegetable |
+| de paprika | bell pepper | сладкий перец | noun | les-17 | plural `de paprika's` |
+| de courgette | courgette, zucchini | кабачок, цукини | noun | les-17 | plural `de courgettes` |
+| de avocado | avocado | авокадо | noun | les-17 | plural `de avocado's` |
+| de olijf | olive | оливка | noun | les-17 | plural `de olijven` |
+| de olie | oil | масло | noun | les-17 | dressing ingredient |
+| het pronomen | pronoun | местоимение | noun | les-17 | plural `de pronomina`; also `het voornaamwoord` |
+| haar | her | её, ей | object pronoun | les-17 | feminine singular |
+| het voorgerecht | starter, appetizer | закуска, первое блюдо | noun | les-17 | plural `de voorgerechten` |
+| het hoofdgerecht | main course | основное блюдо | noun | les-17 | plural `de hoofdgerechten` |
+| het nagerecht | dessert | десерт | noun | les-17 | plural `de nagerechten` |
+| de dagschotel | dish of the day | блюдо дня | noun | les-17 | restaurant menu |
+| Eet smakelijk! | Enjoy your meal! | Приятного аппетита! | phrase | les-17 | meal wish |
+| de voorkeur geven aan | to prefer | отдавать предпочтение | verb phrase | les-17 | `Ik geef de voorkeur aan vis.` |
+| de bulgur | bulgur | булгур | noun | les-17 | carbohydrate base |
+| de koolgroente | brassica, cabbage vegetable | капустный овощ | noun | les-17 | plural `de koolgroenten` |
+| de winter | winter | зима | noun | les-17 | listening vocabulary |
+| de lente | spring | весна | noun | les-17 | listening vocabulary |
+| de zomer | summer | лето | noun | les-17 | listening vocabulary |
+| de herfst | autumn, fall | осень | noun | les-17 | listening vocabulary |
+| de asperge | asparagus spear | спаржа | noun | les-17 | usually plural `de asperges` |
+| het wilde zwijn | wild boar | кабан | noun | les-17 | listening vocabulary |
+| het deel | part | часть | noun | les-17 | plural `de delen` |
+| de zuurkoolstamppot | sauerkraut mash | картофельное пюре с квашеной капустой | noun | les-17 | `Ik ben dol op zuurkoolstamppot.` |
+| alvast | already, for now, in advance | заранее, пока что | adverb | les-17 | `Willen jullie alvast iets drinken?` |
+| het mineraalwater | mineral water | минеральная вода | noun | les-17 | restaurant dialogue |
+| de mosterdsoep | mustard soup | горчичный суп | noun | les-17 | restaurant dialogue |
+| de biefstuk | steak | бифштекс, стейк | noun | les-17 | `biefstuk met frietjes` |
+| het frietje | chip, French fry | картофель фри | noun | les-17 | usually plural `frietjes` |
+| de Spaanse salade | Spanish salad | испанский салат | noun | les-17 | restaurant dialogue |
+| vegetarisch | vegetarian | вегетарианский | adjective | les-17 | `de vegetarische dagschotel` |
+| de serveerster | waitress | официантка | noun | les-17 | restaurant dialogue |
+| de slagroom | whipped cream | взбитые сливки | noun | les-17 | `zonder slagroom` |
+| de fooi | tip | чаевые | noun | les-17 | `een fooi geven` |
+| het toetje | dessert | десерт | noun | les-17 | informal synonym of `het nagerecht` |
