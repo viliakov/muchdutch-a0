@@ -130,6 +130,27 @@ When the user asks for homework:
 12. Prefer sentences that combine the current lesson grammar with older vocabulary from `WORDS.md`.
 13. If a screenshot already contains Russian prompts, preserve that style and add English prompts where useful.
 
+### User's Standard Homework Requirements
+
+Apply these requirements to generated extra homework unless the user explicitly asks for a different format:
+
+1. Include exercises covering:
+   - direct, indirect, and possessive pronouns,
+   - negative sentences,
+   - questions,
+   - large numbers written in words, including ordinal numbers,
+   - sentence building with conjunctions learned so far,
+   - sentence building with modal verbs learned so far,
+   - every new word or phrase added for the current lesson.
+2. Write the source text for all the exercise types listed above in Russian so the user practises translating into Dutch.
+3. Where meaningful, include plural nouns and a mixture of `de`-words and `het`-words in those exercises.
+4. Give each standard exercise 15-20 sentences/items. The current-lesson vocabulary exercise may contain as many items as needed to cover every new word and phrase.
+5. Keep the existing Russian-to-Dutch and English-to-Dutch translation sections as separate sections.
+6. Keep the dedicated plural and `de`/`het` exercises.
+7. Include one dedicated exercise that collectively covers all new vocabulary introduced in the current lesson.
+8. Provide a fixed answer key for every item; do not use open-ended tasks.
+9. In conjunction and modal-verb exercises, do not name the required conjunction or modal verb beside each sentence. The user should choose it independently. The answer key may show one natural solution even when other correct variants are possible.
+
 ## Style
 
 - Be clear, practical, and beginner-friendly.
