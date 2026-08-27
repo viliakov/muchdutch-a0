@@ -190,7 +190,7 @@ Suggested columns:
 | onze | our | наша, наши | possessive | les-05 | for de-words/plural: `onze auto`, `onze kinderen` |
 | hun | their | их | possessive | les-05 | possessive pronoun |
 | het weer | weather | погода | noun | les-05 | weather topic |
-| warm | warm | теплый | adjective | les-05 | weather |
+| warm | warm | тёплый | adjective | les-05, les-18 | weather; attributive `warme` |
 | koud | cold | холодный | adjective | les-05 | weather |
 | waaien | to blow, to be windy | дуть | verb | les-05 | weather: `het waait` |
 | het waait | it is windy | ветрено | phrase | les-05 | weather phrase |
@@ -283,11 +283,11 @@ Suggested columns:
 | beantwoorden | to answer | отвечать | verb | les-06 | questions |
 | leren | to learn | учить, изучать | verb | les-06 | course context |
 | zeggen | to say | сказать | verb | les-06 | useful for dialogues |
-| groot | big | большой | adjective | les-06 | adjective practice |
+| groot | big, tall | большой, высокий | adjective | les-06, les-18 | attributive `grote` |
 | klein | small | маленький | adjective | les-06 | adjective practice |
-| mooi | beautiful, nice | красивый | adjective | les-06 | adjective practice |
+| mooi | beautiful, nice | красивый | adjective | les-06, les-18 | attributive `mooie`; `een mooi het-woord` |
 | nieuw | new | новый | adjective | les-06 | adjective practice |
-| oud | old | старый | adjective | les-06 | adjective practice |
+| oud | old, elderly | старый, пожилой | adjective | les-06, les-18 | attributive `oude` |
 | schoon | clean | чистый | adjective | les-06 | adjective practice |
 | interessant | interesting | интересный | adjective | les-06 | adjective practice |
 | goedemorgen | good morning | доброе утро | phrase | les-06 | greeting |
@@ -546,7 +546,7 @@ Suggested columns:
 | het schilderij | painting | картина | noun | les-11 | object |
 | het kleed | rug, carpet | ковер | noun | les-11 | object |
 | de mobiele telefoon | mobile phone | мобильный телефон | noun | les-11 | object |
-| de trui | sweater | свитер | noun | les-11 | clothing |
+| de trui | jumper, sweater | свитер | noun | les-11, les-18 | plural `de truien` |
 | de tram | tram | трамвай | noun | les-11 | transport |
 | de kat | cat | кошка | noun | les-11 | animal |
 | het varken | pig | свинья | noun | les-11 | animal |
@@ -561,7 +561,7 @@ Suggested columns:
 | moe | tired | усталый | adjective | les-11 | mood/character |
 | slaperig | sleepy | сонный | adjective | les-11 | mood/character |
 | boos | angry | злой | adjective | les-11 | mood/character |
-| slank | slim | стройный | adjective | les-11 | describing people |
+| slank | slim | стройный | adjective | les-11, les-18 | describing people |
 | bang | afraid, scared | испуганный | adjective | les-11 | mood/character |
 | de nieuwbouwwijk | new-build district | новый жилой район | noun | les-11 | neighborhood |
 | de buitenwijk | suburb | пригород, окраина | noun | les-11 | neighborhood |
@@ -639,14 +639,14 @@ Suggested columns:
 | de kassa | checkout, till | касса | noun | les-12 | shop |
 | de klant | customer | клиент, покупатель | noun | les-12 | shop |
 | de kantine | canteen | столовая | noun | les-12 | place |
-| de broek | trousers | брюки | noun | les-12 | clothing |
+| de broek | trousers | брюки | noun | les-12, les-18 | singular in Dutch |
 | het shirt | shirt | рубашка, футболка | noun | les-12 | clothing |
 | de maat | size | размер | noun | les-12 | `een kleinere maat` |
 | tegenkomen | to run into, to meet | встречать | verb | les-12 | separable: `Ik kom haar vaak tegen.` |
 | wensen | to wish | желать | verb | les-12 | `Ik wens u een fijne dag.` |
 | de schoonouders | parents-in-law | родители супруга | noun | les-12 | family; plural |
 | het kleinkind | grandchild | внук, внучка | noun | les-12 | plural `de kleinkinderen` |
-| allebei | both | оба | pronoun | les-12 | `wij zijn allebei getrouwd` |
+| allebei | both | оба | adverb/pronoun | les-12, les-18 | `ze hebben allebei een trui aan` |
 | bestaan uit | to consist of | состоять из | verb | les-12 | `De familie bestaat uit elf personen.` |
 | mijn / m'n | my | мой | possessive | les-12 | `m'n` is the informal short form |
 | jouw | your | твой | possessive | les-12 | informal; unstressed form `je` |
@@ -679,7 +679,7 @@ Suggested columns:
 | aan | on (switched on) | включен | adverb | les-13 | `De oven staat aan.`; also preposition in les-11 |
 | uit | off (switched off) | выключен | adverb | les-13 | `De oven staat uit.` |
 | de gram | gram | грамм | noun | les-13 | `150 gram boter` |
-| de snor | moustache | усы | noun | les-13 | grammar example: `Hij heeft geen snor.` |
+| de snor | moustache | усы | noun | les-13, les-18 | `een snor hebben` |
 | de zon | sun | солнце | noun | les-13 | `Ik zie de zon niet.` |
 | op tijd | on time | вовремя | phrase | les-13 | `Niet alle studenten komen op tijd.` |
 | 's morgens | in the morning | утром | time adverb | les-13 | variant of `'s ochtends` (les-12) |
@@ -771,7 +771,7 @@ Suggested columns:
 | pinnen | to pay by debit card | платить картой | verb | les-14 | `Ik wil pinnen.` |
 | de pinpas | debit card | банковская карта | noun | les-14 | `met de pinpas betalen` |
 | contant betalen | to pay cash | платить наличными | verb phrase | les-14 | `contant of pinnen?` |
-| het pak | pack, carton | пакет, упаковка | noun | les-14 | `een pak melk` |
+| het pak | pack, carton; suit | пакет, упаковка; костюм | noun | les-14, les-18 | `een pak melk`; plural `de pakken` |
 | de zegel | stamp, sticker | наклейка, марка | noun | les-14 | plural `de zegels`; supermarket loyalty stamps |
 | de kilo | kilo | килограмм | noun | les-14 | 1 kilo = 1.000 gram |
 | het pond | pound (500 g) | полкило | noun | les-14 | 1 pond = 500 gram = de helft van een kilo |
@@ -863,7 +863,7 @@ Suggested columns:
 | het boodschappenkarretje | shopping trolley | тележка для покупок | noun | les-15 | short: `het karretje` |
 | het karretje | trolley, cart | тележка | noun | les-15 | plural `de karretjes` |
 | de weegschaal | scales | весы | noun | les-15 | `op de weegschaal leggen` |
-| wegen | to weigh | взвешивать | verb | les-15 | `Ze wegen ongeveer een kilo.` |
+| wegen | to weigh | весить, взвешивать | verb | les-15, les-18 | `Hoeveel weegt het?` |
 | ongeveer | about, approximately | примерно | adverb | les-15 | `ongeveer een kilo` |
 | de afdeling | department, section | отдел | noun | les-15 | `de drankafdeling` |
 | de medewerker | employee, staff member | сотрудник | noun | les-15 | `een medewerker van de supermarkt` |
@@ -1052,3 +1052,85 @@ Suggested columns:
 | de slagroom | whipped cream | взбитые сливки | noun | les-17 | `zonder slagroom` |
 | de fooi | tip | чаевые | noun | les-17 | `een fooi geven` |
 | het toetje | dessert | десерт | noun | les-17 | informal synonym of `het nagerecht` |
+
+## Les 18
+
+| Dutch | English | Russian | Type | Lesson | Notes |
+| --- | --- | --- | --- | --- | --- |
+| de rok | skirt | юбка | noun | les-18 | plural `de rokken` |
+| het hemd | vest, undershirt; shirt | майка, нижняя рубашка | noun | les-18 | plural `de hemden` |
+| het overhemd | shirt | рубашка | noun | les-18 | plural `de overhemden` |
+| het T-shirt | T-shirt | футболка | noun | les-18 | plural `de T-shirts` |
+| de blouse | blouse | блузка | noun | les-18 | plural `de blouses` |
+| de spijkerbroek | jeans | джинсы | noun | les-18 | singular in Dutch |
+| de schoen | shoe | туфля, ботинок | noun | les-18 | plural `de schoenen` |
+| de sneaker | trainer, sneaker | кроссовок | noun | les-18 | plural `de sneakers` |
+| de jurk | dress | платье | noun | les-18 | plural `de jurken` |
+| de laars | boot | сапог | noun | les-18 | plural `de laarzen` |
+| de kleren | clothes | одежда | noun | les-18 | plural; also `de kleding` |
+| dragen | to wear, carry | носить | verb | les-18 | `ik draag`, `hij draagt` |
+| aanhebben | to be wearing | быть одетым в | separable verb | les-18 | `ik heb een trui aan` |
+| vrij | free, off work | свободный, выходной | adjective | les-18 | `vandaag vrij zijn` |
+| de hoed | hat | шляпа | noun | les-18 | `op je hoofd` |
+| de bril | glasses | очки | noun | les-18 | singular in Dutch; `op je neus` |
+| de oorbel | earring | серьга | noun | les-18 | plural `de oorbellen` |
+| de muts | beanie, woolly hat | шапка | noun | les-18 | `op je hoofd` |
+| de sjaal | scarf | шарф | noun | les-18 | `om je nek` |
+| de handschoen | glove | перчатка | noun | les-18 | plural `de handschoenen`; `aan je handen` |
+| de hoofddoek | headscarf | головной платок | noun | les-18 | `op je hoofd` |
+| de ring | ring | кольцо | noun | les-18 | `om je vinger` |
+| het horloge | watch | наручные часы | noun | les-18 | `om je arm` |
+| de ketting | necklace, chain | цепочка, ожерелье | noun | les-18 | `om je nek` |
+| de armband | bracelet | браслет | noun | les-18 | `om je arm` |
+| de sieraden | jewellery | украшения | noun | les-18 | plural; singular `het sieraad` |
+| het adjectief | adjective | прилагательное | noun | les-18 | plural `de adjectieven` |
+| de korte vorm | short form | краткая форма | noun | les-18 | predicative adjective without `-e` |
+| verbogen | inflected | склоняемый, изменённый | adjective | les-18 | `de verbogen vorm` |
+| de bepaalde vorm | definite form | определённая форма | grammar phrase | les-18 | with `de`/`het` |
+| de onbepaalde vorm | indefinite form | неопределённая форма | grammar phrase | les-18 | e.g. with `een` |
+| wit | white | белый | adjective | les-18 | attributive `witte` |
+| dik | thick, fat | толстый | adjective | les-18 | attributive `dikke` |
+| laag | low | низкий | adjective | les-18 | attributive `lage` |
+| grijs | grey | серый, седой | adjective | les-18 | attributive `grijze` |
+| lief | sweet, kind | милый, добрый | adjective | les-18 | attributive `lieve` |
+| houten | wooden | деревянный | material adjective | les-18 | ends in `-en` |
+| wollen | woollen | шерстяной | material adjective | les-18 | ends in `-en` |
+| comfortabel | comfortable | удобный | adjective | les-18 | `een comfortabel hemd` |
+| luchtig | light, airy | лёгкий, не жаркий | adjective | les-18 | clothing |
+| praktisch | practical | практичный | adjective | les-18 | `praktische kleding` |
+| gemakkelijk te combineren | easy to combine | легко сочетать | phrase | les-18 | clothing |
+| bij mijn stijl passen | to suit my style | подходить к моему стилю | verb phrase | les-18 | separable `past ... bij` |
+| geschikt voor elke dag | suitable for every day | подходящий на каждый день | phrase | les-18 | clothing |
+| lekker zitten | to feel comfortable (clothes) | удобно сидеть | verb phrase | les-18 | `De trui zit lekker.` |
+| goed staan | to suit, look good on | идти, хорошо смотреться | verb phrase | les-18 | `Het staat me goed.` |
+| zich er goed in voelen | to feel good in it | хорошо себя в этом чувствовать | verb phrase | les-18 | `Ik voel me er goed in.` |
+| dun | thin | худой, тонкий | adjective | les-18 | appearance/material |
+| mollig | chubby, plump | пухлый, полноватый | adjective | les-18 | appearance |
+| van gemiddelde lengte | of average height | среднего роста | phrase | les-18 | appearance |
+| heel klein | very short | очень низкого роста | phrase | les-18 | person |
+| heel lang | very tall | очень высокий | phrase | les-18 | person |
+| knap | attractive, handsome | привлекательный, красивый | adjective | les-18 | person |
+| niet zo knap | not very attractive | не очень привлекательный | phrase | les-18 | person |
+| lelijk | ugly | некрасивый | adjective | les-18 | appearance |
+| kaal | bald | лысый | adjective | les-18 | appearance |
+| jong | young | молодой | adjective | les-18 | attributive `jonge` |
+| van middelbare leeftijd | middle-aged | среднего возраста | phrase | les-18 | appearance |
+| er jong uitzien | to look young | выглядеть молодо | separable verb phrase | les-18 | `zij ziet er jong uit` |
+| er ouder uitzien | to look older | выглядеть старше | separable verb phrase | les-18 | `hij ziet er ouder uit` |
+| kort haar | short hair | короткие волосы | phrase | les-18 | `het haar`; no article here |
+| halflang haar | medium-length hair | волосы средней длины | phrase | les-18 | appearance |
+| lang haar | long hair | длинные волосы | phrase | les-18 | appearance |
+| blond haar | blond hair | светлые волосы | phrase | les-18 | appearance |
+| donkerblond haar | dark-blond hair | тёмно-русые волосы | phrase | les-18 | appearance |
+| bruin haar | brown hair | каштановые волосы | phrase | les-18 | appearance |
+| rood haar | red hair | рыжие волосы | phrase | les-18 | appearance |
+| zwart haar | black hair | чёрные волосы | phrase | les-18 | appearance |
+| krullend haar | curly hair | кудрявые волосы | phrase | les-18 | appearance |
+| steil haar | straight hair | прямые волосы | phrase | les-18 | appearance |
+| golvend haar | wavy hair | волнистые волосы | phrase | les-18 | appearance |
+| de baard | beard | борода | noun | les-18 | `een baard hebben` |
+| de rimpel | wrinkle | морщина | noun | les-18 | usually plural `de rimpels` |
+| de lichte huid | light complexion | светлая кожа | noun phrase | les-18 | `de huid` |
+| de donkere huid | dark complexion | тёмная, смуглая кожа | noun phrase | les-18 | `de huid` |
+| Wat draag je vaak? | What do you often wear? | Что ты часто носишь? | phrase | les-18 | speaking prompt |
+| Waarom? | Why? | Почему? | question | les-18 | give a reason with `want` |
