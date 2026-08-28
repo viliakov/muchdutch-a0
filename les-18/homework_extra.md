@@ -25,30 +25,30 @@ Doel: de verbuiging van adjectieven oefenen en tegelijk grammatica en woordensch
 19. Ik wil geen `(dik)` __________ boek.
 20. Elk `(klein)` __________ kind heeft een muts.
 
-## 2. `de`-woord of `het`-woord? Schrijf ook het adjectief goed
+## 2. `de`-woord of `het`-woord? Schrijf het adjectief goed
 
-Vul `de` of `het` in en verbuig het adjectief. Voorbeeld: `(mooi) ___ jurk` → `de mooie jurk`.
+Vul de goede vorm van het adjectief in. Alle zelfstandige naamwoorden zijn onbepaald en enkelvoudig. Bepaal daarom eerst of het zelfstandig naamwoord een `de`-woord of een `het`-woord is. Voorbeeld: `een (mooi) ___ jurk` → `een mooie jurk`.
 
-1. `(warm)` ___ trui
-2. `(zwart)` ___ rok
-3. `(wit)` ___ hemd
-4. `(groen)` ___ overhemd
-5. `(luchtig)` ___ T-shirt
-6. `(mooi)` ___ blouse
-7. `(lang)` ___ spijkerbroek
-8. `(kort)` ___ broek
-9. `(blauw)` ___ jurk
-10. `(net)` ___ pak
-11. `(nieuw)` ___ horloge
-12. `(bruin)` ___ schoen
-13. `(grijs)` ___ huis
-14. `(klein)` ___ stad
-15. `(lekker)` ___ hoofdgerecht
-16. `(rood)` ___ paprika
-17. `(oud)` ___ museum
-18. `(lief)` ___ kind
-19. `(houten)` ___ tafel
-20. `(donker)` ___ huid
+1. een `(warm)` __________ trui
+2. een `(zwart)` __________ rok
+3. een `(wit)` __________ hemd
+4. een `(groen)` __________ overhemd
+5. een `(luchtig)` __________ T-shirt
+6. een `(mooi)` __________ blouse
+7. een `(lang)` __________ spijkerbroek
+8. een `(kort)` __________ broek
+9. een `(blauw)` __________ jurk
+10. een `(net)` __________ pak
+11. een `(nieuw)` __________ horloge
+12. een `(bruin)` __________ schoen
+13. een `(grijs)` __________ huis
+14. een `(klein)` __________ stad
+15. een `(lekker)` __________ hoofdgerecht
+16. een `(rood)` __________ paprika
+17. een `(oud)` __________ museum
+18. een `(lief)` __________ kind
+19. een `(houten)` __________ tafel
+20. een `(donker)` __________ huid
 
 ## 3. Vertaal naar het Nederlands (Russisch → Nederlands)
 
@@ -293,26 +293,26 @@ Vertaal naar het Nederlands. Samen komen alle nieuwe woorden en vaste uitdrukkin
 
 ### 2
 
-1. de warme trui
-2. de zwarte rok
-3. het witte hemd
-4. het groene overhemd
-5. het luchtige T-shirt
-6. de mooie blouse
-7. de lange spijkerbroek
-8. de korte broek
-9. de blauwe jurk
-10. het nette pak
-11. het nieuwe horloge
-12. de bruine schoen
-13. het grijze huis
-14. de kleine stad
-15. het lekkere hoofdgerecht
-16. de rode paprika
-17. het oude museum
-18. het lieve kind
-19. de houten tafel
-20. de donkere huid
+1. een warme trui (`de trui`)
+2. een zwarte rok (`de rok`)
+3. een wit hemd (`het hemd`)
+4. een groen overhemd (`het overhemd`)
+5. een luchtig T-shirt (`het T-shirt`)
+6. een mooie blouse (`de blouse`)
+7. een lange spijkerbroek (`de spijkerbroek`)
+8. een korte broek (`de broek`)
+9. een blauwe jurk (`de jurk`)
+10. een net pak (`het pak`)
+11. een nieuw horloge (`het horloge`)
+12. een bruine schoen (`de schoen`)
+13. een grijs huis (`het huis`)
+14. een kleine stad (`de stad`)
+15. een lekker hoofdgerecht (`het hoofdgerecht`)
+16. een rode paprika (`de paprika`)
+17. een oud museum (`het museum`)
+18. een lief kind (`het kind`)
+19. een houten tafel (`de tafel`)
+20. een donkere huid (`de huid`)
 
 ### 3
 
