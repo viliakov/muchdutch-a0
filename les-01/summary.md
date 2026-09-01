@@ -1,11 +1,21 @@
 # Les 1 - Summary
 
-## Source
+## Source / Источник
 
 - Based on: Miro board screenshot with sections for greetings, pronunciation, alphabet, short dialogues, and homework.
 - Date added: 2026-07-05
 
-## Main Topics
+## Русский дубль всех пояснений
+
+### Основные темы и лексика
+
+Урок посвящён знакомству, приветствиям, вопросу о самочувствии, прощанию, алфавиту и произнесению имени по буквам. Основные формулы: `Ik ben ...`, `En jij?`, `Hoe gaat het?`, `Hoe is het met jou/u?`, ответы `goed`, `prima`, `het gaat wel`, `niet zo goed`, а также пожелания `Fijne dag`, `Fijne avond`, `Fijn weekend`.
+
+### Произношение и практика
+
+Отрабатываются краткие и долгие гласные, сочетания `oe`, `ie`, `ei/ij`, `ui`, `au/ou`, типично нидерландские звуки `g/ch`, `ng`, `sch` и ослабленное окончание `-en`. Нужно уметь представиться, спросить о самочувствии в неформальной и вежливой форме, назвать и произнести имя по буквам и завершить короткий диалог.
+
+## Main Topics / Основные темы
 
 - Introducing yourself with `Ik ben ...`.
 - Asking another person: `En jij?`.
@@ -74,7 +84,7 @@ Examples:
 1. Hoe is het met jou?
 2. Hoe is het met u?
 
-## Vocabulary Themes
+## Vocabulary Themes / Темы лексики
 
 - Greetings: `hallo`, `hoi`.
 - Introduction: `ik ben`, `en jij`.
@@ -82,7 +92,7 @@ Examples:
 - Replies: `goed`, `heel goed`, `prima`, `uitstekend`, `het gaat wel`, `niet zo goed`, `niet zo best`, `slecht`.
 - Goodbye and good wishes: `fijne dag`, `fijne avond`, `fijn weekend`.
 
-## Pronunciation
+## Pronunciation / Произношение
 
 ### Consonants That Are Similar To Russian
 
@@ -151,7 +161,7 @@ Common examples:
 - Final `-en` is often pronounced weakly or with the `n` dropped.
 - Plural nouns and infinitive verb endings can sound reduced in normal speech.
 
-## Alphabet And Spelling
+## Alphabet And Spelling / Алфавит и правописание
 
 The board includes the Dutch alphabet and letter names. This is useful for spelling names, email addresses, and forms.
 
@@ -161,7 +171,7 @@ Practice tasks:
 - Spell your name.
 - Listen to spelling and write the word.
 
-## Listening And Speaking
+## Listening And Speaking / Аудирование и устная речь
 
 Useful mini-dialogues:
 
@@ -179,7 +189,7 @@ B: Goed, en met jou?
 A: Hoe is het met u?  
 B: Prima, dank u.
 
-## Writing Practice
+## Writing Practice / Письменная практика
 
 Likely homework from the board:
 
@@ -188,7 +198,7 @@ Likely homework from the board:
 - Write answers to `Hoe gaat het?`.
 - Practice dictation from pronunciation rows.
 
-## Useful Example Sentences
+## Useful Example Sentences / Полезные примеры
 
 1. Hallo! Ik ben Alexander.
 2. Hoi! Ik ben Maxim.
@@ -203,7 +213,7 @@ Likely homework from the board:
 11. Fijne avond!
 12. Fijn weekend!
 
-## Homework Ideas
+## Homework Ideas / Идеи для домашней работы
 
 - Match greetings with translations.
 - Fill in missing words in short dialogues.
@@ -213,7 +223,7 @@ Likely homework from the board:
 - Practice spelling names with the Dutch alphabet.
 - Record a short introduction and a `Hoe gaat het?` dialogue.
 
-## Unclear From Source
+## Unclear From Source / Неясно по источнику
 
 - Some small pronunciation word lists are too small to transcribe completely.
 - The exact text of the written homework dialogue is partly unreadable from the screenshot.

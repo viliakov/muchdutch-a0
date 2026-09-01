@@ -1,11 +1,21 @@
 # Les 13 - Summary
 
-## Source
+## Source / Источник
 
 - Based on: Miro board screenshot (`les-13.png`)
 - Date added: 2026-08-01
 
-## Main Topics
+## Русский дубль всех пояснений
+
+### Основные темы и лексика
+
+Урок систематизирует отрицание `niet` и `geen`, включая выбор формы и место `niet` в предложении. Повторяется `houden van`. Лексика охватывает завтрак, продукты, посуду, приёмы пищи и магазины: рынок, супермаркет, пекарню и мясную лавку.
+
+### Аудирование, чтение и практика
+
+В аудировании проверяется рецепт яблочного пирога, в чтении — покупки Юлии и Макса. Нужно отвечать `waar/niet waar`, выбирать магазин, строить отрицательные предложения и вопросы и описывать, что человек ест или не ест.
+
+## Main Topics / Основные темы
 
 - Grammatica: negatie - `niet` of `geen`
 - Woordenschat: ontbijt, eten en drinken, keukenspullen
@@ -83,7 +93,7 @@ The position of `niet` changes the meaning:
 - Ik houd van brood. - Ik houd **niet** van brood.
 - Mo houdt **niet** van brood.
 
-## Vocabulary Themes
+## Vocabulary Themes / Темы лексики
 
 - Ontbijt: het brood, het broodje, de boter, de kaas, de hagelslag, de pindakaas,
   de jam, de honing, de muesli, de havermout, de yoghurt, het ei, het ontbijtkoek,
@@ -96,14 +106,14 @@ The position of `niet` changes the meaning:
 - Hoeveelheid: de gram, genoeg, meer, minder, veel, weinig
 - Kleine woordjes: aan, uit, oké, dom (`Wat dom!`)
 
-## Pronunciation
+## Pronunciation / Произношение
 
 - `geen` has a long `ee`; `gaan` has a long `aa` - do not mix them up.
 - The `ui` in `suiker` and `uit` is the typical Dutch diphthong (as practised in les 6).
 - `ei` in `het ei` and `de eieren` sounds like `ij` in `wijn`.
 - Sentence stress: in `Hij heeft GEEN snor` the negation carries the stress.
 
-## Listening And Speaking
+## Listening And Speaking / Аудирование и устная речь
 
 - Luisteren: a recording about making an appeltaart (`4.9 Appeltaart maken.m4a`).
   Answer `waar` / `niet waar`:
@@ -117,7 +127,7 @@ The position of `niet` changes the meaning:
   using the pictures (brood met kaas, yoghurt met muesli, een ei, boterham met hagelslag).
 - Practise saying what you do *not* eat or drink: `Ik eet geen vlees.`, `Ik drink geen melk.`
 
-## Writing Practice
+## Writing Practice / Письменная практика
 
 - Woorden drillen: match the pictures with the words (`zoek bij elkaar, trek een lijn`):
   de aardappels, het avondeten, eten, de lunch, het water, de wijn, de bloemkool,
@@ -137,7 +147,7 @@ The position of `niet` changes the meaning:
   5. Wat koopt Max?
   6. Wie koopt appels?
 
-## Useful Example Sentences
+## Useful Example Sentences / Полезные примеры
 
 1. Ik eet geen vlees, maar ik eet wel vis.
 2. Hij drinkt geen koffie, hij drinkt thee met melk.
@@ -152,7 +162,7 @@ The position of `niet` changes the meaning:
 11. Julia koopt brood bij de bakker, maar geen vlees.
 12. De oven staat niet aan.
 
-## Homework Ideas
+## Homework Ideas / Идеи для домашней работы
 
 - Fill in `niet` or `geen` in mixed sentences.
 - Rewrite affirmative sentences as negative sentences.
@@ -160,7 +170,7 @@ The position of `niet` changes the meaning:
 - Translate negative sentences from Russian and English into Dutch.
 - Write five sentences about your own breakfast, three positive and two negative.
 
-## Unclear From Source
+## Unclear From Source / Неясно по источнику
 
 - The `luisteren` panels with the name clouds (Marnix, Ayana, Sneha, Anya, Aleksandr,
   Vladimir, Nadin) all use the same six `waar / niet waar` statements; the individual

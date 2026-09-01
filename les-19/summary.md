@@ -1,11 +1,21 @@
 # Les 19 - Summary
 
-## Source
+## Source / Источник
 
 - Based on: four lesson screenshots supplied by the user
 - Date added: 2026-09-01
 
-## Main Topics
+## Русский дубль всех пояснений
+
+### Основные темы и лексика
+
+Изучаются сравнительная и превосходная степени, равенство с `even ... als`, сравнение с `dan` и нерегулярные формы `beter/best`, `meer/meest`, `minder/minst`, `liever/liefst`. Лексика посвящена магазину одежды, размеру, примерочной, сотруднику, пуговицам и примерке.
+
+### Произношение и практика
+
+Нужно различать основу, форму на `-er/-der` и форму на `-st`, слышать дополнительное `-e` перед существительным и правильно удваивать согласную. Практика требует по контексту выбрать сравнительную или превосходную степень, сравнить одежду и магазины и использовать вежливые фразы покупателя.
+
+## Main Topics / Основные темы
 
 - Mensen, dingen, kleding en voorkeuren vergelijken
 - De vergrotende trap (`comparatief`): `kleiner`, `groter`, `lekkerder`
@@ -81,7 +91,7 @@ Ook enkele bijwoorden volgen de gewone regel: `vaak - vaker - het vaakst` en `la
 - Een hele groep, `van alle`, of een duidelijke nummer-éénpositie wijst op de superlatief: `Dit is de goedkoopste blouse van de winkel.`
 - Let op de zinsbouw: `Ik vind tennis leuker`, maar `Ik vind volleybal het leukst`.
 
-## Vocabulary Themes
+## Vocabulary Themes / Темы лексики
 
 - Kledingwinkel: `de kleding`, `de medewerker`, `de paskamer`, `de maat`, `passen`
 - Kledingdetails: `de knoop`, `de knopen`, `de blouse`
@@ -89,28 +99,28 @@ Ook enkele bijwoorden volgen de gewone regel: `vaak - vaker - het vaakst` en `la
 - Beleefde winkeltaal: `Een moment alstublieft.`
 - Vergelijken: `de vergelijking`, `dan`, `even`, `meer`, `minder`, `liever`, `het liefst`
 
-## Pronunciation
+## Pronunciation / Произношение
 
 - Hoor het verschil tussen de basisvorm en `-er`: `groot - groter`, `lang - langer`.
 - Bij woorden op `r` hoor je een extra lettergreep: `duur - duurder`, `lekker - lekkerder`.
 - De onbeklemtoonde `-e` blijft hoorbaar voor een zelfstandig naamwoord: `een leukere sport`, `de goedkoopste winkel`.
 - Let op de consonantverdubbeling: `dik - dikker`, `stil - stiller`.
 
-## Listening And Speaking
+## Listening And Speaking / Аудирование и устная речь
 
 - Vergelijk twee kledingstukken op prijs, kleur, maat en comfort.
 - Zeg welke kleding je liever draagt en wat je het liefst draagt.
 - Vraag in een winkel naar een andere maat of naar de paskamer.
 - Gebruik `dan`, `even` en een superlatief in korte gesprekken.
 
-## Writing Practice
+## Writing Practice / Письменная практика
 
 - Kies uit de basisvorm, comparatief en superlatief.
 - Vul de goede vorm in en let op een extra `-e` voor het zelfstandig naamwoord.
 - Oefen de onregelmatige reeksen `goed - beter - het best`, `veel - meer - het meest`, `weinig - minder - het minst` en `graag - liever - het liefst`.
 - Combineer de nieuwe grammatica met kledingwoordenschat uit les 18 en 19.
 
-## Useful Example Sentences
+## Useful Example Sentences / Полезные примеры
 
 1. Christel heeft meer neven en nichten dan Anja.
 2. Bob heeft de meeste neven en nichten.
@@ -123,7 +133,7 @@ Ook enkele bijwoorden volgen de gewone regel: `vaak - vaker - het vaakst` en `la
 9. Mag ik deze blouse in de paskamer passen?
 10. Een moment alstublieft, de medewerker komt zo.
 
-## Homework Ideas
+## Homework Ideas / Идеи для домашней работы
 
 - Kies in context tussen comparatief en superlatief.
 - Vergelijk kledingstukken en winkels met `dan`.
@@ -131,7 +141,7 @@ Ook enkele bijwoorden volgen de gewone regel: `vaak - vaker - het vaakst` en `la
 - Herhaal adjectiefverbuiging in combinaties als `een betere computer` en `een duurder bureau`.
 - Vertaal winkelgesprekken en vergelijkingen uit het Russisch en Engels.
 
-## Unclear From Source
+## Unclear From Source / Неясно по источнику
 
 - De screenshots tonen geen apart vak met het woord `huiswerk`; de twee zichtbare invuloefeningen zijn daarom als leshuiswerk opgenomen.
 - Op het woordenschatbeeld is niet zichtbaar of alle woorden volledig nieuw zijn; woorden die al in `WORDS.md` stonden zijn niet dubbel toegevoegd.

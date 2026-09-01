@@ -1,11 +1,21 @@
 # Les 2 - Summary
 
-## Source
+## Source / Источник
 
 - Based on: Miro board screenshot with sections for fonetiek, woordenschat/lezen, grammatica, spreken, schrijven, and huiswerk.
 - Date added: 2026-07-05
 
-## Main Topics
+## Русский дубль всех пояснений
+
+### Основные темы и лексика
+
+Повторяются приветствия и вводятся артикли `de`, `het`, `een`, личные местоимения и формы `zijn`. Ученик рассказывает имя, возраст, страну происхождения, семейное положение и детей. Лексика охватывает людей и семью: `de man`, `de vrouw`, `het kind`, `de zoon`, `de dochter`, а также страны и выражения `getrouwd` / `niet getrouwd`.
+
+### Чтение, произношение и практика
+
+Тексты-модели показывают, как кратко рассказать о себе и семье. В произношении отрабатываются сочетания согласных и противопоставление кратких и долгих гласных. В устной и письменной практике нужно заполнить план рассказа о себе, правильно выбрать местоимение и форму `zijn` и использовать существительное с его артиклем.
+
+## Main Topics / Основные темы
 
 - Reviewing greetings and `Hoe gaat het?`.
 - Reading short personal introductions.
@@ -102,7 +112,7 @@ Examples:
 3. Martin en Jan lezen het boek.
 4. De cursisten schrijven de woorden.
 
-## Vocabulary Themes
+## Vocabulary Themes / Темы лексики
 
 - People: `de man`, `de vrouw`, `het kind`, `de kinderen`.
 - Personal information: `de naam`, `het jaar`, `uit Nederland`, `uit Spanje`, `uit China`, `uit Irak`.
@@ -110,7 +120,7 @@ Examples:
 - Family: `het kind`, `de kinderen`, `de zoon`, `de dochter`.
 - Greetings and wellbeing: `hallo`, `goedemorgen`, `goed`, `prima`, `niet zo goed`, `slecht`.
 
-## Reading
+## Reading / Чтение
 
 The board includes a short reading text about Julia:
 
@@ -141,7 +151,7 @@ Tom is mijn man.
 Wij hebben 2 kinderen.
 ```
 
-## Pronunciation
+## Pronunciation / Произношение
 
 The lesson includes many sound drills. Visible themes include:
 
@@ -152,7 +162,7 @@ The lesson includes many sound drills. Visible themes include:
 
 Homework-style pronunciation practice includes reading word rows aloud and recording yourself.
 
-## Listening And Speaking
+## Listening And Speaking / Аудирование и устная речь
 
 The board reviews `Hoe gaat het met deze mensen?` with answers such as:
 
@@ -181,7 +191,7 @@ Use the plan:
 5. Ik woon ... jaar in Nederland.
 6. Ik woon in ...
 
-## Writing Practice
+## Writing Practice / Письменная практика
 
 The homework section asks learners to write about themselves using a plan.
 
@@ -196,7 +206,7 @@ Ik woon ... jaar in Nederland.
 Ik woon in ...
 ```
 
-## Useful Example Sentences
+## Useful Example Sentences / Полезные примеры
 
 1. Hallo, mijn naam is Julia.
 2. Ik ben een vrouw.
@@ -211,7 +221,7 @@ Ik woon in ...
 11. Hij is mijn vader.
 12. Zij is mijn moeder.
 
-## Homework Ideas
+## Homework Ideas / Идеи для домашней работы
 
 - Fill in the correct pronoun.
 - Fill in the correct form of `zijn`.
@@ -222,7 +232,7 @@ Ik woon in ...
 - Read pronunciation rows aloud and record them.
 - Make sentences with subject, verb, and rest.
 
-## Unclear From Source
+## Unclear From Source / Неясно по источнику
 
 - Some small listening cards and lower grammar exercises are too small to transcribe exactly.
 - Several pronunciation rows are visible but not fully readable at this screenshot size.

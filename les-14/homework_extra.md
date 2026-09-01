@@ -3,7 +3,10 @@
 > **Русская версия:** название каждого задания продублировано по-русски. Основные отдельные инструкции также продублированы строкой `По-русски`. Учебные предложения сохранены на исходном языке, чтобы не раскрывать ответы в заданиях на перевод.
 
 
-Doel: oefenen met `zullen`, prijzen, `de`/`het`-woorden, vertalen, ontkennende zinnen en vragen. De woorden komen uit les 14 en uit alle vorige lessen (zie `WORDS.md`).
+
+> **Пояснение по-русски:** Работа закрепляет `zullen`, цены, деньги, меры веса и покупки.
+
+Doel / Цель: oefenen met `zullen`, prijzen, `de`/`het`-woorden, vertalen, ontkennende zinnen en vragen. De woorden komen uit les 14 en uit alle vorige lessen (zie `WORDS.md`).
 
 ## 1. Vul de goede vorm van `zullen` in (`zal` / `zult` / `zullen`) — **По-русски:** 1. Вставьте правильную форму `zullen` (`zal` / `zult` / `zullen`)
 

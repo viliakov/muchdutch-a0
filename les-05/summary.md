@@ -1,11 +1,21 @@
 # Les 5 - Summary
 
-## Source
+## Source / Источник
 
 - Based on: Miro board screenshot with sections for fonetiek, luisteren, grammatica, woordenschat, agenda, huiswerk, and schrijven.
 - Date added: 2026-07-05
 
-## Main Topics
+## Русский дубль всех пояснений
+
+### Основные темы и лексика
+
+Повторяется настоящее время и изучаются притяжательные слова `mijn`, `jouw/je`, `uw`, `zijn`, `haar`, `ons/onze`, `jullie`, `hun`. Лексические темы — погода, дни недели, месяцы, дата и расписание; с месяцами употребляется `in`.
+
+### Чтение, произношение и практика
+
+Нужно описывать погоду, читать недельное расписание, называть дни и месяцы и задавать вопросы о дате. В произношении сравниваются близкие гласные и дифтонги `ee/eu`, `oo/eu`, `ou/ui`. В письменной практике выбираются формы `ons/onze`, записываются даты и переводятся короткие предложения о погоде и календаре.
+
+## Main Topics / Основные темы
 
 - Review and extension of the present tense.
 - Possessive pronouns: `mijn`, `jouw`, `uw`, `zijn`, `haar`, `ons/onze`, `jullie`, `hun`.
@@ -84,7 +94,7 @@ Examples:
 8. Jullie gaan met jullie auto.
 9. Zij gaan met hun auto.
 
-## Vocabulary Themes
+## Vocabulary Themes / Темы лексики
 
 - Weather: `het is warm`, `het is koud`, `het waait`, `het is bewolkt`, `het regent`, `het sneeuwt`, `het is mistig`, `het is zonnig`.
 - Calendar: days of the week, months, dates, agenda.
@@ -93,7 +103,7 @@ Examples:
 - Listening words: `horen`, `praten`, `de baby`, `groot`, `klein`, `de jongen`, `het meisje`, `het gezin`.
 - Homework themes: filling in months/days and translating date sentences.
 
-## Weather
+## Weather / Погода
 
 Question:
 
@@ -120,7 +130,7 @@ Cursist A beschrijft de afbeelding, maar noemt het woord niet.
 Cursist B raadt wat het is.
 ```
 
-## Agenda And Dates
+## Agenda And Dates / Расписание и даты
 
 The board includes an agenda for Julia and questions about the week.
 
@@ -154,7 +164,7 @@ Useful questions:
 7. Hoeveel dagen heeft september?
 8. Hoeveel dagen heeft februari?
 
-## Reading
+## Reading / Чтение
 
 The homework section includes a `Taalhulp` reading task with questions such as:
 
@@ -168,7 +178,7 @@ The homework section includes a `Taalhulp` reading task with questions such as:
 
 The reading appears to review classroom/help phrases.
 
-## Pronunciation
+## Pronunciation / Произношение
 
 The phonetics section practices vowel contrasts.
 
@@ -191,7 +201,7 @@ Visible examples:
 
 Practice idea: read the pairs aloud and mark the sounds that are difficult to hear or produce.
 
-## Listening And Speaking
+## Listening And Speaking / Аудирование и устная речь
 
 Listening section vocabulary includes:
 
@@ -206,7 +216,7 @@ Listening section vocabulary includes:
 
 Speaking practice focuses on weather descriptions and guessing from descriptions.
 
-## Writing Practice
+## Writing Practice / Письменная практика
 
 Homework includes translation practice around months, days, dates, and drinks.
 
@@ -219,7 +229,7 @@ Visible writing themes:
 5. Ask if someone wants coffee.
 6. Answer politely with coffee, milk, and sugar.
 
-## Useful Example Sentences
+## Useful Example Sentences / Полезные примеры
 
 1. Het is warm vandaag.
 2. Het regent.
@@ -234,7 +244,7 @@ Visible writing themes:
 11. Hoeveel maanden heeft een jaar?
 12. Wil je koffie met melk en suiker?
 
-## Homework Ideas
+## Homework Ideas / Идеи для домашней работы
 
 - Choose the correct possessive pronoun.
 - Fill in missing days of the week.
@@ -245,7 +255,7 @@ Visible writing themes:
 - Read pronunciation contrast rows aloud.
 - Write short sentences with `mijn`, `jouw`, `zijn`, `haar`, `ons/onze`, and `hun`.
 
-## Unclear From Source
+## Unclear From Source / Неясно по источнику
 
 - Some listening exercise cards are too small to transcribe exactly.
 - The full `Taalhulp` text and some homework answer fields are partially unreadable from the screenshot.

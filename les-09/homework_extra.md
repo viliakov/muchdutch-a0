@@ -3,7 +3,10 @@
 > **Русская версия:** название каждого задания продублировано по-русски. Основные отдельные инструкции также продублированы строкой `По-русски`. Учебные предложения сохранены на исходном языке, чтобы не раскрывать ответы в заданиях на перевод.
 
 
-Doel: oefenen met `willen`, verkleinwoorden, tegenwoordige tijd, woningwoorden, getallen met kleuren en uitspraak. De oefeningen mengen de grammatica van les 9 met woorden uit alle vorige lessen (zie `WORDS.md`).
+
+> **Пояснение по-русски:** Работа закрепляет `willen`, вопросы, жильё и уменьшительные слова.
+
+Doel / Цель: oefenen met `willen`, verkleinwoorden, tegenwoordige tijd, woningwoorden, getallen met kleuren en uitspraak. De oefeningen mengen de grammatica van les 9 met woorden uit alle vorige lessen (zie `WORDS.md`).
 
 ## 1. Grammatica: `wil` of `willen`? — **По-русски:** 1. Грамматика: `wil` или `willen`?
 
@@ -24,7 +27,7 @@ Kies de goede vorm.
 Maak van de zin een vraag.
 > **По-русски:** Преобразуйте предложение в вопрос.
 
-Voorbeeld: `Jij wil koffie.` -> `Wil jij koffie?`
+Voorbeeld / Пример: `Jij wil koffie.` -> `Wil jij koffie?`
 
 1. Jij wil een huis huren.
 2. Jullie willen een koekje bij de thee.
@@ -155,7 +158,7 @@ Maak 8 korte zinnen. Gebruik `willen` in verschillende vormen en woorden uit vor
 Woorden om te gebruiken: `willen`, `huren`, `kopen`, `wonen`, `het huis`, `de tuin`, `de stad`, `het dorp`, `de koffie`, `de familie`, `de fiets`, `rustig`, `druk`
 > **По-русски:** Слова для использования: `willen`, `huren`, `kopen`, `wonen`, `het huis`, `de tuin`, `de stad`, `het dorp`, `de koffie`, `de familie`, `de fiets`, `rustig`, `druk`.
 
-Voorbeeld: `Ik wil een huis met een tuin in een rustig dorp.`
+Voorbeeld / Пример: `Ik wil een huis met een tuin in een rustig dorp.`
 
 1.
 2.

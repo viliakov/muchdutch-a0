@@ -36,6 +36,7 @@ When the user posts a lesson screenshot:
 4. Create or update `les-XX/summary.md`.
 5. Add new words and reusable phrases to `WORDS.md`.
 6. Mention any uncertainty if the screenshot is too small or text is unreadable.
+7. Duplicate all explanatory content in Russian. Keep the original English or Dutch text, but add a complete Russian companion explanation covering every topic, pronunciation note, reading/listening note, and practice instruction.
 
 ## Lesson Summary Format
 
@@ -112,6 +113,7 @@ When the user asks for homework:
    - `les-XX/homework_extra.md`: additional practice tasks that you generate to reinforce the lesson.
 2. Use the current lesson summary as the main source.
 3. Make every task heading and every actionable instruction bilingual: Dutch first, followed by a complete Russian duplicate. Do not translate exercise source sentences when doing so would reveal the answer to a translation exercise.
+   Also add a Russian explanation of the homework's purpose and duplicate explanatory labels such as `Doel`, `Voorbeeld`, `Let op`, `Bron`, and `Mogelijke antwoorden` in Russian.
 4. Prioritize the grammar from the current lesson.
 5. For the extra homework, draw on the whole cumulative `WORDS.md`, not only the current lesson. Every extra task should mix current-lesson grammar and vocabulary with words from earlier lessons so the user keeps revising. Do not build the extra tasks exclusively from current-lesson words.
 6. Generate a substantial extra homework set by default. Use `les-06/homework.md` as the baseline size, then make `homework_extra.md` about twice as large unless the user asks for a shorter set.

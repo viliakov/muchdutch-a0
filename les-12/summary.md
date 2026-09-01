@@ -1,11 +1,21 @@
 # Les 12 - Summary
 
-## Source
+## Source / Источник
 
 - Based on: Miro board screenshot with sections for warm-up, grammatica, woordenschat (lezen), luisteren, and huiswerk.
 - Date added: 2026-07-29
 
-## Main Topics
+## Русский дубль всех пояснений
+
+### Основные темы и лексика
+
+Главная грамматика — `mogen` для разрешения и различие между `mogen` и `kunnen`. Повторяются личные местоимения в роли подлежащего, дополнения и притяжательного слова. Лексика посвящена еде, приёмам пищи, посуде и накрытому столу.
+
+### Аудирование и практика
+
+В аудировании люди рассказывают, что им нравится есть. Нужно выбирать `waar/niet waar`, выражать голод, предпочтение и частотность. Письменные задания требуют вставить местоимение, форму `mogen`, название еды или приёма пищи и собрать предложение из данных слов.
+
+## Main Topics / Основные темы
 
 - The modal verb `mogen` (may, to be allowed to) in all persons.
 - Personal pronouns (`personaal pronomen`): subject, possessive, object, and after a preposition.
@@ -101,7 +111,7 @@ Board exercise `kies het goede antwoord` - pick the correct pronoun:
 9. Mijn broers komen bij **mij** op bezoek.
 10. Ik geef een kopje thee aan **hen**.
 
-## Vocabulary Themes
+## Vocabulary Themes / Темы лексики
 
 - Mealtimes: `'s ochtends`, `'s middags`, `'s avonds`, `het ontbijt`, `de lunch`, `het avondeten`, `dan`.
 - Food: `het brood`, `de boterham`, `de kaas`, `de worst`, `de kip`, `de vis`, `de rijst`, `de aardappel`, `de groente`, `het vlees`, `de bloemkool`, `de tomaat`, `de soep`, `het ijs`.
@@ -112,12 +122,12 @@ Board exercise `kies het goede antwoord` - pick the correct pronoun:
 - Family (from the homework): `de neef`, `de schoonouders`, `het kleinkind`, `allebei`, `getrouwd`.
 - Shopping and permission (from the homework): `de broek`, `het shirt`, `de maat`, `passen`, `de kantine`, `tegenkomen`, `roken`, `parkeren`, `gebruiken`.
 
-## Pronunciation
+## Pronunciation / Произношение
 
 - Not shown as a separate section on this board.
 - Note the written form `'s ochtends` / `'s middags` / `'s avonds` - the `'s` is a leftover of an old article and is pronounced as `s` attached to the next word.
 
-## Listening And Speaking
+## Listening And Speaking / Аудирование и устная речь
 
 - Listening (`luisteren`): audio `4.17. Wat vind je lekker?.m4a`. You hear Mark; he asks two people what they find tasty (`Hij vraagt aan twee mensen wat ze lekker vinden.`).
 - Food shown for the listening: `de kip`, `de vis`, `de rijst`, `de boterham / de boterhammen`, `de kaas`, `de worst`, `de bloemkool`.
@@ -125,7 +135,7 @@ Board exercise `kies het goede antwoord` - pick the correct pronoun:
 - Answer boxes are `waar` / `niet waar` grids for several speakers (Rivka, Kelly and others), for example `Rivka vindt kip lekker.`, `Kelly vindt bloemkool lekker.`
 - Warm-up speaking: `Welk dier ben jij vandaag?` - answer with the pattern `Vandaag ben ik DIER, want ik ben ADJECTIEF.`
 
-## Writing Practice
+## Writing Practice / Письменная практика
 
 - Fill in the correct possessive and object pronoun.
 - Fill in the correct form of `mogen`.
@@ -142,7 +152,7 @@ Ik drink 's ochtends altijd koffie.
 Wij snijden het vlees met een mes en eten met een vork.
 ```
 
-## Useful Example Sentences
+## Useful Example Sentences / Полезные примеры
 
 1. Mag ik je telefoon gebruiken?
 2. Je mag hier niet roken.
@@ -153,7 +163,7 @@ Wij snijden het vlees met een mes en eten met een vork.
 7. Je snijdt het vlees met een mes.
 8. Ik drink één glas melk per dag.
 
-## Reading
+## Reading / Чтение
 
 ### Text 1 - meals in the Netherlands
 
@@ -212,7 +222,7 @@ Questions (`waar of niet waar?`):
 6. David en Lisa eten ijs. (waar)
 7. Julia en Tom drinken koffie. (waar)
 
-## Board Exercises On Mogen
+## Board Exercises On Mogen / Задания с доски на `mogen`
 
 `is de zin goed of fout`:
 
@@ -235,7 +245,7 @@ Questions (`waar of niet waar?`):
 7. U **mag** hier gaan zitten.
 8. Dinand **mag** eerder naar huis.
 
-## Homework Ideas
+## Homework Ideas / Идеи для домашней работы
 
 - Fill in the correct form of `mogen`, and contrast it with `kunnen`.
 - Decide whether a sentence with `mogen` is `goed` or `fout`.
@@ -247,7 +257,7 @@ Questions (`waar of niet waar?`):
 - Build correct sentences and questions from scrambled words.
 - Answer `waar of niet waar?` about the dinner text.
 
-## Unclear From Source
+## Unclear From Source / Неясно по источнику
 
 - The small listening answer grids on the left (six speaker boxes plus one at the bottom) are too small to transcribe exactly; only the general `waar / niet waar` pattern and a few names (Rivka, Kelly) are readable.
 - The fill-in box at the bottom of the `huiswerk / grammatica` column has no visible heading in the screenshot. Items 2 and 5 (`Wij ____ goed zwemmen.`, `Mijn opa ____ niet meer goed horen.`) require `kunnen`, not `mogen`, so it is reproduced here as a mixed `mogen` / `kunnen` exercise.

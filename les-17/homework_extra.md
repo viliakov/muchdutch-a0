@@ -3,7 +3,10 @@
 > **Русская версия:** название каждого задания продублировано по-русски. Основные отдельные инструкции также продублированы строкой `По-русски`. Учебные предложения сохранены на исходном языке, чтобы не раскрывать ответы в заданиях на перевод.
 
 
-Doel: vertalen naar het Nederlands en daarbij pronomina, meervoud, `de`/`het`, negatie, vragen, getallen, voegwoorden, modale werkwoorden en alle nieuwe woorden van les 17 oefenen.
+
+> **Пояснение по-русски:** Работа закрепляет местоимения, множественное число, покупки и ресторанные диалоги.
+
+Doel / Цель: vertalen naar het Nederlands en daarbij pronomina, meervoud, `de`/`het`, negatie, vragen, getallen, voegwoorden, modale werkwoorden en alle nieuwe woorden van les 17 oefenen.
 
 ## 1. Pronomina: direct, indirect en possessief — **По-русски:** 1. Прямые, косвенные и притяжательные местоимения
 

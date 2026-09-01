@@ -3,14 +3,17 @@
 > **Русская версия:** название каждого задания продублировано по-русски. Основные отдельные инструкции также продублированы строкой `По-русски`. Учебные предложения сохранены на исходном языке, чтобы не раскрывать ответы в заданиях на перевод.
 
 
-Doel: oefenen met `gaan + infinitief`, inversie met tijd/plaats, bijwoorden van frequentie, agenda-woorden, getallen en uitspraak.
+
+> **Пояснение по-русски:** Работа закрепляет планы с `gaan`, инверсию и наречия частотности.
+
+Doel / Цель: oefenen met `gaan + infinitief`, inversie met tijd/plaats, bijwoorden van frequentie, agenda-woorden, getallen en uitspraak.
 
 ## 1. Maak zinnen: begin met tijd of plaats — **По-русски:** 1. Составьте предложения, начиная со времени или места
 
 Begin de zin met het eerste woord. Let op inversie: het werkwoord staat op plaats 2.
 > **По-русски:** Начните предложение с первого слова. Следите за инверсией: глагол стоит на втором месте.
 
-Voorbeeld: `Morgen - ik - naar school - gaan` -> `Morgen ga ik naar school.`
+Voorbeeld / Пример: `Morgen - ik - naar school - gaan` -> `Morgen ga ik naar school.`
 
 1. Vandaag - ik - op kantoor - werken
 2. Morgen - zij - naar de gym - gaan
@@ -30,7 +33,7 @@ Voorbeeld: `Morgen - ik - naar school - gaan` -> `Morgen ga ik naar school.`
 Begin met het subject. Gebruik geen inversie.
 > **По-русски:** Начните с подлежащего. Не используйте инверсию.
 
-Voorbeeld: `ik - morgen - naar school - gaan` -> `Ik ga morgen naar school.`
+Voorbeeld / Пример: `ik - morgen - naar school - gaan` -> `Ik ga morgen naar school.`
 
 1. ik - vandaag - op kantoor - werken
 2. zij - morgen - naar de gym - gaan
@@ -62,7 +65,7 @@ Schrijf de juiste zin.
 Maak zinnen met `gaan + infinitief`.
 > **По-русски:** Составьте предложения с `gaan + infinitief`.
 
-Voorbeeld: `ik - morgen - werken` -> `Ik ga morgen werken.`
+Voorbeeld / Пример: `ik - morgen - werken` -> `Ik ga morgen werken.`
 
 1. ik - vandaag - thuis werken
 2. jij - morgen - boodschappen doen

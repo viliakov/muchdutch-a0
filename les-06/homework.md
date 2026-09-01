@@ -3,7 +3,10 @@
 > **Русская версия:** название каждого задания продублировано по-русски. Основные отдельные инструкции также продублированы строкой `По-русски`. Учебные предложения сохранены на исходном языке, чтобы не раскрывать ответы в заданиях на перевод.
 
 
-Doel: oefenen met aanwijzende voornaamwoorden, tegenwoordige tijd, leswoorden, getallen en uitspraak.
+
+> **Пояснение по-русски:** Работа закрепляет `dit/dat/deze/die`, настоящее время, классную лексику и числа.
+
+Doel / Цель: oefenen met aanwijzende voornaamwoorden, tegenwoordige tijd, leswoorden, getallen en uitspraak.
 
 ## 1. Grammatica: dit, dat, deze, die — **По-русски:** 1. Грамматика: `dit`, `dat`, `deze`, `die`
 
@@ -91,7 +94,7 @@ Maak 6 korte zinnen. Gebruik elk werkwoord minstens een keer.
 Werkwoorden: `wonen`, `spreken`, `luisteren`, `schrijven`, `lezen`, `maken`
 > **По-русски:** Глаголы: `wonen`, `spreken`, `luisteren`, `schrijven`, `lezen`, `maken`.
 
-Voorbeeld: `Ik woon in Utrecht.`
+Voorbeeld / Пример: `Ik woon in Utrecht.`
 
 1.
 2.

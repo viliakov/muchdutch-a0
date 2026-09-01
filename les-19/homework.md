@@ -2,11 +2,14 @@
 
 > **Русская версия:** название каждого задания продублировано по-русски. Основные отдельные инструкции также продублированы строкой `По-русски`. Учебные предложения сохранены на исходном языке, чтобы не раскрывать ответы в заданиях на перевод.
 
+
+> **Пояснение по-русски:** Работа закрепляет сравнительную и превосходную степени и лексику магазина одежды.
+
 De screenshots tonen twee invuloefeningen over de comparatief en superlatief. Vul telkens de juiste vorm in.
 
 ## 1. Vul de goede vorm in — **По-русски:** 1. Вставьте правильную форму
 
-Voorbeeld: `(klein)` Luxemburg is het **kleinste** land van de Benelux.
+Voorbeeld / Пример: `(klein)` Luxemburg is het **kleinste** land van de Benelux.
 
 1. `(veel)` De __________ cursisten hebben problemen met `de` en `het`.
 2. `(goedkoop)` Deze supermarkt is de __________ supermarkt in de stad.

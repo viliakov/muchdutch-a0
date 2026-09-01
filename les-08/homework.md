@@ -3,7 +3,10 @@
 > **Русская версия:** название каждого задания продублировано по-русски. Основные отдельные инструкции также продублированы строкой `По-русски`. Учебные предложения сохранены на исходном языке, чтобы не раскрывать ответы в заданиях на перевод.
 
 
-Doel: oefenen met `er is / er zijn`, `dit is / dat zijn`, tegenwoordige tijd, huiswoorden, getallen, vertalen en schrijven.
+
+> **Пояснение по-русски:** Работа закрепляет `er is/er zijn`, отрицание с `geen` и описание дома.
+
+Doel / Цель: oefenen met `er is / er zijn`, `dit is / dat zijn`, tegenwoordige tijd, huiswoorden, getallen, vertalen en schrijven.
 
 ## 1. Tegenwoordige tijd: vul de goede vorm in — **По-русски:** 1. Настоящее время: вставьте правильную форму
 
@@ -43,7 +46,7 @@ Gebruik het werkwoord tussen haakjes.
 
 ## 3. Maak zinnen met `er is / er zijn` — **По-русски:** 3. Составьте предложения с `er is / er zijn`
 
-Voorbeeld: `een keuken / beneden` -> `Er is een keuken beneden.`
+Voorbeeld / Пример: `een keuken / beneden` -> `Er is een keuken beneden.`
 
 1. een wc / in de gang
 2. twee slaapkamers / boven
@@ -61,7 +64,7 @@ Voorbeeld: `een keuken / beneden` -> `Er is een keuken beneden.`
 Maak de zin negatief.
 > **По-русски:** Сделайте предложение отрицательным.
 
-Voorbeeld: `Er is een garage.` -> `Er is geen garage.`
+Voorbeeld / Пример: `Er is een garage.` -> `Er is geen garage.`
 
 1. Er is een balkon.
 2. Er zijn dieren in de tuin.
@@ -481,7 +484,7 @@ Extra: neem jezelf op en markeer 5 moeilijke woorden.
 
 # Les 8 - Extra huiswerk (Ronde 2)
 
-Doel: dezelfde grammatica (`er is / er zijn`, `dit/dat`, tegenwoordige tijd) oefenen met ander woordmateriaal: meubels, buren, en woorden uit eerdere lessen.
+Doel / Цель: dezelfde grammatica (`er is / er zijn`, `dit/dat`, tegenwoordige tijd) oefenen met ander woordmateriaal: meubels, buren, en woorden uit eerdere lessen.
 
 ## 1. Tegenwoordige tijd: vul de goede vorm in — **По-русски:** 1. Настоящее время: вставьте правильную форму
 
@@ -509,7 +512,7 @@ Doel: dezelfde grammatica (`er is / er zijn`, `dit/dat`, tegenwoordige tijd) oef
 
 ## 3. Maak zinnen met `er is / er zijn` — **По-русски:** 3. Составьте предложения с `er is / er zijn`
 
-Voorbeeld: `een bank / in de woonkamer` -> `Er is een bank in de woonkamer.`
+Voorbeeld / Пример: `een bank / in de woonkamer` -> `Er is een bank in de woonkamer.`
 
 1. een lamp / op de tafel
 2. een televisie / in de woonkamer
@@ -522,7 +525,7 @@ Voorbeeld: `een bank / in de woonkamer` -> `Er is een bank in de woonkamer.`
 
 ## 4. Negatief met `geen` — **По-русски:** 4. Отрицание с `geen`
 
-Voorbeeld: `Er is een televisie.` -> `Er is geen televisie.`
+Voorbeeld / Пример: `Er is een televisie.` -> `Er is geen televisie.`
 
 1. Er is een bank.
 2. Er zijn buren aan de overkant.

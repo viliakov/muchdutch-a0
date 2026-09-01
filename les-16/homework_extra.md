@@ -3,7 +3,10 @@
 > **Русская версия:** название каждого задания продублировано по-русски. Основные отдельные инструкции также продублированы строкой `По-русски`. Учебные предложения сохранены на исходном языке, чтобы не раскрывать ответы в заданиях на перевод.
 
 
-Doel: extra oefenen met de juiste werkwoordsvorm, voorzetsels en voegwoorden uit les 16, plus `de`/`het`-woorden, vertalen, ontkennen en vragen. De woorden komen uit les 16 en uit alle vorige lessen (zie `WORDS.md`).
+
+> **Пояснение по-русски:** Работа закрепляет формы глаголов, предлоги, союзы и лексику праздника.
+
+Doel / Цель: extra oefenen met de juiste werkwoordsvorm, voorzetsels en voegwoorden uit les 16, plus `de`/`het`-woorden, vertalen, ontkennen en vragen. De woorden komen uit les 16 en uit alle vorige lessen (zie `WORDS.md`).
 
 ## 1. Zet het werkwoord in de juiste vorm — **По-русски:** 1. Поставьте глагол в правильную форму
 

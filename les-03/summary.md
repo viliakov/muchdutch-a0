@@ -1,11 +1,21 @@
 # Les 3 - Summary
 
-## Source
+## Source / Источник
 
 - Based on: Miro board screenshot with sections for fonetiek, herhaling woorden, grammatica, woordenschat/lezen, and huiswerk.
 - Date added: 2026-07-05
 
-## Main Topics
+## Русский дубль всех пояснений
+
+### Основные темы и лексика
+
+Главные темы — глагол `hebben`, общие вопросы с инверсией, специальные вопросы и большая семья. Изучаются `wie`, `wat`, `waar`, `waar vandaan`, `wanneer`, `hoe`, `hoeveel`, `welke`, а также названия близких и дальних родственников.
+
+### Чтение, произношение и практика
+
+В текстах нужно определять родственные связи и отвечать на вопросы о семье. Произношение строится на парах с краткими и долгими гласными (`man–maan`, `bot–boot`, `pen–peen`). Практика включает вопросы о личных данных, формы `hebben` и короткий рассказ о семье минимум из нескольких связанных предложений.
+
+## Main Topics / Основные темы
 
 - Review of earlier words: people, family, countries, greetings, and personal information.
 - Question sentences with question words.
@@ -104,7 +114,7 @@ Common patterns:
 | question word | question word + verb + subject + rest | Waar woon jij? |
 | answer | subject + verb + rest | Ik woon in Almere. |
 
-## Vocabulary Themes
+## Vocabulary Themes / Темы лексики
 
 - Family: `de familie`, `de moeder`, `de vader`, `de zoon`, `de dochter`, `de broer`, `de zus`.
 - Extended family: `de opa`, `de oma`, `de tante`, `de oom`, `de neef`, `het neefje`, `het nichtje`.
@@ -112,7 +122,7 @@ Common patterns:
 - Personal questions: `wie`, `wat`, `waar`, `wanneer`, `hoe`, `hoeveel`, `welke`.
 - Possessions: `de auto`, `de fiets`, `de hond`, `het boek`, `het huiswerk`.
 
-## Reading
+## Reading / Чтение
 
 The board includes family reading exercises with true/false questions and fill-in-the-blank tasks.
 
@@ -131,7 +141,7 @@ Useful reading-style sentences:
 5. Hans is de vader van David.
 6. Julia is de moeder van David en Lisa.
 
-## Pronunciation
+## Pronunciation / Произношение
 
 The phonetics section practices short and long vowel contrasts.
 
@@ -154,7 +164,7 @@ Visible examples:
 
 The lesson also includes rows with sounds such as `ang`, `ing`, `ank`, `onk`, and short/long `e` contrasts.
 
-## Listening And Speaking
+## Listening And Speaking / Аудирование и устная речь
 
 Speaking prompt from the board:
 
@@ -175,7 +185,7 @@ Useful speaking questions:
 9. Heb je een zus?
 10. Heb je kinderen?
 
-## Writing Practice
+## Writing Practice / Письменная практика
 
 The homework section asks:
 
@@ -196,7 +206,7 @@ Suggested writing frame:
 9. Mijn familie woont in ...
 10. Ik hou van mijn familie.
 
-## Useful Example Sentences
+## Useful Example Sentences / Полезные примеры
 
 1. Ik heb een fiets.
 2. Heb jij een broer?
@@ -211,7 +221,7 @@ Suggested writing frame:
 11. Hoe oud ben je?
 12. Ik ben 30 jaar.
 
-## Homework Ideas
+## Homework Ideas / Идеи для домашней работы
 
 - Fill in the correct form of `hebben`.
 - Write the correct question word.
@@ -222,7 +232,7 @@ Suggested writing frame:
 - Read short/long vowel pairs aloud.
 - Transform statements into questions.
 
-## Unclear From Source
+## Unclear From Source / Неясно по источнику
 
 - Some lower reading cards and small family-tree texts are too small to transcribe fully.
 - The exact answer choices in several small exercises are not fully readable from the screenshot.

@@ -3,7 +3,10 @@
 > **Русская версия:** название каждого задания продублировано по-русски. Основные отдельные инструкции также продублированы строкой `По-русски`. Учебные предложения сохранены на исходном языке, чтобы не раскрывать ответы в заданиях на перевод.
 
 
-Doel: nog een keer oefenen met `kunnen`, rangtelwoorden, preposities van plaats (`voor`, `achter`, `boven`, `onder`, `op`, `tussen`, `naast`, `bij`, `tegen`, `tegenover`, `rond`/`om`, `aan`), `de`/`het`-woorden, vertalen, ontkennende zinnen en vragen. De zinnen zijn nieuw (niet uit `homework_extra.md`) en de woorden komen uit les 11 en uit alle vorige lessen (zie `WORDS.md`).
+
+> **Пояснение по-русски:** Работа закрепляет `kunnen`, порядковые числительные и предлоги места.
+
+Doel / Цель: nog een keer oefenen met `kunnen`, rangtelwoorden, preposities van plaats (`voor`, `achter`, `boven`, `onder`, `op`, `tussen`, `naast`, `bij`, `tegen`, `tegenover`, `rond`/`om`, `aan`), `de`/`het`-woorden, vertalen, ontkennende zinnen en vragen. De zinnen zijn nieuw (niet uit `homework_extra.md`) en de woorden komen uit les 11 en uit alle vorige lessen (zie `WORDS.md`).
 
 ## 1. Schrijf de goede vorm van `kunnen` (`kan`, `kunt`, `kunnen`) — **По-русски:** 1. Напишите правильную форму `kunnen` (`kan`, `kunt`, `kunnen`)
 

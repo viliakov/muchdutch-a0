@@ -2,7 +2,10 @@
 
 > **Русская версия:** название каждого задания продублировано по-русски. Основные отдельные инструкции также продублированы строкой `По-русски`. Учебные предложения сохранены на исходном языке, чтобы не раскрывать ответы в заданиях на перевод.
 
-Doel: de comparatief en superlatief oefenen en tegelijk de vaste grammatica en woordenschat uit eerdere lessen herhalen. Alle opdrachten hebben een vast antwoord.
+
+> **Пояснение по-русски:** Работа закрепляет сравнительную и превосходную степени и лексику магазина одежды.
+
+Doel / Цель: de comparatief en superlatief oefenen en tegelijk de vaste grammatica en woordenschat uit eerdere lessen herhalen. Alle opdrachten hebben een vast antwoord.
 
 ## 1. Vul de goede vorm in: basisvorm, comparatief of superlatief — **По-русски:** 1. Вставьте положительную, сравнительную или превосходную степень
 

@@ -3,7 +3,10 @@
 > **Русская версия:** название каждого задания продублировано по-русски. Основные отдельные инструкции также продублированы строкой `По-русски`. Учебные предложения сохранены на исходном языке, чтобы не раскрывать ответы в заданиях на перевод.
 
 
-Doel: de verbuiging van adjectieven oefenen en tegelijk grammatica en woordenschat uit eerdere lessen herhalen. Alle opdrachten hebben een vast antwoord.
+
+> **Пояснение по-русски:** Работа закрепляет форму прилагательного, одежду, аксессуары и внешность.
+
+Doel / Цель: de verbuiging van adjectieven oefenen en tegelijk grammatica en woordenschat uit eerdere lessen herhalen. Alle opdrachten hebben een vast antwoord.
 
 ## 1. Vul de goede vorm van het adjectief in — **По-русски:** 1. Вставьте правильную форму прилагательного
 

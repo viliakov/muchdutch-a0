@@ -3,11 +3,14 @@
 > **Русская версия:** название каждого задания продублировано по-русски. Основные отдельные инструкции также продублированы строкой `По-русски`. Учебные предложения сохранены на исходном языке, чтобы не раскрывать ответы в заданиях на перевод.
 
 
+
+> **Пояснение по-русски:** Работа закрепляет выбор и позицию `niet/geen`, продукты и магазины.
+
 ## Grammatica — **По-русски:** Грамматика
 
 ### 1. Vul met `geen` of `niet` in — **По-русски:** 1. Вставьте `geen` или `niet`
 
-Voorbeeld: Ik kom **niet** uit Nederland.
+Voorbeeld / Пример: Ik kom **niet** uit Nederland.
 
 1. Ik kan ____ dansen.
 2. Loes studeert ____ in Delft.
@@ -57,7 +60,7 @@ Voorbeeld: Ik kom **niet** uit Nederland.
 
 ### 5. Je ziet antwoorden. Maak vragen — **По-русски:** 5. Перед вами ответы. Составьте вопросы
 
-Voorbeeld: **Waar koop je brood?** - Ik koop brood <u>bij de bakker</u>.
+Voorbeeld / Пример: **Waar koop je brood?** - Ik koop brood <u>bij de bakker</u>.
 
 1. ____ - De borden staan <u>in de kast</u>.
 2. ____ - Zij gaan <u>morgen</u> naar de markt.
@@ -70,7 +73,7 @@ Voorbeeld: **Waar koop je brood?** - Ik koop brood <u>bij de bakker</u>.
 
 ### 6. Maak zinnen met de woorden — **По-русски:** 6. Составьте предложения из слов
 
-Voorbeeld: de slager - **Ik koop vlees bij de slager.**
+Voorbeeld / Пример: de slager - **Ik koop vlees bij de slager.**
 
 1. de slager
 2. de supermarkt
@@ -140,7 +143,7 @@ Voorbeeld: de slager - **Ik koop vlees bij de slager.**
 
 ### 6
 
-Mogelijke antwoorden:
+Mogelijke antwoorden / Возможные ответы:
 
 1. Ik koop vlees bij de slager.
 2. Ik doe boodschappen in de supermarkt.

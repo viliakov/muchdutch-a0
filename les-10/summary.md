@@ -1,11 +1,21 @@
 # Les 10 - Summary
 
-## Source
+## Source / Источник
 
 - Based on: Miro board screenshot with sections for grammatica, woordenschat (woorden drillen, lezen), and huiswerk.
 - Date added: 2026-07-18
 
-## Main Topics
+## Русский дубль всех пояснений
+
+### Основные темы и лексика
+
+Изучается модальный глагол `moeten` и отсутствие необходимости с `hoeven ... niet`. Союзы `en`, `want`, `maar`, `dus`, `of` соединяют главные предложения без переноса глагола в конец. Лексика охватывает комнаты, мебель, домашние дела, ключи и закрытые двери.
+
+### Чтение и практика
+
+Текст о Каземе и потерянном ключе используется для вопросов по содержанию. Нужно выбирать форму `moet/moeten`, союз, комнату или предмет, составлять предложения в правильном порядке и описывать комнаты через уже знакомые `er is / er zijn`.
+
+## Main Topics / Основные темы
 
 - The verb `moeten` (must, to have to) in all persons.
 - Conjunctions with normal (straight) word order: `en`, `want`, `maar`, `dus`, `of`.
@@ -64,7 +74,7 @@ Examples:
 4. Ik ben ziek, dus ik kan vandaag niet werken.
 5. Ik fiets naar mijn werk of ik ga met de bus.
 
-## Vocabulary Themes
+## Vocabulary Themes / Темы лексики
 
 - Rooms: `de badkamer`, `de keuken`, `de woonkamer`, `de garage`, `de bijkeuken`, `de tuin`, `de schuur`, `de slaapkamer`, `de gang`, `de zolder`.
 - Chores and actions at home: `tanden poetsen`, `koken`, `tv kijken`, `de auto zetten`, `de wasmachine`, `de fiets zetten`, `opruimen`, `opstaan`, `vertrekken`.
@@ -72,16 +82,16 @@ Examples:
 - Furniture and objects (`meubels`): `de bank`, `de tafel`, `de stoel`, `het bed`, `de kast`, `de lamp`, `het bureau`, `de spiegel`, `de wasmachine`, `de koelkast`, `de bank`, `het bad`, `de douche`.
 - Verbs: `moeten`, `verhuizen`, `delen`, `betalen`, `opruimen`, `meenemen`, `opstaan`.
 
-## Pronunciation
+## Pronunciation / Произношение
 
 - Not shown as a separate section on this board.
 
-## Listening And Speaking
+## Listening And Speaking / Аудирование и устная речь
 
 - Speaking practice focuses on saying what you must do and describing rooms with furniture.
 - The writing task asks you to describe the furniture in each room using `er is` / `er zijn`.
 
-## Writing Practice
+## Writing Practice / Письменная практика
 
 The homework asks:
 
@@ -103,7 +113,7 @@ Er is ook een spiegel.
 In de keuken zijn er een koelkast en een wasmachine.
 ```
 
-## Useful Example Sentences
+## Useful Example Sentences / Полезные примеры
 
 1. Ik moet mijn kamer opruimen.
 2. Moet jij vandaag werken?
@@ -112,7 +122,7 @@ In de keuken zijn er een koelkast en een wasmachine.
 5. Kazem vergeet vaak zijn sleutel.
 6. De deur is op slot.
 
-## Reading
+## Reading / Чтение
 
 The board includes a short story about Kazem and his key.
 
@@ -145,7 +155,7 @@ Common reading (`waar of niet waar?`) questions:
 6. De buurman geeft de sleutel aan Kazem. (waar)
 7. De buurman vergeet vaak de sleutel. (waar)
 
-## Homework Ideas
+## Homework Ideas / Идеи для домашней работы
 
 - Fill in the correct form of `moeten`.
 - Choose the correct conjunction (`en`, `want`, `maar`, `dus`, `of`).
@@ -156,7 +166,7 @@ Common reading (`waar of niet waar?`) questions:
 - Answer `waar of niet waar?` about the Kazem story.
 - Describe the furniture in each room with `er is` / `er zijn`.
 
-## Unclear From Source
+## Unclear From Source / Неясно по источнику
 
 - Several small furniture-diagram labels on the right side are too small to transcribe exactly.
 - Some circled multiple-choice answers in the `moeten` and `welke zin is goed` exercises are partially unreadable from the screenshot.

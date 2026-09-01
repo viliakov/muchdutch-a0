@@ -3,7 +3,10 @@
 > **Русская версия:** название каждого задания продублировано по-русски. Основные отдельные инструкции также продублированы строкой `По-русски`. Учебные предложения сохранены на исходном языке, чтобы не раскрывать ответы в заданиях на перевод.
 
 
-Doel: nog een ronde oefenen met `zullen`, `omdat`, prijzen, winkels, `de`/`het`-woorden, vertalen, ontkennende zinnen en vragen. De zinnen zijn nieuw (niet dezelfde als in `homework_extra.md`) en mengen les 14 met woorden uit alle vorige lessen (`WORDS.md`).
+
+> **Пояснение по-русски:** Работа закрепляет `zullen`, цены, деньги, меры веса и покупки.
+
+Doel / Цель: nog een ronde oefenen met `zullen`, `omdat`, prijzen, winkels, `de`/`het`-woorden, vertalen, ontkennende zinnen en vragen. De zinnen zijn nieuw (niet dezelfde als in `homework_extra.md`) en mengen les 14 met woorden uit alle vorige lessen (`WORDS.md`).
 
 ## 1. Vul de goede vorm van `zullen` in (`zal` / `zult` / `zullen`) — **По-русски:** 1. Вставьте правильную форму `zullen` (`zal` / `zult` / `zullen`)
 

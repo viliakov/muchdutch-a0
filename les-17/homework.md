@@ -3,6 +3,9 @@
 > **Русская версия:** название каждого задания продублировано по-русски. Основные отдельные инструкции также продублированы строкой `По-русски`. Учебные предложения сохранены на исходном языке, чтобы не раскрывать ответы в заданиях на перевод.
 
 
+
+> **Пояснение по-русски:** Работа закрепляет местоимения, множественное число, покупки и ресторанные диалоги.
+
 Deze opdrachten komen uit de zichtbare onderdelen van het lesbord. Het bord heeft geen apart vak `huiswerk`; daarom zijn de lees-, grammatica- en invuloefeningen van de les hier samengebracht.
 
 ## 1. Meervoud drillen — **По-русски:** 1. Отработка множественного числа

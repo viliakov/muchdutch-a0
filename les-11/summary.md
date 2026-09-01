@@ -1,11 +1,21 @@
 # Les 11 - Summary
 
-## Source
+## Source / Источник
 
 - Based on: Miro board screenshot with sections for warm-up, grammatica, woordenschat (woorden drillen, lezen), luisteren, spreken, and huiswerk.
 - Date added: 2026-07-22
 
-## Main Topics
+## Русский дубль всех пояснений
+
+### Основные темы и лексика
+
+Урок вводит `kunnen` для умения и возможности, порядковые числительные и предлоги места. Отрабатываются `voor`, `achter`, `boven`, `onder`, `op`, `tussen`, `naast`, `bij`, `tegen`, `tegenover`, `rond/om`, `aan`.
+
+### Практика
+
+Нужно выбрать форму `kan/kunt/kunnen`, описать расположение предметов и людей, записать порядковое числительное и различать существительные с `de` и `het`. В переводах и вопросах используется только уже знакомая структура предложения с модальным инфинитивом в конце.
+
+## Main Topics / Основные темы
 
 - The verb `kunnen` (can, to be able to) in all persons.
 - Ordinal numbers (`rangtelwoorden` / порядковые числительные): `eerste`, `tweede`, `derde` ... `honderdste`, `duizendste`.
@@ -101,7 +111,7 @@ Examples:
 10. De boekenkast staat tegen de muur.
 11. De boekenkast staat tegenover de bank.
 
-## Vocabulary Themes
+## Vocabulary Themes / Темы лексики
 
 - Moods/character (with animals): `energiek`, `verdrietig`, `vrolijk`, `moe`, `slaperig`, `boos`, `slank`, `bang`, `rustig`.
 - Animals: `de hond`, `de kat`, `het varken`, `de hamster`, `de schildpad`, `het konijn`, `de slang`, `de cavia`.
@@ -109,16 +119,16 @@ Examples:
 - Neighborhood and home: `de buurt`, `de nieuwbouwwijk`, `de buitenwijk`, `het centrum`, `het platteland`, `de rand`, `het bos`, `kindvriendelijk`, `de verdieping`, `de lift`, `de trap`.
 - Other new words: `de trui`, `passen`, `de tram`, `halen`.
 
-## Pronunciation
+## Pronunciation / Произношение
 
 - Not shown as a separate section on this board.
 
-## Listening And Speaking
+## Listening And Speaking / Аудирование и устная речь
 
 - Listening (`luisteren`): listen and answer the questions (`luister en beantwoord de vragen`). Useful phrases on the board: `Dat is lang geleden!`, `Zullen wij afspreken?`, `Doe de groeten!`, `bezoeken`, `inderdaad`.
 - Speaking (`spreken`): describe each picture of a room with at least 5 sentences, using prepositions of place.
 
-## Writing Practice
+## Writing Practice / Письменная практика
 
 - Fill-in exercises about a home and neighborhood (`vul met het goede woord in`).
 - Describe where furniture and objects are, using prepositions of place.
@@ -133,7 +143,7 @@ De lamp hangt boven de tafel.
 De klok hangt aan de muur.
 ```
 
-## Useful Example Sentences
+## Useful Example Sentences / Полезные примеры
 
 1. Kan jij mij helpen?
 2. Wij kunnen de tram nemen.
@@ -142,7 +152,7 @@ De klok hangt aan de muur.
 5. De boekenkast staat tegen de muur.
 6. Ik woon aan de rand van de stad.
 
-## Reading
+## Reading / Чтение
 
 The board has a text about furniture in a room (`Er staan veel meubels in de kamer.`) followed by `waar of niet waar?` questions.
 
@@ -174,7 +184,7 @@ Reading (`waar of niet waar?`) questions:
 6. De boekenkast staat achter de deur. (niet waar - naast)
 7. De stoelen staan rond de eettafel. (waar)
 
-## Homework Ideas
+## Homework Ideas / Идеи для домашней работы
 
 - Fill in the correct form of `kunnen`.
 - Decide whether a sentence with `kunnen` is `goed` or `fout`.
@@ -184,7 +194,7 @@ Reading (`waar of niet waar?`) questions:
 - Answer `waar of niet waar?` about the furniture text.
 - Fill-in exercises about a neighborhood and home.
 
-## Unclear From Source
+## Unclear From Source / Неясно по источнику
 
 - Several small listening-answer boxes on the left side are too small to transcribe exactly.
 - Some highlighted answers in the `vul met het goede woord in` boxes are partly covered and reconstructed from context.

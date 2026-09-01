@@ -3,6 +3,9 @@
 > **Русская версия:** название каждого задания продублировано по-русски. Основные отдельные инструкции также продублированы строкой `По-русски`. Учебные предложения сохранены на исходном языке, чтобы не раскрывать ответы в заданиях на перевод.
 
 
+
+> **Пояснение по-русски:** Работа закрепляет формы глаголов, предлоги, союзы и лексику праздника.
+
 Het huiswerk van het bord: grammatica (werkwoordsvormen, voorzetsels, voegwoorden) en woordenschat.
 
 ## Grammatica — **По-русски:** Грамматика
@@ -132,7 +135,7 @@ Maak de zinnen af.
 
 ### 5
 
-Voorbeeldantwoorden:
+Voorbeeldantwoorden / Примеры ответов:
 
 1. Ik heb honger, dus ik maak een boterham.
 2. Ik ga naar de slager, want ik wil vlees kopen.

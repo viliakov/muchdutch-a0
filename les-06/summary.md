@@ -1,11 +1,21 @@
 # Les 6 - Summary
 
-## Source
+## Source / Источник
 
 - Based on: Miro board screenshot with sections for fonetiek, grammatica, woordenschat, getallen, luisteren, spreken, schrijven, and huiswerk.
 - Date added: 2026-07-05
 
-## Main Topics
+## Русский дубль всех пояснений
+
+### Основные темы и лексика
+
+Главная грамматика — указательные слова `dit`, `dat`, `deze`, `die` в зависимости от `de/het`, числа и расстояния. Повторяется настоящее время. Лексика относится к классу: школа, преподаватель, учащийся, текст, слово, книга, ручка, компьютер, доска, а также `binnen/buiten`, `dichtbij/ver weg`.
+
+### Числа, произношение и практика
+
+Изучаются числа до 100 и более крупные числа. В произношении отрабатываются `ui`, `ij/ei`, `eu` и контрастные пары. Нужно выбирать указательное слово, спрягать учебные глаголы, писать числа словами, переводить предложения о классе и отвечать на простые вопросы полными фразами.
+
+## Main Topics / Основные темы
 
 - Demonstrative pronouns: `dit`, `dat`, `deze`, `die`.
 - Present tense verb forms.
@@ -60,7 +70,7 @@ Common lesson verbs:
 - `maken`
 - `beantwoorden`
 
-## Vocabulary Themes
+## Vocabulary Themes / Темы лексики
 
 - Classroom: `de school`, `de docent`, `de cursist`, `de tekst`, `het woord`, `het boek`, `de pen`, `de computer`, `het bord`.
 - Objects for demonstratives: `de tas`, `de tafel`, `de stoel`, `de fiets`, `het huis`, `de appel`.
@@ -68,7 +78,7 @@ Common lesson verbs:
 - Places and movement: `binnen`, `buiten`, `naar school`, `naar binnen`, `naar buiten`.
 - Descriptions: `groot`, `klein`, `mooi`, `nieuw`, `oud`, `schoon`, `interessant`.
 
-## Numbers
+## Numbers / Числа
 
 The lesson includes numbers from 0 to 100 and examples of larger numbers.
 
@@ -80,7 +90,7 @@ Examples:
 - `eenentwintig`, `tweeëntwintig`, `drieënzeventig`
 - `honderd`, `tweehonderd`, `duizend`
 
-## Pronunciation
+## Pronunciation / Произношение
 
 Practice visible sound groups:
 
@@ -96,7 +106,7 @@ Useful contrast pairs:
 - `leuk` - `luik`
 - `keus` - `kuis`
 
-## Listening And Speaking
+## Listening And Speaking / Аудирование и устная речь
 
 The lesson includes short listening tasks about people in class and a classroom situation.
 
@@ -108,7 +118,7 @@ Useful speaking questions:
 4. Schrijf jij met een pen of op de computer?
 5. Wat doe jij in de pauze?
 
-## Writing Practice
+## Writing Practice / Письменная практика
 
 The screenshot includes translation-style writing practice with sentences about school and class.
 
@@ -125,7 +135,7 @@ Useful examples:
 9. De docent schrijft woorden.
 10. Zij maken opdrachten op de computer.
 
-## Homework Ideas
+## Homework Ideas / Идеи для домашней работы
 
 - Choose `dit`, `dat`, `deze`, or `die`.
 - Mark sentences as `dichtbij` or `ver weg`.
@@ -136,7 +146,7 @@ Useful examples:
 - Read pronunciation rows aloud and record yourself.
 - Answer simple speaking questions in full sentences.
 
-## Unclear From Source
+## Unclear From Source / Неясно по источнику
 
 - Some smaller listening exercise text is not fully readable from the screenshot.
 - Some pronoun drill cards are too small to transcribe exactly.

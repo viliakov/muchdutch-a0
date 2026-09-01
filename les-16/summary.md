@@ -1,11 +1,21 @@
 # Les 16 - Summary
 
-## Source
+## Source / Источник
 
 - Based on: screenshot (Miro board les 16)
 - Date added: 2026-08-20
 
-## Main Topics
+## Русский дубль всех пояснений
+
+### Основные темы и лексика
+
+Урок повторяет формы настоящего времени, предлоги в устойчивых сочетаниях и союзы `en`, `want`, `maar`, `dus`, `of`; отдельно сопоставляется порядок слов с `omdat`. Лексика посвящена дню рождения, приглашению, встрече, кафе, еде и общению.
+
+### Аудирование, устная и письменная практика
+
+Нужно понять разговор о празднике и выступить с собственной презентацией. В письменной работе заполняется письмо правильными формами глаголов и предлогами, соединяются половины предложений и выбирается подходящий союз.
+
+## Main Topics / Основные темы
 
 - Spreken: presentaties (presenting your own slides in class)
 - Luisteren: een uitnodiging / verjaardag-gesprek (audio `12-Tekstboek-CD 1-Tr 12.mp3`) met `luister en beantwoord de vragen`
@@ -53,7 +63,7 @@ Vaste combinaties die je uit je hoofd moet leren:
 - `want` = reden, `dus` = gevolg
 - `maar` = tegenstelling, `en` = toevoeging, `of` = keuze
 
-## Vocabulary Themes
+## Vocabulary Themes / Темы лексики
 
 - Verjaardag en feestje: `de verjaardag`, `het feestje`, `de verrassing`, `afspreken`
 - Uitgaan en eten: `uit eten`, `het eetcafé`, `gezellig eten`
@@ -61,23 +71,23 @@ Vaste combinaties die je uit je hoofd moet leren:
 - Boodschappen (herhaling les 13-15): `de slager`, `de groenteboer`, `de bakker`, `margarine`, `de boter`, `pindakaas`
 - Eten en drinken: `honger hebben`, `dorst hebben`, `genoeg`, `gezond`, `de spruitjes`
 
-## Pronunciation
+## Pronunciation / Произношение
 
 - `gezellig` en `geweldig`: de `g` twee keer, en de eind-`g` klinkt als `ch`
 - `verjaardag`: klemtoon op `-jaar-`
 - `eetcafé`: accent aigu op de laatste `e`, klemtoon daar
 
-## Listening And Speaking
+## Listening And Speaking / Аудирование и устная речь
 
 - Luisteren: `luister en beantwoord de vragen` (waar / niet waar) bij het gesprek over Franca's verjaardag
 - Spreken: een eigen presentatie geven voor de groep
 
-## Writing Practice
+## Writing Practice / Письменная практика
 
 - Een e-mail aan een vriend over je nieuwe huis, met de juiste werkwoordsvormen
 - Zinnen afmaken met `want`, `dus`, `maar`, `en`, `of`
 
-## Useful Example Sentences
+## Useful Example Sentences / Полезные примеры
 
 1. Hoe gaat het met je?
 2. Mijn nieuwe huis is helemaal klaar!
@@ -90,14 +100,14 @@ Vaste combinaties die je uit je hoofd moet leren:
 9. Zullen we zaterdag afspreken?
 10. Ik heb dorst, dus ik wil iets drinken.
 
-## Homework Ideas
+## Homework Ideas / Идеи для домашней работы
 
 - Werkwoordsvormen invullen in een korte e-mail
 - Voorzetsels bij vaste uitdrukkingen
 - Voegwoorden kiezen en zinnen afmaken
 - Vertalen (Russisch en Engels) met woorden uit les 12-16
 
-## Unclear From Source
+## Unclear From Source / Неясно по источнику
 
 - De `luister en beantwoord de vragen` blaadjes staan te klein op het bord; de acht vragen zijn niet leesbaar en de waar/niet-waar antwoorden verschillen per blaadje.
 - Bij `podberite paru` loopt er één lijn van zin 2 naar een optie, maar de rest is niet ingevuld op het bord.

@@ -1,11 +1,21 @@
 # Les 9 - Summary
 
-## Source
+## Source / Источник
 
 - Based on: Miro board screenshot with sections for fonetiek, getallen drillen, luisteren, grammatica, woordenschat, lezen, and huiswerk.
 - Date added: 2026-07-16
 
-## Main Topics
+## Русский дубль всех пояснений
+
+### Основные темы и лексика
+
+Главная грамматика — формы `willen` и вопросительная инверсия с этим глаголом. Повторяется настоящее время. Лексика связана с типами жилья, арендой и покупкой дома, районом, городом и деревней; отдельно отрабатываются уменьшительные формы.
+
+### Практика
+
+Нужно говорить, что человек хочет купить, снять или сделать, строить вопросы с `willen`, выбирать артикль и образовывать уменьшительные слова. Перевод и короткие предложения соединяют новую грамматику с лексикой предыдущих уроков.
+
+## Main Topics / Основные темы
 
 - Diminutives (`verkleinwoorden`): the `-je / -tje / -etje / -pje` endings.
 - Present tense review (`herhalen: tegenwoordige tijd`).
@@ -60,7 +70,7 @@ The lesson reviews regular present tense endings.
 - `wij/we`, `jullie`, `zij/ze` -> full infinitive.
 - In inversion (`werkwoord + jij`), the `jij`-form drops the `t`: `Wil jij ...?`, `Schrijf jij ...?`.
 
-## Vocabulary Themes
+## Vocabulary Themes / Темы лексики
 
 - Housing: `het huis`, `de flat`, `de woning`, `de kamer`, `de verdieping`.
 - Renting and buying: `huren`, `kopen`, `de huur`, `de prijs`, `per maand`, `zonder`, `te huur`.
@@ -69,7 +79,7 @@ The lesson reviews regular present tense endings.
 - Adjectives: `hoog`, `weinig`, `druk`, `rustig`, `mooi`, `aardig`.
 - Diminutives from fonetiek: `het handje`, `het maandje`, `het huisje`, `het jasje`, `het glaasje`, `het muisje`, `het roosje`, `het schoentje`.
 
-## Pronunciation
+## Pronunciation / Произношение
 
 The phonetics section drills diminutives (`verkleinwoorden`) and the different endings.
 
@@ -88,7 +98,7 @@ Visible examples:
 
 Rule of thumb: most words add `-je`; words ending in a long vowel or `-n/-l/-r` after a short vowel often take `-tje` or `-etje`.
 
-## Numbers And Colors
+## Numbers And Colors / Числа и цвета
 
 The board pairs a color drill with three-digit numbers ("lees de getallen in de kolom hardop, noem ook de kleur").
 
@@ -104,7 +114,7 @@ Numbers:
 - 415, 534, 838, 156, 823, 715, 102
 - 650, 574, 345, 115, 958, 904, 870
 
-## Reading
+## Reading / Чтение
 
 The board includes a short text about Tom and Julia looking for a house, plus a `Te Huur` advertisement.
 
@@ -142,7 +152,7 @@ Common reading (`waar of niet waar?`) questions:
 6. De prijs van het huis is € 312,- per maand. (niet waar)
 7. Het huis in Maarn heeft een balkon. (waar)
 
-## Listening And Speaking
+## Listening And Speaking / Аудирование и устная речь
 
 Listening practice uses city, home, and neighborhood vocabulary:
 
@@ -153,7 +163,7 @@ Listening practice uses city, home, and neighborhood vocabulary:
 
 Speaking practice focuses on saying what kind of home you want and using `willen`.
 
-## Writing Practice
+## Writing Practice / Письменная практика
 
 Practice writing sentences with `willen` and housing vocabulary.
 
@@ -168,7 +178,7 @@ Het huis heeft een tuin en een balkon.
 De prijs is achthonderd euro per maand.
 ```
 
-## Homework Ideas
+## Homework Ideas / Идеи для домашней работы
 
 - Fill in the correct form of `willen`.
 - Fill in the correct housing word (`buurman`, `koekje`, `kom`, `nieuwe`, `thuis`, `alleen`, `beetje`, `buurvrouw`, `gezellig`, `kopje`, `straat`, `voorstellen`).
@@ -179,7 +189,7 @@ De prijs is achthonderd euro per maand.
 - Read the color-and-number rows aloud.
 - Answer `waar of niet waar?` about a rental advertisement.
 
-## Unclear From Source
+## Unclear From Source / Неясно по источнику
 
 - Several small multiple-choice and listening cards are too small to transcribe exactly.
 - Some circled answers in the `willen` exercises are partially unreadable from the screenshot.

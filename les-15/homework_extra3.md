@@ -3,7 +3,10 @@
 > **Русская версия:** название каждого задания продублировано по-русски. Основные отдельные инструкции также продублированы строкой `По-русски`. Учебные предложения сохранены на исходном языке, чтобы не раскрывать ответы в заданиях на перевод.
 
 
-Doel: nog een keer oefenen met het **meervoud** (`-en`, `-s`, `'s`, onregelmatig, maateenheden) en met de **modale werkwoorden**, plus `de`/`het`-woorden, vertalen, ontkennende zinnen en vragen. De woorden komen uit les 15 en uit alle vorige lessen (zie `WORDS.md`). Alle zinnen zijn nieuw: ze staan niet in `homework_extra.md` of `homework_extra2.md`.
+
+> **Пояснение по-русски:** Работа закрепляет множественное число, модальные глаголы и лексику супермаркета.
+
+Doel / Цель: nog een keer oefenen met het **meervoud** (`-en`, `-s`, `'s`, onregelmatig, maateenheden) en met de **modale werkwoorden**, plus `de`/`het`-woorden, vertalen, ontkennende zinnen en vragen. De woorden komen uit les 15 en uit alle vorige lessen (zie `WORDS.md`). Alle zinnen zijn nieuw: ze staan niet in `homework_extra.md` of `homework_extra2.md`.
 
 ## 1. Schrijf het meervoud (deel 1) — **По-русски:** 1. Напишите множественное число (часть 1)
 

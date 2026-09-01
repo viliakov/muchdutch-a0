@@ -3,6 +3,9 @@
 > **Русская версия:** название каждого задания продублировано по-русски. Основные отдельные инструкции также продублированы строкой `По-русски`. Учебные предложения сохранены на исходном языке, чтобы не раскрывать ответы в заданиях на перевод.
 
 
+
+> **Пояснение по-русски:** Работа закрепляет `moeten`, изученные союзы, комнаты и домашние дела.
+
 Dit is het huiswerk uit de les (van het bord). Extra oefeningen staan in `homework_extra.md`.
 
 ## Grammatica — **По-русски:** Грамматика
@@ -55,7 +58,7 @@ Kies de goede kamer of plek.
 Gebruik `er is` / `er zijn`. Schrijf over elke kamer ten minste 3 zinnen.
 > **По-русски:** Используйте `er is / er zijn`. Напишите не менее трёх предложений о каждой комнате.
 
-Voorbeeld: `Er is een bank in mijn woonkamer.`
+Voorbeeld / Пример: `Er is een bank in mijn woonkamer.`
 
 - Woonkamer: ...
 - Keuken: ...

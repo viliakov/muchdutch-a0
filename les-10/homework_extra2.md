@@ -3,7 +3,10 @@
 > **Русская версия:** название каждого задания продублировано по-русски. Основные отдельные инструкции также продублированы строкой `По-русски`. Учебные предложения сохранены на исходном языке, чтобы не раскрывать ответы в заданиях на перевод.
 
 
-Doel: nog een keer oefenen met voegwoorden (`en`, `want`, `maar`, `dus`, `of`), `de`/`het`-woorden, vertalen, ontkennende zinnen en vragen. De woorden komen uit les 10 en uit alle vorige lessen (zie `WORDS.md`).
+
+> **Пояснение по-русски:** Работа закрепляет `moeten`, изученные союзы, комнаты и домашние дела.
+
+Doel / Цель: nog een keer oefenen met voegwoorden (`en`, `want`, `maar`, `dus`, `of`), `de`/`het`-woorden, vertalen, ontkennende zinnen en vragen. De woorden komen uit les 10 en uit alle vorige lessen (zie `WORDS.md`).
 
 ## 1. Kies uit: `en`, `want`, `maar`, `dus`, `of` — **По-русски:** 1. Выберите из `en`, `want`, `maar`, `dus`, `of`
 

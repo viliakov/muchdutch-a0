@@ -3,7 +3,10 @@
 > **Русская версия:** название каждого задания продублировано по-русски. Основные отдельные инструкции также продублированы строкой `По-русски`. Учебные предложения сохранены на исходном языке, чтобы не раскрывать ответы в заданиях на перевод.
 
 
-Doel: oefenen met `mogen`, met de personaal pronomen (possessief en object), en met de nieuwe woorden over eten en de tafel. De woorden komen uit les 12 en uit alle vorige lessen (zie `WORDS.md`).
+
+> **Пояснение по-русски:** Работа закрепляет `mogen/kunnen`, личные и притяжательные местоимения и лексику еды.
+
+Doel / Цель: oefenen met `mogen`, met de personaal pronomen (possessief en object), en met de nieuwe woorden over eten en de tafel. De woorden komen uit les 12 en uit alle vorige lessen (zie `WORDS.md`).
 
 ## 1. Vul de goede vorm van `mogen` in — **По-русски:** 1. Вставьте правильную форму `mogen`
 

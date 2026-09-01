@@ -1,11 +1,21 @@
 # Les 7 - Summary
 
-## Source
+## Source / Источник
 
 - Based on: Miro board screenshot with sections for fonetiek, getallen drillen, luisteren, grammatica, woordenschat, agenda, huiswerk, and schrijven.
 - Date added: 2026-07-09
 
-## Main Topics
+## Русский дубль всех пояснений
+
+### Основные темы и лексика
+
+Урок посвящён планам с `gaan + infinitief`, инверсии после времени или места и наречиям частотности `altijd`, `vaak`, `meestal`, `soms`, `niet zo vaak`, `nooit`. Лексика описывает ежедневные дела, работу, школу, спорт, покупки, прогулки, чтение и интернет.
+
+### Числа, аудирование и практика
+
+Продолжается запись больших чисел и заполнение личных данных на слух: имя, дата рождения, адрес, индекс, телефон и e-mail. В письменной работе составляется текст о расписании; личная форма глагола должна оставаться на втором месте, а инфинитив после `gaan` — в конце.
+
+## Main Topics / Основные темы
 
 - Present tense review with verbs such as `komen`, `gaan`, and `doen`.
 - `Gaan + infinitief` for plans and intentions.
@@ -110,14 +120,14 @@ Examples:
 3. Wij wandelen soms in het park.
 4. Ik lees nooit het nieuws.
 
-## Vocabulary Themes
+## Vocabulary Themes / Темы лексики
 
 - Agenda activities: `op kantoor werken`, `thuis werken`, `kinderen naar school brengen`, `naar de gym gaan`, `boodschappen doen`, `in het park wandelen`, `afspraak met vrienden hebben`, `schoonmaken`, `een boek lezen`, `naar een film kijken`, `nieuws lezen`, `op het internet surfen`.
 - Frequency: `altijd`, `vaak`, `meestal`, `soms`, `niet zo vaak`, `nooit`.
 - Time and place starters: `morgen`, `overmorgen`, `vanavond`, `vandaag`, `in de keuken`, `in de woonkamer`, `op het internet`, `in het park`.
 - Verbs: `komen`, `gaan`, `doen`, `werken`, `wandelen`, `brengen`, `ophalen`, `kijken`, `surfen`, `repareren`, `helpen`, `wonen`.
 
-## Agenda Text
+## Agenda Text / Текст о расписании
 
 The board includes a short agenda-style text:
 
@@ -136,7 +146,7 @@ Daarna heb ik een afspraak met mijn vrienden.
 Later wil ik een boek lezen of tv kijken.
 ```
 
-## Pronunciation
+## Pronunciation / Произношение
 
 The phonetics section reviews vowel contrasts:
 
@@ -144,7 +154,7 @@ The phonetics section reviews vowel contrasts:
 - `ij/ei`: `pijn`, `geen`, `krijt`, `trein`, `mijn`, `zijn`, `klein`
 - contrasts such as `bui` - `bij`, `tuin` - `trein`, `huis` - `hijs`
 
-## Numbers
+## Numbers / Числа
 
 The lesson includes a numbers drill with larger numbers.
 
@@ -154,7 +164,7 @@ Visible numbers include:
 - 23, 18, 87, 78, 987, 434
 - 45, 14, 43, 34, 421, 56
 
-## Listening And Speaking
+## Listening And Speaking / Аудирование и устная речь
 
 Listening practice includes filling in personal information from audio.
 
@@ -170,7 +180,7 @@ Visible fields include:
 
 Speaking and writing topics focus on asking what is on someone's agenda and describing daily plans.
 
-## Writing Practice
+## Writing Practice / Письменная практика
 
 The board asks:
 
@@ -189,7 +199,7 @@ Useful writing frame:
 7. Avonds ga ik schoonmaken.
 8. Later ga ik een boek lezen.
 
-## Useful Example Sentences
+## Useful Example Sentences / Полезные примеры
 
 1. Morgen ga ik naar school.
 2. Vanavond gaan wij een film kijken.
@@ -202,7 +212,7 @@ Useful writing frame:
 9. De kinderen gaan buiten spelen.
 10. Later ga ik een boek lezen.
 
-## Homework Ideas
+## Homework Ideas / Идеи для домашней работы
 
 - Make sentences that begin with time or place.
 - Practice inversion after time/place starters.
@@ -214,7 +224,7 @@ Useful writing frame:
 - Read number columns aloud.
 - Practice pronunciation pairs with `ui`, `ij`, and `ei`.
 
-## Unclear From Source
+## Unclear From Source / Неясно по источнику
 
 - Some listening cards are too small to transcribe exactly.
 - Some small grammar exercise text is partially unreadable from the screenshot.

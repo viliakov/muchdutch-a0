@@ -1,11 +1,21 @@
 # Les 18 - Summary
 
-## Source
+## Source / Источник
 
 - Based on: six lesson screenshots supplied by the user
 - Date added: 2026-08-27
 
-## Main Topics
+## Русский дубль всех пояснений
+
+### Основные темы и лексика
+
+Урок посвящён одежде, аксессуарам, внешности и форме прилагательного перед существительным. Изучаются `dragen`, отделяемый `aanhebben` и устойчивые предлоги для аксессуаров. Лексика описывает одежду, рост, телосложение, возраст, волосы и кожу.
+
+### Произношение и практика
+
+Нужно слышать безударное `-e` в изменённом прилагательном, различать `ui` и `ij` и следить за изменениями написания. В устной и письменной практике описываются одежда и внешность, выбирается `de/het`, правильная форма прилагательного и предлог места для аксессуара.
+
+## Main Topics / Основные темы
 
 - Kleding en accessoires benoemen
 - Vertellen wat je vaak draagt en waarom
@@ -83,7 +93,7 @@ Gebruik `zijn`, `hebben` en `er ... uitzien`:
 
 `Haar` is een enkelvoudig `het`-woord en staat vaak zonder lidwoord: `kort haar`, `lang blond haar`, `krullend zwart haar`.
 
-## Vocabulary Themes
+## Vocabulary Themes / Темы лексики
 
 - Kleding: de trui, de rok, het hemd, het overhemd, het T-shirt, de blouse, de spijkerbroek, de broek, de jurk, de laars, het pak
 - Accessoires: de hoed, de bril, de oorbel, de muts, de sjaal, de handschoen, de hoofddoek, de ring, het horloge, de ketting, de armband, de sieraden
@@ -91,14 +101,14 @@ Gebruik `zijn`, `hebben` en `er ... uitzien`:
 - Uiterlijk: dun, slank, mollig, dik, klein, lang, knap, lelijk, kaal, jong, oud
 - Haar en huid: kort, halflang, lang, blond, donkerblond, bruin, rood, grijs, zwart, krullend, steil, golvend, een lichte/donkere huid
 
-## Pronunciation
+## Pronunciation / Произношение
 
 - In verbogen vormen hoor je een onbeklemtoonde `-e`: `mooie`, `warme`, `lange`.
 - `ui` in `trui` en `huid` is dezelfde Nederlandse tweeklank.
 - `ij` in `grijs` klinkt als `ei`; voor `-e` wordt dit `grijze`.
 - Let op het verschil tussen `kort` en `groot` en tussen `rok` en `broek`.
 
-## Listening And Speaking
+## Listening And Speaking / Аудирование и устная речь
 
 - Beantwoord: `Wat draag je vaak? Waarom?`
 - Geef een reden met `want`: `Ik draag vaak een luchtige blouse, want die is comfortabel.`
@@ -106,7 +116,7 @@ Gebruik `zijn`, `hebben` en `er ... uitzien`:
 - Beschrijf iemands uiterlijk met `zijn`, `hebben` en `er ... uitzien`.
 - Oefen de plaats van accessoires: `Waar draag je een ring? - Om je vinger.`
 
-## Writing Practice
+## Writing Practice / Письменная практика
 
 - Vul de goede vorm van het adjectief in.
 - Wissel tussen predicatief en attributief: `Het pak is net. - Het nette pak.`
@@ -114,7 +124,7 @@ Gebruik `zijn`, `hebben` en `er ... uitzien`:
 - Schrijf kledingzinnen met `dragen` en `aanhebben`.
 - Beantwoord vaste vragen over kleding en accessoires.
 
-## Useful Example Sentences
+## Useful Example Sentences / Полезные примеры
 
 1. Ik draag vaak een warme trui, want die zit lekker.
 2. Zij heeft een mooie zwarte rok aan.
@@ -127,7 +137,7 @@ Gebruik `zijn`, `hebben` en `er ... uitzien`:
 9. Mijn opa is oud en heeft kort grijs haar.
 10. Het jonge meisje heeft lang, golvend blond haar.
 
-## Homework Ideas
+## Homework Ideas / Идеи для домашней работы
 
 - Kies `de` of `het` en schrijf tegelijk de goede adjectiefvorm.
 - Verander zinnen met `zijn` in woordgroepen met een adjectief.
@@ -135,7 +145,7 @@ Gebruik `zijn`, `hebben` en `er ... uitzien`:
 - Maak ontkennende zinnen en vragen met adjectieven.
 - Herhaal voornaamwoorden, meervouden, getallen, voegwoorden en modale werkwoorden in de context van kleding.
 
-## Unclear From Source
+## Unclear From Source / Неясно по источнику
 
 - De screenshots tonen geen afzonderlijk vak met het woord `huiswerk`; de zichtbare invul- en vraagopdrachten zijn daarom als leshuiswerk samengebracht.
 - Bij de meerkeuzevragen zijn niet alle kleine antwoordletters even scherp, maar de vraagtekst en de inhoud zijn leesbaar.

@@ -3,11 +3,14 @@
 > **Русская версия:** название каждого задания продублировано по-русски. Основные отдельные инструкции также продублированы строкой `По-русски`. Учебные предложения сохранены на исходном языке, чтобы не раскрывать ответы в заданиях на перевод.
 
 
+
+> **Пояснение по-русски:** Работа закрепляет `mogen/kunnen`, личные и притяжательные местоимения и лексику еды.
+
 ## Grammatica — **По-русски:** Грамматика
 
 ### 1. Vul met het goede possessief in — **По-русски:** 1. Вставьте подходящее притяжательное слово
 
-Voorbeeld: We hebben een kleine familie. **Onze** familie bestaat uit elf personen.
+Voorbeeld / Пример: We hebben een kleine familie. **Onze** familie bestaat uit elf personen.
 
 1. Hij heeft twee neven. ____ neven wonen in Groningen.
 2. U bent getrouwd. Waar wonen ____ schoonouders?

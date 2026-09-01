@@ -1,11 +1,21 @@
 # Les 15 - Summary
 
-## Source
+## Source / Источник
 
 - Based on: Miro board screenshot (`15.png`)
 - Date added: 2026-08-08
 
-## Main Topics
+## Русский дубль всех пояснений
+
+### Основные темы и лексика
+
+Главная тема — множественное число с `-en`, `-s`, `'s`, нерегулярные формы, слова только в единственном или множественном числе и неизменяемые единицы после числительного. Повторяются модальные глаголы. Лексика посвящена овощам, фруктам, упаковкам, отделам супермаркета, приглашению и кафе.
+
+### Аудирование, произношение и практика
+
+Отрабатывается приглашение на праздник и диалог в кафе. В произношении важно слабое `-en`, апостроф после долгой гласной и нерегулярные формы. Нужно образовывать множественное число, заменять существительные местоимениями, заказывать и оплачивать напитки и использовать число с единицей измерения.
+
+## Main Topics / Основные темы
 
 - Warm-up: supermarket leaflet (`De Buurtsuper`) - `wat wil je graag kopen? hoeveel kost het?`
 - Grammar: **meervoud** (plural) - the big topic of the lesson: `-en`, `-s`, `'s`, irregular plurals, and words that only exist in the singular
@@ -117,7 +127,7 @@ Betekenis:
 - `mogen` = niet verboden zijn, toegestaan zijn - `Mag ik hier roken?`, `Hier mag u niet parkeren.`
 - `moeten` = verplicht zijn, nodig zijn - `U moet een examen Nederlands doen.`, `We moeten een cadeautje kopen.`
 
-## Vocabulary Themes
+## Vocabulary Themes / Темы лексики
 
 - Groente en fruit: de wortel, de boon, de sla, de bloemkool, de banaan, de appel, de peer, de sinaasappel, de citroen, de druif, de aardappel, de ui
 - Prijzen en hoeveelheden: de zak, de kilo, het gram, `1 + 1 gratis`, `per kilo`, verschillende soorten, alle soorten
@@ -125,28 +135,28 @@ Betekenis:
 - Uitnodiging / feestje: uitnodiging, een feestje geven, het cadeautje, ruilen, lijken op, missen, overleden, `ik ben dol op`
 - In het café: trakteren, bestellen, afrekenen, het rondje, `Proost!`, `Op je verjaardag!`, `Alles samen?`, `Zegt u het maar.`
 
-## Pronunciation
+## Pronunciation / Произношение
 
 - Plural `-en` is normally pronounced as a weak `-ə`: `kaarten` sounds like "kaartə".
 - The apostrophe in `opa's`, `foto's`, `taxi's` keeps the vowel long - do not say "opas" with a short vowel.
 - `eieren` = /ˈɛi-jə-rən/ (three syllables), `steden` = /ˈsteː-dən/ with a long `e`.
 - `-heden` in `mogelijkheden` puts no extra stress on the ending; the stress stays on `mó-gelijk`.
 
-## Listening And Speaking
+## Listening And Speaking / Аудирование и устная речь
 
 - Audio: `02_03.mp3` - an invitation to a party. Vocabulary to know first: `uitnodiging`, `een feestje geven`, `het cadeautje`, `ruilen`, `lijken op`, `missen iemand / iets`, `overleden`, `ik ben dol op`.
 - The cloud cards are the per-student worksheets: `luister en beantwoord de vragen` (multiple choice).
 - Speaking warm-up with the leaflet: `Wat wil je graag kopen?` / `Hoeveel kost het?` - answer with a price and a quantity: `Ik wil twee kilo sinaasappels. Ze kosten € 2,-.`
 - Role-play the café dialogue (Edit, Susy, Andres, Ober): order drinks, offer a `rondje`, pay: `Mogen we afrekenen?` - `Alles samen?`
 
-## Writing Practice
+## Writing Practice / Письменная практика
 
 - Reading text `Samen boodschappen doen. Ja, gezellig!` - replace every underlined word with the right pronoun from `hij – hem – zijn – het – ze – haar – hun`.
 - Write the plural of twenty nouns from the lesson.
 - Write eight sentences with a number + a unit of measure (`drie kilo`, `twee meter`, `vijf jaar`).
 - `waar of niet waar?` - seven statements about the café dialogue.
 
-## Useful Example Sentences
+## Useful Example Sentences / Полезные примеры
 
 1. Ik wil graag twee kilo aardappels, alstublieft.
 2. Hoeveel kosten de bananen? - Ze kosten € 0,99 per kilo.
@@ -164,7 +174,7 @@ Betekenis:
 14. Mogen we afrekenen? - Alles samen? - Nee, ik betaal het eerste rondje.
 15. Ik ben dol op sinaasappels, maar ik lust geen citroenen.
 
-## Homework Ideas
+## Homework Ideas / Идеи для домашней работы
 
 - Write the plural of nouns (four blocks: `-en`, `-s`, `'s`, irregular).
 - `welk woord past in de zin?` - choose singular or plural.
@@ -174,7 +184,7 @@ Betekenis:
 - Translation Russian -> Dutch and English -> Dutch with plurals.
 - `niet` / `geen` and questions with the shopping vocabulary.
 
-## Unclear From Source
+## Unclear From Source / Неясно по источнику
 
 - The small `schrijf het meervoud (1)-(4)` and `welk woord past in de zin?` per-student cards are too low-resolution to read the individual words; only the exercise structure is visible.
 - The `luister en beantwoord de vragen` cloud cards are unreadable in detail.

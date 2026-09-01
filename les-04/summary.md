@@ -1,11 +1,21 @@
 # Les 4 - Summary
 
-## Source
+## Source / Источник
 
 - Based on: Miro board screenshot with sections for fonetiek, luisteren, grammatica herhalen, tegenwoordige tijd, woordenschat, small-talk in de pauze, and huiswerk.
 - Date added: 2026-07-05
 
-## Main Topics
+## Русский дубль всех пояснений
+
+### Основные темы и лексика
+
+Урок вводит системное образование настоящего времени правильных глаголов и повторяет вопросы. Ситуация общения — перерыв на работе: кофе, чай, молоко, сахар, выбор с `of`, сочетания `met/zonder`, вежливые формулы `graag`, `alsjeblieft`, `dank je wel`.
+
+### Чтение, произношение и практика
+
+Чтение посвящено человеку, его происхождению, национальности и семье. В произношении сравниваются `ou/au` и `ij/ei`. В парной работе один человек предлагает напиток, второй отвечает, уточняет добавки и благодарит; в письменных заданиях нужно спрягать глаголы, строить вопросы и отвечать по тексту.
+
+## Main Topics / Основные темы
 
 - Review of previous grammar and vocabulary.
 - Present tense regular verbs.
@@ -76,7 +86,7 @@ Examples:
 5. Werk jij op dinsdag en vrijdag?
 6. Lees je een boek?
 
-## Vocabulary Themes
+## Vocabulary Themes / Темы лексики
 
 - Break-time drinks: `de koffie`, `de thee`, `de melk`, `de suiker`.
 - Small talk: `drinken`, `graag`, `alsjeblieft`, `dank je wel`.
@@ -84,7 +94,7 @@ Examples:
 - Work and study verbs: `luisteren`, `typen`, `begrijpen`, `werken`, `lezen`.
 - Review: people, family, countries, and personal details.
 
-## Small Talk: In De Pauze
+## Small Talk: In De Pauze / Разговор во время перерыва
 
 The lesson includes a dialogue about taking a break and drinking coffee or tea.
 
@@ -114,7 +124,7 @@ Cursist B antwoordt.
 Wissel daarna van rol.
 ```
 
-## Reading
+## Reading / Чтение
 
 The homework section includes a short text about Annabelle and her family.
 
@@ -136,7 +146,7 @@ Useful reading-style questions:
 5. Uit welk land komt de moeder van Annabelle?
 6. Welke nationaliteit heeft Annabelle?
 
-## Pronunciation
+## Pronunciation / Произношение
 
 The phonetics section includes several sound groups and contrast rows.
 
@@ -148,7 +158,7 @@ Visible themes:
 
 Practice idea: read the pronunciation rows aloud and mark the words that are hard to distinguish.
 
-## Listening And Speaking
+## Listening And Speaking / Аудирование и устная речь
 
 Listening practice appears to match people to pictures and personal descriptions.
 
@@ -160,7 +170,7 @@ Speaking practice focuses on:
 - saying thank you,
 - switching roles in a short dialogue.
 
-## Writing Practice
+## Writing Practice / Письменная практика
 
 Homework includes worksheet-style writing tasks and grammar completion.
 
@@ -171,7 +181,7 @@ Useful writing prompts:
 3. Answer questions about a short text.
 4. Fill in missing small-talk words.
 
-## Useful Example Sentences
+## Useful Example Sentences / Полезные примеры
 
 1. Ik luister goed.
 2. Jij typt een zin.
@@ -186,7 +196,7 @@ Useful writing prompts:
 11. Waar kom jij vandaan?
 12. Spreek jij Nederlands?
 
-## Homework Ideas
+## Homework Ideas / Идеи для домашней работы
 
 - Fill in the correct present-tense verb form.
 - Make questions from prompts.
@@ -196,7 +206,7 @@ Useful writing prompts:
 - Sort drink words and polite phrases.
 - Read `ou/au` and `ij/ei` pronunciation rows aloud.
 
-## Unclear From Source
+## Unclear From Source / Неясно по источнику
 
 - Some listening cards and worksheet scans are too small to transcribe exactly.
 - The full text about Annabelle is partially readable but not clear enough for exact transcription.

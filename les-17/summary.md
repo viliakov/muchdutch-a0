@@ -1,11 +1,21 @@
 # Les 17 - Summary
 
-## Source
+## Source / Источник
 
 - Based on: Miro board screenshot supplied by the user
 - Date added: 2026-08-22
 
-## Main Topics
+## Русский дубль всех пояснений
+
+### Основные темы и лексика
+
+Повторяются личные местоимения как подлежащие, прямые и косвенные дополнения и притяжательные слова, а также множественное число. Лексика охватывает состав здоровой еды, сезоны, нидерландские блюда, покупки, кафе и ресторан.
+
+### Аудирование, диалоги и практика
+
+Нужно собрать полезное блюдо и объяснить выбор, прослушать текст о сезонах и блюдах и разыграть роли клиента и официанта. Два диалога отрабатывают заказ, угощение, оплату круга напитков, просьбу о счёте и названия частей меню. В письме заменяются повторяющиеся существительные местоимениями и заполняются реплики.
+
+## Main Topics / Основные темы
 
 - Spreken: stel je eigen gezonde maaltijd samen en vertel wat je kiest
 - Grammatica: persoonlijke voornaamwoorden (`pronomina`) drillen
@@ -119,7 +129,7 @@ Voorbeeld uit het begin:
 
 > Peter en Marjan gaan naar de supermarkt. **Ze** gaan naar de supermarkt op de hoek. **Hij** is groot en **ze** hebben veel keuze. De producten zijn niet duur, maar **ze** zijn wel van goede kwaliteit.
 
-## Vocabulary Themes
+## Vocabulary Themes / Темы лексики
 
 - Koolhydraatbasis: rijst, zoete aardappel, volkoren pasta, quinoa, couscous, bulgur
 - Eiwitbronnen: tofu, tempeh, ei, vis, feta, mozzarella
@@ -131,14 +141,14 @@ Voorbeeld uit het begin:
 - Luisteren: de winter, de lente, de zomer, de herfst, asperges, wild zwijn, het deel, zuurkoolstamppot
 - Restaurantdialoog: alvast, mineraalwater, mosterdsoep, frietjes, Spaanse salade, vegetarisch, mes en vork, slagroom, cappuccino
 
-## Pronunciation
+## Pronunciation / Произношение
 
 - `ui` in `kruiden` is de Nederlandse tweeklank, zoals in `huis`.
 - `ij` in `olijven` klinkt als `ei` in `eieren`.
 - In `courgette` hoor je ongeveer `koer-ZJET`; de klemtoon ligt op de tweede lettergreep.
 - In gewone spreektaal zijn de korte pronomina vaak onbeklemtoond: `je`, `me`, `we`, `ze`.
 
-## Listening And Speaking
+## Listening And Speaking / Аудирование и устная речь
 
 - Bouw een maaltijd in vijf stappen: kies één koolhydraatbasis, één of twee eiwitbronnen, twee of drie groentetoppings, één gezond vet en een topping of dressing.
 - Vertel daarna je keuze met vaste zinnen: `Ik kies ...`, `Ik wil graag ...`, `Ik geef de voorkeur aan ...`.
@@ -167,14 +177,14 @@ Handige woorden: `alvast`, `Ik heb dorst`, `hoofdgerecht`, `Ik heb honger`, `voo
 
 Antwoorden bij `waar of niet waar?`: 1 waar, 2 niet waar, 3 waar, 4 niet waar (ze haalt een lepel), 5 waar, 6 waar, 7 niet waar / niet vermeld.
 
-## Writing Practice
+## Writing Practice / Письменная практика
 
 - Vervang in `Samen boodschappen doen` de onderstreepte woorden door `hij`, `hem`, `zijn`, `het`, `ze`, `haar` of `hun`.
 - Vul de cafézinnen in: `Ik trakteer`; `Doe mij maar een biertje`; `nog een keer`; `goed idee`; `Dit rondje betaal ik`; `Zullen wij bestellen?`; `mogen we afrekenen?`.
 - Vul de restaurantzinnen in. Antwoorden: 1 `alvast`, 2 `Ik heb dorst`, 3 `voorgerecht`, 4 `Eet smakelijk`, 5 `dagschotel`, 6 `hoofdgerecht`, 7 `Ik heb honger`, 8 `nagerecht`, 9 `toetje`.
 - Maak de oefening met 21 meervouden; let bij `liter`, `kilometer` en `euro` op de onveranderde vorm na een getal.
 
-## Useful Example Sentences
+## Useful Example Sentences / Полезные примеры
 
 1. Ik kies rijst, vis, broccoli, avocado en citroen.
 2. Ik wil graag tofu met courgette en bonen.
@@ -189,7 +199,7 @@ Antwoorden bij `waar of niet waar?`: 1 waar, 2 niet waar, 3 waar, 4 niet waar (z
 11. Ik neem het gerecht; het lijkt me lekker.
 12. Eet smakelijk! - Dank je wel.
 
-## Homework Ideas
+## Homework Ideas / Идеи для домашней работы
 
 - Kies het juiste onderwerp- of objectpronomen in restaurantzinnen.
 - Vervang namen en zelfstandige naamwoorden door `hij`, `hem`, `zij`, `haar`, `het`, `ze` of `hen`.
@@ -198,7 +208,7 @@ Antwoorden bij `waar of niet waar?`: 1 waar, 2 niet waar, 3 waar, 4 niet waar (z
 - Vertaal korte restaurantzinnen uit het Russisch en Engels naar het Nederlands.
 - Maak ontkennende zinnen met `niet` en `geen` en de nieuwe woordenschat.
 
-## Unclear From Source
+## Unclear From Source / Неясно по источнику
 
 - De kleine tekst op de zeven kaarten bij `pronomina drillen` is niet betrouwbaar leesbaar; het onderwerp en de oefenvorm zijn wel duidelijk.
 - De individuele vragen en antwoordopties op de luisterkaarten zijn te klein om exact over te nemen.

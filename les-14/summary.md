@@ -1,11 +1,21 @@
 # Les 14 - Summary
 
-## Source
+## Source / Источник
 
 - Based on: Miro board screenshot (`les14.png`)
 - Date added: 2026-08-04
 
-## Main Topics
+## Русский дубль всех пояснений
+
+### Основные темы и лексика
+
+Повторяется отрицание и изучается `zullen`: предложение, обещание, спонтанное решение и предположение; для конкретного плана используется `gaan + infinitief`. Лексика посвящена перекусам, деньгам, евро и центам, банкнотам, монетам, ценам, весу и покупкам на рынке.
+
+### Аудирование и практика
+
+Нужно понимать диалог в супермаркете, произносить и записывать цены, спрашивать стоимость и количество, разыгрывать продавца и покупателя. В письменных заданиях составляются предложения с `omdat`, предложения с `zullen` и вопросы о товарах и ценах.
+
+## Main Topics / Основные темы
 
 - Warm-up: `wat is jouw ideale tussendoortje? waarom?` - snacks plus reasons with `omdat`
 - Grammar: negatie drillen (`niet` / `geen`) - repetition of les 13
@@ -85,7 +95,7 @@ So: `gaan` = a concrete plan / more certainty; `zullen` = proposal, promise, pro
 - `een pond` = 500 gram = `de helft` van een kilo
 - `een ons` = 100 gram
 
-## Vocabulary Themes
+## Vocabulary Themes / Темы лексики
 
 - Tussendoortjes: een heel fruit, een proteïnereep, een cappuccino, een rijstwafel, een stuk brood, een smoothie, een handje noten, groenten met humus, een koekje
 - Redenen met `omdat`: lekker, gezond, energie geven, makkelijk mee te nemen, niet duur, snel klaar, goed vullen, blij maken
@@ -93,27 +103,27 @@ So: `gaan` = a concrete plan / more certainty; `zullen` = proposal, promise, pro
 - Boodschappen: de kilo, het pond, het ons, het gram, per kilo, in de aanbieding, goedkoop, het pak, de zegel(s)
 - Markt: de verkoper, de druiven, de komkommer, alstublieft, terug, anders nog iets?
 
-## Pronunciation
+## Pronunciation / Произношение
 
 - Compound numbers are said "backwards": `vierentwintig` (4 + 20), `vijfennegentig` (5 + 90), `zevenenzestig` (7 + 60).
 - `euro` = /ˈøː-roː/, not English "yoo-ro".
 - `zullen` / `zult` - short `u`, like in `bus`.
 - `pinpas`, `pinnen` - short, crisp `i`.
 
-## Listening And Speaking
+## Listening And Speaking / Аудирование и устная речь
 
 - Audio: `4.15 In de supermarkt.m4a` - listen and answer the multiple-choice questions (what does the person buy, how much does the coffee cost, how many packs, what does the cashier ask).
 - The cloud cards (Vladimir, Maria, Anja, Alyona, Nadia, ...) are the per-student worksheets: `luister en beantwoord de vragen`.
 - Speaking warm-up: answer `Wat is jouw ideale tussendoortje? Waarom?` with a full `omdat`-sentence, e.g. `Mijn ideale tussendoortje is een handje noten, omdat het gezond is.`
 - Market role-play with the reading text: verkoper + klant, ask prices, ask for a pond / kilo, pay and get change.
 
-## Writing Practice
+## Writing Practice / Письменная практика
 
 - Write out ten prices in words (all three variants).
 - Write eight sentences about your own snacks with `omdat`.
 - Write short `zullen`-proposals for the weekend: `Zullen we ...?`
 
-## Useful Example Sentences
+## Useful Example Sentences / Полезные примеры
 
 1. Zullen we samen naar de supermarkt gaan?
 2. Ik zal het geld morgen teruggeven.
@@ -130,7 +140,7 @@ So: `gaan` = a concrete plan / more certainty; `zullen` = proposal, promise, pro
 13. Mijn ideale tussendoortje is een smoothie, omdat het snel klaar is.
 14. Ik neem een rijstwafel, omdat het niet duur is.
 
-## Homework Ideas
+## Homework Ideas / Идеи для домашней работы
 
 - Fill in the right form of `zullen`.
 - Decide the function of `zullen` in each sentence (voorstel / belofte / waarschijnlijkheid / toekomst).
@@ -140,7 +150,7 @@ So: `gaan` = a concrete plan / more certainty; `zullen` = proposal, promise, pro
 - Translation Russian -> Dutch and English -> Dutch.
 - `niet` / `geen` drills and questions.
 
-## Unclear From Source
+## Unclear From Source / Неясно по источнику
 
 - The small `vul met geen of niet` drill cards are too low-resolution to read the individual sentences; only the pattern of the exercise is visible.
 - The per-student `luister en beantwoord de vragen` cards are unreadable in detail; the answer options seem to be about coffee, packs, and prices around € 4,20 - € 4,30.

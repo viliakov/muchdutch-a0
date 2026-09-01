@@ -3,11 +3,14 @@
 > **Русская версия:** название каждого задания продублировано по-русски. Основные отдельные инструкции также продублированы строкой `По-русски`. Учебные предложения сохранены на исходном языке, чтобы не раскрывать ответы в заданиях на перевод.
 
 
+
+> **Пояснение по-русски:** Работа закрепляет форму прилагательного, одежду, аксессуары и внешность.
+
 De screenshots tonen geen apart huiswerkvak. Hieronder staan de zichtbare grammatica- en begripsopdrachten uit het lesmateriaal.
 
 ## 1. Vul de goede vorm van het adjectief in — **По-русски:** 1. Вставьте правильную форму прилагательного
 
-Voorbeeld: `(leuk)` Het Museum van Speelklok tot Pierement is een **leuk** museum.
+Voorbeeld / Пример: `(leuk)` Het Museum van Speelklok tot Pierement is een **leuk** museum.
 
 1. `(oud)` Ik eet dit brood niet. Het is __________.
 2. `(wit)` Zij koopt een __________ jurk.

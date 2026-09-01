@@ -1,11 +1,21 @@
 # Les 8 - Summary
 
-## Source
+## Source / Источник
 
 - Based on: Miro board screenshot with sections for fonetiek, getallen drillen, luisteren, grammatica, woordenschat, huiswerk, and schrijven.
 - Date added: 2026-07-10
 
-## Main Topics
+## Русский дубль всех пояснений
+
+### Основные темы и лексика
+
+Повторяется настоящее время и вводятся `er is / er zijn`, отрицание `geen` в этой конструкции и модели `dit/dat is` для представления предметов. Лексика описывает дом, комнаты, мебель, соседей и расположение предметов.
+
+### Чтение, произношение и практика
+
+Нужно читать описание дома, определять `waar/niet waar`, отвечать на вопросы и составлять собственные предложения с `er is / er zijn`. Повторяются числа и гласные. Письменные задания требуют правильно выбирать единственное или множественное число, указательное слово и отрицательную конструкцию `er is/er zijn geen`.
+
+## Main Topics / Основные темы
 
 - Present tense review with verbs such as `schrijven`, `kiezen`, `geven`, `lezen`, `weten`, `vragen`, `horen`, `lopen`, `praten`, and `komen`.
 - `Er is` and `er zijn` for saying that something exists or is present.
@@ -98,7 +108,7 @@ Examples:
 
 Use `dit is`, `dat is`, `dit zijn`, and `dat zijn` for both de-words and het-words.
 
-## Vocabulary Themes
+## Vocabulary Themes / Темы лексики
 
 - House: `het huis`, `de flat`, `de woning`.
 - Parts of a house: `het dak`, `de deur`, `het raam`, `de muur`, `de garage`, `de tuin`, `het balkon`.
@@ -107,7 +117,7 @@ Use `dit is`, `dat is`, `dit zijn`, and `dat zijn` for both de-words and het-wor
 - Location words: `boven`, `beneden`, `binnen`, `buiten`, `dichtbij`.
 - People and neighborhood: `de buurman`, `de buurvrouw`, `de buren`, `de straat`.
 
-## Reading
+## Reading / Чтение
 
 The board includes a text about Marloes and her house.
 
@@ -133,7 +143,7 @@ Common reading questions:
 5. Heeft het huis een badkamer?
 6. Is een slaapkamer op zolder?
 
-## Listening And Speaking
+## Listening And Speaking / Аудирование и устная речь
 
 Listening practice includes neighborhood and home vocabulary:
 
@@ -150,7 +160,7 @@ Listening practice includes neighborhood and home vocabulary:
 
 Speaking and writing practice focuses on describing your house.
 
-## Writing Practice
+## Writing Practice / Письменная практика
 
 The homework asks:
 
@@ -171,7 +181,7 @@ Mijn keuken is klein.
 Mijn huis heeft geen zolder.
 ```
 
-## Pronunciation
+## Pronunciation / Произношение
 
 The phonetics section practices Dutch vowel contrasts and combinations.
 
@@ -184,7 +194,7 @@ Visible examples:
 - `net`, `neet`, `niet`, `nat`, `naad`, `noot`, `neut`
 - `kijken`, `kakken`, `koken`, `kijken`, `kikken`, `kieken`, `keken`, `keuken`, `kuiken`
 
-## Numbers
+## Numbers / Числа
 
 The lesson includes a number drill with larger numbers:
 
@@ -192,7 +202,7 @@ The lesson includes a number drill with larger numbers:
 - 133, 818, 697, 768, 783, 344, 567
 - 345, 614, 453, 384, 325, 756, 987
 
-## Homework Ideas
+## Homework Ideas / Идеи для домашней работы
 
 - Fill in present tense verb forms.
 - Choose `er is` or `er zijn`.
@@ -204,7 +214,7 @@ The lesson includes a number drill with larger numbers:
 - Read number rows aloud.
 - Practice pronunciation contrast rows.
 
-## Unclear From Source
+## Unclear From Source / Неясно по источнику
 
 - Some listening cards are too small to transcribe exactly.
 - Some small multiple-choice answers are partially unreadable from the screenshot.

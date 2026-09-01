@@ -3,7 +3,10 @@
 > **Русская версия:** название каждого задания продублировано по-русски. Основные отдельные инструкции также продублированы строкой `По-русски`. Учебные предложения сохранены на исходном языке, чтобы не раскрывать ответы в заданиях на перевод.
 
 
-Doel: oefenen met de negatie (`niet` of `geen`), met de plaats van `niet` in de zin,
+
+> **Пояснение по-русски:** Работа закрепляет выбор и позицию `niet/geen`, продукты и магазины.
+
+Doel / Цель: oefenen met de negatie (`niet` of `geen`), met de plaats van `niet` in de zin,
 met `de`/`het`-woorden, vertalen, ontkennende zinnen en vragen.
 De woorden komen uit les 13 en uit alle vorige lessen (zie `WORDS.md`).
 

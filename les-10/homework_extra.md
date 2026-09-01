@@ -3,7 +3,10 @@
 > **Русская версия:** название каждого задания продублировано по-русски. Основные отдельные инструкции также продублированы строкой `По-русски`. Учебные предложения сохранены на исходном языке, чтобы не раскрывать ответы в заданиях на перевод.
 
 
-Doel: oefenen met `moeten`, voegwoorden (`en`, `want`, `maar`, `dus`, `of`), tegenwoordige tijd, kamers, meubels en woorden uit alle vorige lessen (zie `WORDS.md`).
+
+> **Пояснение по-русски:** Работа закрепляет `moeten`, изученные союзы, комнаты и домашние дела.
+
+Doel / Цель: oefenen met `moeten`, voegwoorden (`en`, `want`, `maar`, `dus`, `of`), tegenwoordige tijd, kamers, meubels en woorden uit alle vorige lessen (zie `WORDS.md`).
 
 ## 1. Grammatica: `moet` of `moeten`? — **По-русски:** 1. Грамматика: `moet` или `moeten`?
 
@@ -160,7 +163,7 @@ Maak 8 zinnen. Gebruik `moeten` en een voegwoord (`en`, `want`, `maar`, `dus`, `
 Woorden om te gebruiken: `moeten`, `opruimen`, `werken`, `koken`, `de sleutel`, `de kamer`, `de fiets`, `de bus`, `ziek`, `vroeg`
 > **По-русски:** Слова для использования: `moeten`, `opruimen`, `werken`, `koken`, `de sleutel`, `de kamer`, `de fiets`, `de bus`, `ziek`, `vroeg`.
 
-Voorbeeld: `Ik moet vroeg opstaan, want ik moet werken.`
+Voorbeeld / Пример: `Ik moet vroeg opstaan, want ik moet werken.`
 
 1.
 2.
