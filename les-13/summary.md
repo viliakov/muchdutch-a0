@@ -13,7 +13,15 @@
 - Luisteren: een recept / appeltaart maken (waar - niet waar)
 - Lezen: Julia en Max doen boodschappen
 
-## Grammar
+## Grammar / Грамматика
+
+### Объяснение грамматики на русском
+
+`Geen` заменяет сочетание `niet + een` и отрицает неопределённое существительное: `Ik heb geen auto`, `Wij kopen geen brood`. `Niet` отрицает глагол, прилагательное, наречие, определённый предмет или предложную группу: `Ik kom niet`, `Het is niet duur`, `Ik koop de fiets niet`.
+
+Позиция `niet` зависит от того, что отрицается. Обычно оно стоит после дополнения, но перед прилагательным, наречием или предложной группой: `Ik ken hem niet`, `Zij woont niet in Amsterdam`.
+
+`Houden van` — устойчивое сочетание «любить»: `Ik houd van koffie`. В вопросе: `Waar houd je van?`; отделять `van` нельзя.
 
 ### `geen` = `niet een`
 

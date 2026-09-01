@@ -1,10 +1,14 @@
-# Les 17 - Huiswerk van het bord
+# Les 17 - Huiswerk van het bord — **По-русски:** Урок 17 - Домашнее задание с доски
+
+> **Русская версия:** название каждого задания продублировано по-русски. Основные отдельные инструкции также продублированы строкой `По-русски`. Учебные предложения сохранены на исходном языке, чтобы не раскрывать ответы в заданиях на перевод.
+
 
 Deze opdrachten komen uit de zichtbare onderdelen van het lesbord. Het bord heeft geen apart vak `huiswerk`; daarom zijn de lees-, grammatica- en invuloefeningen van de les hier samengebracht.
 
-## 1. Meervoud drillen
+## 1. Meervoud drillen — **По-русски:** 1. Отработка множественного числа
 
 Schrijf het goede woord na het getal.
+> **По-русски:** Напишите подходящее слово после числа.
 
 1. één bed - vier __________
 2. één taxi - zeven __________
@@ -28,9 +32,10 @@ Schrijf het goede woord na het getal.
 20. één kilometer - negen __________
 21. één euro - tien __________
 
-## 2. Pronomina: `Samen boodschappen doen`
+## 2. Pronomina: `Samen boodschappen doen` — **По-русски:** 2. Местоимения: «Совместные покупки»
 
 Vervang de woorden tussen haakjes. Kies uit: `hij`, `hem`, `zijn`, `het`, `ze`, `haar`, `hun`.
+> **По-русски:** Замените слова в скобках, выбирая из `hij`, `hem`, `zijn`, `het`, `ze`, `haar`, `hun`.
 
 1. Peter en Marjan gaan samen boodschappen doen. __________ gaan naar de supermarkt. `(Peter en Marjan)`
 2. De supermarkt ligt op de hoek. __________ is groot. `(de supermarkt)`
@@ -53,7 +58,7 @@ Vervang de woorden tussen haakjes. Kies uit: `hij`, `hem`, `zijn`, `het`, `ze`, 
 19. Peter en Marjan betalen Peter en Marjans boodschappen. __________ betalen __________ boodschappen. `(Peter en Marjan / Peter en Marjans)`
 20. Het meisje ziet Peter naar buiten lopen. __________ ziet __________ naar buiten lopen. `(het meisje / Peter)`
 
-## 3. Café: vul met het goede woord in
+## 3. Café: vul met het goede woord in — **По-русски:** 3. Кафе: вставьте подходящее слово
 
 1. Wat willen jullie drinken? Ik __________.
 2. Wat wil je hebben? - __________ een biertje.
@@ -63,9 +68,10 @@ Vervang de woorden tussen haakjes. Kies uit: `hij`, `hem`, `zijn`, `het`, `ze`, 
 6. Zullen wij __________?
 7. Ober, mogen we __________?
 
-## 4. Restaurant: vul met het goede woord in
+## 4. Restaurant: vul met het goede woord in — **По-русски:** 4. Ресторан: вставьте подходящее слово
 
 Kies uit: `nagerecht`, `Ik heb dorst`, `voorgerecht`, `dagschotel`, `Eet smakelijk`, `hoofdgerecht`, `toetje`, `alvast`, `Ik heb honger`.
+> **По-русски:** Выберите из вариантов: `nagerecht`, `Ik heb dorst`, `voorgerecht`, `dagschotel`, `Eet smakelijk`, `hoofdgerecht`, `toetje`, `alvast`, `Ik heb honger`.
 
 1. Zullen we __________ iets bestellen, of kijken we eerst nog even?
 2. `Mag ik een glas water, alstublieft? __________.`
@@ -77,9 +83,10 @@ Kies uit: `nagerecht`, `Ik heb dorst`, `voorgerecht`, `dagschotel`, `Eet smakeli
 8. Na het eten nemen we nog een __________.
 9. Voor de kinderen is een ijsje een lekker __________.
 
-## 5. Waar of niet waar? - Edit in het café
+## 5. Waar of niet waar? - Edit in het café — **По-русски:** 5. Верно или неверно? — Эдит в кафе
 
 Schrijf `waar` of `niet waar`.
+> **По-русски:** Напишите `waar` или `niet waar`.
 
 1. Edit viert haar verjaardag samen met Susy en haar broer Andres.
 2. Susy bestelt een glas witte wijn.
@@ -89,7 +96,7 @@ Schrijf `waar` of `niet waar`.
 6. Edit betaalt het eerste rondje omdat ze jarig is.
 7. Edit bestelt een biertje.
 
-## Antwoorden
+## Antwoorden — **По-русски:** Ответы
 
 ### 1
 

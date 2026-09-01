@@ -17,7 +17,15 @@
 - Writing about your agenda.
 - Pronunciation practice with `ui`, `ij/ei`, and similar vowel contrasts.
 
-## Grammar
+## Grammar / Грамматика
+
+### Объяснение грамматики на русском
+
+Конструкция `gaan + infinitief` выражает запланированное ближайшее будущее: `Ik ga morgen werken.` Спрягается только `gaan`, а смысловой инфинитив стоит в конце.
+
+Если предложение начинается со времени или места, личная форма глагола всё равно занимает второе место, поэтому подлежащее ставится после неё: `Morgen ga ik werken`, `In Utrecht woont mijn zus`. Это называется инверсией.
+
+Наречия частоты (`altijd`, `vaak`, `meestal`, `soms`, `nooit`) обычно стоят после личной формы глагола или после подлежащего: `Ik werk vaak thuis`.
 
 ### Present Tense
 

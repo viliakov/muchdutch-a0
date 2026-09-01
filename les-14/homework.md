@@ -1,10 +1,13 @@
-# Les 14 - Huiswerk
+# Les 14 - Huiswerk — **По-русски:** Урок 14 - Домашнее задание
+
+> **Русская версия:** название каждого задания продублировано по-русски. Основные отдельные инструкции также продублированы строкой `По-русски`. Учебные предложения сохранены на исходном языке, чтобы не раскрывать ответы в заданиях на перевод.
+
 
 Bron: huiswerkblad van les 14 (screenshot).
 
-## grammatica
+## grammatica — **По-русски:** Грамматика
 
-### 1. Geen of niet? Antwoord met `Nee, ...`
+### 1. Geen of niet? Antwoord met `Nee, ...` — **По-русски:** 1. `Geen` или `niet`? Ответьте начиная с `Nee, ...`
 
 1. Ga je mee? Nee, ______________________________________
 2. Weet je de weg? Nee, ______________________________________
@@ -15,7 +18,7 @@ Bron: huiswerkblad van les 14 (screenshot).
 7. Ben je bang? Nee, ______________________________________
 8. Ga je naar de stad? Nee, ______________________________________
 
-### 2. Geen of niet? Antwoord met `Nee, ...`
+### 2. Geen of niet? Antwoord met `Nee, ...` — **По-русски:** 2. `Geen` или `niet`? Ответьте начиная с `Nee, ...`
 
 1. Is dat een mooi boek? Nee, ______________________________________
 2. Heb jij een brommer? Nee, ______________________________________
@@ -26,7 +29,7 @@ Bron: huiswerkblad van les 14 (screenshot).
 7. Drinkt u koffie? Nee, ______________________________________
 8. Lust u aardappels? Nee, ______________________________________
 
-### 3. Vul met de goede vorm van `zullen` in
+### 3. Vul met de goede vorm van `zullen` in — **По-русски:** 3. Вставьте правильную форму `zullen`
 
 1. Ik ____ morgen pasta eten.
 2. Wij ____ in een appartement wonen.
@@ -36,7 +39,7 @@ Bron: huiswerkblad van les 14 (screenshot).
 6. Jij ____ thee drinken.
 7. Mijn ouders ____ een groot huis kopen.
 
-### 4. Zeg in het Nederlands. Gebruik `zullen`
+### 4. Zeg in het Nederlands. Gebruik `zullen` — **По-русски:** 4. Скажите по-нидерландски, используя `zullen`
 
 1. Давайте сходим в парк?
 2. Я завтра переезжаю. - Я тебе помогу!
@@ -44,9 +47,9 @@ Bron: huiswerkblad van les 14 (screenshot).
 4. Ты после школы, вероятно, будешь голодный.
 5. В следующем году мы поедем в отпуск в Испанию.
 
-## woordenschat
+## woordenschat — **По-русски:** Лексика
 
-### 5. Kies de goede optie
+### 5. Kies de goede optie — **По-русски:** 5. Выберите правильный вариант
 
 1. Dit is 500 gram kip. Ik wil ... . Ik wil 750 gram.
    a. minder
@@ -73,7 +76,7 @@ Bron: huiswerkblad van les 14 (screenshot).
    b. gram
    c. taart
 
-### 6. Vul het schema in
+### 6. Vul het schema in — **По-русски:** 6. Заполните таблицу
 
 | persoon | product | waar? |
 | --- | --- | --- |
@@ -86,14 +89,15 @@ Bron: huiswerkblad van les 14 (screenshot).
 | de slijter | drank | de slijterij |
 | de marktkoopman / -vrouw | kaas, brood, vis, groente, fruit, etc. | ____________ |
 
-## schrijven
+## schrijven — **По-русски:** Письмо
 
 Wat eet en drink je vaak 's ochtends, 's middags en 's avonds?
 Wat eet en drink je nooit 's ochtends, 's middags en 's avonds?
 
 Schrijf ten minste 10 zinnen!
+> **По-русски:** Напишите не менее 10 предложений!
 
-## Antwoorden
+## Antwoorden — **По-русски:** Ответы
 
 ### 1
 

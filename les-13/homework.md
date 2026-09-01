@@ -1,8 +1,11 @@
-# Les 13 - Huiswerk
+# Les 13 - Huiswerk — **По-русски:** Урок 13 - Домашнее задание
 
-## Grammatica
+> **Русская версия:** название каждого задания продублировано по-русски. Основные отдельные инструкции также продублированы строкой `По-русски`. Учебные предложения сохранены на исходном языке, чтобы не раскрывать ответы в заданиях на перевод.
 
-### 1. Vul met `geen` of `niet` in
+
+## Grammatica — **По-русски:** Грамматика
+
+### 1. Vul met `geen` of `niet` in — **По-русски:** 1. Вставьте `geen` или `niet`
 
 Voorbeeld: Ik kom **niet** uit Nederland.
 
@@ -17,7 +20,7 @@ Voorbeeld: Ik kom **niet** uit Nederland.
 9. Patrick werkt ____ in een ziekenhuis.
 10. Ik eet vandaag ____ spaghetti.
 
-### 2. Vul met het goede possessief in
+### 2. Vul met het goede possessief in — **По-русски:** 2. Вставьте подходящее притяжательное слово
 
 7. Heb jij een zus? Woont ____ zus in Amsterdam?
 8. Mijn neef en nicht wonen nog bij ____ ouders.
@@ -30,7 +33,7 @@ Voorbeeld: Ik kom **niet** uit Nederland.
 15. Wij gaan trouwen. ____ trouwfeest is op 20 mei en ____ gasten zijn welkom
     vanaf 15.00 uur.
 
-### 3. Vul met het goede object-pronomen in
+### 3. Vul met het goede object-pronomen in — **По-русски:** 3. Вставьте подходящее объектное местоимение
 
 6. Ik houd van tomaten. Ik koop ____ op de markt.
 7. Ik vind ____ leuk. Zullen we samen iets drinken?
@@ -38,9 +41,9 @@ Voorbeeld: Ik kom **niet** uit Nederland.
 9. Ja, Simon is thuis. Ik zal ____ even roepen.
 10. Wat een leuk boek! Ik ga ____ ook kopen.
 
-## Woordenschat
+## Woordenschat — **По-русски:** Лексика
 
-### 4. Maak goede zinnen met de woorden
+### 4. Maak goede zinnen met de woorden — **По-русски:** 4. Составьте правильные предложения из слов
 
 1. nooit vis | eten | Zij | .
 2. buiten | De kip | loopt | .
@@ -52,7 +55,7 @@ Voorbeeld: Ik kom **niet** uit Nederland.
 8. moet | acht minuten koken | De rijst | .
 9. meestal water | drink | Ik | .
 
-### 5. Je ziet antwoorden. Maak vragen
+### 5. Je ziet antwoorden. Maak vragen — **По-русски:** 5. Перед вами ответы. Составьте вопросы
 
 Voorbeeld: **Waar koop je brood?** - Ik koop brood <u>bij de bakker</u>.
 
@@ -65,7 +68,7 @@ Voorbeeld: **Waar koop je brood?** - Ik koop brood <u>bij de bakker</u>.
 7. ____ - Raid koopt vlees <u>bij de slager</u>.
 8. ____ - <u>Els en Nora</u> maken soep.
 
-### 6. Maak zinnen met de woorden
+### 6. Maak zinnen met de woorden — **По-русски:** 6. Составьте предложения из слов
 
 Voorbeeld: de slager - **Ik koop vlees bij de slager.**
 
@@ -77,7 +80,7 @@ Voorbeeld: de slager - **Ik koop vlees bij de slager.**
 6. je kunt
 7. de markt
 
-## Antwoorden
+## Antwoorden — **По-русски:** Ответы
 
 ### 1
 

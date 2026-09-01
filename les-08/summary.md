@@ -16,7 +16,15 @@
 - Numbers drill with larger numbers.
 - Pronunciation contrasts with short/long vowels and Dutch vowel combinations.
 
-## Grammar
+## Grammar / Грамматика
+
+### Объяснение грамматики на русском
+
+`Er is` означает «есть/находится» для одного предмета, а `er zijn` — для нескольких: `Er is een keuken`, `Er zijn twee slaapkamers`. При отрицании неопределённого существительного используется `geen`: `Er is geen balkon`.
+
+`Dit is` и `dat is` употребляются с одним предметом; `dit` указывает на близкое `het`-слово, `dat` — на более далёкое. Для нескольких предметов используются `dit zijn` / `dat zijn` в учебных моделях, а с существительным — `deze` / `die`: `deze stoelen`, `die huizen`.
+
+Настоящее время сохраняет правило глагола на втором месте, в том числе после обстоятельства: `Boven zijn twee slaapkamers.`
 
 ### Present Tense Review
 

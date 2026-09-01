@@ -1,8 +1,11 @@
-# Les 14 - Extra huiswerk 2
+# Les 14 - Extra huiswerk 2 — **По-русски:** Урок 14 - Дополнительное домашнее задание 2
+
+> **Русская версия:** название каждого задания продублировано по-русски. Основные отдельные инструкции также продублированы строкой `По-русски`. Учебные предложения сохранены на исходном языке, чтобы не раскрывать ответы в заданиях на перевод.
+
 
 Doel: nog een ronde oefenen met `zullen`, `omdat`, prijzen, winkels, `de`/`het`-woorden, vertalen, ontkennende zinnen en vragen. De zinnen zijn nieuw (niet dezelfde als in `homework_extra.md`) en mengen les 14 met woorden uit alle vorige lessen (`WORDS.md`).
 
-## 1. Vul de goede vorm van `zullen` in (`zal` / `zult` / `zullen`)
+## 1. Vul de goede vorm van `zullen` in (`zal` / `zult` / `zullen`) — **По-русски:** 1. Вставьте правильную форму `zullen` (`zal` / `zult` / `zullen`)
 
 1. ____ ik het raam opendoen?
 2. Wij ____ de kinderen om drie uur van school ophalen.
@@ -20,9 +23,10 @@ Doel: nog een ronde oefenen met `zullen`, `omdat`, prijzen, winkels, `de`/`het`-
 14. Zij ____ waarschijnlijk moe zijn na het werk.
 15. Je ____ het wel begrijpen als je de tekst leest.
 
-## 2. Welke functie heeft `zullen` hier?
+## 2. Welke functie heeft `zullen` hier? — **По-русски:** 2. Какую функцию здесь выполняет `zullen`?
 
 Kies uit: **A** een voorstel, **B** een spontane belofte, **C** waarschijnlijkheid, **D** een handeling in de toekomst.
+> **По-русски:** Выберите: **A** предложение, **B** спонтанное обещание, **C** вероятность, **D** действие в будущем.
 
 1. Zal ik je fiets repareren? ____
 2. Ik zal je pen morgen teruggeven. ____
@@ -35,7 +39,7 @@ Kies uit: **A** een voorstel, **B** een spontane belofte, **C** waarschijnlijkhe
 9. Volgende week zal de nieuwe docent beginnen. ____
 10. Je zal wel honger hebben na het zwemmen. ____
 
-## 3. `zullen` of `gaan`? Schrijf de goede zin
+## 3. `zullen` of `gaan`? Schrijf de goede zin — **По-русски:** 3. `Zullen` или `gaan`? Напишите правильное предложение
 
 Bij een concreet plan gebruik je `gaan + infinitief`.
 
@@ -48,9 +52,10 @@ Bij een concreet plan gebruik je `gaan + infinitief`.
 7. Zij zullen volgend jaar trouwen. (de datum staat vast)
 8. Jullie zullen wel dorst hebben.
 
-## 4. Maak zinnen met `omdat`
+## 4. Maak zinnen met `omdat` — **По-русски:** 4. Составьте предложения с `omdat`
 
 Maak van de twee delen één zin met `omdat`. Let op: de persoonsvorm gaat naar het einde.
+> **По-русски:** Соедините две части в одно предложение с `omdat`. Личная форма глагола перемещается в конец.
 
 1. Ik neem een smoothie. Het is snel klaar.
 2. Wij kopen brood bij de bakker. Het brood is daar lekker.
@@ -63,9 +68,10 @@ Maak van de twee delen één zin met `omdat`. Let op: de persoonsvorm gaat naar 
 9. Hij is blij. Hij heeft een nieuwe baan.
 10. Wij nemen de tram. De auto is kapot.
 
-## 5. Schrijf de prijs in woorden
+## 5. Schrijf de prijs in woorden — **По-русски:** 5. Напишите цену словами
 
 Gebruik de lange vorm: `... euro en ... cent`.
+> **По-русски:** Используйте полную форму: `... euro en ... cent`.
 
 1. € 3,15
 2. € 7,80
@@ -78,9 +84,10 @@ Gebruik de lange vorm: `... euro en ... cent`.
 9. € 4,05
 10. € 250,-
 
-## 6. `de`-woord of `het`-woord?
+## 6. `de`-woord of `het`-woord? — **По-русски:** 6. Слово с `de` или с `het`?
 
 Schrijf `de` of `het`.
+> **По-русски:** Напишите `de` или `het`.
 
 1. ____ bedrag
 2. ____ zegel
@@ -103,7 +110,7 @@ Schrijf `de` of `het`.
 19. ____ taart
 20. ____ ei
 
-## 7. Vertaal naar het Nederlands (Russisch -> Nederlands)
+## 7. Vertaal naar het Nederlands (Russisch -> Nederlands) — **По-русски:** 7. Переведите с русского на нидерландский
 
 1. Давай посмотрим сегодня вечером фильм?
 2. Я обещаю, что верну тебе книгу в пятницу.
@@ -121,7 +128,7 @@ Schrijf `de` of `het`.
 14. Ты не забудешь чек?
 15. Я никогда не ем картошку утром.
 
-## 8. Vertaal naar het Nederlands (Engels -> Nederlands)
+## 8. Vertaal naar het Nederlands (Engels -> Nederlands) — **По-русски:** 8. Переведите с английского на нидерландский
 
 1. Shall we tidy up the kitchen together?
 2. I will bring the bread tomorrow, I promise.
@@ -139,7 +146,7 @@ Schrijf `de` of `het`.
 14. We never drink wine in the morning.
 15. Shall I ask the seller the price?
 
-## 9. Maak ontkennende zinnen (`niet` of `geen`)
+## 9. Maak ontkennende zinnen (`niet` of `geen`) — **По-русски:** 9. Составьте отрицательные предложения (`niet` или `geen`)
 
 1. Ik heb een pinpas bij me.
 2. De komkommers zijn goedkoop.
@@ -154,9 +161,10 @@ Schrijf `de` of `het`.
 11. Zij drinkt een cappuccino in de pauze.
 12. Het pak melk staat in de koelkast.
 
-## 10. Maak vragen
+## 10. Maak vragen — **По-русски:** 10. Составьте вопросы
 
 Maak van elke zin een ja/nee-vraag.
+> **По-русски:** Преобразуйте каждое предложение в общий вопрос (да/нет).
 
 1. Jij gaat naar de bakkerij.
 2. Zij zullen ons morgen helpen.
@@ -168,6 +176,7 @@ Maak van elke zin een ja/nee-vraag.
 8. Wij gaan volgende week op vakantie.
 
 Maak nu vragen met een vraagwoord (`wat`, `waar`, `wanneer`, `hoeveel`, `waarom`, `hoe`, `welke`).
+> **По-русски:** Теперь составьте вопросы с вопросительным словом (`wat`, `waar`, `wanneer`, `hoeveel`, `waarom`, `hoe`, `welke`).
 
 9. ____ kost een pond druiven?
 10. ____ koop jij je vlees?
@@ -177,7 +186,7 @@ Maak nu vragen met een vraagwoord (`wat`, `waar`, `wanneer`, `hoeveel`, `waarom`
 14. ____ kleur heeft het briefje van vijftig euro?
 15. ____ zeg je dat in het Nederlands?
 
-## Antwoorden
+## Antwoorden — **По-русски:** Ответы
 
 ### 1
 

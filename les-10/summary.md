@@ -14,7 +14,13 @@
 - Keys and doors: `de sleutel`, `op slot`, `pakken`, `vinden`, `vergeten`.
 - Reading a short story about Kazem and a lost key.
 
-## Grammar
+## Grammar / Грамматика
+
+### Объяснение грамматики на русском
+
+`Moeten` выражает необходимость или обязанность: `ik moet`, `jij/u moet`, `hij/zij moet`, `wij/jullie/zij moeten`. Второй глагол ставится в инфинитиве в конце: `Wij moeten de kamer opruimen.` Отсутствие необходимости выражается конструкцией `hoeven ... niet`: `Je hoeft niet te komen.`
+
+Союзы `en`, `maar`, `want`, `dus`, `of` соединяют две главные части и не отправляют глагол в конец: `Ik blijf thuis, want ik ben ziek.` После `dus` часто видна инверсия: `Ik ben ziek, dus blijf ik thuis.`
 
 ### Moeten (must, to have to)
 

@@ -14,7 +14,13 @@
 - Adjectives for moods/character with animals (warm-up): `energiek`, `verdrietig`, `vrolijk`, `moe`, `rustig`, `slaperig`, `boos`, `slank`, `bang`.
 - Talking about a neighborhood and a home (`buurt`, `nieuwbouwwijk`, `centrum`, `platteland`).
 
-## Grammar
+## Grammar / Грамматика
+
+### Объяснение грамматики на русском
+
+`Kunnen` означает физическую возможность или умение: `ik kan`, `jij kunt/kan`, `u kunt`, `hij/zij kan`, `wij/jullie/zij kunnen`. Второй глагол стоит в конце: `Ik kan de sleutel vinden.`
+
+Порядковые числительные обычно получают `-de` или `-ste`: `tweede`, `vierde`, `achtste`, `twintigste`; формы `eerste` и `achtste` нужно запомнить. С предлогами места важно учить готовые сочетания: `op tafel`, `onder het bed`, `naast de kast`, `tegenover de supermarkt`.
 
 ### Kunnen (can, to be able to)
 

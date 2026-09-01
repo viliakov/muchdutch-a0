@@ -14,7 +14,15 @@
 - Woordenschat / lezen: shopping on the market - kilo, pond, ons, asking prices
 - Luisteren: supermarket vocabulary (`in de supermarkt`, audio 4.15)
 
-## Grammar
+## Grammar / Грамматика
+
+### Объяснение грамматики на русском
+
+При отрицании выбирайте `geen` для неопределённого существительного и `niet` для остальных элементов: `Ik heb geen geld`, `De winkel is niet open`.
+
+`Zullen` имеет формы `ik zal`, `jij/u zult` (также `zal`), `hij/zij zal`, `wij/jullie/zij zullen`. Оно используется для предложения (`Zullen we gaan?`), обещания или спонтанного решения (`Ik zal je helpen`) и предположения о будущем. Для уже намеченного плана чаще используется `gaan + infinitief`.
+
+Цены произносятся как `drie euro vijftig` или полностью `drie euro en vijftig cent`. После числа единицы веса обычно остаются в единственном числе: `twee kilo`, `vijfhonderd gram`.
 
 ### Negatie drillen (`niet` / `geen`)
 

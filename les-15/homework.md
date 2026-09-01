@@ -1,10 +1,13 @@
-# Les 15 - Huiswerk
+# Les 15 - Huiswerk — **По-русски:** Урок 15 - Домашнее задание
+
+> **Русская версия:** название каждого задания продублировано по-русски. Основные отдельные инструкции также продублированы строкой `По-русски`. Учебные предложения сохранены на исходном языке, чтобы не раскрывать ответы в заданиях на перевод.
+
 
 Het huiswerk van de les zelf (van het bord). Drie delen: **modale werkwoorden drillen**, **meervoud**, en een **creatieve** opdracht.
 
-## Deel 1 - Modale werkwoorden drillen
+## Deel 1 - Modale werkwoorden drillen — **По-русски:** Часть 1 — отработка модальных глаголов
 
-### Modale werkwoorden - herhaling
+### Modale werkwoorden - herhaling — **По-русски:** Модальные глаголы — повторение
 
 `zullen` = 1 een voorstel, 2 een afspraak, een belofte
 
@@ -31,7 +34,7 @@ Het huiswerk van de les zelf (van het bord). Drie delen: **modale werkwoorden dr
 1. U **moet** een examen Nederlands *doen*.
 2. We **moeten** een cadeautje *kopen*.
 
-### Vormenschema
+### Vormenschema — **По-русски:** Таблица форм
 
 | | zullen | willen | kunnen | mogen | moeten |
 | --- | --- | --- | --- | --- | --- |
@@ -43,9 +46,10 @@ Het huiswerk van de les zelf (van het bord). Drie delen: **modale werkwoorden dr
 | jullie | zullen | willen | kunnen | mogen | moeten |
 | ze | zullen | willen | kunnen | mogen | moeten |
 
-### A. Kies het goede verbum
+### A. Kies het goede verbum — **По-русски:** A. Выберите правильный глагол
 
 Streep het foute werkwoord weg.
+> **По-русски:** Зачеркните неправильный глагол.
 
 1. Willen / Zullen jullie een kopje koffie?
 2. De kinderen mogen / moeten om half negen op school zijn.
@@ -58,7 +62,7 @@ Streep het foute werkwoord weg.
 9. Mag / Zal de deur dicht, alsjeblieft?
 10. Je mag / moet geen alcohol drinken als je nog geen 16 jaar bent.
 
-### B. Vul de goede vorm van een modaal verbum in
+### B. Vul de goede vorm van een modaal verbum in — **По-русски:** B. Вставьте правильную форму модального глагола
 
 1. Ik ________ nu naar het station. Dan ________ ik de trein van twee uur nemen.
 2. ________ we een kopje koffie drinken?
@@ -71,11 +75,12 @@ Streep het foute werkwoord weg.
 9. We ________ elke dag huiswerk maken.
 10. ________ je me met mijn huiswerk helpen?
 
-## Deel 2 - Meervoud
+## Deel 2 - Meervoud — **По-русски:** Часть 2 — множественное число
 
-### A. Vul het schema in
+### A. Vul het schema in — **По-русски:** A. Заполните таблицу
 
 Kijk naar de afbeeldingen met groente en fruit (de `Vocabulaire - Groente en Fruit` plaat) en vul het schema in: schrijf elk woord in het enkelvoud én in het meervoud.
+> **По-русски:** Посмотрите на изображения овощей и фруктов и заполните таблицу: напишите каждое слово в единственном и множественном числе.
 
 | GROENTE | | FRUIT | |
 | --- | --- | --- | --- |
@@ -89,9 +94,10 @@ Kijk naar de afbeeldingen met groente en fruit (de `Vocabulaire - Groente en Fru
 
 Aparte rijen op het bord: `kruiden`, `verpakt`, `bosje/zak`.
 
-### B. Kies de goede vorm
+### B. Kies de goede vorm — **По-русски:** B. Выберите правильную форму
 
 Kies A of B.
+> **По-русски:** Выберите A или B.
 
 1. het idee - A. idees / B. ideeën
 2. de zee - A. zees / B. zeeën
@@ -123,11 +129,12 @@ Kies A of B.
 28. het restaurant - A. restaurants / B. restauranten
 29. de stad - A. steden / B. staden
 
-## Deel 3 - Creatief
+## Deel 3 - Creatief — **По-русски:** Часть 3 — творческое задание
 
-### A. Maak een PowerPoint-presentatie
+### A. Maak een PowerPoint-presentatie — **По-русски:** A. Подготовьте презентацию PowerPoint
 
 Maak een PowerPoint-presentatie over **één** van de onderstaande onderwerpen. Minimaal **5 dia's**.
+> **По-русски:** Подготовьте презентацию PowerPoint на **одну** из указанных тем. Минимум **5 слайдов**.
 
 - Menukaart in een Nederlands restaurant
 - Wat eten Nederlanders 's avonds?
@@ -137,7 +144,7 @@ Maak een PowerPoint-presentatie over **één** van de onderstaande onderwerpen. 
 - Wat eten Nederlanders bij het ontbijt?
 - Wat weet je over traditionele Nederlandse snoepjes?
 
-### B. Maak een video: wat koop je meestal bij AH?
+### B. Maak een video: wat koop je meestal bij AH? — **По-русски:** B. Снимите видео: что вы обычно покупаете в AH?
 
 Koop minimaal **10 producten**.
 
@@ -152,7 +159,7 @@ Handige woorden:
 - **dat kost ...** - это стоит ...
 - **betalen** - платить
 
-## Antwoorden
+## Antwoorden — **По-русски:** Ответы
 
 ### Deel 1 - A
 

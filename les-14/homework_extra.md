@@ -1,8 +1,11 @@
-# Les 14 - Extra huiswerk
+# Les 14 - Extra huiswerk — **По-русски:** Урок 14 - Дополнительное домашнее задание
+
+> **Русская версия:** название каждого задания продублировано по-русски. Основные отдельные инструкции также продублированы строкой `По-русски`. Учебные предложения сохранены на исходном языке, чтобы не раскрывать ответы в заданиях на перевод.
+
 
 Doel: oefenen met `zullen`, prijzen, `de`/`het`-woorden, vertalen, ontkennende zinnen en vragen. De woorden komen uit les 14 en uit alle vorige lessen (zie `WORDS.md`).
 
-## 1. Vul de goede vorm van `zullen` in (`zal` / `zult` / `zullen`)
+## 1. Vul de goede vorm van `zullen` in (`zal` / `zult` / `zullen`) — **По-русски:** 1. Вставьте правильную форму `zullen` (`zal` / `zult` / `zullen`)
 
 1. ____ we samen naar de markt gaan?
 2. Ik ____ het geld morgen teruggeven.
@@ -20,9 +23,10 @@ Doel: oefenen met `zullen`, prijzen, `de`/`het`-woorden, vertalen, ontkennende z
 14. ____ we samen iets drinken?
 15. Ik ____ niet te laat komen, dat beloof ik.
 
-## 2. Welke functie heeft `zullen` hier?
+## 2. Welke functie heeft `zullen` hier? — **По-русски:** 2. Какую функцию здесь выполняет `zullen`?
 
 Kies uit: **A** een voorstel, **B** een spontane belofte, **C** waarschijnlijkheid, **D** een handeling in de toekomst.
+> **По-русски:** Выберите: **A** предложение, **B** спонтанное обещание, **C** вероятность, **D** действие в будущем.
 
 1. Zullen we vanavond samen koken? ____
 2. Ik zal je morgen bellen, dat beloof ik. ____
@@ -35,9 +39,10 @@ Kies uit: **A** een voorstel, **B** een spontane belofte, **C** waarschijnlijkhe
 9. Over twee weken zullen mijn ouders hier zijn. ____
 10. Hij zal wel ziek zijn, want hij is niet op school. ____
 
-## 3. `zullen` of `gaan`? Verbeter de zin als het nodig is
+## 3. `zullen` of `gaan`? Verbeter de zin als het nodig is — **По-русски:** 3. `Zullen` или `gaan`? При необходимости исправьте предложение
 
 Schrijf de goede zin. Bij een concreet plan gebruik je `gaan + infinitief`.
+> **По-русски:** Напишите правильное предложение. Для конкретного плана используйте `gaan + infinitief`.
 
 1. Wij zullen volgende week naar Amsterdam gaan.
 2. Zullen we samen naar de winkel gaan?
@@ -48,9 +53,10 @@ Schrijf de goede zin. Bij een concreet plan gebruik je `gaan + infinitief`.
 7. Ik zal je wel helpen, geen probleem.
 8. Wij zullen dit weekend de kamer opruimen. (dat hebben we afgesproken)
 
-## 4. Schrijf de prijs in woorden
+## 4. Schrijf de prijs in woorden — **По-русски:** 4. Напишите цену словами
 
 Gebruik de lange vorm: `... euro en ... cent`.
+> **По-русски:** Используйте полную форму: `... euro en ... cent`.
 
 1. € 2,50
 2. € 6,24
@@ -63,9 +69,10 @@ Gebruik de lange vorm: `... euro en ... cent`.
 9. € 17,60
 10. € 100,-
 
-## 5. `de`-woord of `het`-woord?
+## 5. `de`-woord of `het`-woord? — **По-русски:** 5. Слово с `de` или с `het`?
 
 Schrijf `de` of `het`.
+> **По-русски:** Напишите `de` или `het`.
 
 1. ____ geld
 2. ____ bon
@@ -88,7 +95,7 @@ Schrijf `de` of `het`.
 19. ____ verkoper
 20. ____ aanbieding
 
-## 6. Vertaal naar het Nederlands (Russisch -> Nederlands)
+## 6. Vertaal naar het Nederlands (Russisch -> Nederlands) — **По-русски:** 6. Переведите с русского на нидерландский
 
 1. Давай пойдём вместе в супермаркет?
 2. Я верну тебе деньги завтра.
@@ -106,7 +113,7 @@ Schrijf `de` of `het`.
 14. Завтра, наверное, будет хорошая погода.
 15. Ты закроешь дверь на замок?
 
-## 7. Vertaal naar het Nederlands (Engels -> Nederlands)
+## 7. Vertaal naar het Nederlands (Engels -> Nederlands) — **По-русски:** 7. Переведите с английского на нидерландский
 
 1. Shall I help you with the groceries?
 2. I will pay with my debit card.
@@ -124,9 +131,10 @@ Schrijf `de` of `het`.
 14. You get two euros back.
 15. Do you want the stamps too?
 
-## 8. Maak ontkennende zinnen (`niet` of `geen`)
+## 8. Maak ontkennende zinnen (`niet` of `geen`) — **По-русски:** 8. Составьте отрицательные предложения (`niet` или `geen`)
 
 Maak de zin ontkennend.
+> **По-русски:** Сделайте предложение отрицательным.
 
 1. Ik heb een bon.
 2. De druiven zijn duur.
@@ -141,9 +149,10 @@ Maak de zin ontkennend.
 11. Zij nemen een koekje.
 12. Het is mooi weer.
 
-## 9. Maak vragen
+## 9. Maak vragen — **По-русски:** 9. Составьте вопросы
 
 Maak van elke zin een ja/nee-vraag.
+> **По-русски:** Преобразуйте каждое предложение в общий вопрос (да/нет).
 
 1. Jij gaat naar de supermarkt.
 2. Zij betaalt contant.
@@ -155,6 +164,7 @@ Maak van elke zin een ja/nee-vraag.
 8. Wij zullen volgende week naar Amsterdam gaan.
 
 Maak nu vragen met een vraagwoord (`wat`, `waar`, `wanneer`, `hoeveel`, `waarom`, `hoe`).
+> **По-русски:** Теперь составьте вопросы с вопросительным словом (`wat`, `waar`, `wanneer`, `hoeveel`, `waarom`, `hoe`).
 
 9. ____ kost een kilo appels?
 10. ____ koop jij je brood?
@@ -163,7 +173,7 @@ Maak nu vragen met een vraagwoord (`wat`, `waar`, `wanneer`, `hoeveel`, `waarom`
 13. ____ neem jij noten? (- Omdat het gezond is.)
 14. ____ veel briefjes zijn er in Nederland?
 
-## Antwoorden
+## Antwoorden — **По-русски:** Ответы
 
 ### 1
 

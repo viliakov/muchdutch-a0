@@ -1,10 +1,14 @@
-# Les 7 - Extra huiswerk
+# Les 7 - Extra huiswerk — **По-русски:** Урок 7 - Дополнительное домашнее задание
+
+> **Русская версия:** название каждого задания продублировано по-русски. Основные отдельные инструкции также продублированы строкой `По-русски`. Учебные предложения сохранены на исходном языке, чтобы не раскрывать ответы в заданиях на перевод.
+
 
 Doel: oefenen met `gaan + infinitief`, inversie met tijd/plaats, bijwoorden van frequentie, agenda-woorden, getallen en uitspraak.
 
-## 1. Maak zinnen: begin met tijd of plaats
+## 1. Maak zinnen: begin met tijd of plaats — **По-русски:** 1. Составьте предложения, начиная со времени или места
 
 Begin de zin met het eerste woord. Let op inversie: het werkwoord staat op plaats 2.
+> **По-русски:** Начните предложение с первого слова. Следите за инверсией: глагол стоит на втором месте.
 
 Voorbeeld: `Morgen - ik - naar school - gaan` -> `Morgen ga ik naar school.`
 
@@ -21,9 +25,10 @@ Voorbeeld: `Morgen - ik - naar school - gaan` -> `Morgen ga ik naar school.`
 11. In de woonkamer - de kinderen - spelen
 12. Overmorgen - wij - oma - bezoeken
 
-## 2. Maak zinnen: normale woordvolgorde
+## 2. Maak zinnen: normale woordvolgorde — **По-русски:** 2. Составьте предложения с прямым порядком слов
 
 Begin met het subject. Gebruik geen inversie.
+> **По-русски:** Начните с подлежащего. Не используйте инверсию.
 
 Voorbeeld: `ik - morgen - naar school - gaan` -> `Ik ga morgen naar school.`
 
@@ -38,9 +43,10 @@ Voorbeeld: `ik - morgen - naar school - gaan` -> `Ik ga morgen naar school.`
 9. zij - op het internet - surfen
 10. jij - na het werk - naar huis - gaan
 
-## 3. Kies: inversie of geen inversie?
+## 3. Kies: inversie of geen inversie? — **По-русски:** 3. Выберите: инверсия или прямой порядок слов?
 
 Schrijf de juiste zin.
+> **По-русски:** Напишите правильное предложение.
 
 1. `Morgen / ik / naar school / gaan`
 2. `Ik / morgen / naar school / gaan`
@@ -51,9 +57,10 @@ Schrijf de juiste zin.
 7. `Daarna / de docent / woorden / schrijven`
 8. `De docent / daarna / woorden / schrijven`
 
-## 4. Gaan + infinitief
+## 4. Gaan + infinitief — **По-русски:** 4. Конструкция `gaan + инфинитив`
 
 Maak zinnen met `gaan + infinitief`.
+> **По-русски:** Составьте предложения с `gaan + infinitief`.
 
 Voorbeeld: `ik - morgen - werken` -> `Ik ga morgen werken.`
 
@@ -73,7 +80,7 @@ Voorbeeld: `ik - morgen - werken` -> `Ik ga morgen werken.`
 14. Tom - het nieuws lezen
 15. de docent - de vraag beantwoorden
 
-## 5. Vul de goede vorm van `gaan` in
+## 5. Vul de goede vorm van `gaan` in — **По-русски:** 5. Вставьте правильную форму `gaan`
 
 1. Ik ____ vandaag werken.
 2. Jij ____ morgen boodschappen doen.
@@ -88,7 +95,7 @@ Voorbeeld: `ik - morgen - werken` -> `Ik ga morgen werken.`
 11. Amir ____ naar school gaan.
 12. Ik ____ straks schoonmaken.
 
-## 6. Vul de goede vorm van `komen`, `gaan` of `doen` in
+## 6. Vul de goede vorm van `komen`, `gaan` of `doen` in — **По-русски:** 6. Вставьте правильную форму `komen`, `gaan` или `doen`
 
 1. Ik ____ naar huis.
 2. Jij ____ boodschappen.
@@ -101,9 +108,10 @@ Voorbeeld: `ik - morgen - werken` -> `Ik ga morgen werken.`
 9. Mijn vader ____ de opdracht.
 10. Zij ____ naar de gym.
 
-## 7. Is de zin goed of fout?
+## 7. Is de zin goed of fout? — **По-русски:** 7. Предложение правильное или неправильное?
 
 Schrijf `goed` of `fout`. Verbeter de foute zinnen.
+> **По-русски:** Напишите `goed` или `fout`. Исправьте неправильные предложения.
 
 1. Morgen ik ga naar school.
 2. Morgen ga ik naar school.
@@ -116,9 +124,10 @@ Schrijf `goed` of `fout`. Verbeter de foute zinnen.
 9. Daarna doe ik boodschappen.
 10. Daarna ik doe boodschappen.
 
-## 8. Bijwoorden van frequentie
+## 8. Bijwoorden van frequentie — **По-русски:** 8. Наречия частотности
 
 Vertaal naar het Nederlands.
+> **По-русски:** Переведите на нидерландский язык.
 
 1. always
 2. often
@@ -127,9 +136,10 @@ Vertaal naar het Nederlands.
 5. not so often
 6. never
 
-## 9. Vul in: frequentie
+## 9. Vul in: frequentie — **По-русски:** 9. Заполните пропуски наречиями частотности
 
 Kies uit: `altijd`, `vaak`, `meestal`, `soms`, `niet zo vaak`, `nooit`.
+> **По-русски:** Выберите из вариантов: `altijd`, `vaak`, `meestal`, `soms`, `niet zo vaak`, `nooit`.
 
 1. Ik werk ____ op kantoor. Dat doe ik elke dag.
 2. Zij gaat ____ naar de gym. Ze sport vier keer per week.
@@ -142,9 +152,10 @@ Kies uit: `altijd`, `vaak`, `meestal`, `soms`, `niet zo vaak`, `nooit`.
 9. Wij kijken ____ een film. Een keer per maand.
 10. Ik maak ____ mijn huiswerk. Ik vergeet het niet.
 
-## 10. Zet het bijwoord op de goede plaats
+## 10. Zet het bijwoord op de goede plaats — **По-русски:** 10. Поставьте наречие на правильное место
 
 Maak een goede zin.
+> **По-русски:** Составьте правильное предложение.
 
 1. Ik / altijd / werk / op kantoor.
 2. Zij / vaak / gaat / naar de gym.
@@ -155,9 +166,10 @@ Maak een goede zin.
 7. Ik / vaak / ga / boodschappen doen.
 8. Wij / altijd / spreken / Nederlands.
 
-## 11. Agenda: welk woord past?
+## 11. Agenda: welk woord past? — **По-русски:** 11. Расписание: какое слово подходит?
 
 Kies uit: `werken`, `brengen`, `sporten`, `doen`, `wandelen`, `hebben`, `lezen`, `surfen`, `schoonmaken`, `kijken`.
+> **По-русски:** Выберите из вариантов: `werken`, `brengen`, `sporten`, `doen`, `wandelen`, `hebben`, `lezen`, `surfen`, `schoonmaken`, `kijken`.
 
 1. Ik ga op kantoor ____.
 2. Ik ga de kinderen naar school ____.
@@ -170,9 +182,10 @@ Kies uit: `werken`, `brengen`, `sporten`, `doen`, `wandelen`, `hebben`, `lezen`,
 9. Ik ga vandaag ____.
 10. Wij gaan naar een film ____.
 
-## 12. Agenda: beantwoord de vragen
+## 12. Agenda: beantwoord de vragen — **По-русски:** 12. Расписание: ответьте на вопросы
 
 Antwoord in hele zinnen.
+> **По-русски:** Отвечайте полными предложениями.
 
 1. Wat ga jij vandaag doen?
 2. Ga jij vaak naar de gym?
@@ -183,9 +196,10 @@ Antwoord in hele zinnen.
 7. Wat ga jij vanavond doen?
 8. Wat staat morgen op jouw agenda?
 
-## 13. Getallen
+## 13. Getallen — **По-русски:** 13. Числа
 
 Schrijf het getal als woord.
+> **По-русски:** Напишите число словами.
 
 1. 92
 2. 76
@@ -206,9 +220,10 @@ Schrijf het getal als woord.
 17. 421
 18. 56
 
-## 14. Getallen: vul in
+## 14. Getallen: vul in — **По-русски:** 14. Числа: заполните пропуски
 
 Vul het ontbrekende getal in, als woord.
+> **По-русски:** Вставьте пропущенное число словами.
 
 1. negentig, eenennegentig, ____, drieënnegentig
 2. vijfenzeventig, ____, zevenenzeventig
@@ -219,9 +234,10 @@ Vul het ontbrekende getal in, als woord.
 7. eenentwintig, tweeëntwintig, ____
 8. vijfenvijftig, ____, zevenenvijftig
 
-## 15. Woordenschat
+## 15. Woordenschat — **По-русски:** 15. Лексика
 
 Vertaal naar het Nederlands.
+> **По-русски:** Переведите на нидерландский язык.
 
 1. to work at the office
 2. to work at home
@@ -236,9 +252,10 @@ Vertaal naar het Nederlands.
 11. to read the news
 12. to surf the internet
 
-## 16. English -> Dutch
+## 16. English -> Dutch — **По-русски:** 16. Перевод с английского на нидерландский
 
 Translate into Dutch.
+> **По-русски:** Переведите на нидерландский язык.
 
 1. Tomorrow I am going to work at the office.
 2. Tonight we are going to watch a film.
@@ -256,9 +273,10 @@ Translate into Dutch.
 14. We always speak Dutch in class.
 15. On Saturday I am going to visit my grandmother.
 
-## 17. Russian -> Dutch
+## 17. Russian -> Dutch — **По-русски:** 17. Перевод с русского на нидерландский
 
 Vertaal naar het Nederlands.
+> **По-русски:** Переведите на нидерландский язык.
 
 1. Завтра я пойду в школу.
 2. Сегодня вечером мы будем смотреть фильм.
@@ -276,9 +294,10 @@ Vertaal naar het Nederlands.
 14. Мы всегда говорим по-нидерландски на уроке.
 15. В субботу я навещу бабушку.
 
-## 18. Maak zinnen met oude woorden
+## 18. Maak zinnen met oude woorden — **По-русски:** 18. Составьте предложения со словами из предыдущих уроков
 
 Gebruik woorden uit eerdere lessen. Maak zinnen met `gaan + infinitief`.
+> **По-русски:** Используйте слова из предыдущих уроков и составьте предложения с `gaan + infinitief`.
 
 1. de docent / schrijven
 2. de cursisten / luisteren
@@ -289,19 +308,21 @@ Gebruik woorden uit eerdere lessen. Maak zinnen met `gaan + infinitief`.
 7. zij / opdrachten maken
 8. ik / de vraag beantwoorden
 
-## 19. Schrijven
+## 19. Schrijven — **По-русски:** 19. Письмо
 
 Wat staat op jouw agenda? Schrijf 8 zinnen.
 
 Gebruik minimaal:
+> **По-русски:** Используйте как минимум:
 
 - 2 zinnen met tijd vooraan: `Morgen ...`, `Vanavond ...`, `Om acht uur ...`
 - 3 zinnen met `gaan + infinitief`
 - 2 bijwoorden van frequentie: `altijd`, `vaak`, `soms`, `nooit`
 
-## 20. Uitspraak
+## 20. Uitspraak — **По-русски:** 20. Произношение
 
 Lees hardop.
+> **По-русски:** Прочитайте вслух.
 
 1. `ui`: huis, tuin, Duits, buiten, luisteren, duin, bui
 2. `ij/ei`: mijn, zijn, klein, trein, kijken, pijn, reis
@@ -313,8 +334,9 @@ Lees hardop.
    - reus - ruis
 
 Extra: neem jezelf 1 minuut op. Luister terug en kies 5 woorden om nog een keer te oefenen.
+> **По-русски:** Дополнительно: запишите себя на одну минуту, прослушайте запись и выберите пять слов для повторения.
 
-## Antwoorden
+## Antwoorden — **По-русски:** Ответы
 
 ### 1
 

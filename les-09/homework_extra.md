@@ -1,10 +1,14 @@
-# Les 9 - Extra huiswerk
+# Les 9 - Extra huiswerk — **По-русски:** Урок 9 - Дополнительное домашнее задание
+
+> **Русская версия:** название каждого задания продублировано по-русски. Основные отдельные инструкции также продублированы строкой `По-русски`. Учебные предложения сохранены на исходном языке, чтобы не раскрывать ответы в заданиях на перевод.
+
 
 Doel: oefenen met `willen`, verkleinwoorden, tegenwoordige tijd, woningwoorden, getallen met kleuren en uitspraak. De oefeningen mengen de grammatica van les 9 met woorden uit alle vorige lessen (zie `WORDS.md`).
 
-## 1. Grammatica: `wil` of `willen`?
+## 1. Grammatica: `wil` of `willen`? — **По-русски:** 1. Грамматика: `wil` или `willen`?
 
 Kies de goede vorm.
+> **По-русски:** Выберите правильную форму.
 
 1. Ik ____ een nieuwe fiets. `wil / willen`
 2. Wij ____ een groot huis met een tuin. `wil / willen`
@@ -15,9 +19,10 @@ Kies de goede vorm.
 7. ____ jij een glas water? `Wil / Willen`
 8. De kinderen ____ een ijsje in het park. `wil / willen`
 
-## 2. Grammatica: maak een vraag met `willen` (inversie)
+## 2. Grammatica: maak een vraag met `willen` (inversie) — **По-русски:** 2. Грамматика: составьте вопрос с `willen` (инверсия)
 
 Maak van de zin een vraag.
+> **По-русски:** Преобразуйте предложение в вопрос.
 
 Voorbeeld: `Jij wil koffie.` -> `Wil jij koffie?`
 
@@ -28,9 +33,10 @@ Voorbeeld: `Jij wil koffie.` -> `Wil jij koffie?`
 5. Jij wil een nieuwe jas kopen.
 6. Jullie willen met de trein reizen.
 
-## 3. Tegenwoordige tijd (werkwoorden uit vorige lessen)
+## 3. Tegenwoordige tijd (werkwoorden uit vorige lessen) — **По-русски:** 3. Настоящее время (глаголы из предыдущих уроков)
 
 Vul de goede vorm in.
+> **По-русски:** Вставьте правильную форму.
 
 1. Tom en Julia ____ een nieuw huis. `(zoeken)`
 2. Ik ____ in een kleine flat. `(wonen)`
@@ -43,9 +49,10 @@ Vul de goede vorm in.
 9. Het ____ vandaag, dus ik blijf thuis. `(regenen)`
 10. Wij ____ uit Spanje. `(komen)`
 
-## 4. Is de zin goed of fout?
+## 4. Is de zin goed of fout? — **По-русски:** 4. Предложение правильное или неправильное?
 
 Schrijf `goed` of `fout`. Verbeter de foute zinnen.
+> **По-русски:** Напишите `goed` или `fout`. Исправьте неправильные предложения.
 
 1. Hij wil een nieuwe woning kopen.
 2. Sama willen de trui passen.
@@ -56,9 +63,10 @@ Schrijf `goed` of `fout`. Verbeter de foute zinnen.
 7. Jij willen een glas water.
 8. Willen jullie vier boterhammen eten?
 
-## 5. Verkleinwoorden: maak het verkleinwoord
+## 5. Verkleinwoorden: maak het verkleinwoord — **По-русски:** 5. Уменьшительные формы: образуйте уменьшительное слово
 
 Schrijf het verkleinwoord (diminutief).
+> **По-русски:** Напишите уменьшительную форму слова.
 
 1. de hand -> ____
 2. het huis -> ____
@@ -73,9 +81,10 @@ Schrijf het verkleinwoord (diminutief).
 11. de tafel -> ____
 12. de stoel -> ____
 
-## 6. Woordenschat: de-woord of het-woord?
+## 6. Woordenschat: de-woord of het-woord? — **По-русски:** 6. Лексика: слово с `de` или с `het`?
 
 Schrijf `de` of `het` voor elk woord.
+> **По-русски:** Напишите `de` или `het` перед каждым словом.
 
 1. ____ huis
 2. ____ flat
@@ -90,9 +99,10 @@ Schrijf `de` of `het` voor elk woord.
 11. ____ trap
 12. ____ buurt
 
-## 7. Woordenschat: welk woord past niet?
+## 7. Woordenschat: welk woord past niet? — **По-русски:** 7. Лексика: какое слово не подходит?
 
 Streep het woord door dat er niet bij hoort.
+> **По-русски:** Зачеркните слово, которое не подходит к остальным.
 
 1. de keuken – de slaapkamer – de fiets – de badkamer
 2. huren – kopen – zoeken – regenen
@@ -101,7 +111,7 @@ Streep het woord door dat er niet bij hoort.
 5. de opa – de oma – de tante – de winkel
 6. rustig – druk – hoog – suiker
 
-## 8. Vertaal naar het Nederlands (Engels -> Nederlands)
+## 8. Vertaal naar het Nederlands (Engels -> Nederlands) — **По-русски:** 8. Переведите с английского на нидерландский
 
 1. I want to rent a small house.
 2. My grandmother lives alone in a quiet village.
@@ -119,7 +129,7 @@ Streep het woord door dat er niet bij hoort.
 14. How many rooms does the house have?
 15. The little girl wants a cookie.
 
-## 9. Vertaal naar het Nederlands (Russisch -> Nederlands)
+## 9. Vertaal naar het Nederlands (Russisch -> Nederlands) — **По-русски:** 9. Переведите с русского на нидерландский
 
 1. Мы хотим купить дом с большим садом.
 2. Ты хочешь чашку кофе или чай?
@@ -137,11 +147,13 @@ Streep het woord door dat er niet bij hoort.
 14. Завтра мы едем в деревню на поезде.
 15. Ты хочешь представиться соседке?
 
-## 10. Maak zinnen
+## 10. Maak zinnen — **По-русски:** 10. Составьте предложения
 
 Maak 8 korte zinnen. Gebruik `willen` in verschillende vormen en woorden uit vorige lessen.
+> **По-русски:** Составьте 8 коротких предложений, используя разные формы `willen` и слова из предыдущих уроков.
 
 Woorden om te gebruiken: `willen`, `huren`, `kopen`, `wonen`, `het huis`, `de tuin`, `de stad`, `het dorp`, `de koffie`, `de familie`, `de fiets`, `rustig`, `druk`
+> **По-русски:** Слова для использования: `willen`, `huren`, `kopen`, `wonen`, `het huis`, `de tuin`, `de stad`, `het dorp`, `de koffie`, `de familie`, `de fiets`, `rustig`, `druk`.
 
 Voorbeeld: `Ik wil een huis met een tuin in een rustig dorp.`
 
@@ -154,9 +166,10 @@ Voorbeeld: `Ik wil een huis met een tuin in een rustig dorp.`
 7.
 8.
 
-## 11. Getallen en kleuren: lees hardop
+## 11. Getallen en kleuren: lees hardop — **По-русски:** 11. Числа и цвета: прочитайте вслух
 
 Lees elk getal hardop en noem ook de kleur.
+> **По-русски:** Прочитайте каждое число вслух и назовите цвет.
 
 1. 212 (rood)
 2. 534 (blauw)
@@ -166,6 +179,7 @@ Lees elk getal hardop en noem ook de kleur.
 6. 650 (wit)
 
 Schrijf daarna deze getallen als woord.
+> **По-русски:** Затем запишите эти числа словами.
 
 1. 132
 2. 217
@@ -174,9 +188,10 @@ Schrijf daarna deze getallen als woord.
 5. 823
 6. 870
 
-## 12. Uitspraak: verkleinwoorden hardop
+## 12. Uitspraak: verkleinwoorden hardop — **По-русски:** 12. Произношение: прочитайте уменьшительные формы вслух
 
 Lees elke rij hardop. Let op het einde van het woord.
+> **По-русски:** Прочитайте каждую строку вслух. Обратите внимание на окончание слова.
 
 1. `-je`: jas - jasje, bos - bosje, mes - mesje, huis - huisje
 2. `-tje`: haan - haantje, schoen - schoentje, tuin - tuintje
@@ -185,10 +200,12 @@ Lees elke rij hardop. Let op het einde van het woord.
 5. Contrast: glas - glaasje, kaas - kaasje, roos - roosje, doos - doosje
 
 Extra: neem jezelf 1 minuut op. Luister terug en markeer 3 verkleinwoorden die je nog wilt oefenen.
+> **По-русски:** Дополнительно: запишите себя на одну минуту, прослушайте запись и отметьте три уменьшительных слова для повторения.
 
-## 13. Spreken
+## 13. Spreken — **По-русски:** 13. Устная речь
 
 Beantwoord hardop in hele zinnen.
+> **По-русски:** Ответьте вслух полными предложениями.
 
 1. Wil jij een huis huren of kopen?
 2. Wil jij in een stad of in een dorp wonen?
@@ -197,7 +214,7 @@ Beantwoord hardop in hele zinnen.
 5. Wil jij een rustige of een drukke buurt?
 6. Wie woont er bij jou in huis?
 
-## Antwoorden
+## Antwoorden — **По-русски:** Ответы
 
 ### 1
 

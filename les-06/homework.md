@@ -1,10 +1,14 @@
-# Les 6 - Extra huiswerk
+# Les 6 - Extra huiswerk — **По-русски:** Урок 6 - Дополнительное домашнее задание
+
+> **Русская версия:** название каждого задания продублировано по-русски. Основные отдельные инструкции также продублированы строкой `По-русски`. Учебные предложения сохранены на исходном языке, чтобы не раскрывать ответы в заданиях на перевод.
+
 
 Doel: oefenen met aanwijzende voornaamwoorden, tegenwoordige tijd, leswoorden, getallen en uitspraak.
 
-## 1. Grammatica: dit, dat, deze, die
+## 1. Grammatica: dit, dat, deze, die — **По-русски:** 1. Грамматика: `dit`, `dat`, `deze`, `die`
 
 Kies het goede woord.
+> **По-русски:** Выберите правильное слово.
 
 1. ____ boek is interessant. Het ligt hier. `dit / dat`
 2. ____ school is groot. De school is daar. `deze / die`
@@ -17,9 +21,10 @@ Kies het goede woord.
 9. ____ bord is schoon. Het bord is hier. `dit / dat`
 10. ____ cursisten luisteren goed. De cursisten zitten daar. `deze / die`
 
-## 2. Grammatica: dichtbij of ver weg?
+## 2. Grammatica: dichtbij of ver weg? — **По-русски:** 2. Грамматика: близко или далеко?
 
 Schrijf `dichtbij` of `ver weg`.
+> **По-русски:** Напишите `dichtbij` или `ver weg`.
 
 1. Dit boek is hier. ____
 2. Die tafel staat daar. ____
@@ -30,9 +35,10 @@ Schrijf `dichtbij` of `ver weg`.
 7. Dit schrift ligt hier. ____
 8. Dat museum is daar. ____
 
-## 3. Tegenwoordige tijd
+## 3. Tegenwoordige tijd — **По-русски:** 3. Настоящее время
 
 Vul de goede vorm in.
+> **По-русски:** Вставьте правильную форму.
 
 1. Ik ____ in Nederland. `(wonen)`
 2. Jij ____ Nederlands. `(spreken)`
@@ -45,9 +51,10 @@ Vul de goede vorm in.
 9. De docent ____ op het bord. `(schrijven)`
 10. Ik ____ de vraag. `(beantwoorden)`
 
-## 4. Is de zin goed of fout?
+## 4. Is de zin goed of fout? — **По-русски:** 4. Предложение правильное или неправильное?
 
 Schrijf `goed` of `fout`. Verbeter de foute zinnen.
+> **По-русски:** Напишите `goed` или `fout`. Исправьте неправильные предложения.
 
 1. Ik woon in Amsterdam.
 2. Jij spreekt Nederlands.
@@ -58,9 +65,10 @@ Schrijf `goed` of `fout`. Verbeter de foute zinnen.
 7. Zij maakt opdrachten. `(zij = plural)`
 8. De docent schrijft op het bord.
 
-## 5. Woordenschat: in de les
+## 5. Woordenschat: in de les — **По-русски:** 5. Лексика: на уроке
 
 Vertaal naar het Nederlands.
+> **По-русски:** Переведите на нидерландский язык.
 
 1. school
 2. teacher
@@ -75,11 +83,13 @@ Vertaal naar het Nederlands.
 11. inside
 12. outside
 
-## 6. Maak zinnen
+## 6. Maak zinnen — **По-русски:** 6. Составьте предложения
 
 Maak 6 korte zinnen. Gebruik elk werkwoord minstens een keer.
+> **По-русски:** Составьте 6 коротких предложений. Используйте каждый глагол хотя бы один раз.
 
 Werkwoorden: `wonen`, `spreken`, `luisteren`, `schrijven`, `lezen`, `maken`
+> **По-русски:** Глаголы: `wonen`, `spreken`, `luisteren`, `schrijven`, `lezen`, `maken`.
 
 Voorbeeld: `Ik woon in Utrecht.`
 
@@ -90,9 +100,10 @@ Voorbeeld: `Ik woon in Utrecht.`
 5.
 6.
 
-## 7. Getallen
+## 7. Getallen — **По-русски:** 7. Числа
 
 Schrijf het getal als woord.
+> **По-русски:** Напишите число словами.
 
 1. 7
 2. 12
@@ -107,9 +118,10 @@ Schrijf het getal als woord.
 11. 100
 12. 215
 
-## 8. Getallen: vul in
+## 8. Getallen: vul in — **По-русски:** 8. Числа: заполните пропуски
 
 Vul het ontbrekende getal in, als woord.
+> **По-русски:** Вставьте пропущенное число словами.
 
 1. nul, een, ____, drie
 2. vier, vijf, ____, zeven
@@ -122,9 +134,10 @@ Vul het ontbrekende getal in, als woord.
 9. veertig, vijftig, ____
 10. honderd, tweehonderd, ____
 
-## 9. Schrijven: zeg in het Nederlands
+## 9. Schrijven: zeg in het Nederlands — **По-русски:** 9. Письмо: скажите по-нидерландски
 
 Vertaal naar het Nederlands.
+> **По-русски:** Переведите на нидерландский язык.
 
 1. Amir gaat naar school.
 2. The school is big.
@@ -137,9 +150,10 @@ Vertaal naar het Nederlands.
 9. The teacher writes words.
 10. They do exercises on the computer.
 
-## 10. Uitspraak: lees hardop
+## 10. Uitspraak: lees hardop — **По-русски:** 10. Произношение: прочитайте вслух
 
 Lees elke rij hardop. Let op het verschil.
+> **По-русски:** Прочитайте каждую строку вслух. Обратите внимание на различия.
 
 1. `ui`: huis, tuin, Duits, buiten, luisteren
 2. `ij/ei`: mijn, zijn, klein, trein, schrijft
@@ -152,10 +166,12 @@ Lees elke rij hardop. Let op het verschil.
    - keus - kuis
 
 Extra: neem jezelf 1 minuut op terwijl je de woorden leest. Luister terug en markeer 3 woorden die je nog een keer wilt oefenen.
+> **По-русски:** Дополнительно: запишите минутное чтение слов, прослушайте запись и отметьте три слова для повторения.
 
-## 11. Spreken
+## 11. Spreken — **По-русски:** 11. Устная речь
 
 Beantwoord hardop in hele zinnen.
+> **По-русски:** Ответьте вслух полными предложениями.
 
 1. Waar woon jij?
 2. Spreek jij Nederlands?
@@ -164,7 +180,7 @@ Beantwoord hardop in hele zinnen.
 5. Schrijf jij met een pen of op de computer?
 6. Wat doe jij in de pauze?
 
-## Antwoorden
+## Antwoorden — **По-русски:** Ответы
 
 ### 1
 

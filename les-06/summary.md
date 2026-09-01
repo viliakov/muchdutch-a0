@@ -14,7 +14,13 @@
 - Pronunciation contrasts: `ui`, `ij/ei`, and `eu`.
 - Short classroom story: going to school, greeting the teacher, break, going outside.
 
-## Grammar
+## Grammar / Грамматика
+
+### Объяснение грамматики на русском
+
+Указательные слова зависят от артикля и расстояния. Для предмета рядом: `deze` с `de`-словом и `dit` с `het`-словом. Для предмета дальше: `die` с `de`-словом и `dat` с `het`-словом. Во множественном числе используются `deze` и `die`: `deze boeken`, `die huizen`.
+
+Формы настоящего времени повторяют схему `ik + основа`, `jij/u/hij/zij + -t`, множественное число + инфинитив. В вопросах применяется инверсия: `Maak jij de oefening?`
 
 ### Demonstrative Pronouns
 

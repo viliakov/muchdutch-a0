@@ -1,8 +1,11 @@
-# Les 12 - Extra huiswerk
+# Les 12 - Extra huiswerk — **По-русски:** Урок 12 - Дополнительное домашнее задание
+
+> **Русская версия:** название каждого задания продублировано по-русски. Основные отдельные инструкции также продублированы строкой `По-русски`. Учебные предложения сохранены на исходном языке, чтобы не раскрывать ответы в заданиях на перевод.
+
 
 Doel: oefenen met `mogen`, met de personaal pronomen (possessief en object), en met de nieuwe woorden over eten en de tafel. De woorden komen uit les 12 en uit alle vorige lessen (zie `WORDS.md`).
 
-## 1. Vul de goede vorm van `mogen` in
+## 1. Vul de goede vorm van `mogen` in — **По-русски:** 1. Вставьте правильную форму `mogen`
 
 1. Ik ____ vandaag eerder naar huis.
 2. De kinderen ____ vanavond buiten spelen.
@@ -17,9 +20,10 @@ Doel: oefenen met `mogen`, met de personaal pronomen (possessief en object), en 
 11. We ____ om vijf uur naar huis.
 12. Larissa ____ niet met de fiets naar school.
 
-## 2. `mogen` of `kunnen`?
+## 2. `mogen` of `kunnen`? — **По-русски:** 2. `Mogen` или `kunnen`?
 
 Vul `mag` / `mogen` (permission) of `kan` / `kunt` / `kunnen` (ability) in.
+> **По-русски:** Вставьте `mag / mogen` для разрешения или `kan / kunt / kunnen` для возможности/умения.
 
 1. Ik ____ goed zwemmen, maar ik ____ hier niet zwemmen.
 2. Mijn opa ____ niet meer goed horen.
@@ -30,7 +34,7 @@ Vul `mag` / `mogen` (permission) of `kan` / `kunt` / `kunnen` (ability) in.
 7. U ____ hier wachten tot het eten klaar is.
 8. Zij ____ heel goed koken.
 
-## 3. Vul het goede possessief in (`mijn`, `jouw`, `uw`, `zijn`, `haar`, `ons`, `onze`, `jullie`, `hun`)
+## 3. Vul het goede possessief in (`mijn`, `jouw`, `uw`, `zijn`, `haar`, `ons`, `onze`, `jullie`, `hun`) — **По-русски:** 3. Вставьте подходящее притяжательное слово (`mijn`, `jouw`, `uw`, `zijn`, `haar`, `ons`, `onze`, `jullie`, `hun`)
 
 1. Ik heb een broer. ____ broer woont in Utrecht.
 2. Jij hebt een mooie keuken. Is dat ____ nieuwe koelkast?
@@ -43,7 +47,7 @@ Vul `mag` / `mogen` (permission) of `kan` / `kunt` / `kunnen` (ability) in.
 9. De buren hebben een hond. ____ hond is heel energiek.
 10. Ik zoek ____ sleutel. Ik ben ____ sleutel vergeten.
 
-## 4. Vul het goede object-pronomen in (`mij`, `jou`, `u`, `hem`, `haar`, `ons`, `jullie`, `hen`)
+## 4. Vul het goede object-pronomen in (`mij`, `jou`, `u`, `hem`, `haar`, `ons`, `jullie`, `hen`) — **По-русски:** 4. Вставьте подходящее объектное местоимение (`mij`, `jou`, `u`, `hem`, `haar`, `ons`, `jullie`, `hen`)
 
 1. Ik zie de kip niet. Waar is ____ ?
 2. Deze soep is voor ____ , mevrouw.
@@ -56,9 +60,10 @@ Vul `mag` / `mogen` (permission) of `kan` / `kunt` / `kunnen` (ability) in.
 9. Sandra en ik weten alles. Je kunt vragen stellen aan ____ .
 10. Hij groet de buurman. Hij geeft ____ een hand.
 
-## 5. `de`-woord of `het`-woord?
+## 5. `de`-woord of `het`-woord? — **По-русски:** 5. Слово с `de` или с `het`?
 
 Schrijf `de` of `het`.
+> **По-русски:** Напишите `de` или `het`.
 
 1. ____ ontbijt
 2. ____ lunch
@@ -81,7 +86,7 @@ Schrijf `de` of `het`.
 19. ____ pan
 20. ____ markt
 
-## 6. Vertaal naar het Nederlands (Russisch -> Nederlands)
+## 6. Vertaal naar het Nederlands (Russisch -> Nederlands) — **По-русски:** 6. Переведите с русского на нидерландский
 
 1. Утром я ем хлеб с сыром.
 2. Здесь нельзя курить.
@@ -99,7 +104,7 @@ Schrijf `de` of `het`.
 14. Она никогда не ест рыбу.
 15. Мы едим мороженое ложкой.
 
-## 7. Vertaal naar het Nederlands (Engels -> Nederlands)
+## 7. Vertaal naar het Nederlands (Engels -> Nederlands) — **По-русски:** 7. Переведите с английского на нидерландский
 
 1. May I sit here?
 2. You are not allowed to park here.
@@ -117,9 +122,10 @@ Schrijf `de` of `het`.
 14. How many tomatoes do I need?
 15. I usually eat bread with cheese, but never with sausage.
 
-## 8. Maak ontkennende zinnen (`niet` of `geen`)
+## 8. Maak ontkennende zinnen (`niet` of `geen`) — **По-русски:** 8. Составьте отрицательные предложения (`niet` или `geen`)
 
 Maak de zin ontkennend.
+> **По-русски:** Сделайте предложение отрицательным.
 
 1. Ik mag hier roken.
 2. Wij eten 's avonds vlees.
@@ -134,9 +140,10 @@ Maak de zin ontkennend.
 11. Ik eet 's middags brood.
 12. Zij mag koffie drinken.
 
-## 9. Maak vragen
+## 9. Maak vragen — **По-русски:** 9. Составьте вопросы
 
 Maak van elke zin een ja/nee-vraag.
+> **По-русски:** Преобразуйте каждое предложение в общий вопрос (да/нет).
 
 1. Jij mag je telefoon gebruiken.
 2. De kinderen mogen buiten spelen.
@@ -148,6 +155,7 @@ Maak van elke zin een ja/nee-vraag.
 8. Hij snijdt het vlees met een mes.
 
 Maak nu vragen met een vraagwoord (`wie`, `wat`, `waar`, `wanneer`, `hoe`, `hoeveel`).
+> **По-русски:** Теперь составьте вопросы с вопросительным словом (`wie`, `wat`, `waar`, `wanneer`, `hoe`, `hoeveel`).
 
 9. ____ eet jij bij het ontbijt?
 10. ____ staan de glazen?
@@ -156,7 +164,7 @@ Maak nu vragen met een vraagwoord (`wie`, `wat`, `waar`, `wanneer`, `hoe`, `hoev
 13. ____ snijdt de groenten?
 14. ____ vind jij deze soep?
 
-## Antwoorden
+## Antwoorden — **По-русски:** Ответы
 
 ### 1
 

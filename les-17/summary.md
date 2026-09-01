@@ -14,7 +14,15 @@
 - Woordenschat / lezen: de supermarkttekst `Samen boodschappen doen. Ja, gezellig!` en twee dialogen in een café of restaurant
 - Functionele taal: honger en dorst uitdrukken, bestellen, een rondje betalen en afrekenen
 
-## Grammar
+## Grammar / Грамматика
+
+### Объяснение грамматики на русском
+
+Форма местоимения зависит от функции. Подлежащее выполняет действие (`ik, jij, hij, zij, wij, jullie, zij`), прямое дополнение получает действие (`mij, jou, hem, haar, het, ons, jullie, hen/ze`), косвенное дополнение обозначает адресата: `De ober geeft mij het menu`.
+
+Притяжательные слова стоят перед существительным: `mijn`, `jouw`, `uw`, `zijn`, `haar`, `ons/onze`, `jullie`, `hun`. `Ons` используется с одним `het`-словом (`ons huis`), `onze` — с `de`-словами и множественным числом.
+
+При образовании множественного числа повторяются окончания `-en`, `-s`, `'s` и нерегулярные формы. В тексте местоимение должно однозначно отсылать к уже названному человеку или предмету: `Anna kiest de salade. Zij bestelt hem.`
 
 ### Persoonlijke voornaamwoorden: onderwerp
 

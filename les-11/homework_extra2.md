@@ -1,8 +1,11 @@
-# Les 11 - Extra huiswerk 2
+# Les 11 - Extra huiswerk 2 — **По-русски:** Урок 11 - Дополнительное домашнее задание 2
+
+> **Русская версия:** название каждого задания продублировано по-русски. Основные отдельные инструкции также продублированы строкой `По-русски`. Учебные предложения сохранены на исходном языке, чтобы не раскрывать ответы в заданиях на перевод.
+
 
 Doel: nog een keer oefenen met `kunnen`, rangtelwoorden, preposities van plaats (`voor`, `achter`, `boven`, `onder`, `op`, `tussen`, `naast`, `bij`, `tegen`, `tegenover`, `rond`/`om`, `aan`), `de`/`het`-woorden, vertalen, ontkennende zinnen en vragen. De zinnen zijn nieuw (niet uit `homework_extra.md`) en de woorden komen uit les 11 en uit alle vorige lessen (zie `WORDS.md`).
 
-## 1. Schrijf de goede vorm van `kunnen` (`kan`, `kunt`, `kunnen`)
+## 1. Schrijf de goede vorm van `kunnen` (`kan`, `kunt`, `kunnen`) — **По-русски:** 1. Напишите правильную форму `kunnen` (`kan`, `kunt`, `kunnen`)
 
 1. Wij ____ zaterdag in het bos wandelen.
 2. ____ u mij de weg naar het centrum vertellen?
@@ -21,9 +24,10 @@ Doel: nog een keer oefenen met `kunnen`, rangtelwoorden, preposities van plaats 
 15. Mijn opa ____ nog goed fietsen.
 16. Wij ____ het schilderij boven de bank hangen.
 
-## 2. Vul de goede prepositie van plaats in
+## 2. Vul de goede prepositie van plaats in — **По-русски:** 2. Вставьте правильный предлог места
 
 Kies uit: `voor`, `achter`, `boven`, `onder`, `op`, `tussen`, `naast`, `bij`, `tegen`, `tegenover`, `rond`, `om`, `aan`. De hint tussen haakjes helpt je.
+> **По-русски:** Выберите из перечисленных предлогов. Подсказка в скобках поможет сделать выбор.
 
 1. De spiegel hangt ____ de muur in de gang. (висит на)
 2. De wasmachine staat ____ de koelkast. (рядом с)
@@ -40,9 +44,10 @@ Kies uit: `voor`, `achter`, `boven`, `onder`, `op`, `tussen`, `naast`, `bij`, `t
 13. Het kleed ligt ____ de eettafel. (под)
 14. Wij zitten ____ de tafel. (вокруг, met `om`)
 
-## 3. Schrijf het goede rangtelwoord
+## 3. Schrijf het goede rangtelwoord — **По-русски:** 3. Напишите правильное порядковое числительное
 
 Schrijf het woord voluit (bijvoorbeeld: 1e -> eerste).
+> **По-русски:** Напишите слово полностью (например: 1e -> eerste).
 
 1. Februari is de (2e) ____ maand van het jaar.
 2. Zaterdag is de (6e) ____ dag van de week.
@@ -57,9 +62,10 @@ Schrijf het woord voluit (bijvoorbeeld: 1e -> eerste).
 11. Dit is de (30e) ____ dag van de maand.
 12. Dit is de (100e) ____ dag van de cursus.
 
-## 4. `de`-woord of `het`-woord?
+## 4. `de`-woord of `het`-woord? — **По-русски:** 4. Слово с `de` или с `het`?
 
 Schrijf `de` of `het`.
+> **По-русски:** Напишите `de` или `het`.
 
 1. ____ centrum
 2. ____ kat
@@ -78,7 +84,7 @@ Schrijf `de` of `het`.
 15. ____ eettafel
 16. ____ raam
 
-## 5. Vertaal naar het Nederlands (Russisch -> Nederlands)
+## 5. Vertaal naar het Nederlands (Russisch -> Nederlands) — **По-русски:** 5. Переведите с русского на нидерландский
 
 1. Я не умею водить машину.
 2. Вы можете помочь моей соседке?
@@ -96,7 +102,7 @@ Schrijf `de` of `het`.
 14. Мой брат умеет хорошо готовить.
 15. Магазин находится напротив школы.
 
-## 6. Vertaal naar het Nederlands (Engels -> Nederlands)
+## 6. Vertaal naar het Nederlands (Engels -> Nederlands) — **По-русски:** 6. Переведите с английского на нидерландский
 
 1. I cannot find the light switch.
 2. Can we visit you on Sunday?
@@ -114,9 +120,10 @@ Schrijf `de` of `het`.
 14. There is a painting above the bookcase.
 15. Tomorrow is my first day at work.
 
-## 7. Maak ontkennende zinnen (`niet` of `geen`)
+## 7. Maak ontkennende zinnen (`niet` of `geen`) — **По-русски:** 7. Составьте отрицательные предложения (`niet` или `geen`)
 
 Maak de zin ontkennend.
+> **По-русски:** Сделайте предложение отрицательным.
 
 1. Ik kan goed koken.
 2. Wij hebben een lift.
@@ -131,9 +138,10 @@ Maak de zin ontkennend.
 11. De spiegel hangt aan de muur.
 12. Wij kunnen vandaag afspreken.
 
-## 8. Maak vragen
+## 8. Maak vragen — **По-русски:** 8. Составьте вопросы
 
 Maak van elke zin een ja/nee-vraag.
+> **По-русски:** Преобразуйте каждое предложение в общий вопрос (да/нет).
 
 1. Jij kunt autorijden.
 2. De spiegel hangt in de gang.
@@ -145,6 +153,7 @@ Maak van elke zin een ja/nee-vraag.
 8. Het kleed ligt onder de salontafel.
 
 Maak nu vragen met een vraagwoord (`wie`, `wat`, `waar`, `wanneer`, `hoe`, `hoeveel`).
+> **По-русски:** Теперь составьте вопросы с вопросительным словом (`wie`, `wat`, `waar`, `wanneer`, `hoe`, `hoeveel`).
 
 9. ____ staat de boekenkast? (tegen de muur)
 10. ____ kan jij goed? (koken)
@@ -152,7 +161,7 @@ Maak nu vragen met een vraagwoord (`wie`, `wat`, `waar`, `wanneer`, `hoe`, `hoev
 12. ____ dieren heb jij? (twee)
 13. ____ kunnen wij afspreken? (zondag)
 
-## Antwoorden
+## Antwoorden — **По-русски:** Ответы
 
 ### 1
 

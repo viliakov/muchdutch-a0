@@ -1,8 +1,11 @@
-# Les 16 - Extra huiswerk
+# Les 16 - Extra huiswerk — **По-русски:** Урок 16 - Дополнительное домашнее задание
+
+> **Русская версия:** название каждого задания продублировано по-русски. Основные отдельные инструкции также продублированы строкой `По-русски`. Учебные предложения сохранены на исходном языке, чтобы не раскрывать ответы в заданиях на перевод.
+
 
 Doel: extra oefenen met de juiste werkwoordsvorm, voorzetsels en voegwoorden uit les 16, plus `de`/`het`-woorden, vertalen, ontkennen en vragen. De woorden komen uit les 16 en uit alle vorige lessen (zie `WORDS.md`).
 
-## 1. Zet het werkwoord in de juiste vorm
+## 1. Zet het werkwoord in de juiste vorm — **По-русски:** 1. Поставьте глагол в правильную форму
 
 1. Hoe __________ (gaan) het met jullie?
 2. Mijn buurvrouw __________ (zijn) erg aardig.
@@ -20,9 +23,10 @@ Doel: extra oefenen met de juiste werkwoordsvorm, voorzetsels en voegwoorden uit
 14. Fatima __________ (willen) een feestje geven.
 15. __________ (Zullen) we vrijdag afspreken?
 
-## 2. Vul het goede voorzetsel in
+## 2. Vul het goede voorzetsel in — **По-русски:** 2. Вставьте подходящий предлог
 
 Kies uit: `aan`, `van`, `naar`, `op`, `met`, `over`, `in`, `voor`
+> **По-русски:** Выберите из: `aan`, `van`, `naar`, `op`, `met`, `over`, `in`, `voor`.
 
 1. Wie is er __________ de beurt?
 2. Doet u mij maar een pond __________ die groene appels.
@@ -37,7 +41,7 @@ Kies uit: `aan`, `van`, `naar`, `op`, `met`, `over`, `in`, `voor`
 11. Hij komt __________ de fiets naar mijn huis.
 12. Wij gaan zaterdag __________ eten in een eetcafé.
 
-## 3. Kies uit: `en`, `want`, `maar`, `dus`, `of`
+## 3. Kies uit: `en`, `want`, `maar`, `dus`, `of` — **По-русски:** 3. Выберите из `en`, `want`, `maar`, `dus`, `of`
 
 1. Ik heb dorst, __________ ik wil iets drinken.
 2. Ik wil graag komen, __________ ik heb geen tijd.
@@ -52,9 +56,10 @@ Kies uit: `aan`, `van`, `naar`, `op`, `met`, `over`, `in`, `voor`
 11. Ik ga naar de slager __________ daarna naar de groenteboer.
 12. Hij komt niet, __________ hij is ziek.
 
-## 4. `de`-woord of `het`-woord?
+## 4. `de`-woord of `het`-woord? — **По-русски:** 4. Слово с `de` или с `het`?
 
 Schrijf `de` of `het`.
+> **По-русски:** Напишите `de` или `het`.
 
 1. ____ verjaardag
 2. ____ feestje
@@ -75,7 +80,7 @@ Schrijf `de` of `het`.
 17. ____ woonkamer
 18. ____ restaurant
 
-## 5. Vertaal naar het Nederlands (Russisch -> Nederlands)
+## 5. Vertaal naar het Nederlands (Russisch -> Nederlands) — **По-русски:** 5. Переведите с русского на нидерландский
 
 1. Как у тебя дела?
 2. Мой новый дом полностью готов.
@@ -93,7 +98,7 @@ Schrijf `de` of `het`.
 14. Какой отличный сюрприз!
 15. Давай договоримся о встрече в пятницу.
 
-## 6. Vertaal naar het Nederlands (Engels -> Nederlands)
+## 6. Vertaal naar het Nederlands (Engels -> Nederlands) — **По-русски:** 6. Переведите с английского на нидерландский
 
 1. The living room is very nice, but the kitchen is small.
 2. I have no time, so I cannot come.
@@ -111,7 +116,7 @@ Schrijf `de` of `het`.
 14. This yoghurt is past the date, so I throw it away.
 15. What a nice surprise!
 
-## 7. Maak ontkennende zinnen (`niet` of `geen`)
+## 7. Maak ontkennende zinnen (`niet` of `geen`) — **По-русски:** 7. Составьте отрицательные предложения (`niet` или `geen`)
 
 1. Ik heb honger.
 2. Mijn huis is helemaal klaar.
@@ -126,9 +131,10 @@ Schrijf `de` of `het`.
 11. Mijn buurvrouw is aardig.
 12. Hij lust spruitjes.
 
-## 8. Maak vragen
+## 8. Maak vragen — **По-русски:** 8. Составьте вопросы
 
 Maak van elke zin een ja/nee-vraag.
+> **По-русски:** Преобразуйте каждое предложение в общий вопрос (да/нет).
 
 1. Jij blijft zaterdag eten.
 2. Fatima heeft een nieuw huis.
@@ -140,6 +146,7 @@ Maak van elke zin een ja/nee-vraag.
 8. De melk is op.
 
 Maak nu vragen met een vraagwoord (`wie`, `wat`, `waar`, `wanneer`, `hoe laat`, `hoeveel`, `waarom`).
+> **По-русски:** Теперь составьте вопросы с вопросительным словом (`wie`, `wat`, `waar`, `wanneer`, `hoe laat`, `hoeveel`, `waarom`).
 
 9. __________ is er aan de beurt?
 10. __________ kom jij zaterdag?
@@ -148,7 +155,7 @@ Maak nu vragen met een vraagwoord (`wie`, `wat`, `waar`, `wanneer`, `hoe laat`, 
 13. __________ kilo appels wil je?
 14. __________ ga je niet naar het feestje?
 
-## Antwoorden
+## Antwoorden — **По-русски:** Ответы
 
 ### 1
 

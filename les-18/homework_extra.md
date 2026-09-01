@@ -1,8 +1,11 @@
-# Les 18 - Extra huiswerk
+# Les 18 - Extra huiswerk — **По-русски:** Урок 18 - Дополнительное домашнее задание
+
+> **Русская версия:** название каждого задания продублировано по-русски. Основные отдельные инструкции также продублированы строкой `По-русски`. Учебные предложения сохранены на исходном языке, чтобы не раскрывать ответы в заданиях на перевод.
+
 
 Doel: de verbuiging van adjectieven oefenen en tegelijk grammatica en woordenschat uit eerdere lessen herhalen. Alle opdrachten hebben een vast antwoord.
 
-## 1. Vul de goede vorm van het adjectief in
+## 1. Vul de goede vorm van het adjectief in — **По-русски:** 1. Вставьте правильную форму прилагательного
 
 1. De `(warm)` __________ trui zit lekker.
 2. Ik koop een `(mooi)` __________ overhemd.
@@ -25,9 +28,10 @@ Doel: de verbuiging van adjectieven oefenen en tegelijk grammatica en woordensch
 19. Ik wil geen `(dik)` __________ boek.
 20. Elk `(klein)` __________ kind heeft een muts.
 
-## 2. `de`-woord of `het`-woord? Schrijf het adjectief goed
+## 2. `de`-woord of `het`-woord? Schrijf het adjectief goed — **По-русски:** 2. Определите `de`/`het` и напишите правильную форму прилагательного
 
 Vul de goede vorm van het adjectief in. Alle zelfstandige naamwoorden zijn onbepaald en enkelvoudig. Bepaal daarom eerst of het zelfstandig naamwoord een `de`-woord of een `het`-woord is. Voorbeeld: `een (mooi) ___ jurk` → `een mooie jurk`.
+> **По-русски:** Вставьте правильную форму прилагательного. Все существительные стоят в неопределённой форме единственного числа, поэтому сначала определите, употребляется ли слово с `de` или `het`.
 
 1. een `(warm)` __________ trui
 2. een `(zwart)` __________ rok
@@ -50,7 +54,7 @@ Vul de goede vorm van het adjectief in. Alle zelfstandige naamwoorden zijn onbep
 19. een `(houten)` __________ tafel
 20. een `(donker)` __________ huid
 
-## 3. Vertaal naar het Nederlands (Russisch → Nederlands)
+## 3. Vertaal naar het Nederlands (Russisch → Nederlands) — **По-русски:** 3. Переведите с русского на нидерландский
 
 1. Я часто ношу тёплый свитер, потому что он удобный.
 2. Она покупает красивую чёрную юбку и белую блузку.
@@ -68,7 +72,7 @@ Vul de goede vorm van het adjectief in. Alle zelfstandige naamwoorden zijn onbep
 14. В нашем большом доме стоит деревянный стол.
 15. Она выглядит молодо, но ей сорок два года.
 
-## 4. Vertaal naar het Nederlands (Engels → Nederlands)
+## 4. Vertaal naar het Nederlands (Engels → Nederlands) — **По-русски:** 4. Переведите с английского на нидерландский
 
 1. He wears a neat blue suit to work.
 2. This old watch is not expensive.
@@ -86,7 +90,7 @@ Vul de goede vorm van het adjectief in. Alle zelfstandige naamwoorden zijn onbep
 14. The practical backpack is under the wooden table.
 15. Do you see the man with the short red hair?
 
-## 5. Maak ontkennende zinnen (`niet` of `geen`)
+## 5. Maak ontkennende zinnen (`niet` of `geen`) — **По-русски:** 5. Составьте отрицательные предложения (`niet` или `geen`)
 
 1. Ik draag vandaag een warme trui.
 2. Zij heeft een zwarte rok aan.
@@ -107,9 +111,10 @@ Vul de goede vorm van het adjectief in. Alle zelfstandige naamwoorden zijn onbep
 17. Hij draagt vandaag zijn bruine schoenen.
 18. Deze wollen trui is geschikt voor de zomer.
 
-## 6. Maak vragen
+## 6. Maak vragen — **По-русски:** 6. Составьте вопросы
 
 Maak eerst ja/nee-vragen.
+> **По-русски:** Сначала составьте общие вопросы (да/нет).
 
 1. Jij draagt een blauwe spijkerbroek.
 2. Zij heeft kort blond haar.
@@ -121,6 +126,7 @@ Maak eerst ja/nee-vragen.
 8. Jij kunt de zwarte handschoenen vinden.
 
 Vul daarna het goede vraagwoord in: `wie`, `wat`, `waar`, `wanneer`, `waarom`, `welke`, `hoe`, `hoeveel`, `wiens`, `aan wie`.
+> **По-русски:** Затем вставьте подходящее вопросительное слово: `wie`, `wat`, `waar`, `wanneer`, `waarom`, `welke`, `hoe`, `hoeveel`, `wiens`, `aan wie`.
 
 9. __________ draagt de rode jurk?
 10. __________ kleur heeft het nette pak?
@@ -133,9 +139,10 @@ Vul daarna het goede vraagwoord in: `wie`, `wat`, `waar`, `wanneer`, `waarom`, `
 17. __________ doe je een warme muts op?
 18. __________ draagt hij vandaag: een pak of een spijkerbroek?
 
-## 7. Voornaamwoorden: onderwerp, object en bezit
+## 7. Voornaamwoorden: onderwerp, object en bezit — **По-русски:** 7. Местоимения: подлежащее, дополнение и принадлежность
 
 Vervang de woorden tussen haakjes door een passend voornaamwoord of bezittelijk woord.
+> **По-русски:** Замените слова в скобках подходящим личным или притяжательным местоимением.
 
 1. Emma draagt een mooie jurk. __________ draagt een mooie jurk. `(Emma)`
 2. Ik zie de oude buurman. Ik zie __________. `(de buurman)`
@@ -156,9 +163,10 @@ Vervang de woorden tussen haakjes door een passend voornaamwoord of bezittelijk 
 17. Het museum is groot. __________ is ook interessant. `(het museum)`
 18. Wij kennen uw jonge collega. Wij kennen __________. `(uw collega)`
 
-## 8. Getallen en rangtelwoorden
+## 8. Getallen en rangtelwoorden — **По-русски:** 8. Числа и порядковые числительные
 
 Schrijf de getallen tussen haakjes voluit in het Nederlands.
+> **По-русски:** Запишите числа в скобках полностью по-нидерландски.
 
 1. De winkel verkoopt `(128)` __________ warme truien.
 2. Dit mooie horloge kost `(349)` __________ euro.
@@ -179,9 +187,10 @@ Schrijf de getallen tussen haakjes voluit in het Nederlands.
 17. De winkel bestaat `(75)` __________ jaar.
 18. Vandaag passen `(2.508)` __________ mensen een nieuw pak.
 
-## 9. Voegwoorden
+## 9. Voegwoorden — **По-русски:** 9. Союзы
 
 Vertaal naar het Nederlands. Kies zelf een passend geleerd voegwoord.
+> **По-русски:** Переведите на нидерландский и самостоятельно выберите подходящий изученный союз.
 
 1. Я ношу тёплый свитер, потому что на улице холодно.
 2. Платье красивое, но оно неудобное.
@@ -202,9 +211,10 @@ Vertaal naar het Nederlands. Kies zelf een passend geleerd voegwoord.
 17. Дети маленькие, поэтому их одежда тоже маленькая.
 18. Моя сестра стройная, а я пухлая.
 
-## 10. Modale werkwoorden
+## 10. Modale werkwoorden — **По-русски:** 10. Модальные глаголы
 
 Vertaal naar het Nederlands. Kies zelf een passend modaal werkwoord.
+> **По-русски:** Переведите на нидерландский и самостоятельно выберите подходящий модальный глагол.
 
 1. Я хочу купить красивое зелёное платье.
 2. Мы можем надеть тёплые свитеры.
@@ -225,9 +235,10 @@ Vertaal naar het Nederlands. Kies zelf een passend modaal werkwoord.
 17. Они не могут найти свои новые перчатки.
 18. Нам не нужно покупать десять одинаковых шарфов.
 
-## 11. Nieuwe woorden en uitdrukkingen
+## 11. Nieuwe woorden en uitdrukkingen — **По-русски:** 11. Новые слова и выражения
 
 Vertaal naar het Nederlands. Samen komen alle nieuwe woorden en vaste uitdrukkingen uit les 18 aan bod.
+> **По-русски:** Переведите на нидерландский. В совокупности предложения охватывают все новые слова и устойчивые выражения урока 18.
 
 1. На мне тёплый свитер и чёрная юбка.
 2. Он носит белую майку и зелёную рубашку.
@@ -266,7 +277,7 @@ Vertaal naar het Nederlands. Samen komen alle nieuwe woorden en vaste uitdrukkin
 35. Определённая форма: `эта красивая рубашка`; неопределённая форма: `красивая рубашка`.
 36. После `zijn` употребляется краткая форма: `Платье красивое`.
 
-## Antwoorden
+## Antwoorden — **По-русски:** Ответы
 
 ### 1
 

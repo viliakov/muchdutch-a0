@@ -1,10 +1,14 @@
-# Les 15 - Extra huiswerk 3
+# Les 15 - Extra huiswerk 3 — **По-русски:** Урок 15 - Дополнительное домашнее задание 3
+
+> **Русская версия:** название каждого задания продублировано по-русски. Основные отдельные инструкции также продублированы строкой `По-русски`. Учебные предложения сохранены на исходном языке, чтобы не раскрывать ответы в заданиях на перевод.
+
 
 Doel: nog een keer oefenen met het **meervoud** (`-en`, `-s`, `'s`, onregelmatig, maateenheden) en met de **modale werkwoorden**, plus `de`/`het`-woorden, vertalen, ontkennende zinnen en vragen. De woorden komen uit les 15 en uit alle vorige lessen (zie `WORDS.md`). Alle zinnen zijn nieuw: ze staan niet in `homework_extra.md` of `homework_extra2.md`.
 
-## 1. Schrijf het meervoud (deel 1)
+## 1. Schrijf het meervoud (deel 1) — **По-русски:** 1. Напишите множественное число (часть 1)
 
 Let op de klinker: korte klinker -> medeklinker verdubbelen, lange klinker -> één klinker weg.
+> **По-русски:** Следите за гласной: после краткой гласной удвойте согласную, а в открытом слоге уберите одну долгую гласную.
 
 1. de kat - de ____
 2. het raam - de ____
@@ -22,7 +26,7 @@ Let op de klinker: korte klinker -> medeklinker verdubbelen, lange klinker -> é
 14. de video - de ____
 15. het blad - de ____
 
-## 2. Schrijf het meervoud (deel 2)
+## 2. Schrijf het meervoud (deel 2) — **По-русски:** 2. Напишите множественное число (часть 2)
 
 1. de klok - de ____
 2. het mes - de ____
@@ -40,9 +44,10 @@ Let op de klinker: korte klinker -> medeklinker verdubbelen, lange klinker -> é
 14. de tros - de ____
 15. het verslag - de ____
 
-## 3. Enkelvoud of meervoud? Vul in
+## 3. Enkelvoud of meervoud? Vul in — **По-русски:** 3. Единственное или множественное число? Вставьте правильную форму
 
 Kies de goede vorm van het woord tussen ( ).
+> **По-русски:** Выберите правильную форму слова в скобках.
 
 1. Ik wil graag vier ____ (ons) kaas.
 2. Het pak melk kost één ____ (euro) en tien ____ (cent).
@@ -57,9 +62,10 @@ Kies de goede vorm van het woord tussen ( ).
 11. De kinderen eten veel ____ (brood) met ____ (kaas).
 12. De film begint over vijf ____ (minuut).
 
-## 4. Kies het goede modale werkwoord
+## 4. Kies het goede modale werkwoord — **По-русски:** 4. Выберите правильный модальный глагол
 
 Kies uit `zullen`, `willen`, `kunnen`, `mogen`, `moeten` en vul de goede vorm in.
+> **По-русски:** Выберите `zullen`, `willen`, `kunnen`, `mogen` или `moeten` и вставьте правильную форму.
 
 1. ________ we samen naar de markt gaan? (voorstel)
 2. Ik ________ vanavond mijn kamer opruimen. (verplicht)
@@ -74,9 +80,10 @@ Kies uit `zullen`, `willen`, `kunnen`, `mogen`, `moeten` en vul de goede vorm in
 11. Ik ________ graag drie flessen water. (wensen)
 12. Jullie ________ het formulier vandaag invullen. (verplicht)
 
-## 5. `de`-woord of `het`-woord?
+## 5. `de`-woord of `het`-woord? — **По-русски:** 5. Слово с `de` или с `het`?
 
 Schrijf `de` of `het`.
+> **По-русски:** Напишите `de` или `het`.
 
 1. ____ raam
 2. ____ muur
@@ -99,7 +106,7 @@ Schrijf `de` of `het`.
 19. ____ hersenen
 20. ____ menukaart
 
-## 6. Vertaal naar het Nederlands (Russisch -> Nederlands)
+## 6. Vertaal naar het Nederlands (Russisch -> Nederlands) — **По-русски:** 6. Переведите с русского на нидерландский
 
 1. Сколько городов ты знаешь в Нидерландах?
 2. Мои коллеги пишут много писем и много имейлов.
@@ -117,7 +124,7 @@ Schrijf `de` of `het`.
 14. Приятно познакомиться! Как вы познакомились?
 15. Я покупаю два пакета молока, три бутылки воды и ящик пива.
 
-## 7. Vertaal naar het Nederlands (Engels -> Nederlands)
+## 7. Vertaal naar het Nederlands (Engels -> Nederlands) — **По-русски:** 7. Переведите с английского на нидерландский
 
 1. The lady puts two crates of beer in the trolley.
 2. My sisters have four cats and two rabbits.
@@ -135,9 +142,10 @@ Schrijf `de` of `het`.
 14. The reports are lying on the desks in the office.
 15. The onions are on offer: one plus one free.
 
-## 8. Maak ontkennende zinnen (`niet` of `geen`)
+## 8. Maak ontkennende zinnen (`niet` of `geen`) — **По-русски:** 8. Составьте отрицательные предложения (`niet` или `geen`)
 
 Maak de zin ontkennend.
+> **По-русски:** Сделайте предложение отрицательным.
 
 1. Wij hebben katten.
 2. De uien zijn goedkoop.
@@ -152,9 +160,10 @@ Maak de zin ontkennend.
 11. Zij zijn dol op vis.
 12. Ik heb drie zwemdiploma's.
 
-## 9. Maak vragen
+## 9. Maak vragen — **По-русски:** 9. Составьте вопросы
 
 Maak van elke zin een vraag.
+> **По-русски:** Преобразуйте каждое предложение в вопрос.
 
 1. Jij koopt twee kratten bier.
 2. De medewerker weegt de druiven.
@@ -166,6 +175,7 @@ Maak van elke zin een vraag.
 8. Hij mist zijn familie.
 
 Maak nu vragen met een vraagwoord (`wie`, `wat`, `waar`, `wanneer`, `hoe`, `hoeveel`, `waarom`).
+> **По-русски:** Теперь составьте вопросы с вопросительным словом (`wie`, `wat`, `waar`, `wanneer`, `hoe`, `hoeveel`, `waarom`).
 
 9. ________ musea zijn er in deze stad?
 10. ________ liggen de verslagen?
@@ -174,7 +184,7 @@ Maak nu vragen met een vraagwoord (`wie`, `wat`, `waar`, `wanneer`, `hoe`, `hoev
 13. ________ geven jullie een feestje?
 14. ________ ben jij dol op sinaasappels?
 
-## Antwoorden
+## Antwoorden — **По-русски:** Ответы
 
 ### 1
 

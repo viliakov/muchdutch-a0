@@ -12,7 +12,15 @@
 - Huiswerk grammatica: juiste vorm van het werkwoord in een e-mail, voorzetsels, voegwoorden
 - Huiswerk woordenschat: zinnen combineren en zinnen afmaken met voegwoorden
 
-## Grammar
+## Grammar / Грамматика
+
+### Объяснение грамматики на русском
+
+В настоящем времени выбирайте форму по подлежащему: `ik + основа`, `jij/u/hij/zij + основа + t`, множественное число + инфинитив. При инверсии с `jij` окончание `-t` исчезает: `Werk jij morgen?`
+
+Предлоги нужно учить в устойчивых сочетаниях: `wachten op`, `praten over`, `gaan naar`, `houden van`, `werken met`, `interesse hebben in`. Один и тот же русский предлог не всегда переводится одинаково.
+
+Союзы `en`, `maar`, `want`, `dus`, `of` сохраняют порядок главного предложения. `Omdat` вводит придаточное и переносит личную форму глагола в конец: `Ik blijf thuis, omdat ik ziek ben.`
 
 ### Juiste vorm van het werkwoord (presens)
 

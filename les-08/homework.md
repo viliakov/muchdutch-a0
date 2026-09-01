@@ -1,10 +1,14 @@
-# Les 8 - Extra huiswerk
+# Les 8 - Extra huiswerk — **По-русски:** Урок 8 - Дополнительное домашнее задание
+
+> **Русская версия:** название каждого задания продублировано по-русски. Основные отдельные инструкции также продублированы строкой `По-русски`. Учебные предложения сохранены на исходном языке, чтобы не раскрывать ответы в заданиях на перевод.
+
 
 Doel: oefenen met `er is / er zijn`, `dit is / dat zijn`, tegenwoordige tijd, huiswoorden, getallen, vertalen en schrijven.
 
-## 1. Tegenwoordige tijd: vul de goede vorm in
+## 1. Tegenwoordige tijd: vul de goede vorm in — **По-русски:** 1. Настоящее время: вставьте правильную форму
 
 Gebruik het werkwoord tussen haakjes.
+> **По-русски:** Используйте глагол в скобках.
 
 1. Ik ____ met een pen. `(schrijven)`
 2. Jij ____ een antwoord. `(kiezen)`
@@ -22,7 +26,7 @@ Gebruik het werkwoord tussen haakjes.
 14. Jij ____ uit Brazilië. `(komen)`
 15. De buurvrouw ____ een kopje koffie. `(geven)`
 
-## 2. Kies: `er is` of `er zijn`
+## 2. Kies: `er is` of `er zijn` — **По-русски:** 2. Выберите `er is` или `er zijn`
 
 1. ____ een tafel in de keuken.
 2. ____ twee deuren in de hal.
@@ -37,7 +41,7 @@ Gebruik het werkwoord tussen haakjes.
 11. ____ een bed in de slaapkamer.
 12. ____ stoelen naast de tafel.
 
-## 3. Maak zinnen met `er is / er zijn`
+## 3. Maak zinnen met `er is / er zijn` — **По-русски:** 3. Составьте предложения с `er is / er zijn`
 
 Voorbeeld: `een keuken / beneden` -> `Er is een keuken beneden.`
 
@@ -52,9 +56,10 @@ Voorbeeld: `een keuken / beneden` -> `Er is een keuken beneden.`
 9. een bank / in de woonkamer
 10. geen dieren / in de tuin
 
-## 4. Negatief met `geen`
+## 4. Negatief met `geen` — **По-русски:** 4. Отрицание с `geen`
 
 Maak de zin negatief.
+> **По-русски:** Сделайте предложение отрицательным.
 
 Voorbeeld: `Er is een garage.` -> `Er is geen garage.`
 
@@ -67,9 +72,10 @@ Voorbeeld: `Er is een garage.` -> `Er is geen garage.`
 7. Er is een douche.
 8. Er zijn bloemen in de tuin.
 
-## 5. Dit is / dat is / dit zijn / dat zijn
+## 5. Dit is / dat is / dit zijn / dat zijn — **По-русски:** 5. Выберите `dit is`, `dat is`, `dit zijn` или `dat zijn`
 
 Kies de goede vorm.
+> **По-русски:** Выберите правильную форму.
 
 1. ____ mijn zus. `(dichtbij, singular)`
 2. ____ mijn ouders. `(dichtbij, plural)`
@@ -82,9 +88,10 @@ Kies de goede vorm.
 9. ____ mijn buurvrouw. `(dichtbij, singular)`
 10. ____ onze buren. `(ver weg, plural)`
 
-## 6. Maak zinnen met `dit/dat`
+## 6. Maak zinnen met `dit/dat` — **По-русски:** 6. Составьте предложения с `dit/dat`
 
 Gebruik `dit is`, `dat is`, `dit zijn`, of `dat zijn`.
+> **По-русски:** Используйте `dit is`, `dat is`, `dit zijn` или `dat zijn`.
 
 1. mijn man
 2. onze dochters
@@ -95,9 +102,10 @@ Gebruik `dit is`, `dat is`, `dit zijn`, of `dat zijn`.
 7. het kopje
 8. de koekjes
 
-## 7. Woordenschat: het huis
+## 7. Woordenschat: het huis — **По-русски:** 7. Лексика: дом
 
 Vertaal naar het Nederlands. Schrijf het artikel erbij.
+> **По-русски:** Переведите на нидерландский и добавьте артикль.
 
 1. house
 2. apartment building / flat
@@ -120,9 +128,10 @@ Vertaal naar het Nederlands. Schrijf het artikel erbij.
 19. chair
 20. bed
 
-## 8. Waar is het?
+## 8. Waar is het? — **По-русски:** 8. Где это находится?
 
 Kies uit: `boven`, `beneden`, `in de gang`, `in de keuken`, `in de badkamer`, `in de woonkamer`, `in de tuin`.
+> **По-русски:** Выберите из вариантов: `boven`, `beneden`, `in de gang`, `in de keuken`, `in de badkamer`, `in de woonkamer`, `in de tuin`.
 
 1. De wc is ____.
 2. De bank staat ____.
@@ -133,9 +142,10 @@ Kies uit: `boven`, `beneden`, `in de gang`, `in de keuken`, `in de badkamer`, `i
 7. De keuken is ____.
 8. De zolder is ____.
 
-## 9. Lees de tekst en antwoord
+## 9. Lees de tekst en antwoord — **По-русски:** 9. Прочитайте текст и ответьте
 
 Lees de tekst.
+> **По-русски:** Прочитайте текст.
 
 ```text
 Hallo, ik ben Marloes.
@@ -150,6 +160,7 @@ Mijn huis heeft geen balkon.
 ```
 
 Schrijf `waar` of `niet waar`.
+> **По-русски:** Напишите `waar` или `niet waar`.
 
 1. Marloes heeft drie slaapkamers.
 2. De woonkamer is boven.
@@ -160,9 +171,10 @@ Schrijf `waar` of `niet waar`.
 7. Het huis heeft een balkon.
 8. Het huis heeft veel kamers.
 
-## 10. Beantwoord de vragen
+## 10. Beantwoord de vragen — **По-русски:** 10. Ответьте на вопросы
 
 Antwoord in hele zinnen.
+> **По-русски:** Отвечайте полными предложениями.
 
 1. Heeft Marloes drie slaapkamers?
 2. Waar is de woonkamer?
@@ -171,9 +183,10 @@ Antwoord in hele zinnen.
 5. Waar is de wc?
 6. Heeft het huis een balkon?
 
-## 11. Getallen
+## 11. Getallen — **По-русски:** 11. Числа
 
 Schrijf het getal als woord.
+> **По-русски:** Напишите число словами.
 
 1. 182
 2. 776
@@ -196,7 +209,7 @@ Schrijf het getal als woord.
 19. 756
 20. 987
 
-## 12. Getallen: vul in
+## 12. Getallen: vul in — **По-русски:** 12. Числа: заполните пропуски
 
 1. honderdtachtig, honderdeenenachttig, ____
 2. zevenhonderdvijfenzeventig, ____, zevenhonderdzevenenzeventig
@@ -207,9 +220,10 @@ Schrijf het getal als woord.
 7. zeshonderdtwaalf, zeshonderddertien, ____
 8. driehonderdvierentachtig, driehonderdvijfentachtig, ____
 
-## 13. English -> Dutch
+## 13. English -> Dutch — **По-русски:** 13. Перевод с английского на нидерландский
 
 Translate into Dutch.
+> **По-русски:** Переведите на нидерландский язык.
 
 1. There is a table in the kitchen.
 2. There are two doors in the hall.
@@ -227,9 +241,10 @@ Translate into Dutch.
 14. The teacher reads the text.
 15. Ali writes the word on paper.
 
-## 14. Russian -> Dutch
+## 14. Russian -> Dutch — **По-русски:** 14. Перевод с русского на нидерландский
 
 Vertaal naar het Nederlands.
+> **По-русски:** Переведите на нидерландский язык.
 
 1. В кухне есть стол.
 2. В коридоре две двери.
@@ -247,9 +262,10 @@ Vertaal naar het Nederlands.
 14. Преподаватель читает текст.
 15. Али пишет слово на бумаге.
 
-## 15. Maak zinnen met oude woorden
+## 15. Maak zinnen met oude woorden — **По-русски:** 15. Составьте предложения со словами из предыдущих уроков
 
 Gebruik woorden uit eerdere lessen.
+> **По-русски:** Используйте слова из предыдущих уроков.
 
 1. de docent / lezen / de tekst
 2. de cursisten / schrijven / woorden
@@ -260,20 +276,22 @@ Gebruik woorden uit eerdere lessen.
 7. mijn vader / drinken / koffie
 8. Julia / leren / Nederlands
 
-## 16. Schrijven
+## 16. Schrijven — **По-русски:** 16. Письмо
 
 Vertel over je huis. Schrijf 10 zinnen.
 
 Gebruik minimaal:
+> **По-русски:** Используйте как минимум:
 
 - 2 zinnen met `er is / er zijn`
 - 2 zinnen met `geen`
 - 2 zinnen met `boven` of `beneden`
 - 1 zin met `dit is` of `dit zijn`
 
-## 17. Uitspraak
+## 17. Uitspraak — **По-русски:** 17. Произношение
 
 Lees hardop.
+> **По-русски:** Прочитайте вслух.
 
 1. `bal`, `bol`, `baal`, `bel`, `bil`, `beul`, `buil`, `bijl`
 2. `mes`, `mis`, `mees`, `mies`, `mus`, `muis`, `maas`, `moes`
@@ -281,8 +299,9 @@ Lees hardop.
 4. `lak`, `lek`, `leek`, `lik`, `leuk`, `lijk`, `lok`, `look`, `luik`
 
 Extra: neem jezelf op en markeer 5 moeilijke woorden.
+> **По-русски:** Дополнительно: запишите себя и отметьте пять трудных слов.
 
-## Antwoorden
+## Antwoorden — **По-русски:** Ответы
 
 ### 1
 
@@ -464,7 +483,7 @@ Extra: neem jezelf op en markeer 5 moeilijke woorden.
 
 Doel: dezelfde grammatica (`er is / er zijn`, `dit/dat`, tegenwoordige tijd) oefenen met ander woordmateriaal: meubels, buren, en woorden uit eerdere lessen.
 
-## 1. Tegenwoordige tijd: vul de goede vorm in
+## 1. Tegenwoordige tijd: vul de goede vorm in — **По-русски:** 1. Настоящее время: вставьте правильную форму
 
 1. Zij ____ een cadeau aan haar oma. `(geven)`
 2. ____ jij het antwoord? `(weten)`
@@ -477,7 +496,7 @@ Doel: dezelfde grammatica (`er is / er zijn`, `dit/dat`, tegenwoordige tijd) oef
 9. Zij ____ vaak alleen thuis. `(zitten)`
 10. De docent ____ het niet. `(begrijpen)`
 
-## 2. Kies: `er is` of `er zijn`
+## 2. Kies: `er is` of `er zijn` — **По-русски:** 2. Выберите `er is` или `er zijn`
 
 1. ____ een bank in de woonkamer.
 2. ____ een lamp naast het bed.
@@ -488,7 +507,7 @@ Doel: dezelfde grammatica (`er is / er zijn`, `dit/dat`, tegenwoordige tijd) oef
 7. ____ veel buren in deze straat.
 8. ____ een gezellige sfeer in huis.
 
-## 3. Maak zinnen met `er is / er zijn`
+## 3. Maak zinnen met `er is / er zijn` — **По-русски:** 3. Составьте предложения с `er is / er zijn`
 
 Voorbeeld: `een bank / in de woonkamer` -> `Er is een bank in de woonkamer.`
 
@@ -501,7 +520,7 @@ Voorbeeld: `een bank / in de woonkamer` -> `Er is een bank in de woonkamer.`
 7. een bad / in de badkamer
 8. veel gezelligheid / bij ons thuis
 
-## 4. Negatief met `geen`
+## 4. Negatief met `geen` — **По-русски:** 4. Отрицание с `geen`
 
 Voorbeeld: `Er is een televisie.` -> `Er is geen televisie.`
 
@@ -512,7 +531,7 @@ Voorbeeld: `Er is een televisie.` -> `Er is geen televisie.`
 5. Er is een bad.
 6. Er zijn mensen op straat.
 
-## 5. Dit is / dat is / dit zijn / dat zijn
+## 5. Dit is / dat is / dit zijn / dat zijn — **По-русски:** 5. Выберите `dit is`, `dat is`, `dit zijn` или `dat zijn`
 
 1. ____ mijn broer. `(dichtbij, singular)`
 2. ____ mijn opa en oma. `(dichtbij, plural)`
@@ -523,9 +542,10 @@ Voorbeeld: `Er is een televisie.` -> `Er is geen televisie.`
 7. ____ haar neef. `(ver weg, singular)`
 8. ____ jouw vrienden. `(ver weg, plural)`
 
-## 6. Woordenschat: in en om het huis
+## 6. Woordenschat: in en om het huis — **По-русски:** 6. Лексика: в доме и вокруг него
 
 Vertaal naar het Nederlands. Schrijf het artikel erbij waar nodig.
+> **По-русски:** Переведите на нидерландский и при необходимости добавьте артикль.
 
 1. couch
 2. lamp
@@ -540,9 +560,10 @@ Vertaal naar het Nederlands. Schrijf het artikel erbij waar nodig.
 11. at home
 12. cozy
 
-## 7. Waar is het?
+## 7. Waar is het? — **По-русски:** 7. Где это находится?
 
 Kies uit: `in de woonkamer`, `in de badkamer`, `op straat`, `naast het bed`, `in de slaapkamer`.
+> **По-русски:** Выберите из вариантов: `in de woonkamer`, `in de badkamer`, `op straat`, `naast het bed`, `in de slaapkamer`.
 
 1. De bank staat ____.
 2. De douche is ____.
@@ -551,7 +572,7 @@ Kies uit: `in de woonkamer`, `in de badkamer`, `op straat`, `naast het bed`, `in
 5. Het bad is ____.
 6. De televisie staat ____.
 
-## 8. Lees de tekst en antwoord
+## 8. Lees de tekst en antwoord — **По-русски:** 8. Прочитайте текст и ответьте
 
 ```text
 Hallo, ik ben Peter.
@@ -564,6 +585,7 @@ Soms drinken wij samen koffie thuis.
 ```
 
 Schrijf `waar` of `niet waar`.
+> **По-русски:** Напишите `waar` или `niet waar`.
 
 1. Sanne en Tom zijn de buren van Peter.
 2. Peter is altijd alleen.
@@ -572,16 +594,17 @@ Schrijf `waar` of `niet waar`.
 5. Tom heeft veel boeken.
 6. Zij drinken nooit koffie samen.
 
-## 9. Beantwoord de vragen
+## 9. Beantwoord de vragen — **По-русски:** 9. Ответьте на вопросы
 
 1. Wie zijn de buren van Peter?
 2. Heeft Sanne een bank?
 3. Heeft Tom een televisie?
 4. Wat drinken Peter en zijn buren samen?
 
-## 10. Getallen
+## 10. Getallen — **По-русски:** 10. Числа
 
 Schrijf het getal als woord.
+> **По-русски:** Запишите число словами.
 
 1. 219
 2. 463
@@ -599,7 +622,7 @@ Schrijf het getal als woord.
 14. 971
 15. 296
 
-## 11. Getallen: vul in
+## 11. Getallen: vul in — **По-русски:** 11. Числа: заполните пропуски
 
 1. tweehonderdachttien, tweehonderdnegentien, ____
 2. vierhonderdtweeënzestig, ____, vierhonderdvierenzestig
@@ -608,7 +631,7 @@ Schrijf het getal als woord.
 5. achthonderdvijf, achthonderdzes, ____
 6. negenhonderdeenenveertig, ____, negenhonderddrieënveertig
 
-## 12. English -> Dutch
+## 12. English -> Dutch — **По-русски:** 12. Перевод с английского на нидерландский
 
 1. There is a couch in the living room.
 2. There is no television in the bedroom.
@@ -626,7 +649,7 @@ Schrijf het getal als woord.
 14. Sometimes we drink coffee together at home.
 15. The children play in the park.
 
-## 13. Russian -> Dutch
+## 13. Russian -> Dutch — **По-русски:** 13. Перевод с русского на нидерландский
 
 1. В гостиной есть диван.
 2. В спальне нет телевизора.
@@ -644,9 +667,10 @@ Schrijf het getal als woord.
 14. Иногда мы пьем кофе вместе дома.
 15. Дети играют в парке.
 
-## 14. Maak zinnen met oude woorden
+## 14. Maak zinnen met oude woorden — **По-русски:** 14. Составьте предложения со словами из предыдущих уроков
 
 Gebruik woorden uit eerdere lessen.
+> **По-русски:** Используйте слова из предыдущих уроков.
 
 1. mijn opa / kiezen / een boek
 2. de buurvrouw / geven / koffie
@@ -657,11 +681,12 @@ Gebruik woorden uit eerdere lessen.
 7. Julia / voorstellen / haar buurman
 8. wij / zitten / gezellig thuis
 
-## 15. Schrijven
+## 15. Schrijven — **По-русски:** 15. Письмо
 
 Vertel over je buren en je huis. Schrijf 10 zinnen.
 
 Gebruik minimaal:
+> **По-русски:** Используйте как минимум:
 
 - 2 zinnen met `er is / er zijn`
 - 2 zinnen met `geen`
@@ -669,17 +694,19 @@ Gebruik minimaal:
 - 1 zin met `boven` of `beneden`
 - het woord `gezellig` of `alleen`
 
-## 16. Uitspraak
+## 16. Uitspraak — **По-русски:** 16. Произношение
 
 Lees hardop.
+> **По-русски:** Прочитайте вслух.
 
 1. `kijken`, `kakken`, `koken`, `kikken`, `kieken`, `keken`, `keuken`, `kuiken`
 2. `den`, `deen`, `daan`, `duin`
 3. `net`, `neet`, `niet`, `nat`, `naad`, `noot`, `neut`
 
 Extra: neem jezelf op en markeer 5 moeilijke woorden.
+> **По-русски:** Дополнительно: запишите себя и отметьте пять трудных слов.
 
-## Antwoorden (Ronde 2)
+## Antwoorden (Ronde 2) — **По-русски:** Ответы (Ronde 2)
 
 ### 1
 

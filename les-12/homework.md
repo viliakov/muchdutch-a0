@@ -1,8 +1,11 @@
-# Les 12 - Huiswerk
+# Les 12 - Huiswerk — **По-русски:** Урок 12 - Домашнее задание
 
-## Grammatica
+> **Русская версия:** название каждого задания продублировано по-русски. Основные отдельные инструкции также продублированы строкой `По-русски`. Учебные предложения сохранены на исходном языке, чтобы не раскрывать ответы в заданиях на перевод.
 
-### 1. Vul met het goede possessief in
+
+## Grammatica — **По-русски:** Грамматика
+
+### 1. Vul met het goede possessief in — **По-русски:** 1. Вставьте подходящее притяжательное слово
 
 Voorbeeld: We hebben een kleine familie. **Onze** familie bestaat uit elf personen.
 
@@ -13,7 +16,7 @@ Voorbeeld: We hebben een kleine familie. **Onze** familie bestaat uit elf person
 5. Ik heb een oma. ____ oma is 90 jaar.
 6. Jullie komen uit een grote familie. ____ opa en oma hebben 22 kleinkinderen.
 
-### 2. Vul met het goede object-pronomen in
+### 2. Vul met het goede object-pronomen in — **По-русски:** 2. Вставьте подходящее объектное местоимение
 
 1. Wat een leuke broek! Kan ik ____ even passen?
 2. Mevrouw, ik heb een vraag. Kunt u ____ helpen?
@@ -21,7 +24,7 @@ Voorbeeld: We hebben een kleine familie. **Onze** familie bestaat uit elf person
 4. Ik heb dit shirt nog in een kleinere maat. Ik zal ____ halen.
 5. Waar zijn Jenny en Johan? Ik haal ____ uit de kantine.
 
-### 3. Vul het goede werkwoord in (`mogen` of `kunnen`)
+### 3. Vul het goede werkwoord in (`mogen` of `kunnen`) — **По-русски:** 3. Вставьте подходящий глагол (`mogen` или `kunnen`)
 
 1. Je ____ hier niet roken.
 2. Wij ____ goed zwemmen.
@@ -32,11 +35,12 @@ Voorbeeld: We hebben een kleine familie. **Onze** familie bestaat uit elf person
 7. De kinderen ____ buiten spelen.
 8. Ik ____ vanavond niet komen.
 
-## Woordenschat
+## Woordenschat — **По-русски:** Лексика
 
-### 4. Vul met het goede woord in
+### 4. Vul met het goede woord in — **По-русски:** 4. Вставьте подходящее слово
 
 Kies uit: `'s avonds` - `dan` - `'s middags` - `'s ochtends` - `of` - `ontbijt`.
+> **По-русски:** Выберите из вариантов: `'s avonds` - `dan` - `'s middags` - `'s ochtends` - `of` - `ontbijt`.
 
 1. We eten 's ochtends het ____ .
 2. Wil je koffie ____ thee?
@@ -45,9 +49,10 @@ Kies uit: `'s avonds` - `dan` - `'s middags` - `'s ochtends` - `of` - `ontbijt`.
 5. We gaan morgen naar school. We gaan ____ luisteren en spreken.
 6. Ik ga 's ochtends en 's middags naar school. Ik ga ____ naar bed.
 
-### 5. Vul met het goede woord in
+### 5. Vul met het goede woord in — **По-русски:** 5. Вставьте подходящее слово
 
 Kies uit: `allemaal` - `eten` - `op` - `roept` - `smakelijk` - `zet`.
+> **По-русски:** Выберите из вариантов: `allemaal` - `eten` - `op` - `roept` - `smakelijk` - `zet`.
 
 1. De moeder ____ de kinderen. Ze moeten naar bed.
 2. Het ____ staat op tafel.
@@ -56,7 +61,7 @@ Kies uit: `allemaal` - `eten` - `op` - `roept` - `smakelijk` - `zet`.
 5. De melk is ____ . We moeten melk kopen.
 6. We gaan ____ naar buiten.
 
-### 6. Maak goede zinnen met de woorden
+### 6. Maak goede zinnen met de woorden — **По-русски:** 6. Составьте правильные предложения из слов
 
 1. snijdt | met een mes | Je | .
 2. Je | soep met een lepel | eet | .
@@ -65,7 +70,7 @@ Kies uit: `allemaal` - `eten` - `op` - `roept` - `smakelijk` - `zet`.
 5. drink | Ik | één glas melk per dag | .
 6. in de kast | De borden | staan | .
 
-### 7. Maak goede zinnen met de woorden
+### 7. Maak goede zinnen met de woorden — **По-русски:** 7. Составьте правильные предложения из слов
 
 1. staan | Waar | de borden | ?
 2. naar de markt | jij | ga | Wanneer | ?
@@ -76,7 +81,7 @@ Kies uit: `allemaal` - `eten` - `op` - `roept` - `smakelijk` - `zet`.
 7. 's ochtends | drink | Wat | jij | ?
 8. jullie | eten | Hoeveel boterhammen | ?
 
-## Antwoorden
+## Antwoorden — **По-русски:** Ответы
 
 ### 1
 

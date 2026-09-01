@@ -1,10 +1,13 @@
-# Les 10 - Huiswerk
+# Les 10 - Huiswerk — **По-русски:** Урок 10 - Домашнее задание
+
+> **Русская версия:** название каждого задания продублировано по-русски. Основные отдельные инструкции также продублированы строкой `По-русски`. Учебные предложения сохранены на исходном языке, чтобы не раскрывать ответы в заданиях на перевод.
+
 
 Dit is het huiswerk uit de les (van het bord). Extra oefeningen staan in `homework_extra.md`.
 
-## Grammatica
+## Grammatica — **По-русски:** Грамматика
 
-### Vul in met de goede vorm van `moeten`
+### Vul in met de goede vorm van `moeten` — **По-русски:** Вставьте правильную форму `moeten`
 
 1. Je ____ je huiswerk maken.
 2. Jullie ____ stil zijn in de bibliotheek.
@@ -15,9 +18,10 @@ Dit is het huiswerk uit de les (van het bord). Extra oefeningen staan in `homewo
 7. ____ ik vandaag komen?
 8. De jongens ____ hun kamer opruimen.
 
-### Maak de zinnen af
+### Maak de zinnen af — **По-русски:** Закончите предложения
 
 Maak elke zin af met een eigen einde.
+> **По-русски:** Закончите каждое предложение своим вариантом.
 
 1. Ik ben blij, want ____ .
 2. We hebben een balkon, maar ____ .
@@ -30,11 +34,12 @@ Maak elke zin af met een eigen einde.
 9. Ik ga naar school, want ____ .
 10. We gaan morgen bij vrienden op bezoek en ____ .
 
-## Woordenschat
+## Woordenschat — **По-русски:** Лексика
 
-### Vul met het goede woord in
+### Vul met het goede woord in — **По-русски:** Вставьте подходящее слово
 
 Kies de goede kamer of plek.
+> **По-русски:** Выберите подходящую комнату или место.
 
 1. Ik poets mijn tanden in ____ .
 2. Jan kookt eten in ____ .
@@ -45,9 +50,10 @@ Kies de goede kamer of plek.
 7. We zetten onze fietsen in ____ .
 8. Op de eerste verdieping zijn drie ____ .
 
-### Schrijven: welke meubels zijn er in jouw kamers?
+### Schrijven: welke meubels zijn er in jouw kamers? — **По-русски:** Письмо: какая мебель находится в ваших комнатах?
 
 Gebruik `er is` / `er zijn`. Schrijf over elke kamer ten minste 3 zinnen.
+> **По-русски:** Используйте `er is / er zijn`. Напишите не менее трёх предложений о каждой комнате.
 
 Voorbeeld: `Er is een bank in mijn woonkamer.`
 
@@ -56,9 +62,10 @@ Voorbeeld: `Er is een bank in mijn woonkamer.`
 - Slaapkamer: ...
 - Badkamer: ...
 
-## Lezen: beantwoord de vragen bij de tekst
+## Lezen: beantwoord de vragen bij de tekst — **По-русски:** Чтение: ответьте на вопросы по тексту
 
 Lees de tekst over Kazem.
+> **По-русски:** Прочитайте текст о Каземе.
 
 ```text
 Kazem komt thuis.
@@ -76,6 +83,7 @@ Ik pak de sleutel van je huis. Alsjeblieft, Kazem!'
 ```
 
 Schrijf `waar` of `niet waar`.
+> **По-русски:** Напишите `waar` или `niet waar`.
 
 1. De deur van Kazem is op slot.
 2. Kazem vindt de sleutel van het huis.
@@ -85,7 +93,7 @@ Schrijf `waar` of `niet waar`.
 6. De buurman geeft de sleutel aan Kazem.
 7. De buurman vergeet vaak de sleutel.
 
-## Antwoorden
+## Antwoorden — **По-русски:** Ответы
 
 ### Vul in met de goede vorm van `moeten`
 

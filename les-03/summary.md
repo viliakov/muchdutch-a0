@@ -17,7 +17,13 @@
 - Writing a short story about your family.
 - Pronunciation contrasts between short and long vowels.
 
-## Grammar
+## Grammar / Грамматика
+
+### Объяснение грамматики на русском
+
+Общий вопрос начинается с глагола: `Heb jij kinderen?` Специальный вопрос начинается с вопросительного слова, а глагол остаётся на втором месте: `Waar woon jij?`, `Hoe heet hij?`. После глагола перед подлежащим возникает инверсия.
+
+Глагол `hebben` («иметь») спрягается так: `ik heb`, `jij/je hebt`, `u hebt/heeft`, `hij/zij/het heeft`, `wij/jullie/zij hebben`. При инверсии с `jij` окончание `-t` исчезает: `Jij hebt ...`, но `Heb jij ...?`
 
 ### Question Sentences
 

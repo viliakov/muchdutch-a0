@@ -17,7 +17,13 @@
 - Reading a short personal/family text.
 - Pronunciation practice with `ou`, `au`, `ij`, and `ei`.
 
-## Grammar
+## Grammar / Грамматика
+
+### Объяснение грамматики на русском
+
+В настоящем времени у большинства глаголов используется основа: `ik woon`; для `jij/u/hij/zij/het` добавляется `-t`: `jij woont`, `hij werkt`; во множественном числе используется инфинитив: `wij wonen`, `jullie werken`. Если основа уже заканчивается на `t`, дополнительная буква не добавляется.
+
+В вопросе личная форма глагола ставится перед подлежащим: `Woon jij in Utrecht?` После вопросительного слова глагол занимает вторую позицию: `Waar woon jij?` При инверсии с `jij` окончание `-t` снимается: `Jij werkt` — `Werk jij?`
 
 ### Present Tense
 

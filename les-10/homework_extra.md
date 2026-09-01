@@ -1,10 +1,14 @@
-# Les 10 - Extra huiswerk
+# Les 10 - Extra huiswerk — **По-русски:** Урок 10 - Дополнительное домашнее задание
+
+> **Русская версия:** название каждого задания продублировано по-русски. Основные отдельные инструкции также продублированы строкой `По-русски`. Учебные предложения сохранены на исходном языке, чтобы не раскрывать ответы в заданиях на перевод.
+
 
 Doel: oefenen met `moeten`, voegwoorden (`en`, `want`, `maar`, `dus`, `of`), tegenwoordige tijd, kamers, meubels en woorden uit alle vorige lessen (zie `WORDS.md`).
 
-## 1. Grammatica: `moet` of `moeten`?
+## 1. Grammatica: `moet` of `moeten`? — **По-русски:** 1. Грамматика: `moet` или `moeten`?
 
 Kies de goede vorm.
+> **По-русски:** Выберите правильную форму.
 
 1. Ik ____ vroeg opstaan. `moet / moeten`
 2. Wij ____ de kamer opruimen. `moet / moeten`
@@ -15,9 +19,10 @@ Kies de goede vorm.
 7. ____ jij morgen naar de dokter? `Moet / Moeten`
 8. U ____ dit formulier invullen. `moet / moeten`
 
-## 2. Grammatica: `moeten` of `hoeft ... niet`?
+## 2. Grammatica: `moeten` of `hoeft ... niet`? — **По-русски:** 2. Грамматика: `moeten` или `hoeft ... niet`?
 
 Vul de goede vorm in.
+> **По-русски:** Вставьте правильную форму.
 
 1. ____ ik deze opdrachten maken? – Nee, dat ____ niet.
 2. Wij ____ morgen vroeg opstaan.
@@ -25,9 +30,10 @@ Vul de goede vorm in.
 4. De baby slaapt, dus je ____ niet stil te zijn... (verbeter: gebruik `hoeft`)
 5. Jullie ____ je jas meenemen, want het is koud.
 
-## 3. Grammatica: kies het goede voegwoord
+## 3. Grammatica: kies het goede voegwoord — **По-русски:** 3. Грамматика: выберите подходящий союз
 
 Kies uit: `en`, `want`, `maar`, `dus`, `of`.
+> **По-русски:** Выберите из вариантов: `en`, `want`, `maar`, `dus`, `of`.
 
 1. Ik wil graag verhuizen, ____ ik wil een huis met een tuin.
 2. Ik ga in het weekend soms fietsen ____ ik ga ook vaak wandelen.
@@ -38,9 +44,10 @@ Kies uit: `en`, `want`, `maar`, `dus`, `of`.
 7. Ga je op de fiets ____ ga je liever met de bus?
 8. Mijn tante is ziek, ____ ze neemt medicijnen.
 
-## 4. Grammatica: maak goede zinnen met de woorden
+## 4. Grammatica: maak goede zinnen met de woorden — **По-русски:** 4. Грамматика: составьте правильные предложения из слов
 
 Zet de woorden in de goede volgorde.
+> **По-русски:** Поставьте слова в правильном порядке.
 
 1. Hij | heet | Joris | en | zij | Kirsten | .
 2. Ik | heb | geen | auto | dus | ik | met de fiets | ga | .
@@ -49,9 +56,10 @@ Zet de woorden in de goede volgorde.
 5. Het huis | is | licht | want | grote ramen | de woonkamer | heeft | .
 6. Ga | je | werken | of | blijf | je | thuis | ?
 
-## 5. Is de zin goed of fout?
+## 5. Is de zin goed of fout? — **По-русски:** 5. Предложение правильное или неправильное?
 
 Schrijf `goed` of `fout`. Verbeter de foute zinnen.
+> **По-русски:** Напишите `goed` или `fout`. Исправьте неправильные предложения.
 
 1. Ik moet morgen vroeg opstaan.
 2. Jij moeten je jas meenemen.
@@ -62,9 +70,10 @@ Schrijf `goed` of `fout`. Verbeter de foute zinnen.
 7. De kinderen moeten stil zijn in de bibliotheek.
 8. Moeten jij de afwas doen?
 
-## 6. Tegenwoordige tijd (werkwoorden uit vorige lessen)
+## 6. Tegenwoordige tijd (werkwoorden uit vorige lessen) — **По-русски:** 6. Настоящее время (глаголы из предыдущих уроков)
 
 Vul de goede vorm in.
+> **По-русски:** Вставьте правильную форму.
 
 1. Kazem ____ thuis. `(komen)`
 2. Hij ____ de sleutel niet. `(vinden)`
@@ -77,9 +86,10 @@ Vul de goede vorm in.
 9. Het ____ buiten, dus ik neem mijn jas mee. `(regenen)`
 10. Mijn oma ____ elke dag medicijnen. `(nemen)`
 
-## 7. Woordenschat: welke kamer of plek?
+## 7. Woordenschat: welke kamer of plek? — **По-русски:** 7. Лексика: какая комната или место?
 
 Schrijf de goede kamer of plek.
+> **По-русски:** Напишите подходящую комнату или место.
 
 1. Je slaapt hier: ____
 2. Je kookt hier: ____
@@ -90,9 +100,10 @@ Schrijf de goede kamer of plek.
 7. De wasmachine staat hier: ____
 8. Bloemen en gras zijn hier: ____
 
-## 8. Woordenschat: de-woord of het-woord?
+## 8. Woordenschat: de-woord of het-woord? — **По-русски:** 8. Лексика: слово с `de` или с `het`?
 
 Schrijf `de` of `het`.
+> **По-русски:** Напишите `de` или `het`.
 
 1. ____ sleutel
 2. ____ bed
@@ -105,7 +116,7 @@ Schrijf `de` of `het`.
 9. ____ wasmachine
 10. ____ koelkast
 
-## 9. Vertaal naar het Nederlands (Engels -> Nederlands)
+## 9. Vertaal naar het Nederlands (Engels -> Nederlands) — **По-русски:** 9. Переведите с английского на нидерландский
 
 1. I must get up early tomorrow.
 2. We have to clean our room.
@@ -123,7 +134,7 @@ Schrijf `de` of `het`.
 14. You have to take your jacket, because it is cold.
 15. The living room is big and the kitchen is new.
 
-## 10. Vertaal naar het Nederlands (Russisch -> Nederlands)
+## 10. Vertaal naar het Nederlands (Russisch -> Nederlands) — **По-русски:** 10. Переведите с русского на нидерландский
 
 1. Мне надо рано встать в понедельник.
 2. Дети должны убрать свою комнату.
@@ -141,11 +152,13 @@ Schrijf `de` of `het`.
 14. Ты должен заполнить этот бланк.
 15. Мой сосед смеётся и даёт мне ключ.
 
-## 11. Maak zinnen
+## 11. Maak zinnen — **По-русски:** 11. Составьте предложения
 
 Maak 8 zinnen. Gebruik `moeten` en een voegwoord (`en`, `want`, `maar`, `dus`, `of`).
+> **По-русски:** Составьте 8 предложений, используя `moeten` и один из союзов `en`, `want`, `maar`, `dus`, `of`.
 
 Woorden om te gebruiken: `moeten`, `opruimen`, `werken`, `koken`, `de sleutel`, `de kamer`, `de fiets`, `de bus`, `ziek`, `vroeg`
+> **По-русски:** Слова для использования: `moeten`, `opruimen`, `werken`, `koken`, `de sleutel`, `de kamer`, `de fiets`, `de bus`, `ziek`, `vroeg`.
 
 Voorbeeld: `Ik moet vroeg opstaan, want ik moet werken.`
 
@@ -158,9 +171,10 @@ Voorbeeld: `Ik moet vroeg opstaan, want ik moet werken.`
 7.
 8.
 
-## 12. Spreken
+## 12. Spreken — **По-русски:** 12. Устная речь
 
 Beantwoord hardop in hele zinnen.
+> **По-русски:** Ответьте вслух полными предложениями.
 
 1. Wat moet jij vandaag doen?
 2. Moet jij vaak vroeg opstaan?
@@ -169,7 +183,7 @@ Beantwoord hardop in hele zinnen.
 5. Vergeet jij weleens je sleutel?
 6. Welke kamer in jouw huis vind je het mooist en waarom?
 
-## Antwoorden
+## Antwoorden — **По-русски:** Ответы
 
 ### 1
 

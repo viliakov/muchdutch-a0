@@ -1,12 +1,16 @@
-# Les 16 - Huiswerk
+# Les 16 - Huiswerk — **По-русски:** Урок 16 - Домашнее задание
+
+> **Русская версия:** название каждого задания продублировано по-русски. Основные отдельные инструкции также продублированы строкой `По-русски`. Учебные предложения сохранены на исходном языке, чтобы не раскрывать ответы в заданиях на перевод.
+
 
 Het huiswerk van het bord: grammatica (werkwoordsvormen, voorzetsels, voegwoorden) en woordenschat.
 
-## Grammatica
+## Grammatica — **По-русски:** Грамматика
 
 ### 1. Поставьте правильную форму глагола
 
 Vul de juiste vorm van het werkwoord in.
+> **По-русски:** Вставьте правильную форму глагола.
 
 ```
 Van:        Fatima Lakdim
@@ -32,6 +36,7 @@ Fatima
 ### 2. Подставьте нужный предлог
 
 Vul het goede voorzetsel in.
+> **По-русски:** Вставьте подходящий предлог.
 
 1. Wie is er __________ de beurt?
 2. Doet u mij maar een kilo __________ die rode appels.
@@ -45,6 +50,7 @@ Vul het goede voorzetsel in.
 ### 3. Выберите правильный союз
 
 Kies uit: `dus` (2x) - `en` - `of` - `maar` - `want`
+> **По-русски:** Выберите из: `dus` (дважды), `en`, `of`, `maar`, `want`.
 
 1. Ik ga al naar de markt, __________ jij mag naar de slager gaan.
 2. Loop jij even naar de supermarkt, __________ de melk is op.
@@ -53,11 +59,12 @@ Kies uit: `dus` (2x) - `en` - `of` - `maar` - `want`
 5. Ik moet eigenlijk nog boodschappen doen, __________ ik heb geen zin.
 6. Ik heb de koffie vergeten, __________ moet ik nog een keer naar de winkel.
 
-## Woordenschat
+## Woordenschat — **По-русски:** Лексика
 
 ### 4. Подберите пару
 
 Combineer de twee helften.
+> **По-русски:** Соедините две половины.
 
 | | |
 | --- | --- |
@@ -71,6 +78,7 @@ Combineer de twee helften.
 ### 5. Закончите предложения
 
 Maak de zinnen af.
+> **По-русски:** Закончите предложения.
 
 1. Ik heb honger, dus __________________________
 2. Ik ga naar de slager, want __________________________
@@ -79,7 +87,7 @@ Maak de zinnen af.
 5. Ga je een boek lezen of __________________________?
 6. Hij wil gezond eten, dus __________________________
 
-## Antwoorden
+## Antwoorden — **По-русски:** Ответы
 
 ### 1
 

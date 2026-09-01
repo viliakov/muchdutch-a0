@@ -505,7 +505,7 @@ Suggested columns:
 | kunt | can | можешь, можете | verb form | les-11 | alternative form with `jij`/`u` |
 | kunnen (plural form) | can | можем, можете, могут | verb form | les-11 | wij/jullie/zij kunnen |
 | autorijden | to drive (a car) | водить машину | verb | les-11 | `Ik kan autorijden.` |
-| passen | to fit, to try on | подходить, примерять | verb | les-11 | `de trui past` |
+| passen | to fit, to try on | подходить, примерять | verb | les-11 | `de trui past`; clothing-store use repeated in les-19 |
 | halen | to fetch, to get | забирать, доставать | verb | les-11 | `medicijnen halen` |
 | eerste | first | первый | ordinal | les-11 | 1e; also in les-05 |
 | tweede | second | второй | ordinal | les-11 | 2e |
@@ -589,7 +589,7 @@ Suggested columns:
 | 's ochtends | in the morning | утром | time adverb | les-12 | mealtime |
 | 's middags | in the afternoon | днем | time adverb | les-12 | mealtime |
 | 's avonds | in the evening | вечером | time adverb | les-12 | mealtime |
-| dan | then | тогда, потом | adverb | les-12 | `Ik eet dan brood.` |
+| dan | then; than | тогда, потом; чем | adverb/conjunction | les-12 | `Ik eet dan brood.`; comparison use repeated in les-19: `groter dan` |
 | het brood | bread | хлеб | noun | les-12 | food |
 | de boterham | slice of bread, sandwich | бутерброд | noun | les-12 | plural `de boterhammen` |
 | de kaas | cheese | сыр | noun | les-12 | food |
@@ -632,7 +632,7 @@ Suggested columns:
 | eerder | earlier | раньше | adverb | les-12 | `eerder naar huis` |
 | later | later | позже | adverb | les-12 | `wat later komen` |
 | de leraar | teacher | учитель | noun | les-12 | school |
-| het feest | party | праздник, вечеринка | noun | les-12 | event |
+| het feest | party | праздник, вечеринка | noun | les-12 | plural `de feesten`; repeated in les-19 |
 | de dokter | doctor | врач | noun | les-12 | `van de dokter` = doctor's orders |
 | het cadeau | present, gift | подарок | noun | les-12 | `een cadeau voor jou`; diminutive `het cadeautje` |
 | de vriendin | female friend, girlfriend | подруга | noun | les-12 | plural `de vriendinnen` |
@@ -641,7 +641,7 @@ Suggested columns:
 | de kantine | canteen | столовая | noun | les-12 | place |
 | de broek | trousers | брюки | noun | les-12, les-18 | singular in Dutch |
 | het shirt | shirt | рубашка, футболка | noun | les-12 | clothing |
-| de maat | size | размер | noun | les-12 | `een kleinere maat` |
+| de maat | size | размер | noun | les-12 | `een kleinere maat`; repeated in les-19 |
 | tegenkomen | to run into, to meet | встречать | verb | les-12 | separable: `Ik kom haar vaak tegen.` |
 | wensen | to wish | желать | verb | les-12 | `Ik wens u een fijne dag.` |
 | de schoonouders | parents-in-law | родители супруга | noun | les-12 | family; plural |
@@ -672,8 +672,8 @@ Suggested columns:
 | leuk | nice, fun | приятный, интересный | adjective | les-13 | `Ik vind mijn werk niet leuk.` |
 | fout | wrong, mistake | неправильный, ошибка | adjective/noun | les-13 | `is de zin goed of fout?` |
 | genoeg | enough | достаточно | adverb/quantity | les-13 | `Hij heeft niet genoeg geld.` |
-| meer | more | больше | quantity | les-13 | comparison of quantity |
-| minder | less | меньше | quantity | les-13 | comparison of quantity |
+| meer | more | больше | quantity | les-13 | comparative of `veel`; repeated in les-19 |
+| minder | less, fewer | меньше | quantity | les-13 | comparative of `weinig`; repeated in les-19 |
 | dom | stupid, silly | глупый | adjective | les-13 | `Wat dom!` |
 | oké | okay | окей, ладно | phrase | les-13 | agreement |
 | aan | on (switched on) | включен | adverb | les-13 | `De oven staat aan.`; also preposition in les-11 |
@@ -727,7 +727,7 @@ Suggested columns:
 | de test | test | тест | noun | les-13 | school |
 | uitdoen | to switch off, to take off | выключать, снимать | verb | les-13 | separable: `de telefoon uitdoen` |
 | de baan | job | работа | noun | les-13 | `een leuke baan` |
-| trouwen | to marry | жениться, выходить замуж | verb | les-13 | `Wij gaan trouwen.` |
+| trouwen | to marry | жениться, выходить замуж | verb | les-13 | `Wij gaan trouwen.`; repeated in les-19 |
 | het trouwfeest | wedding party | свадьба | noun | les-13 | event |
 | de gast | guest | гость | noun | les-13 | plural `de gasten` |
 | welkom | welcome | добро пожаловать | adjective | les-13 | `gasten zijn welkom`; also in les-06 |
@@ -866,7 +866,7 @@ Suggested columns:
 | wegen | to weigh | весить, взвешивать | verb | les-15, les-18 | `Hoeveel weegt het?` |
 | ongeveer | about, approximately | примерно | adverb | les-15 | `ongeveer een kilo` |
 | de afdeling | department, section | отдел | noun | les-15 | `de drankafdeling` |
-| de medewerker | employee, staff member | сотрудник | noun | les-15 | `een medewerker van de supermarkt` |
+| de medewerker | employee, staff member | сотрудник | noun | les-15 | plural `de medewerkers`; repeated in les-19 |
 | de krat | crate | ящик | noun | les-15 | `een krat bier` |
 | de fles | bottle | бутылка | noun | les-15 | plural `de flessen` |
 | het rek | rack, shelf | стойка, полка | noun | les-15 | `het wijnrek` |
@@ -1134,3 +1134,22 @@ Suggested columns:
 | de donkere huid | dark complexion | тёмная, смуглая кожа | noun phrase | les-18 | `de huid` |
 | Wat draag je vaak? | What do you often wear? | Что ты часто носишь? | phrase | les-18 | speaking prompt |
 | Waarom? | Why? | Почему? | question | les-18 | give a reason with `want` |
+
+## Les 19
+
+| Dutch | English | Russian | Type | Lesson | Notes |
+| --- | --- | --- | --- | --- | --- |
+| de vergelijking | comparison | сравнение | noun | les-19 | plural `de vergelijkingen` |
+| de comparatief | comparative | сравнительная степень | grammar noun | les-19 | usually adjective + `-er` |
+| de superlatief | superlative | превосходная степень | grammar noun | les-19 | usually `het` + adjective + `-st` |
+| even | equally, just as | одинаково, так же | adverb | les-19 | `even oud (als)` |
+| liever | rather, preferably | охотнее, лучше | adverb | les-19 | comparative of `graag` |
+| het liefst | most preferably | охотнее всего, больше всего | adverb | les-19 | superlative of `graag` |
+| beter | better | лучше | adjective/adverb | les-19 | comparative of `goed` |
+| het best | best | лучше всего | adjective/adverb | les-19 | superlative of `goed` |
+| het meest | most | больше всего | quantifier/adverb | les-19 | superlative of `veel` |
+| het minst | least, fewest | меньше всего | quantifier/adverb | les-19 | superlative of `weinig` |
+| de kleding | clothing | одежда | noun | les-19 | collective noun; also `de kleren` |
+| de knoop | button | пуговица | noun | les-19 | plural `de knopen` |
+| de paskamer | fitting room | примерочная | noun | les-19 | plural `de paskamers` |
+| Een moment alstublieft. | One moment, please. | Один момент, пожалуйста. | phrase | les-19 | polite store phrase |

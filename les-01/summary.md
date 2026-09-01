@@ -19,7 +19,13 @@
 - Common Dutch digraphs and diphthongs.
 - Reduction of endings such as final `-en`.
 
-## Grammar
+## Grammar / Грамматика
+
+### Объяснение грамматики на русском
+
+Для знакомства используется модель `Ik ben ...` («Я ... / Меня зовут ...»). Вопрос о самочувствии строится как `Hoe gaat het met jou/u?`, где `jou` — неформальное «тебя/тебе», а `u` — вежливое «Вы». В ответах сказуемое часто опускается: `Goed`, `Prima`, `Niet zo goed`.
+
+В нидерландском важно различать неформальные `jij/je` и `jou` и вежливое `u`. `Jij` — подлежащее («ты»), `jou` — дополнение («тебя/тебе»), а `je` может быть безударной формой обоих вариантов. При знакомстве полезны модели `Hoe heet je? - Ik heet ...` и `Waar kom je vandaan? - Ik kom uit ...`.
 
 ### Simple Introduction
 

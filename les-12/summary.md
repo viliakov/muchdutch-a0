@@ -15,7 +15,13 @@
 - Saying what you like to eat (`lekker vinden`) with frequency adverbs `altijd`, `meestal`, `nooit`.
 - Warm-up repeat from les 11: animals plus mood adjectives (`Vandaag ben ik DIER, want ik ben ADJECTIEF`).
 
-## Grammar
+## Grammar / Грамматика
+
+### Объяснение грамматики на русском
+
+`Mogen` обозначает разрешение: `ik mag`, `jij/u mag`, `hij/zij mag`, `wij/jullie/zij mogen`. Сравните: `Mag ik hier zitten?` — «Мне разрешено?», а `Kan ik hier zitten?` — «Я могу / это возможно?» Второй глагол ставится в конец.
+
+Формы личных местоимений зависят от роли. Подлежащее: `ik, jij, hij, zij, wij`; дополнение: `mij, jou, hem, haar, ons`. Притяжательные формы: `mijn, jouw, zijn, haar, ons/onze, jullie, hun`. Например: `Zij geeft hem haar boek.`
 
 ### Mogen (may, to be allowed to)
 

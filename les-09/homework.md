@@ -1,10 +1,13 @@
-# Les 9 - Huiswerk
+# Les 9 - Huiswerk — **По-русски:** Урок 9 - Домашнее задание
+
+> **Русская версия:** название каждого задания продублировано по-русски. Основные отдельные инструкции также продублированы строкой `По-русски`. Учебные предложения сохранены на исходном языке, чтобы не раскрывать ответы в заданиях на перевод.
+
 
 Dit is het huiswerk uit de les (van het bord). Extra oefeningen staan in `homework_extra.md`.
 
-## Grammatica
+## Grammatica — **По-русски:** Грамматика
 
-### (1) Vul met de goede vorm van `willen` in
+### (1) Vul met de goede vorm van `willen` in — **По-русски:** (1) Вставьте правильную форму `willen`
 
 1. Hij ____ een baard.
 2. ____ jullie een koekje?
@@ -14,9 +17,9 @@ Dit is het huiswerk uit de les (van het bord). Extra oefeningen staan in `homewo
 6. ____ u een glas water?
 7. Feng en Levi ____ suiker in de thee.
 
-## Woordenschat
+## Woordenschat — **По-русски:** Лексика
 
-### (2) Vul met het goede woord in
+### (2) Vul met het goede woord in — **По-русски:** (2) Вставьте подходящее слово
 
 Welke kleur zijn de pennen? Schrijf de kleur van elke pen.
 
@@ -33,9 +36,10 @@ Welke kleur zijn de pennen? Schrijf de kleur van elke pen.
 11. ____
 12. ____
 
-### (3) Vul met het goede woord in
+### (3) Vul met het goede woord in — **По-русски:** (3) Вставьте подходящее слово
 
 Kies uit: `buurman - koekje - kom - nieuwe - thuis - alleen - beetje - buurvrouw - gezellig - kopje - straat - voorstellen`
+> **По-русски:** Выберите из вариантов: `buurman - koekje - kom - nieuwe - thuis - alleen - beetje - buurvrouw - gezellig - kopje - straat - voorstellen`
 
 1. ____ je zaterdag?
 2. Ik ben morgen niet ____ .
@@ -50,9 +54,10 @@ Kies uit: `buurman - koekje - kom - nieuwe - thuis - alleen - beetje - buurvrouw
 11. Wie wonen in deze ____ ?
 12. Ik woon niet ____ , ik woon samen met mijn man.
 
-### (4) Vul met het goede woord in
+### (4) Vul met het goede woord in — **По-русски:** (4) Вставьте подходящее слово
 
 Kies uit: `appartement/flat - bungalow - hoekhuis - huurhuis - koophuis - rijtjeshuis - twee-onder-een-kapwoning - vrijstaand huis`
+> **По-русски:** Выберите из вариантов: `appartement/flat - bungalow - hoekhuis - huurhuis - koophuis - rijtjeshuis - twee-onder-een-kapwoning - vrijstaand huis`
 
 1. Een woning die los staat van andere huizen, is een ____ .
 2. Een woning met aan één kant buren is een ____ .
@@ -65,7 +70,7 @@ Kies uit: `appartement/flat - bungalow - hoekhuis - huurhuis - koophuis - rijtje
 
 Vocabulaire – Woningtypen: `het vrijstaande huis`, `het rijtjeshuis`, `de twee-onder-een-kapwoning`, `de bungalow`, `de villa`, `de boerderij`, `de flat / het appartement`.
 
-## Antwoorden
+## Antwoorden — **По-русски:** Ответы
 
 ### (1)
 

@@ -1,8 +1,11 @@
-# Les 11 - Huiswerk
+# Les 11 - Huiswerk — **По-русски:** Урок 11 - Домашнее задание
 
-## Grammatica
+> **Русская версия:** название каждого задания продублировано по-русски. Основные отдельные инструкции также продублированы строкой `По-русски`. Учебные предложения сохранены на исходном языке, чтобы не раскрывать ответы в заданиях на перевод.
 
-### 1. Schrijf de goede vorm van `kunnen`
+
+## Grammatica — **По-русски:** Грамматика
+
+### 1. Schrijf de goede vorm van `kunnen` — **По-русски:** 1. Напишите правильную форму `kunnen`
 
 1. U ____ de trui daar passen.
 2. Wij ____ de tram nemen.
@@ -13,11 +16,12 @@
 7. ____ u alles vinden?
 8. Hij ____ dinsdag komen.
 
-## Woordenschat
+## Woordenschat — **По-русски:** Лексика
 
-### 2. Vul met het goede woord in (1)
+### 2. Vul met het goede woord in (1) — **По-русски:** 2. Вставьте подходящее слово (1)
 
 Kies uit: `aan de rand van` - `buitenwijk` - `in het centrum` - `kindvriendelijke` - `nieuwbouwwijk` - `plattelands` - `rustige` - `vlak bij het bos`.
+> **По-русски:** Выберите из вариантов: `aan de rand van` - `buitenwijk` - `in het centrum` - `kindvriendelijke` - `nieuwbouwwijk` - `plattelands` - `rustige` - `vlak bij het bos`.
 
 1. In deze buurt staan geen oude huizen, het is een ____ .
 2. Als straks de baby is geboren, wil ik in een ____ wonen.
@@ -28,9 +32,10 @@ Kies uit: `aan de rand van` - `buitenwijk` - `in het centrum` - `kindvriendelijk
 7. Wij wonen in een boerderij op het ____ . Ik moet met de bus naar school.
 8. Als ik de loterij win, koop ik een mooie villa ____ van de stad.
 
-### 3. Vul met het goede woord in (2)
+### 3. Vul met het goede woord in (2) — **По-русски:** 3. Вставьте подходящее слово (2)
 
 Kies uit: `buurt` - `lift` - `park` - `stad` - `weinig` - `winkels`.
+> **По-русски:** Выберите из вариантов: `buurt` - `lift` - `park` - `stad` - `weinig` - `winkels`.
 
 1. Ik ga met de ____ naar boven.
 2. Rotterdam is een grote ____ .
@@ -39,9 +44,10 @@ Kies uit: `buurt` - `lift` - `park` - `stad` - `weinig` - `winkels`.
 5. In mijn ____ is een school.
 6. Het boek heeft ____ bladzijdes.
 
-### 4. Vul met het goede woord in (3)
+### 4. Vul met het goede woord in (3) — **По-русски:** 4. Вставьте подходящее слово (3)
 
 Kies uit: `aardig` - `dorp` - `hoog` - `mooie` - `trap` - `verdieping`.
+> **По-русски:** Выберите из вариантов: `aardig` - `dorp` - `hoog` - `mooie` - `trap` - `verdieping`.
 
 1. De man helpt het kind. De man is ____ .
 2. Lieke gaat met de ____ naar beneden.
@@ -50,7 +56,7 @@ Kies uit: `aardig` - `dorp` - `hoog` - `mooie` - `trap` - `verdieping`.
 5. U heeft een ____ keuken.
 6. Op welke ____ wonen jullie?
 
-## Antwoorden
+## Antwoorden — **По-русски:** Ответы
 
 ### 1
 

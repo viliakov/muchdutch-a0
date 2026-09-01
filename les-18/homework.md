@@ -1,8 +1,11 @@
-# Les 18 - Huiswerk van het bord
+# Les 18 - Huiswerk van het bord — **По-русски:** Урок 18 - Домашнее задание с доски
+
+> **Русская версия:** название каждого задания продублировано по-русски. Основные отдельные инструкции также продублированы строкой `По-русски`. Учебные предложения сохранены на исходном языке, чтобы не раскрывать ответы в заданиях на перевод.
+
 
 De screenshots tonen geen apart huiswerkvak. Hieronder staan de zichtbare grammatica- en begripsopdrachten uit het lesmateriaal.
 
-## 1. Vul de goede vorm van het adjectief in
+## 1. Vul de goede vorm van het adjectief in — **По-русски:** 1. Вставьте правильную форму прилагательного
 
 Voorbeeld: `(leuk)` Het Museum van Speelklok tot Pierement is een **leuk** museum.
 
@@ -19,7 +22,7 @@ Voorbeeld: `(leuk)` Het Museum van Speelklok tot Pierement is een **leuk** museu
 11. `(bruin)` Ze houdt niet van __________ brood.
 12. `(zoet)` Eén kilo __________ mandarijnen, alstublieft.
 
-## 2. Beantwoord de vragen over kleding
+## 2. Beantwoord de vragen over kleding — **По-русски:** 2. Ответьте на вопросы об одежде
 
 1. Wie heeft een jurk aan?
 2. Welke kleur heeft de jurk?
@@ -32,7 +35,7 @@ Voorbeeld: `(leuk)` Het Museum van Speelklok tot Pierement is een **leuk** museu
 9. Wie hebben een trui aan?
 10. Wie draagt nette kleren?
 
-## 3. Kies het goede antwoord over accessoires
+## 3. Kies het goede antwoord over accessoires — **По-русски:** 3. Выберите правильный ответ об аксессуарах
 
 1. Waar draag je een hoed?  
    a. op je hoofd  
@@ -67,7 +70,7 @@ Voorbeeld: `(leuk)` Het Museum van Speelklok tot Pierement is een **leuk** museu
    b. alleen een ketting  
    c. een sjaal en een ketting
 
-## Antwoorden
+## Antwoorden — **По-русски:** Ответы
 
 ### 1
 

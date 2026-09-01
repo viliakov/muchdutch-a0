@@ -1,10 +1,14 @@
-# Les 17 - Extra huiswerk
+# Les 17 - Extra huiswerk — **По-русски:** Урок 17 - Дополнительное домашнее задание
+
+> **Русская версия:** название каждого задания продублировано по-русски. Основные отдельные инструкции также продублированы строкой `По-русски`. Учебные предложения сохранены на исходном языке, чтобы не раскрывать ответы в заданиях на перевод.
+
 
 Doel: vertalen naar het Nederlands en daarbij pronomina, meervoud, `de`/`het`, negatie, vragen, getallen, voegwoorden, modale werkwoorden en alle nieuwe woorden van les 17 oefenen.
 
-## 1. Pronomina: direct, indirect en possessief
+## 1. Pronomina: direct, indirect en possessief — **По-русски:** 1. Прямые, косвенные и притяжательные местоимения
 
 Vertaal naar het Nederlands.
+> **По-русски:** Переведите на нидерландский язык.
 
 1. Официант видит меня и приносит мне меню.
 2. Я вижу тебя у окна и даю тебе свою куртку.
@@ -25,7 +29,7 @@ Vertaal naar het Nederlands.
 17. У детей есть свои тарелки. Официант кладёт их вилки рядом.
 18. Моя бабушка любит свой дом; её дети часто навещают её.
 
-## 2. Schrijf het meervoud
+## 2. Schrijf het meervoud — **По-русски:** 2. Напишите множественное число
 
 1. één tomaat - drie __________
 2. één paprika - twee __________
@@ -43,7 +47,7 @@ Vertaal naar het Nederlands.
 14. één courgette - drie __________
 15. één euro - twintig __________
 
-## 3. `de`-woord of `het`-woord?
+## 3. `de`-woord of `het`-woord? — **По-русски:** 3. Слово с `de` или с `het`?
 
 1. ____ voorgerecht
 2. ____ dagschotel
@@ -66,7 +70,7 @@ Vertaal naar het Nederlands.
 19. ____ fles
 20. ____ bord
 
-## 4. Vertaal naar het Nederlands (Russisch -> Nederlands)
+## 4. Vertaal naar het Nederlands (Russisch -> Nederlands) — **По-русски:** 4. Переведите с русского на нидерландский
 
 1. Официант приносит нам два первых блюда.
 2. Марьян ищет свою тележку, но не может её найти.
@@ -84,7 +88,7 @@ Vertaal naar het Nederlands.
 14. Две чашки кофе стоят шесть евро.
 15. Мы не можем найти наши ключи.
 
-## 5. Vertaal naar het Nederlands (Engels -> Nederlands)
+## 5. Vertaal naar het Nederlands (Engels -> Nederlands) — **По-русски:** 5. Переведите с английского на нидерландский
 
 1. Jasper orders mineral water because he is thirsty.
 2. The waitress puts the knife and fork on the table.
@@ -102,9 +106,10 @@ Vertaal naar het Nederlands.
 14. Her favourite café has two menus.
 15. Enjoy your meal! We will settle the bill later.
 
-## 6. Ontkennende zinnen
+## 6. Ontkennende zinnen — **По-русски:** 6. Отрицательные предложения
 
 Vertaal naar het Nederlands. Kies correct tussen `niet` en `geen`.
+> **По-русски:** Переведите на нидерландский, правильно выбирая между `niet` и `geen`.
 
 1. Я не заказываю закуску.
 2. Кристина не любит горчичный суп.
@@ -125,9 +130,10 @@ Vertaal naar het Nederlands. Kies correct tussen `niet` en `geen`.
 17. Мы не покупаем сладкие перцы и помидоры.
 18. Его родители не живут в большом городе.
 
-## 7. Vraagzinnen
+## 7. Vraagzinnen — **По-русски:** 7. Вопросительные предложения
 
 Vertaal naar het Nederlands.
+> **По-русски:** Переведите на нидерландский язык.
 
 1. Ты заказываешь блюдо дня?
 2. Кристина голодна?
@@ -148,9 +154,10 @@ Vertaal naar het Nederlands.
 17. Кому официантка даёт меню?
 18. Чью бутылку Петер ставит в тележку?
 
-## 8. Grote en ordinale getallen
+## 8. Grote en ordinale getallen — **По-русски:** 8. Большие и порядковые числительные
 
 Vertaal naar het Nederlands en schrijf alle getallen voluit.
+> **По-русски:** Переведите на нидерландский и запишите все числа словами.
 
 1. В ресторане 125 стульев.
 2. Этот счёт составляет 248 евро.
@@ -171,9 +178,10 @@ Vertaal naar het Nederlands en schrijf alle getallen voluit.
 17. В 2026 году этому кафе исполняется 75 лет.
 18. На складе лежат 12 345 сладких перцев.
 
-## 9. Voegwoorden
+## 9. Voegwoorden — **По-русски:** 9. Союзы
 
 Vertaal naar het Nederlands. Kies zelf een passend voegwoord. Andere grammaticaal correcte varianten zijn mogelijk.
+> **По-русски:** Переведите на нидерландский и самостоятельно выберите подходящий союз. Возможны другие грамматически правильные варианты.
 
 1. Я беру суп и салат.
 2. Петер хочет вино, но Марьян хочет воду.
@@ -194,9 +202,10 @@ Vertaal naar het Nederlands. Kies zelf een passend voegwoord. Andere grammaticaa
 17. Ты выбираешь киноа или булгур?
 18. Мы оплачиваем первый круг, потому что сегодня наш праздник.
 
-## 10. Modale werkwoorden
+## 10. Modale werkwoorden — **По-русски:** 10. Модальные глаголы
 
 Vertaal naar het Nederlands. Kies zelf een passend modaal werkwoord. Andere grammaticaal correcte varianten zijn mogelijk.
+> **По-русски:** Переведите на нидерландский и самостоятельно выберите подходящий модальный глагол. Возможны другие грамматически правильные варианты.
 
 1. Я хочу заказать вегетарианское блюдо дня.
 2. Мы можем сидеть у окна.
@@ -217,9 +226,10 @@ Vertaal naar het Nederlands. Kies zelf een passend modaal werkwoord. Andere gram
 17. Они не могут найти свои ключи.
 18. Мы не должны покупать десять бутылок.
 
-## 11. Alle nieuwe woorden en uitdrukkingen van les 17
+## 11. Alle nieuwe woorden en uitdrukkingen van les 17 — **По-русски:** 11. Все новые слова и выражения урока 17
 
 Vertaal naar het Nederlands. Samen gebruiken deze zinnen alle nieuwe woorden en uitdrukkingen uit les 17.
+> **По-русски:** Переведите на нидерландский. В совокупности предложения используют все новые слова и выражения урока 17.
 
 1. Выбери одну углеводную основу и один источник белка.
 2. Я добавляю две овощные добавки и один полезный жир.
@@ -252,7 +262,7 @@ Vertaal naar het Nederlands. Samen gebruiken deze zinnen alle nieuwe woorden en 
 29. В трёх салатах есть сладкие перцы, кабачки и оливки.
 30. У этих двух блюд разные углеводные основы, источники белка, добавки и заправки.
 
-## Antwoorden
+## Antwoorden — **По-русски:** Ответы
 
 ### 1. Pronomina
 

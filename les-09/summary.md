@@ -15,7 +15,13 @@
 - Colors drill combined with three-digit numbers.
 - Pronunciation of diminutive word pairs.
 
-## Grammar
+## Grammar / Грамматика
+
+### Объяснение грамматики на русском
+
+Глагол `willen` означает «хотеть»: `ik wil`, `jij/u wilt` (разговорно также `wil`), `hij/zij wil`, `wij/jullie/zij willen`. Если после него есть другой глагол, инфинитив ставится в конец: `Ik wil een huis kopen.`
+
+В вопросе используется инверсия: `Wil jij koffie?`, `Wat wil je drinken?` Остальные глаголы настоящего времени повторяют схему `ik + основа`, единственное число `+t`, множественное число — инфинитив.
 
 ### Willen (to want)
 

@@ -13,7 +13,15 @@
 - Uiterlijk beschrijven: lengte, postuur, leeftijd, haar en huid
 - Vaste combinaties met `dragen`, `aanhebben`, `op`, `om` en `aan`
 
-## Grammar
+## Grammar / Грамматика
+
+### Объяснение грамматики на русском
+
+После `zijn` прилагательное используется без `-e`: `De trui is warm`. Перед существительным оно обычно получает `-e`: `de warme trui`, `het mooie overhemd`, `een lange broek`. Главное исключение — неопределённое единственное `het`-слово: `een mooi hemd`, `geen warm pak`.
+
+При добавлении `-e` меняется написание: `wit - witte`, `groot - grote`, `grijs - grijze`, `lief - lieve`. Материал часто выражается формой на `-en`: `houten`, `wollen`.
+
+`Aanhebben` — отделяемый глагол: `Ik heb een trui aan`. Для аксессуаров используются устойчивые предлоги: шапка `op` голове, очки `op` носу, шарф `om` шее, кольцо `om` пальце, перчатки `aan` руках.
 
 ### Het adjectief na `zijn`
 

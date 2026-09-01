@@ -1,8 +1,11 @@
-# Les 15 - Extra huiswerk 2
+# Les 15 - Extra huiswerk 2 — **По-русски:** Урок 15 - Дополнительное домашнее задание 2
+
+> **Русская версия:** название каждого задания продублировано по-русски. Основные отдельные инструкции также продублированы строкой `По-русски`. Учебные предложения сохранены на исходном языке, чтобы не раскрывать ответы в заданиях на перевод.
+
 
 Doel: nog een keer oefenen met het **meervoud** en met de **modale werkwoorden** (`zullen`, `willen`, `kunnen`, `mogen`, `moeten`), plus `de`/`het`-woorden, vertalen, ontkennende zinnen en vragen. De woorden komen uit les 15 en uit alle vorige lessen (zie `WORDS.md`).
 
-## 1. Schrijf het meervoud
+## 1. Schrijf het meervoud — **По-русски:** 1. Напишите множественное число
 
 1. het bord - de ____
 2. de les - de ____
@@ -25,9 +28,10 @@ Doel: nog een keer oefenen met het **meervoud** en met de **modale werkwoorden**
 19. de dame - de ____
 20. de reactie - de ____
 
-## 2. Kies het goede modale werkwoord
+## 2. Kies het goede modale werkwoord — **По-русски:** 2. Выберите правильный модальный глагол
 
 Kies uit `zullen`, `willen`, `kunnen`, `mogen`, `moeten` en vul de goede vorm in.
+> **По-русски:** Выберите `zullen`, `willen`, `kunnen`, `mogen` или `moeten` и вставьте правильную форму.
 
 1. ________ we vanavond naar de bioscoop gaan? (voorstel)
 2. Ik ________ morgen naar de tandarts, want ik heb kiespijn. (verplicht)
@@ -42,9 +46,10 @@ Kies uit `zullen`, `willen`, `kunnen`, `mogen`, `moeten` en vul de goede vorm in
 11. Zij ________ heel goed koken. (mogelijk)
 12. Ik ________ graag twee kilo appels. (wensen)
 
-## 3. `de`-woord of `het`-woord?
+## 3. `de`-woord of `het`-woord? — **По-русски:** 3. Слово с `de` или с `het`?
 
 Schrijf `de` of `het`.
+> **По-русски:** Напишите `de` или `het`.
 
 1. ____ idee
 2. ____ zee
@@ -67,7 +72,7 @@ Schrijf `de` of `het`.
 19. ____ stad
 20. ____ tandarts
 
-## 4. Vertaal naar het Nederlands (Russisch -> Nederlands)
+## 4. Vertaal naar het Nederlands (Russisch -> Nederlands) — **По-русски:** 4. Переведите с русского на нидерландский
 
 1. Пойдём сегодня вечером в кино?
 2. Мне нужно к зубному врачу, потому что у меня болит зуб.
@@ -85,7 +90,7 @@ Schrijf `de` of `het`.
 14. Вы можете обменять этот подарок.
 15. Мои коллеги едят в столовой каждый день.
 
-## 5. Vertaal naar het Nederlands (Engels -> Nederlands)
+## 5. Vertaal naar het Nederlands (Engels -> Nederlands) — **По-русски:** 5. Переведите с английского на нидерландский
 
 1. May I smoke here? - No, you may not.
 2. Shall we drink a cup of coffee together?
@@ -103,9 +108,10 @@ Schrijf `de` of `het`.
 14. My sisters want a new table for the living room.
 15. I would like to order, please.
 
-## 6. Maak ontkennende zinnen (`niet` of `geen`)
+## 6. Maak ontkennende zinnen (`niet` of `geen`) — **По-русски:** 6. Составьте отрицательные предложения (`niet` или `geen`)
 
 Maak de zin ontkennend.
+> **По-русски:** Сделайте предложение отрицательным.
 
 1. Ik mag hier parkeren.
 2. Wij hebben ideeën.
@@ -120,9 +126,10 @@ Maak de zin ontkennend.
 11. Ik ken die steden.
 12. Er staan koeien in de wei.
 
-## 7. Maak vragen
+## 7. Maak vragen — **По-русски:** 7. Составьте вопросы
 
 Maak van elke zin een vraag.
+> **По-русски:** Преобразуйте каждое предложение в вопрос.
 
 1. Jij mag hier roken.
 2. De kinderen moeten om half negen op school zijn.
@@ -134,6 +141,7 @@ Maak van elke zin een vraag.
 8. De ooms wonen in Amsterdam.
 
 Maak nu vragen met een vraagwoord (`wie`, `wat`, `waar`, `wanneer`, `hoe`, `hoeveel`, `waarom`).
+> **По-русски:** Теперь составьте вопросы с вопросительным словом (`wie`, `wat`, `waar`, `wanneer`, `hoe`, `hoeveel`, `waarom`).
 
 9. ________ wil jij voor je verjaardag?
 10. ________ moeten wij beginnen?
@@ -142,7 +150,7 @@ Maak nu vragen met een vraagwoord (`wie`, `wat`, `waar`, `wanneer`, `hoe`, `hoev
 13. ________ mag je hier niet roken?
 14. ________ kan mij helpen met mijn huiswerk?
 
-## Antwoorden
+## Antwoorden — **По-русски:** Ответы
 
 ### 1
 

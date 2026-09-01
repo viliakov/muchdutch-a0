@@ -1,10 +1,14 @@
-# Les 10 - Extra huiswerk 2
+# Les 10 - Extra huiswerk 2 — **По-русски:** Урок 10 - Дополнительное домашнее задание 2
+
+> **Русская версия:** название каждого задания продублировано по-русски. Основные отдельные инструкции также продублированы строкой `По-русски`. Учебные предложения сохранены на исходном языке, чтобы не раскрывать ответы в заданиях на перевод.
+
 
 Doel: nog een keer oefenen met voegwoorden (`en`, `want`, `maar`, `dus`, `of`), `de`/`het`-woorden, vertalen, ontkennende zinnen en vragen. De woorden komen uit les 10 en uit alle vorige lessen (zie `WORDS.md`).
 
-## 1. Kies uit: `en`, `want`, `maar`, `dus`, `of`
+## 1. Kies uit: `en`, `want`, `maar`, `dus`, `of` — **По-русски:** 1. Выберите из `en`, `want`, `maar`, `dus`, `of`
 
 Vul het goede voegwoord in.
+> **По-русски:** Вставьте подходящий союз.
 
 1. Ik moet vandaag werken, ____ ik sta vroeg op.
 2. De woonkamer is groot ____ de keuken is klein.
@@ -19,9 +23,10 @@ Vul het goede voegwoord in.
 11. Het regent, ____ ik neem mijn jas mee.
 12. Kazem zoekt de sleutel, ____ hij vindt hem niet.
 
-## 2. `de`-woord of `het`-woord?
+## 2. `de`-woord of `het`-woord? — **По-русски:** 2. Слово с `de` или с `het`?
 
 Schrijf `de` of `het`.
+> **По-русски:** Напишите `de` или `het`.
 
 1. ____ huis
 2. ____ sleutel
@@ -39,7 +44,7 @@ Schrijf `de` of `het`.
 14. ____ kind
 15. ____ dak
 
-## 3. Vertaal naar het Nederlands (Russisch -> Nederlands)
+## 3. Vertaal naar het Nederlands (Russisch -> Nederlands) — **По-русски:** 3. Переведите с русского на нидерландский
 
 1. Я должен рано вставать, потому что я работаю.
 2. Мы должны убрать нашу спальню сегодня.
@@ -54,7 +59,7 @@ Schrijf `de` of `het`.
 11. Моя тётя аккуратная и живёт в тихом районе.
 12. Сосед смеётся и даёт мне ключ.
 
-## 4. Vertaal naar het Nederlands (Engels -> Nederlands)
+## 4. Vertaal naar het Nederlands (Engels -> Nederlands) — **По-русски:** 4. Переведите с английского на нидерландский
 
 1. I have to leave at eight o'clock.
 2. My brother must take his jacket, because it is cold.
@@ -69,9 +74,10 @@ Schrijf `de` of `het`.
 11. My grandfather is 79 and lives in a small village.
 12. The children have to be quiet in the library.
 
-## 5. Maak ontkennende zinnen (`niet` of `geen`)
+## 5. Maak ontkennende zinnen (`niet` of `geen`) — **По-русски:** 5. Составьте отрицательные предложения (`niet` или `geen`)
 
 Maak de zin ontkennend.
+> **По-русски:** Сделайте предложение отрицательным.
 
 1. Ik moet vandaag werken.
 2. Wij hebben een tuin.
@@ -84,9 +90,10 @@ Maak de zin ontkennend.
 9. Wij hebben een balkon.
 10. De keuken is groot.
 
-## 6. Maak vragen
+## 6. Maak vragen — **По-русски:** 6. Составьте вопросы
 
 Maak van elke zin een vraag.
+> **По-русски:** Преобразуйте каждое предложение в вопрос.
 
 1. Jij moet vandaag werken.
 2. Kazem vindt de sleutel.
@@ -98,13 +105,14 @@ Maak van elke zin een vraag.
 8. Jij gaat met de fiets naar je werk.
 
 Maak nu vragen met een vraagwoord (`wie`, `wat`, `waar`, `wanneer`, `hoe`, `hoeveel`).
+> **По-русски:** Теперь составьте вопросы с вопросительным словом (`wie`, `wat`, `waar`, `wanneer`, `hoe`, `hoeveel`).
 
 9. ____ moet jij vandaag doen?
 10. ____ woon jij?
 11. ____ kinderen hebben jullie?
 12. ____ heet jouw buurman?
 
-## Antwoorden
+## Antwoorden — **По-русски:** Ответы
 
 ### 1
 

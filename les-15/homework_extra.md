@@ -1,10 +1,14 @@
-# Les 15 - Extra huiswerk
+# Les 15 - Extra huiswerk — **По-русски:** Урок 15 - Дополнительное домашнее задание
+
+> **Русская версия:** название каждого задания продублировано по-русски. Основные отдельные инструкции также продублированы строкой `По-русски`. Учебные предложения сохранены на исходном языке, чтобы не раскрывать ответы в заданиях на перевод.
+
 
 Doel: oefenen met het **meervoud** (`-en`, `-s`, `'s`, onregelmatig, maateenheden), `de`/`het`-woorden, vertalen, ontkennende zinnen en vragen. De woorden komen uit les 15 en uit alle vorige lessen (zie `WORDS.md`).
 
-## 1. Schrijf het meervoud (gemengd, deel 1)
+## 1. Schrijf het meervoud (gemengd, deel 1) — **По-русски:** 1. Напишите множественное число (смешанные задания, часть 1)
 
 Let op: elke rij kan `-en`, `-s`, `'s` of een onregelmatige vorm zijn.
+> **По-русски:** Обратите внимание: в каждой строке может требоваться `-en`, `-s`, `'s` или нерегулярная форма.
 
 1. één kind - twee ____
 2. één sleutel - twee ____
@@ -22,7 +26,7 @@ Let op: elke rij kan `-en`, `-s`, `'s` of een onregelmatige vorm zijn.
 14. één tv - twee ____
 15. één zee - twee ____
 
-## 2. Schrijf het meervoud (gemengd, deel 2)
+## 2. Schrijf het meervoud (gemengd, deel 2) — **По-русски:** 2. Напишите множественное число (смешанные задания, часть 2)
 
 1. één feest - twee ____
 2. één opa - twee ____
@@ -40,7 +44,7 @@ Let op: elke rij kan `-en`, `-s`, `'s` of een onregelmatige vorm zijn.
 14. één baby - twee ____
 15. één idee - twee ____
 
-## 3. Schrijf het meervoud (gemengd, deel 3)
+## 3. Schrijf het meervoud (gemengd, deel 3) — **По-русски:** 3. Напишите множественное число (смешанные задания, часть 3)
 
 1. één zaal - twee ____
 2. één jongen - twee ____
@@ -58,9 +62,10 @@ Let op: elke rij kan `-en`, `-s`, `'s` of een onregelmatige vorm zijn.
 14. één karretje - twee ____
 15. één dokter - twee ____
 
-## 4. Enkelvoud of meervoud? Vul in
+## 4. Enkelvoud of meervoud? Vul in — **По-русски:** 4. Единственное или множественное число? Вставьте правильную форму
 
 Kies de goede vorm van het woord tussen ( ).
+> **По-русски:** Выберите правильную форму слова в скобках.
 
 1. Mag ik drie ____ (kilo) appels, alstublieft?
 2. De kast is twee ____ (meter) hoog.
@@ -75,9 +80,10 @@ Kies de goede vorm van het woord tussen ( ).
 11. Zij koopt twee ____ (pak) melk en drie ____ (fles) water.
 12. Ik eet veel ____ (fruit) en veel ____ (groente).
 
-## 5. `de`-woord of `het`-woord?
+## 5. `de`-woord of `het`-woord? — **По-русски:** 5. Слово с `de` или с `het`?
 
 Schrijf `de` of `het`.
+> **По-русски:** Напишите `de` или `het`.
 
 1. ____ wortel
 2. ____ bloemkool
@@ -95,7 +101,7 @@ Schrijf `de` of `het`.
 14. ____ zegel
 15. ____ museum
 
-## 6. Vertaal naar het Nederlands (Russisch -> Nederlands)
+## 6. Vertaal naar het Nederlands (Russisch -> Nederlands) — **По-русски:** 6. Переведите с русского на нидерландский
 
 1. У меня двое детей и трое племянников.
 2. Можно мне два кило картошки, пожалуйста?
@@ -113,7 +119,7 @@ Schrijf `de` of `het`.
 14. Я очень люблю апельсины, но не люблю лимоны.
 15. У меня нет ключей и я не могу найти тележку.
 
-## 7. Vertaal naar het Nederlands (Engels -> Nederlands)
+## 7. Vertaal naar het Nederlands (Engels -> Nederlands) — **По-русски:** 7. Переведите с английского на нидерландский
 
 1. I would like one kilo of onions and a bag of potatoes.
 2. There are seven different banknotes and eight different coins.
@@ -131,9 +137,10 @@ Schrijf `de` of `het`.
 14. My brother gives a party and we bring a present.
 15. The pears cost two euros and fifty-four cents per kilo.
 
-## 8. Maak ontkennende zinnen (`niet` of `geen`)
+## 8. Maak ontkennende zinnen (`niet` of `geen`) — **По-русски:** 8. Составьте отрицательные предложения (`niet` или `geen`)
 
 Maak de zin ontkennend.
+> **По-русски:** Сделайте предложение отрицательным.
 
 1. Ik heb kinderen.
 2. Wij hebben twee auto's.
@@ -148,9 +155,10 @@ Maak de zin ontkennend.
 11. Zij drinkt wijn.
 12. Ik wil de zegels.
 
-## 9. Maak vragen
+## 9. Maak vragen — **По-русски:** 9. Составьте вопросы
 
 Maak van elke zin een vraag.
+> **По-русски:** Преобразуйте каждое предложение в вопрос.
 
 1. Jij koopt twee kilo appels.
 2. De kinderen eten fruit.
@@ -162,6 +170,7 @@ Maak van elke zin een vraag.
 8. Jij bent dol op druiven.
 
 Maak nu vragen met een vraagwoord (`wie`, `wat`, `waar`, `wanneer`, `hoe`, `hoeveel`).
+> **По-русски:** Теперь составьте вопросы с вопросительным словом (`wie`, `wat`, `waar`, `wanneer`, `hoe`, `hoeveel`).
 
 9. ____ kilo aardappels wil jij?
 10. ____ staat de wijn?
@@ -170,7 +179,7 @@ Maak nu vragen met een vraagwoord (`wie`, `wat`, `waar`, `wanneer`, `hoe`, `hoev
 13. ____ geeft jouw broer een feestje?
 14. ____ heten jouw kinderen?
 
-## Antwoorden
+## Antwoorden — **По-русски:** Ответы
 
 ### 1
 

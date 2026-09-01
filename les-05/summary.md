@@ -17,7 +17,13 @@
 - Writing and translation practice with months, dates, and drinks.
 - Pronunciation contrasts with `ee/eu`, `oo/eu`, and `ou/ui`.
 
-## Grammar
+## Grammar / Грамматика
+
+### Объяснение грамматики на русском
+
+Настоящее время образуется по схеме `ik + основа`, `jij/u/hij/zij + основа + t`, `wij/jullie/zij + инфинитив`. У некоторых частотных глаголов формы нерегулярны, поэтому `zijn` и `hebben` нужно учить отдельно.
+
+Притяжательные слова показывают принадлежность: `mijn` (мой), `jouw/je` (твой), `uw` (Ваш), `zijn` (его), `haar` (её), `ons/onze` (наш), `jullie` (ваш), `hun` (их). Перед словом с `het` в единственном числе используется `ons`: `ons huis`; в остальных случаях — `onze`: `onze straat`, `onze huizen`.
 
 ### Present Tense Review
 

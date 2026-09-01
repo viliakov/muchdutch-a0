@@ -53,7 +53,11 @@ Use this format for `summary.md`:
 
 - ...
 
-## Grammar
+## Grammar / Грамматика
+
+### Объяснение грамматики на русском
+
+Explain every grammar topic in Russian. Keep Dutch forms and example sentences in Dutch.
 
 ### Topic name
 
@@ -107,11 +111,13 @@ When the user asks for homework:
    - `les-XX/homework.md`: the lesson's own homework, reproduced from the screenshot's `huiswerk` section (same tasks and style). This mirrors what the lesson already assigns.
    - `les-XX/homework_extra.md`: additional practice tasks that you generate to reinforce the lesson.
 2. Use the current lesson summary as the main source.
-3. Prioritize the grammar from the current lesson.
-4. For the extra homework, draw on the whole cumulative `WORDS.md`, not only the current lesson. Every extra task should mix current-lesson grammar and vocabulary with words from earlier lessons so the user keeps revising. Do not build the extra tasks exclusively from current-lesson words.
-5. Generate a substantial extra homework set by default. Use `les-06/homework.md` as the baseline size, then make `homework_extra.md` about twice as large unless the user asks for a shorter set.
-6. Always use the same set of task types as `les-10/homework_extra2.md`, in this order:
+3. Make every task heading and every actionable instruction bilingual: Dutch first, followed by a complete Russian duplicate. Do not translate exercise source sentences when doing so would reveal the answer to a translation exercise.
+4. Prioritize the grammar from the current lesson.
+5. For the extra homework, draw on the whole cumulative `WORDS.md`, not only the current lesson. Every extra task should mix current-lesson grammar and vocabulary with words from earlier lessons so the user keeps revising. Do not build the extra tasks exclusively from current-lesson words.
+6. Generate a substantial extra homework set by default. Use `les-06/homework.md` as the baseline size, then make `homework_extra.md` about twice as large unless the user asks for a shorter set.
+7. Always use the same set of task types as `les-10/homework_extra2.md`, in this order:
    - fill-in-the-blank grammar for the current lesson's main grammar,
+   - choose and fill in the comparative or superlative form (`comparatief` / `superlatief`),
    - `de`-woord or `het`-woord recognition,
    - Russian-to-Dutch translation,
    - English-to-Dutch translation,
@@ -120,21 +126,22 @@ When the user asks for homework:
    - an answer key for every section.
    Add or adapt a grammar fill-in section to match the current lesson's grammar, but keep the overall structure above.
    Never generate tasks that cannot have a fixed answer key (e.g. `Spreken`, `Vertellen`, free writing / describe-a-picture prompts). Every task must have answers in the answer key.
-7. Include at least two translation sections when enough vocabulary is available:
+8. Include at least two translation sections when enough vocabulary is available:
    - one section translating from English to Dutch,
    - one section translating from Russian to Dutch, because Russian is the user's native language.
-8. The English-to-Dutch and Russian-to-Dutch sections must use different sentences. Never reuse the same sentences (or a straight translation of them) across the two sections; each section gets its own distinct set so the two answer keys never match.
-9. Make translation sections large enough to be useful: usually 10-15 sentences for English-to-Dutch and 10-15 sentences for Russian-to-Dutch.
-10. Keep the level appropriate for A0/A1 beginners.
-11. Use simple sentences and familiar vocabulary.
-12. Prefer sentences that combine the current lesson grammar with older vocabulary from `WORDS.md`.
-13. If a screenshot already contains Russian prompts, preserve that style and add English prompts where useful.
+9. The English-to-Dutch and Russian-to-Dutch sections must use different sentences. Never reuse the same sentences (or a straight translation of them) across the two sections; each section gets its own distinct set so the two answer keys never match.
+10. Make translation sections large enough to be useful: usually 10-15 sentences for English-to-Dutch and 10-15 sentences for Russian-to-Dutch.
+11. Keep the level appropriate for A0/A1 beginners.
+12. Use simple sentences and familiar vocabulary.
+13. Prefer sentences that combine the current lesson grammar with older vocabulary from `WORDS.md`.
+14. If a screenshot already contains Russian prompts, preserve that style and add English prompts where useful.
 
 ### User's Standard Homework Requirements
 
 Apply these requirements to generated extra homework unless the user explicitly asks for a different format:
 
 1. Include exercises covering:
+   - comparative and superlative forms, with context determining which form is required,
    - direct, indirect, and possessive pronouns,
    - negative sentences,
    - questions,

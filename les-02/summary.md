@@ -16,7 +16,15 @@
 - Talking about name, age, country, relationship status, and children.
 - Pronunciation drills with consonant clusters and vowel contrasts.
 
-## Grammar
+## Grammar / Грамматика
+
+### Объяснение грамматики на русском
+
+У существительных есть артикль `de` или `het`; неопределённый артикль для обоих родов — `een`. Во множественном числе всегда используется `de`. Артикль лучше запоминать вместе со словом: `de man`, `de vrouw`, `het kind`.
+
+Личные местоимения-подлежащие: `ik`, `jij/je`, `u`, `hij`, `zij/ze`, `het`, `wij/we`, `jullie`, `zij/ze`. Глагол `zijn` («быть») имеет формы `ik ben`, `jij/u bent`, `hij/zij/het is`, `wij/jullie/zij zijn`.
+
+В обычном повествовательном предложении личная форма глагола стоит на втором месте: `Ik ben Anna.` В общем вопросе она перемещается на первое место: `Ben jij Anna?`
 
 ### Articles: de, het, een
 

@@ -1,10 +1,13 @@
-# Les 13 - Extra huiswerk 2
+# Les 13 - Extra huiswerk 2 — **По-русски:** Урок 13 - Дополнительное домашнее задание 2
+
+> **Русская версия:** название каждого задания продублировано по-русски. Основные отдельные инструкции также продублированы строкой `По-русски`. Учебные предложения сохранены на исходном языке, чтобы не раскрывать ответы в заданиях на перевод.
+
 
 Doel: nog een keer oefenen met de negatie (`niet` of `geen`), met de plaats van `niet`,
 met `de`/`het`-woorden, vertalen, ontkennende zinnen en vragen.
 De woorden komen uit les 13 en uit alle vorige lessen (zie `WORDS.md`).
 
-## 1. Vul in: `niet` of `geen`
+## 1. Vul in: `niet` of `geen` — **По-русски:** 1. Вставьте `niet` или `geen`
 
 1. Wij hebben ____ oven, dus wij maken ____ appeltaart.
 2. Ik studeer ____ in Delft, ik studeer in Utrecht.
@@ -27,9 +30,10 @@ De woorden komen uit les 13 en uit alle vorige lessen (zie `WORDS.md`).
 19. De slager heeft vandaag ____ kip.
 20. Hij is ____ moe, hij is vrolijk.
 
-## 2. `de`-woord of `het`-woord?
+## 2. `de`-woord of `het`-woord? — **По-русски:** 2. Слово с `de` или с `het`?
 
 Schrijf `de` of `het`.
+> **По-русски:** Напишите `de` или `het`.
 
 1. ____ boterham
 2. ____ broodje
@@ -57,7 +61,7 @@ Schrijf `de` of `het`.
 24. ____ kaas
 25. ____ vis
 
-## 3. Vertaal naar het Nederlands (Russisch -> Nederlands)
+## 3. Vertaal naar het Nederlands (Russisch -> Nederlands) — **По-русски:** 3. Переведите с русского на нидерландский
 
 1. Я не могу танцевать.
 2. У Алисы нет брата, у неё есть сестра.
@@ -75,7 +79,7 @@ Schrijf `de` of `het`.
 14. Она не голландка, она немка.
 15. Не все дети пьют молоко.
 
-## 4. Vertaal naar het Nederlands (Engels -> Nederlands)
+## 4. Vertaal naar het Nederlands (Engels -> Nederlands) — **По-русски:** 4. Переведите с английского на нидерландский
 
 1. Patrick does not work in a hospital.
 2. I do not eat spaghetti today.
@@ -93,9 +97,10 @@ Schrijf `de` of `het`.
 14. We do not eat in the canteen, we eat at home.
 15. I do not see the sun today, it is cloudy.
 
-## 5. Maak ontkennende zinnen (`niet` of `geen`)
+## 5. Maak ontkennende zinnen (`niet` of `geen`) — **По-русски:** 5. Составьте отрицательные предложения (`niet` или `geen`)
 
 Maak de zin ontkennend.
+> **По-русски:** Сделайте предложение отрицательным.
 
 1. Ik kan dansen.
 2. Loes studeert in Delft.
@@ -113,9 +118,10 @@ Maak de zin ontkennend.
 14. Wij gaan naar de slager.
 15. Ik ben Nederlandse.
 
-## 6. Maak vragen
+## 6. Maak vragen — **По-русски:** 6. Составьте вопросы
 
 Maak van elke zin een ja/nee-vraag.
+> **По-русски:** Преобразуйте каждое предложение в общий вопрос (да/нет).
 
 1. Jij kunt goed dansen.
 2. Loes studeert in Delft.
@@ -127,6 +133,7 @@ Maak van elke zin een ja/nee-vraag.
 8. Zij drinkt meestal water.
 
 Maak nu vragen met een vraagwoord (`wie`, `wat`, `waar`, `wanneer`, `hoe`, `hoeveel`).
+> **По-русски:** Теперь составьте вопросы с вопросительным словом (`wie`, `wat`, `waar`, `wanneer`, `hoe`, `hoeveel`).
 
 9. ____ doet de boodschappen?
 10. ____ koopt Raid vlees?
@@ -135,7 +142,7 @@ Maak nu vragen met een vraagwoord (`wie`, `wat`, `waar`, `wanneer`, `hoe`, `hoev
 13. ____ gaan zij naar de markt?
 14. ____ lang moet de rijst koken?
 
-## Antwoorden
+## Antwoorden — **По-русски:** Ответы
 
 ### 1
 

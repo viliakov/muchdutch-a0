@@ -14,7 +14,15 @@
 - Woordenschat: café dialogue (Edit's birthday) with `handige woorden en uitdrukkingen` and a `waar of niet waar?` check
 - Huiswerk: modale werkwoorden drillen (`zullen`, `willen`, `kunnen`, `mogen`, `moeten`), meervoud (schema + `kies de goede vorm`), and a creative PowerPoint / AH-video task
 
-## Grammar
+## Grammar / Грамматика
+
+### Объяснение грамматики на русском
+
+Множественное число чаще всего образуется с `-en` или `-s`: `boek - boeken`, `tafel - tafels`. После гласной может ставиться апостроф: `foto - foto's`. Следите за написанием гласных и согласных: `man - mannen`, `raam - ramen`. Нерегулярные формы (`kind - kinderen`) нужно запоминать.
+
+Некоторые слова употребляются только в единственном числе (`de rijst`) или только во множественном (`de boodschappen`). После числительных меры остаются в единственном: `drie kilo`, `twee liter`.
+
+Модальные глаголы `willen`, `kunnen`, `mogen`, `moeten`, `zullen` занимают вторую позицию, а смысловой инфинитив уходит в конец: `Wij willen groenten kopen.`
 
 ### Meervoud met `-en`
 
