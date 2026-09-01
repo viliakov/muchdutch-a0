@@ -223,9 +223,9 @@ Schrijf het getal als woord.
 7. zeshonderdtwaalf, zeshonderddertien, ____
 8. driehonderdvierentachtig, driehonderdvijfentachtig, ____
 
-## 13. English -> Dutch — **По-русски:** 13. Перевод с английского на нидерландский
+## 13. Перевод с английского на нидерландский
 
-Translate into Dutch.
+Переведите на нидерландский язык.
 > **По-русски:** Переведите на нидерландский язык.
 
 1. There is a table in the kitchen.
@@ -244,7 +244,7 @@ Translate into Dutch.
 14. The teacher reads the text.
 15. Ali writes the word on paper.
 
-## 14. Russian -> Dutch — **По-русски:** 14. Перевод с русского на нидерландский
+## 14. Перевод с русского на нидерландский
 
 Vertaal naar het Nederlands.
 > **По-русски:** Переведите на нидерландский язык.
@@ -634,7 +634,7 @@ Schrijf het getal als woord.
 5. achthonderdvijf, achthonderdzes, ____
 6. negenhonderdeenenveertig, ____, negenhonderddrieënveertig
 
-## 12. English -> Dutch — **По-русски:** 12. Перевод с английского на нидерландский
+## 12. Перевод с английского на нидерландский
 
 1. There is a couch in the living room.
 2. There is no television in the bedroom.
@@ -652,7 +652,7 @@ Schrijf het getal als woord.
 14. Sometimes we drink coffee together at home.
 15. The children play in the park.
 
-## 13. Russian -> Dutch — **По-русски:** 13. Перевод с русского на нидерландский
+## 13. Перевод с русского на нидерландский
 
 1. В гостиной есть диван.
 2. В спальне нет телевизора.

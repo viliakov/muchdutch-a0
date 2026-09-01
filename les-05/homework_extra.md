@@ -91,7 +91,7 @@ Kies uit: `warm`, `koud`, `het waait`, `het regent`, `het sneeuwt`, `bewolkt`, `
 9. Их дети учатся в понедельник.
 10. Какое сегодня число? `(используйте Wat is de datum)`
 
-## 7. Translate into Dutch — **По-русски:** Переведите с английского на нидерландский
+## 7. Переведите с английского на нидерландский
 
 1. Your house is in Utrecht. `(informal)`
 2. Our car is in Spain.

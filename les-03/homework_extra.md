@@ -78,7 +78,7 @@ Kies uit: `wie`, `wat`, `waar`, `waar vandaan`, `wanneer`, `hoe`, `hoeveel`, `we
 9. У моего дяди есть машина.
 10. У них нет собаки.
 
-## 6. Translate into Dutch — **По-русски:** Переведите с английского на нидерландский
+## 6. Переведите с английского на нидерландский
 
 1. My grandmother has two daughters.
 2. The man is Peter.

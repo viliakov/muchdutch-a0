@@ -65,7 +65,7 @@ Kies uit: `koffie`, `thee`, `melk`, `suiker`, `graag`, `alsjeblieft`, `dank je w
 9. Женщины сидят на кухне.
 10. Когда Вы работаете? `(формально)`
 
-## 5. Translate into Dutch — **По-русски:** Переведите с английского на нидерландский
+## 5. Переведите с английского на нидерландский
 
 1. Anna drinks milk.
 2. I work on Tuesday and Friday.

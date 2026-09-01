@@ -36,59 +36,57 @@ When the user posts a lesson screenshot:
 4. Create or update `les-XX/summary.md`.
 5. Add new words and reusable phrases to `WORDS.md`.
 6. Mention any uncertainty if the screenshot is too small or text is unreadable.
-7. Duplicate all explanatory content in Russian. Keep the original English or Dutch text, but add a complete Russian companion explanation covering every topic, pronunciation note, reading/listening note, and practice instruction.
+7. Write all explanatory content in Russian. Keep Dutch forms, examples, dialogues, and source texts in Dutch. English may appear only as source text in exercises that explicitly ask the learner to translate from English into Dutch.
 
 ## Lesson Summary Format
 
 Use this format for `summary.md`:
 
 ```markdown
-# Les XX - Summary
+# Урок XX — конспект
 
-## Source
+## Источник
 
-- Based on: screenshot / Miro board / user notes
-- Date added: YYYY-MM-DD
+- Материал: скриншот / доска Miro / заметки пользователя
+- Дата добавления: YYYY-MM-DD
 
-## Main Topics
-
-- ...
-
-## Grammar / Грамматика
-
-### Объяснение грамматики на русском
-
-Explain every grammar topic in Russian. Keep Dutch forms and example sentences in Dutch.
-
-### Topic name
-
-Explanation with short examples.
-
-## Vocabulary Themes
+## Основные темы
 
 - ...
 
-## Pronunciation
+## Грамматика
+
+Объясняйте каждую грамматическую тему по-русски. Нидерландские формы и примеры оставляйте на нидерландском.
+
+### Название темы
+
+Объяснение с короткими примерами.
+
+## Темы лексики
 
 - ...
 
-## Listening And Speaking
+## Произношение
 
 - ...
 
-## Writing Practice
+## Аудирование и устная речь
 
 - ...
 
-## Useful Example Sentences
+## Письменная практика
+
+- ...
+
+## Полезные примеры
 
 1. ...
 
-## Homework Ideas
+## Идеи для домашней работы
 
 - ...
 
-## Unclear From Source
+## Неясности в источнике
 
 - ...
 ```
@@ -112,8 +110,7 @@ When the user asks for homework:
    - `les-XX/homework.md`: the lesson's own homework, reproduced from the screenshot's `huiswerk` section (same tasks and style). This mirrors what the lesson already assigns.
    - `les-XX/homework_extra.md`: additional practice tasks that you generate to reinforce the lesson.
 2. Use the current lesson summary as the main source.
-3. Make every task heading and every actionable instruction bilingual: Dutch first, followed by a complete Russian duplicate. Do not translate exercise source sentences when doing so would reveal the answer to a translation exercise.
-   Also add a Russian explanation of the homework's purpose and duplicate explanatory labels such as `Doel`, `Voorbeeld`, `Let op`, `Bron`, and `Mogelijke antwoorden` in Russian.
+3. Write every task heading, actionable instruction, purpose statement, label, note, and example explanation in Russian. Keep Dutch forms, answer options, dialogues, and other Dutch study material in Dutch. In an English-to-Dutch translation exercise, keep the English source sentences in English, but write the heading and instructions in Russian. Do not add English explanations elsewhere.
 4. Prioritize the grammar from the current lesson.
 5. For the extra homework, draw on the whole cumulative `WORDS.md`, not only the current lesson. Every extra task should mix current-lesson grammar and vocabulary with words from earlier lessons so the user keeps revising. Do not build the extra tasks exclusively from current-lesson words.
 6. Generate a substantial extra homework set by default. Use `les-06/homework.md` as the baseline size, then make `homework_extra.md` about twice as large unless the user asks for a shorter set.
@@ -136,7 +133,7 @@ When the user asks for homework:
 11. Keep the level appropriate for A0/A1 beginners.
 12. Use simple sentences and familiar vocabulary.
 13. Prefer sentences that combine the current lesson grammar with older vocabulary from `WORDS.md`.
-14. If a screenshot already contains Russian prompts, preserve that style and add English prompts where useful.
+14. If a screenshot already contains Russian prompts, preserve that style. Do not add English prompts except as source sentences in a dedicated English-to-Dutch translation exercise.
 
 ### User's Standard Homework Requirements
 

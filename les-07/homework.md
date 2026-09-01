@@ -255,9 +255,9 @@ Vertaal naar het Nederlands.
 11. to read the news
 12. to surf the internet
 
-## 16. English -> Dutch — **По-русски:** 16. Перевод с английского на нидерландский
+## 16. Перевод с английского на нидерландский
 
-Translate into Dutch.
+Переведите на нидерландский язык.
 > **По-русски:** Переведите на нидерландский язык.
 
 1. Tomorrow I am going to work at the office.
@@ -276,7 +276,7 @@ Translate into Dutch.
 14. We always speak Dutch in class.
 15. On Saturday I am going to visit my grandmother.
 
-## 17. Russian -> Dutch — **По-русски:** 17. Перевод с русского на нидерландский
+## 17. Перевод с русского на нидерландский
 
 Vertaal naar het Nederlands.
 > **По-русски:** Переведите на нидерландский язык.
