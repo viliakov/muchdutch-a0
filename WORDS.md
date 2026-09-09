@@ -310,7 +310,7 @@ Suggested columns:
 | boodschappen doen | to do groceries | делать покупки | verb phrase | les-07 | agenda activity |
 | in het park wandelen | to walk in the park | гулять в парке | verb phrase | les-07 | agenda activity |
 | een afspraak hebben | to have an appointment | иметь встречу | verb phrase | les-07 | agenda activity |
-| schoonmaken | to clean | убираться | verb | les-07 | agenda activity |
+| schoonmaken | to clean | убираться, чистить | verb | les-07, les-21 | separable: `ik maak ... schoon` |
 | een boek lezen | to read a book | читать книгу | verb phrase | les-07 | agenda activity |
 | naar een film kijken | to watch a film | смотреть фильм | verb phrase | les-07 | agenda activity |
 | nieuws lezen | to read news | читать новости | verb phrase | les-07 | agenda activity |
@@ -465,7 +465,7 @@ Suggested columns:
 | verhuizen | to move (house) | переезжать | verb | les-10 | housing |
 | delen | to share | делить, делиться | verb | les-10 | `we delen een tuin` |
 | betalen | to pay | платить | verb | les-10 | `huur betalen` |
-| meenemen | to take along | брать с собой | verb | les-10 | separable verb |
+| meenemen | to take along | брать с собой | verb | les-10, les-21 | separable: `ik neem ... mee` |
 | invullen | to fill in | заполнять | verb | les-10 | `een formulier invullen` |
 | poetsen | to brush, to polish | чистить | verb | les-10 | `tanden poetsen` |
 | koken | to cook | готовить | verb | les-10 | in de keuken |
@@ -679,7 +679,7 @@ Suggested columns:
 | aan | on (switched on) | включен | adverb | les-13 | `De oven staat aan.`; also preposition in les-11 |
 | uit | off (switched off) | выключен | adverb | les-13 | `De oven staat uit.` |
 | de gram | gram | грамм | noun | les-13 | `150 gram boter` |
-| de snor | moustache | усы | noun | les-13, les-18 | `een snor hebben` |
+| de snor | moustache | усы | noun | les-13, les-18, les-21 | `een snor hebben` |
 | de zon | sun | солнце | noun | les-13 | `Ik zie de zon niet.` |
 | op tijd | on time | вовремя | phrase | les-13 | `Niet alle studenten komen op tijd.` |
 | 's morgens | in the morning | утром | time adverb | les-13 | variant of `'s ochtends` (les-12) |
@@ -748,7 +748,7 @@ Suggested columns:
 | het voorstel | proposal, suggestion | предложение | noun | les-14 | function of `zullen`: `Zullen we gaan?` |
 | de belofte | promise | обещание | noun | les-14 | function of `zullen`: `Ik zal het doen.` |
 | de waarschijnlijkheid | probability | вероятность | noun | les-14 | function of `zullen`: `Je zal wel moe zijn.` |
-| waarschijnlijk | probably | вероятно | adverb | les-14 | `Hij is waarschijnlijk ziek.` |
+| waarschijnlijk | probably | вероятно | adverb | les-14, les-21 | `Waarschijnlijk heb je griep.` |
 | de handeling | action | действие | noun | les-14 | `een handeling in de toekomst` |
 | de toekomst | future | будущее | noun | les-14 | `in de toekomst` |
 | teruggeven | to give back | отдавать назад | verb | les-14 | separable: `Ik zal het geld teruggeven.` |
@@ -956,7 +956,7 @@ Suggested columns:
 | de metro | metro, underground | метро | noun | les-15 | plural `de metro's` |
 | de dame | lady | дама | noun | les-15 | plural `de dames` |
 | de reactie | reaction, response | реакция, ответ | noun | les-15 | plural `de reacties` |
-| de vinger | finger | палец | noun | les-15 | plural `de vingers` |
+| de vinger | finger | палец руки | noun | les-15, les-21 | plural `de vingers` |
 | het ijsje | ice cream | мороженое | noun | les-15 | plural `de ijsjes` |
 | het kruid | herb, spice | пряность, трава | noun | les-15 | plural `de kruiden` |
 | verpakt | packaged, pre-packed | упакованный | adjective | les-15 | schema groente en fruit |
@@ -1128,7 +1128,7 @@ Suggested columns:
 | krullend haar | curly hair | кудрявые волосы | phrase | les-18 | appearance |
 | steil haar | straight hair | прямые волосы | phrase | les-18 | appearance |
 | golvend haar | wavy hair | волнистые волосы | phrase | les-18 | appearance |
-| de baard | beard | борода | noun | les-18 | `een baard hebben` |
+| de baard | beard | борода | noun | les-18, les-21 | `een baard hebben` |
 | de rimpel | wrinkle | морщина | noun | les-18 | usually plural `de rimpels` |
 | de lichte huid | light complexion | светлая кожа | noun phrase | les-18 | `de huid` |
 | de donkere huid | dark complexion | тёмная, смуглая кожа | noun phrase | les-18 | `de huid` |
@@ -1179,3 +1179,59 @@ Suggested columns:
 | de beslissing | decision | решение | noun | les-20 | plural `de beslissingen`; `een beslissing nemen` |
 | het doel | goal | цель | noun | les-20 | plural `de doelen` |
 | bereiken | to achieve, reach | достигать | verb | les-20 | `een doel bereiken` |
+
+## Les 21
+
+| Dutch | English | Russian | Type | Lesson | Notes |
+| --- | --- | --- | --- | --- | --- |
+| het lichaam | body | тело | noun | les-21 | plural `de lichamen` |
+| het hoofd | head | голова | noun | les-21 | plural `de hoofden` |
+| de schouder | shoulder | плечо | noun | les-21 | plural `de schouders` |
+| de arm | arm | рука от плеча до кисти | noun | les-21 | plural `de armen` |
+| de buik | belly, abdomen | живот | noun | les-21 | `last van de buik` |
+| de knie | knee | колено | noun | les-21 | plural `de knieën` |
+| de voet | foot | ступня | noun | les-21 | plural `de voeten` |
+| de teen | toe | палец ноги | noun | les-21 | plural `de tenen` |
+| de rug | back | спина | noun | les-21 | `last van de rug` |
+| de bil | buttock | ягодица | noun | les-21 | plural `de billen` |
+| de hand | hand | кисть руки | noun | les-21 | plural `de handen` |
+| het been | leg | нога | noun | les-21 | plural `de benen` |
+| het gezicht | face | лицо | noun | les-21 | plural `de gezichten` |
+| het haar | hair | волосы | noun | les-21 | usually singular collective noun |
+| het oog | eye | глаз | noun | les-21 | plural `de ogen` |
+| de neus | nose | нос | noun | les-21 | plural `de neuzen` |
+| de tand | tooth | зуб | noun | les-21 | plural `de tanden` |
+| de lip | lip | губа | noun | les-21 | plural `de lippen` |
+| de kin | chin | подбородок | noun | les-21 | plural `de kinnen` |
+| de wang | cheek | щека | noun | les-21 | plural `de wangen` |
+| het oor | ear | ухо | noun | les-21 | plural `de oren` |
+| de mond | mouth | рот | noun | les-21 | plural `de monden` |
+| de nek | neck | шея | noun | les-21 | plural `de nekken` |
+| het uiterlijk | appearance | внешность | noun | les-21 | compliment topic |
+| de glimlach | smile | улыбка | noun | les-21 | plural `de glimlachen` |
+| de outfit | outfit | образ, наряд | noun | les-21 | plural `de outfits` |
+| er mooi uitzien | to look beautiful | красиво выглядеть | separable verb phrase | les-21 | `Je ziet er mooi uit.` |
+| Wat zie je er goed uit! | You look so good! | Как ты хорошо выглядишь! | phrase | les-21 | compliment |
+| Je haar zit leuk! | Your hair looks nice! | У тебя классно уложены волосы! | phrase | les-21 | compliment |
+| Die kleur staat je goed. | That colour suits you. | Тебе идёт этот цвет. | phrase | les-21 | compliment |
+| Wat een mooie outfit! | What a beautiful outfit! | Какой красивый образ! | phrase | les-21 | compliment |
+| het scheidbare werkwoord | separable verb | разделяемый глагол | grammar noun | les-21 | prefix separates in a main clause |
+| aankomen | to arrive | прибывать | separable verb | les-21 | `ik kom ... aan` |
+| omdraaien | to turn over | переворачивать | separable verb | les-21 | `hij draait ... om` |
+| opsturen | to send | отправлять | separable verb | les-21 | `ik stuur ... op` |
+| oversteken | to cross | переходить | separable verb | les-21 | `het kind steekt ... over` |
+| uitleggen | to explain | объяснять | separable verb | les-21 | `de docent legt ... uit` |
+| de klacht | complaint, symptom | жалоба, симптом | noun | les-21 | plural `de klachten` |
+| de keel | throat | горло | noun | les-21 | `last van de keel` |
+| de spier | muscle | мышца | noun | les-21 | plural `de spieren` |
+| hoesten | to cough | кашлять | verb | les-21 | `ik hoest` |
+| de hoest | cough | кашель | noun | les-21 | `tegen de hoest` |
+| de griep | flu | грипп | noun | les-21 | `griep hebben` |
+| het recept | prescription | рецепт | noun | les-21 | plural `de recepten` |
+| sinds | since | с какого-либо момента | preposition/conjunction | les-21 | `sinds maandag` |
+| nog | still, yet | ещё, всё ещё | adverb | les-21 | `Hoest je nog?` |
+| erg | very, badly | очень, сильно | adverb | les-21 | `erg veel pijn` |
+| natuurlijk | of course, naturally | конечно | adverb | les-21 | affirmative response |
+| beterschap | get well soon | выздоравливай, скорейшего выздоровления | phrase | les-21 | wish to an ill person |
+| last hebben van | to suffer from, be troubled by | страдать от, испытывать боль | verb phrase | les-21 | `Ik heb last van mijn keel.` |
+| koorts | fever | температура, жар | noun | les-21 | normally without article: `koorts hebben` |
