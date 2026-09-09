@@ -321,8 +321,8 @@ Suggested columns:
 | sporten | to exercise, play sports | заниматься спортом | verb | les-07 | used with gaan + infinitief |
 | repareren | to repair | ремонтировать | verb | les-07 | agenda/home task |
 | helpen | to help | помогать | verb | les-07 | agenda/home task |
-| brengen | to bring | приносить, отвозить | verb | les-07 | phrase verb |
-| ophalen | to pick up | забирать | verb | les-07 | separable verb |
+| brengen | to bring | приносить, доставлять | verb | les-07, les-20 | `De bezorger brengt de spullen thuis.` |
+| ophalen | to pick up | забирать | verb | les-07, les-20 | separable: `ik haal ... op`; infinitive after modal verb |
 | altijd | always | всегда | frequency adverb | les-07 | frequency |
 | vaak | often | часто | frequency adverb | les-07 | frequency |
 | meestal | usually | обычно | frequency adverb | les-07 | frequency |
@@ -886,7 +886,7 @@ Suggested columns:
 | overleden | deceased, passed away | умерший | adjective | les-15 | `Mijn moeder is overleden.` |
 | dol zijn op | to be keen on, to love | очень любить | phrase | les-15 | `Ik ben dol op fruit.` |
 | trakteren | to treat (pay for others) | угощать | verb | les-15 | `Ik trakteer!` |
-| bestellen | to order | заказывать | verb | les-15 | `Mag ik bestellen?` |
+| bestellen | to order | заказывать | verb | les-15, les-20 | restaurant or online-shopping context |
 | afrekenen | to settle the bill, to pay | расплачиваться | verb | les-15 | separable: `Mogen we afrekenen?` |
 | het rondje | round (of drinks) | круг (напитков) | noun | les-15 | `het eerste rondje betalen` |
 | Alles samen? | All together? | Всё вместе? | phrase | les-15 | question from the waiter |
@@ -939,7 +939,7 @@ Suggested columns:
 | het zwemdiploma | swimming certificate | диплом по плаванию | noun | les-15 | plural `de zwemdiploma's` |
 | zwemmen | to swim | плавать | verb | les-15 | `Ik kan goed zwemmen.` |
 | de alcohol | alcohol | алкоголь | noun | les-15 | `geen alcohol drinken` |
-| dicht | closed, shut | закрытый | adjective | les-15 | `Mag de deur dicht?` |
+| dicht | closed, shut | закрытый | adjective | les-15, les-20 | `De winkel is dicht.`; `gaat ... dicht` |
 | Pardon | Excuse me | Извините | phrase | les-15 | `Pardon, mag ik u iets vragen?` |
 | het verslag | report | отчёт, доклад | noun | les-15 | plural `de verslagen` |
 | de moeilijkheid | difficulty | трудность | noun | les-15 | plural `de moeilijkheden` |
@@ -1153,3 +1153,29 @@ Suggested columns:
 | de knoop | button | пуговица | noun | les-19 | plural `de knopen` |
 | de paskamer | fitting room | примерочная | noun | les-19 | plural `de paskamers` |
 | Een moment alstublieft. | One moment, please. | Один момент, пожалуйста. | phrase | les-19 | polite store phrase |
+
+## Les 20
+
+| Dutch | English | Russian | Type | Lesson | Notes |
+| --- | --- | --- | --- | --- | --- |
+| open | open | открытый | adjective | les-20 | `De winkel is open.`; `gaat ... open` |
+| gesloten | closed | закрытый | adjective | les-20 | synonym of `dicht` for a shop |
+| de openingstijden | opening hours | часы работы | plural noun | les-20 | singular `de openingstijd` |
+| de feestdag | public holiday | праздничный день | noun | les-20 | plural `de feestdagen` |
+| online | online | онлайн | adjective/adverb | les-20 | `online bestellen` |
+| behalve | except | кроме | preposition/conjunction | les-20 | `behalve op zondag` |
+| toch | nevertheless, still | всё-таки, всё равно | adverb | les-20 | `Ik wil toch iets kopen.` |
+| de spullen | things, belongings, goods | вещи, товары | plural noun | les-20 | plural; `de spullen ophalen` |
+| de bestelling | order | заказ | noun | les-20 | plural `de bestellingen` |
+| de bezorger | delivery driver | курьер, доставщик | noun | les-20 | `De bezorger brengt de bestelling.` |
+| het afhaalpunt | collection point | пункт выдачи | noun | les-20 | plural `de afhaalpunten` |
+| sterk | strong | сильный | adjective | les-20 | `sterker - sterkst` |
+| zwaar | heavy | тяжёлый | adjective | les-20 | `zwaarder - zwaarst` |
+| donker | dark | тёмный | adjective | les-20 | `donkerder - donkerst` |
+| terugkijken op | to look back on | оглядываться назад, вспоминать | separable verb phrase | les-20 | `Ik kijk terug op de zomer.` |
+| voorbij zijn | to be over | закончиться, пройти | verb phrase | les-20 | `De zomer is voorbij.` |
+| beleven | to experience | переживать, испытывать | verb | les-20 | `een moment nog een keer beleven` |
+| waarderen | to appreciate | ценить | verb | les-20 | `vrije tijd waarderen` |
+| de beslissing | decision | решение | noun | les-20 | plural `de beslissingen`; `een beslissing nemen` |
+| het doel | goal | цель | noun | les-20 | plural `de doelen` |
+| bereiken | to achieve, reach | достигать | verb | les-20 | `een doel bereiken` |
