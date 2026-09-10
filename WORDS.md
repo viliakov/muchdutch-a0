@@ -914,7 +914,7 @@ Suggested columns:
 | het museum | museum | музей | noun | les-15 | plural `de musea` |
 | het pad | path | тропа | noun | les-15 | plural `de paden` |
 | de koe | cow | корова | noun | les-15 | plural `de koeien` |
-| de hersenen | brain(s) | мозг | noun | les-15 | alleen meervoud |
+| de hersenen | brain(s) | мозг | noun | les-15, les-21 | plural form used as a singular concept |
 | de mazelen | measles | корь | noun | les-15 | alleen meervoud |
 | de zaal | hall, room | зал | noun | les-15 | plural `de zalen` (lange klank) |
 | de muis | mouse | мышь | noun | les-15 | plural `de muizen` (`s` -> `z`) |
@@ -1188,14 +1188,32 @@ Suggested columns:
 | het hoofd | head | голова | noun | les-21 | plural `de hoofden` |
 | de schouder | shoulder | плечо | noun | les-21 | plural `de schouders` |
 | de arm | arm | рука от плеча до кисти | noun | les-21 | plural `de armen` |
+| de elleboog | elbow | локоть | noun | les-21 | plural `de ellebogen` |
+| de pols | wrist | запястье | noun | les-21 | plural `de polsen` |
 | de buik | belly, abdomen | живот | noun | les-21 | `last van de buik` |
+| de wijsvinger | index finger | указательный палец | noun | les-21 | plural `de wijsvingers` |
+| de middelvinger | middle finger | средний палец | noun | les-21 | plural `de middelvingers` |
+| de ringvinger | ring finger | безымянный палец | noun | les-21 | plural `de ringvingers` |
+| de pink | little finger | мизинец | noun | les-21 | plural `de pinken` |
+| de duim | thumb | большой палец руки | noun | les-21 | plural `de duimen` |
+| de nagel | nail | ноготь | noun | les-21 | plural `de nagels` |
+| de borst | chest, breast | грудь, молочная железа | noun | les-21 | plural `de borsten` |
+| de navel | navel | пупок | noun | les-21 | plural `de navels` |
+| de heup | hip | бедро, тазобедренная область | noun | les-21 | plural `de heupen` |
 | de knie | knee | колено | noun | les-21 | plural `de knieën` |
+| het bovenbeen | thigh, upper leg | верхняя часть ноги, бедро | noun | les-21 | plural `de bovenbenen` |
+| het scheenbeen | shin, shinbone | голень, берцовая кость | noun | les-21 | plural `de scheenbenen` |
+| de kuit | calf | икра ноги | noun | les-21 | plural `de kuiten` |
+| de enkel | ankle | щиколотка | noun | les-21 | plural `de enkels` |
 | de voet | foot | ступня | noun | les-21 | plural `de voeten` |
+| de hiel | heel | пятка | noun | les-21 | plural `de hielen` |
 | de teen | toe | палец ноги | noun | les-21 | plural `de tenen` |
 | de rug | back | спина | noun | les-21 | `last van de rug` |
 | de bil | buttock | ягодица | noun | les-21 | plural `de billen` |
 | de hand | hand | кисть руки | noun | les-21 | plural `de handen` |
 | het been | leg | нога | noun | les-21 | plural `de benen` |
+| de penis | penis | пенис | noun | les-21 | neutral medical term |
+| de vagina | vagina | влагалище | noun | les-21 | neutral medical term |
 | het gezicht | face | лицо | noun | les-21 | plural `de gezichten` |
 | het haar | hair | волосы | noun | les-21 | usually singular collective noun |
 | het oog | eye | глаз | noun | les-21 | plural `de ogen` |
@@ -1206,7 +1224,17 @@ Suggested columns:
 | de wang | cheek | щека | noun | les-21 | plural `de wangen` |
 | het oor | ear | ухо | noun | les-21 | plural `de oren` |
 | de mond | mouth | рот | noun | les-21 | plural `de monden` |
+| de tong | tongue | язык | noun | les-21 | plural `de tongen` |
 | de nek | neck | шея | noun | les-21 | plural `de nekken` |
+| de hals | neck, throat area | шея, горло | noun | les-21 | front or whole neck area; plural `de halzen` |
+| het hart | heart | сердце | noun | les-21 | plural `de harten` |
+| de long | lung | лёгкое | noun | les-21 | usually plural `de longen` |
+| de maag | stomach | желудок | noun | les-21 | `last van de maag` |
+| de lever | liver | печень | noun | les-21 | plural `de levers` |
+| de nier | kidney | почка | noun | les-21 | usually plural `de nieren` |
+| de blaas | bladder | мочевой пузырь | noun | les-21 | plural `de blazen` |
+| de darm | intestine | кишечник, кишка | noun | les-21 | usually plural `de darmen` |
+| het bloedvat | blood vessel | кровеносный сосуд | noun | les-21 | plural `de bloedvaten` |
 | het uiterlijk | appearance | внешность | noun | les-21 | compliment topic |
 | de glimlach | smile | улыбка | noun | les-21 | plural `de glimlachen` |
 | de outfit | outfit | образ, наряд | noun | les-21 | plural `de outfits` |

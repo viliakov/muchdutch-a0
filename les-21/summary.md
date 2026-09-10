@@ -2,7 +2,7 @@
 
 ## Источник
 
-- Материал: четыре скриншота урока и упражнений.
+- Материал: пять скриншотов урока и упражнений.
 - Дата добавления: 2026-09-09
 
 ## Основные темы
@@ -50,7 +50,10 @@
 ## Темы лексики
 
 - Лицо: `het gezicht`, `het haar`, `het oog`, `de neus`, `de tand`, `de lip`, `de kin`, `de wang`, `het oor`, `de snor`, `de baard`, `de mond`, `de nek`.
-- Тело: `het hoofd`, `de schouder`, `de arm`, `de buik`, `de vinger`, `de knie`, `de voet`, `de teen`, `de rug`, `de bil`, `de hand`, `het been`.
+- Тело и конечности: `het hoofd`, `de schouder`, `de arm`, `de elleboog`, `de pols`, `de hand`, `de vinger`, `de duim`, `de wijsvinger`, `de middelvinger`, `de ringvinger`, `de pink`, `de nagel`, `de borst`, `de buik`, `de navel`, `de heup`, `de bil`, `het been`, `het bovenbeen`, `de knie`, `het scheenbeen`, `de kuit`, `de enkel`, `de voet`, `de hiel`, `de teen`, `de rug`.
+- Голова и шея: `de tong`, `de hals`; также слова из предыдущего списка: `het hoofd`, `het haar`, `het oog`, `het oor`, `de neus`, `de mond`, `de lip`, `de wang`, `de kin`, `de keel`, `de nek`, `de tanden`.
+- Внутренние органы: `de hersenen`, `het hart`, `de longen`, `de maag`, `de lever`, `de nieren`, `de blaas`, `de darmen`, `de bloedvaten`, `de spieren`.
+- Интимная анатомия: `de penis`, `de vagina`. Это нейтральные медицинские названия.
 - У врача: `de klacht`, `de keel`, `de spier`, `hoesten`, `de griep`, `het recept`, `koorts`, `beterschap`.
 - Дополнительные слова: `sinds`, `nog`, `erg`, `natuurlijk`, `waarschijnlijk`.
 
@@ -72,6 +75,7 @@
 
 - Перестраивать предложения с одним глаголом в предложения с модальным глаголом.
 - Записывать единственное и множественное число частей тела.
+- Различать названия пальцев, частей ноги и внутренних органов.
 - Составлять короткие сообщения врачу с `sinds`, `nog`, `erg` и `last hebben van`.
 
 ## Полезные примеры

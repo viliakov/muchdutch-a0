@@ -303,6 +303,36 @@
 36. Сегодня мы изучаем разделяемые глаголы.
 37. Мы говорим о внешности человека.
 38. Это лекарство помогает от кашля.
+39. Я сгибаю руку в локте.
+40. У меня болит правое запястье.
+41. Покажи на картинке указательный палец.
+42. Средний палец длиннее безымянного.
+43. На мизинце короткий ноготь.
+44. Большой палец руки короче указательного.
+45. У мужчины широкая грудь.
+46. У женщины две груди.
+47. Пупок находится на животе.
+48. У неё болит левое бедро.
+49. Верхняя часть ноги сильнее икры.
+50. У него болит голень.
+51. После спорта у меня болят икры.
+52. Я подвернул щиколотку.
+53. У меня болит пятка, когда я хожу.
+54. Пенис и влагалище — части тела.
+55. Мозг находится в голове.
+56. Сердце находится в груди.
+57. Лёгкие помогают нам дышать.
+58. После еды у меня болит желудок.
+59. Печень — внутренний орган.
+60. У человека две почки.
+61. Мочевой пузырь находится в нижней части живота.
+62. Кишечник находится в животе.
+63. Кровеносные сосуды переносят кровь.
+64. Мышцы помогают телу двигаться.
+65. Покажи язык врачу.
+66. У меня болит передняя часть шеи.
+67. На обеих руках десять ногтей.
+68. Безымянный палец находится рядом с мизинцем.
 
 ## Ответы
 
@@ -597,3 +627,33 @@
 36. Vandaag leren we over scheidbare werkwoorden.
 37. Wij praten over het uiterlijk van een mens.
 38. Dit medicijn helpt tegen de hoest.
+39. Ik buig mijn arm bij de elleboog.
+40. Ik heb last van mijn rechterpols.
+41. Wijs de wijsvinger op de afbeelding aan.
+42. De middelvinger is langer dan de ringvinger.
+43. Aan de pink zit een korte nagel.
+44. De duim is korter dan de wijsvinger.
+45. De man heeft een brede borst.
+46. De vrouw heeft twee borsten.
+47. De navel zit op de buik.
+48. Zij heeft last van haar linkerheup.
+49. Het bovenbeen is sterker dan de kuit.
+50. Hij heeft pijn aan zijn scheenbeen.
+51. Na het sporten heb ik last van mijn kuiten.
+52. Ik heb mijn enkel verzwikt.
+53. Mijn hiel doet pijn als ik loop.
+54. De penis en de vagina zijn lichaamsdelen.
+55. De hersenen zitten in het hoofd.
+56. Het hart zit in de borst.
+57. De longen helpen ons ademen.
+58. Na het eten heb ik last van mijn maag.
+59. De lever is een inwendig orgaan.
+60. Een mens heeft twee nieren.
+61. De blaas zit onder in de buik.
+62. De darmen zitten in de buik.
+63. De bloedvaten vervoeren bloed.
+64. De spieren helpen het lichaam bewegen.
+65. Laat je tong aan de huisarts zien.
+66. Ik heb pijn aan mijn hals.
+67. Aan beide handen zitten tien nagels.
+68. De ringvinger zit naast de pink.
