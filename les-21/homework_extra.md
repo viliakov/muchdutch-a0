@@ -69,24 +69,26 @@
 
 ## 4. Определите `de` или `het` и напишите прилагательное
 
+Сначала укажите словарный артикль существительного. Во второй части каждого пункта используйте `een` и выберите правильную форму прилагательного.
+
 1. ___ hoofd — een `(rond)` __________ hoofd
 2. ___ oog — een `(blauw)` __________ oog
-3. ___ neus — de `(klein)` __________ neus
+3. ___ neus — een `(klein)` __________ neus
 4. ___ mond — een `(groot)` __________ mond
-5. ___ oor — het `(rood)` __________ oor
+5. ___ oor — een `(rood)` __________ oor
 6. ___ wang — een `(dik)` __________ wang
-7. ___ nek — de `(lang)` __________ nek
+7. ___ nek — een `(lang)` __________ nek
 8. ___ schouder — een `(sterk)` __________ schouder
-9. ___ arm — de `(sterk)` __________ arm
+9. ___ arm — een `(sterk)` __________ arm
 10. ___ been — een `(lang)` __________ been
-11. ___ knie — de `(pijnlijk)` __________ knie
+11. ___ knie — een `(pijnlijk)` __________ knie
 12. ___ voet — een `(klein)` __________ voet
-13. ___ lichaam — het `(gezond)` __________ lichaam
+13. ___ lichaam — een `(gezond)` __________ lichaam
 14. ___ klacht — een `(ernstig)` __________ klacht
 15. ___ recept — een `(nieuw)` __________ recept
-16. ___ spier — de `(sterk)` __________ spier
+16. ___ spier — een `(sterk)` __________ spier
 17. ___ glimlach — een `(mooi)` __________ glimlach
-18. ___ haar — het `(donker)` __________ haar
+18. ___ hart — een `(gezond)` __________ hart
 
 ## 5. Переведите с русского на нидерландский
 
@@ -401,22 +403,22 @@
 
 1. het hoofd — een rond hoofd
 2. het oog — een blauw oog
-3. de neus — de kleine neus
+3. de neus — een kleine neus
 4. de mond — een grote mond
-5. het oor — het rode oor
+5. het oor — een rood oor
 6. de wang — een dikke wang
-7. de nek — de lange nek
+7. de nek — een lange nek
 8. de schouder — een sterke schouder
-9. de arm — de sterke arm
+9. de arm — een sterke arm
 10. het been — een lang been
-11. de knie — de pijnlijke knie
+11. de knie — een pijnlijke knie
 12. de voet — een kleine voet
-13. het lichaam — het gezonde lichaam
+13. het lichaam — een gezond lichaam
 14. de klacht — een ernstige klacht
 15. het recept — een nieuw recept
-16. de spier — de sterke spier
+16. de spier — een sterke spier
 17. de glimlach — een mooie glimlach
-18. het haar — het donkere haar
+18. het hart — een gezond hart
 
 ### 5
 
