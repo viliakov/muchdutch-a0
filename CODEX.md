@@ -142,6 +142,7 @@ Apply these requirements to generated extra homework unless the user explicitly 
 1. Include exercises covering:
    - comparative and superlative forms, with context determining which form is required,
    - direct, indirect, and possessive pronouns,
+   - a dedicated reflexive-pronoun exercise (`me`, `je`, `zich`, `ons`), starting with lesson 22 and in all future homework sets; cover different subjects, questions, inversion, and known modal verbs,
    - negative sentences,
    - questions,
    - large numbers written in words, including ordinal numbers,
@@ -156,6 +157,8 @@ Apply these requirements to generated extra homework unless the user explicitly 
 7. Include one dedicated exercise that collectively covers all new vocabulary introduced in the current lesson.
 8. Provide a fixed answer key for every item; do not use open-ended tasks.
 9. In conjunction and modal-verb exercises, do not name the required conjunction or modal verb beside each sentence. The user should choose it independently. The answer key may show one natural solution even when other correct variants are possible.
+10. Starting with lesson 22, do not use `zullen` (including `zal`, `zult`, `zou`, `zouden`; the user referred to it as `zalen`) in generated homework or answer keys until the user says it has been covered. Use familiar modal verbs such as `kunnen`, `mogen`, `moeten`, and `willen`.
+11. Do not use `om ... te` infinitive constructions in generated homework or answer keys until the user says they have been covered. Prefer simple clauses and known modal verbs; do not introduce other unfamiliar `te`-infinitive constructions as a workaround.
 
 ## Style
 

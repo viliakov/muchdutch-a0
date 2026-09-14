@@ -409,7 +409,7 @@ Suggested columns:
 | nu | now | сейчас | adverb | les-09 | time expression |
 | zonder | without | без | preposition | les-09 | also appeared in les-04 |
 | druk | busy | шумный, оживленный | adjective | les-09 | `een drukke stad`; also in les-07 |
-| rustig | quiet, calm | тихий, спокойный | adjective | les-09 | `een rustig dorp` |
+| rustig | quiet, calm | тихий, спокойный; спокойно | adjective/adverb | les-09, les-22 | `een rustig dorp`; `rustig lezen` — спокойно читать |
 | het huis | house | дом | noun | les-09 | housing; also in les-08 |
 | de flat | flat, apartment building | квартира, многоэтажка | noun | les-09 | housing; also in les-08 |
 | de woning | home, dwelling | жилье | noun | les-09 | housing; also in les-08 |
@@ -1262,4 +1262,50 @@ Suggested columns:
 | natuurlijk | of course, naturally | конечно | adverb | les-21 | affirmative response |
 | beterschap | get well soon | выздоравливай, скорейшего выздоровления | phrase | les-21 | wish to an ill person |
 | last hebben van | to suffer from, be troubled by | страдать от, испытывать боль | verb phrase | les-21 | `Ik heb last van mijn keel.` |
-| koorts | fever | температура, жар | noun | les-21 | normally without article: `koorts hebben` |
+| koorts | fever | температура, жар | noun | les-21, les-22 | Словарная форма: de koorts; обычно без артикля: `koorts hebben`. |
+
+## Les 22
+
+| Dutch | English | Russian | Type | Lesson | Notes |
+| --- | --- | --- | --- | --- | --- |
+| de gezondheid | — | здоровье | существительное | les-22 | Обычно без артикля в сочетании: voor je gezondheid. |
+| de gewoonte | — | привычка | существительное | les-22 | Мн. ч.: de gewoontes / gewoonten; gezonde gewoontes. |
+| voldoende | — | достаточно; достаточный | наречие / прилагательное | les-22 | voldoende water drinken |
+| slapen | — | спать | глагол | les-22 | ik slaap; hij slaapt; 's nachts goed slapen |
+| de ochtendzon | — | утреннее солнце | существительное | les-22 | van de ochtendzon genieten |
+| genieten van | — | наслаждаться чем-либо | глагольное сочетание | les-22 | Ik geniet van de ochtendzon. |
+| wandelen | — | гулять, ходить пешком | глагол | les-22 | lekker wandelen — с удовольствием гулять |
+| diep | — | глубоко; глубокий | наречие / прилагательное | les-22 | diep ademhalen |
+| ademhalen | — | дышать; делать вдох | глагол | les-22 | Разделяемый: ik haal diep adem. |
+| het dagboek | — | дневник | существительное | les-22 | Мн. ч.: de dagboeken. |
+| een dagboek bijhouden | — | вести дневник | сочетание | les-22 | Ik houd een dagboek bij. Также: in een dagboek schrijven. |
+| de schermtijd | — | время у экрана | существительное | les-22 | mijn schermtijd beperken |
+| beperken | — | ограничивать | глагол | les-22 | Ik beperk mijn schermtijd. |
+| aan sport doen | — | заниматься спортом | сочетание | les-22 | Ik doe aan sport. Синоним: sporten. |
+| bellen | — | звонить | глагол | les-22 | Ik bel de tandarts. |
+| de huisarts | — | семейный врач, врач общей практики | существительное | les-22 | Мн. ч.: de huisartsen. |
+| de assistente | — | ассистентка | существительное | les-22 | Мн. ч.: de assistentes; de assistente van de huisarts. |
+| een afspraak maken | — | договариваться о встрече; записываться на приём | сочетание | les-22 | een afspraak maken met de tandarts |
+| de controle | — | проверка; профилактический осмотр | существительное | les-22 | Мн. ч.: de controles; voor een controle naar de tandarts. |
+| de pijn | — | боль | существительное | les-22 | Обычно без артикля: Ik heb pijn. |
+| waarom | — | почему | вопросительное наречие | les-22 | Waarom wil je naar de huisarts? |
+| zich voelen | — | чувствовать себя | возвратный глагол | les-22 | ik voel me; Voelt u zich goed? |
+| zich scheren | — | бриться | возвратный глагол | les-22 | Hij scheert zich elektrisch. |
+| zich herinneren | — | помнить, вспоминать | возвратный глагол | les-22 | Herinneren jullie je jullie eerste vakantie? |
+| zich verbazen over | — | удивляться чему-либо | возвратный глагол | les-22 | Ik verbaas me over het aantal fietsen. |
+| zich zorgen maken over | — | беспокоиться о | возвратное сочетание | les-22 | We maken ons zorgen over oma. |
+| zich ergeren aan | — | раздражаться из-за чего-либо | возвратный глагол | les-22 | Ik erger me aan het lawaai. Причастие: geërgerd. |
+| zich aanmelden voor | — | записываться на; регистрироваться на | возвратный разделяемый глагол | les-22 | Ik meld me aan voor de cursus. U kunt zich aanmelden. |
+| zich verheugen op | — | с радостью ждать, предвкушать | возвратный глагол | les-22 | Verheug jij je op de vakantie? |
+| elektrisch | — | электрический; с помощью электричества | прилагательное / наречие | les-22 | zich elektrisch scheren — бриться электробритвой |
+| helemaal | — | совсем, полностью | наречие | les-22 | helemaal fit |
+| fit | — | бодрый, в хорошей форме | прилагательное | les-22 | We voelen ons fit. |
+| het lawaai | — | шум | существительное | les-22 | het lawaai bij de buren |
+| vreselijk | — | ужасный; ужасно, очень сильно | прилагательное / наречие | les-22 | zich vreselijk ergeren |
+| de treinvertraging | — | задержка поезда | существительное | les-22 | Мн. ч.: de treinvertragingen. |
+| het Suikerfeest | — | Ураза-байрам, праздник окончания Рамадана | существительное | les-22 | zich verheugen op het Suikerfeest |
+| meekomen | — | идти / ехать вместе с кем-либо | разделяемый глагол | les-22 | Mijn vriendin komt met ons mee. |
+| afwassen | — | мыть посуду | разделяемый глагол | les-22 | Na het eten was ik de borden af. |
+| meebrengen | — | приносить с собой | разделяемый глагол | les-22 | Breng jij je boek mee? |
+| uitgaan | — | выходить развлекаться, проводить вечер вне дома | разделяемый глагол | les-22 | Zij gaat met haar vrienden uit. |
+| terugkomen | — | возвращаться | разделяемый глагол | les-22 | Mijn vader komt om zes uur terug. |
