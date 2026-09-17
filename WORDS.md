@@ -467,7 +467,7 @@ Suggested columns:
 | betalen | to pay | платить | verb | les-10 | `huur betalen` |
 | meenemen | to take along | брать с собой | verb | les-10, les-21 | separable: `ik neem ... mee` |
 | invullen | to fill in | заполнять | verb | les-10 | `een formulier invullen` |
-| poetsen | to brush, to polish | чистить | verb | les-10 | `tanden poetsen` |
+| poetsen | to brush, to polish | чистить | verb | les-10, les-23 | `tanden poetsen` Poets je tanden! — Почисти зубы! |
 | koken | to cook | готовить | verb | les-10 | in de keuken |
 | zetten | to put, to place | ставить | verb | les-10 | `de auto/fiets zetten` |
 | pakken | to take, to grab | брать, хватать | verb | les-10 | `de sleutel pakken` |
@@ -479,7 +479,7 @@ Suggested columns:
 | de sleutel | key | ключ | noun | les-10 | keys and doors |
 | op slot | locked | на замке | phrase | les-10 | `de deur is op slot` |
 | het formulier | form | бланк, анкета | noun | les-10 | `formulier invullen` |
-| de medicijnen | medicine, medication | лекарства | noun | les-10 | `medicijnen nemen` |
+| het medicijn | medicine, medication | лекарство | noun | les-10, les-23 | `medicijnen nemen` Ед. ч.: het medicijn; мн. ч.: de medicijnen. |
 | de bibliotheek | library | библиотека | noun | les-10 | place |
 | de file | traffic jam | пробка | noun | les-10 | `in de file staan` |
 | de meubels | furniture | мебель | noun | les-10 | plural; writing task |
@@ -494,7 +494,7 @@ Suggested columns:
 | ziek | sick, ill | больной | adjective | les-10 | `ik ben ziek` |
 | kapot | broken | сломанный | adjective | les-10 | `de auto is kapot` |
 | te laat | too late | слишком поздно | phrase | les-10 | `te laat op mijn werk` |
-| hoofdpijn | headache | головная боль | noun | les-10 | `ik heb hoofdpijn` |
+| de hoofdpijn | headache | головная боль | noun | les-10, les-23 | `ik heb hoofdpijn` Обычно без артикля: Ik heb hoofdpijn. |
 
 ## Les 11
 
@@ -792,7 +792,7 @@ Suggested columns:
 | gezond | healthy | полезный, здоровый | adjective | les-14 | `omdat het gezond is` |
 | de energie | energy | энергия | noun | les-14 | `omdat het energie geeft` |
 | makkelijk | easy | легко | adjective | les-14 | `makkelijk mee te nemen` |
-| vullen | to fill, to be filling | наполнять, насыщать | verb | les-14 | `omdat het goed vult` |
+| vullen | to fill, to be filling | наполнять, насыщать | verb | les-14, les-23 | `omdat het goed vult` Также: een gaatje vullen — пломбировать кариозную полость. |
 | blij maken | to make happy | радовать | verb phrase | les-14 | `omdat dat me blij maakt` |
 | blij | happy, glad | радостный | adjective | les-14 | `Ik ben blij.` |
 | snel | fast, quick | быстро | adverb/adjective | les-14 | `omdat het snel klaar is` |
@@ -1309,3 +1309,60 @@ Suggested columns:
 | meebrengen | — | приносить с собой | разделяемый глагол | les-22 | Breng jij je boek mee? |
 | uitgaan | — | выходить развлекаться, проводить вечер вне дома | разделяемый глагол | les-22 | Zij gaat met haar vrienden uit. |
 | terugkomen | — | возвращаться | разделяемый глагол | les-22 | Mijn vader komt om zes uur terug. |
+
+## Les 23
+
+| Dutch | English | Russian | Type | Lesson | Notes |
+| --- | --- | --- | --- | --- | --- |
+| de kies | — | коренной зуб | существительное | les-23 | Мн. ч.: de kiezen. |
+| het gaatje | — | дырочка; кариозная полость | существительное | les-23 | Мн. ч.: de gaatjes; een gaatje vullen. |
+| de foto | — | фотография; снимок | существительное | les-23 | Мн. ч.: de foto's; у стоматолога — снимок зубов. |
+| het gebit | — | зубной ряд; зубы в совокупности | существительное | les-23 | Мн. ч.: de gebitten. |
+| in orde | — | в порядке | слово / сочетание | les-23 | Mijn gebit is in orde. |
+| misschien | — | возможно, может быть | слово / сочетание | les-23 | Misschien kom ik morgen. |
+| helaas | — | к сожалению | слово / сочетание | les-23 | Helaas kan ik niet komen. |
+| elk / elke | — | каждый / каждая | слово / сочетание | les-23 | elk huis; elke dag; мн. ч.: alle huizen. |
+| het probleem | — | проблема | существительное | les-23 | Мн. ч.: de problemen. |
+| de apotheek | — | аптека | существительное | les-23 | Мн. ч.: de apotheken. |
+| ander / andere | — | другой / другая | слово / сочетание | les-23 | een ander boek; een andere dokter. |
+| bijvoorbeeld | — | например | слово / сочетание | les-23 | Bijvoorbeeld appels. |
+| de imperatief | — | повелительное наклонение | существительное | les-23 | Также: de gebiedende wijs. |
+| de instructie | — | инструкция, указание | существительное | les-23 | Мн. ч.: de instructies. |
+| het advies | — | совет | существительное | les-23 | Мн. ч.: de adviezen. |
+| sluiten | — | закрывать | слово / сочетание | les-23 | ik sluit; Sluit de deur! |
+| de handdoek | — | полотенце | существительное | les-23 | Мн. ч.: de handdoeken. |
+| zich kammen | — | причёсываться | возвратный глагол | les-23 | Ik kam me. |
+| zich afdrogen | — | вытираться насухо | возвратный глагол | les-23 | Hij droogt zich af. |
+| zich klaarmaken | — | собираться, готовиться | возвратный глагол | les-23 | Zij maakt zich klaar voor haar werk. |
+| zich ontspannen | — | расслабляться | возвратный глагол | les-23 | Wij ontspannen ons. |
+| zich omdraaien | — | оборачиваться | возвратный глагол | les-23 | Hij draait zich om. |
+| zich concentreren op | — | сосредоточиваться на | возвратный глагол | les-23 | Ik concentreer me op de les. |
+| zich inschrijven voor | — | записываться на | возвратный глагол | les-23 | Wij schrijven ons in voor de cursus. |
+| zich bukken | — | нагибаться | возвратный глагол | les-23 | Je moet je bukken. |
+| zich gedragen | — | вести себя | возвратный глагол | les-23 | Jullie gedragen je goed. |
+| lang opblijven | — | поздно ложиться, долго не ложиться спать | слово / сочетание | les-23 | Ik blijf lang op. |
+| tijd buiten doorbrengen | — | проводить время на улице | слово / сочетание | les-23 | Ik breng tijd buiten door. |
+| sociale media gebruiken | — | пользоваться социальными сетями | слово / сочетание | les-23 | Ik gebruik sociale media. |
+| de buikpijn | — | боль в животе | существительное | les-23 | Обычно без артикля: Ik heb buikpijn. |
+| de nekpijn | — | боль в шее | существительное | les-23 | Обычно без артикля: Ik heb nekpijn. |
+| de kiespijn | — | боль в коренном зубе | существительное | les-23 | Обычно без артикля: Ik heb kiespijn. |
+| de maagpijn | — | боль в желудке | существительное | les-23 | Обычно без артикля: Ik heb maagpijn. |
+| de oorpijn | — | боль в ухе | существительное | les-23 | Обычно без артикля: Ik heb oorpijn. |
+| de keelpijn | — | боль в горле | существительное | les-23 | Обычно без артикля: Ik heb keelpijn. |
+| de spierpijn | — | боль в мышцах | существительное | les-23 | Обычно без артикля: Ik heb spierpijn. |
+| de hoestbui | — | приступ кашля | существительное | les-23 | Мн. ч.: de hoestbuien. |
+| de verkoudheid | — | простуда | существительное | les-23 | Также: verkouden zijn — быть простуженным. |
+| de wond | — | рана | существительное | les-23 | Мн. ч.: de wonden. |
+| de gebroken arm | — | сломанная рука | существительное | les-23 | een gebroken arm hebben. |
+| de diarree | — | диарея | существительное | les-23 | Обычно без артикля: diarree hebben. |
+| de insectenbeet | — | укус насекомого | существительное | les-23 | Мн. ч.: de insectenbeten. |
+| reisziek | — | страдающий укачиванием | слово / сочетание | les-23 | Ik ben reisziek in de auto. |
+| de slapeloosheid | — | бессонница | существительное | les-23 | last hebben van slapeloosheid. |
+| de paracetamol | — | парацетамол | существительное | les-23 | В сочетании без артикля: paracetamol slikken. |
+| de pijnstiller | — | обезболивающее | существительное | les-23 | Мн. ч.: de pijnstillers. |
+| slikken | — | глотать; принимать таблетку | слово / сочетание | les-23 | ik slik; slikken — форма из учебного задания. |
+| de kruidenthee | — | травяной чай | существительное | les-23 | Een kop kruidenthee. |
+| de azijn | — | уксус | существительное | les-23 | Массовое существительное. |
+| het vet | — | жир | существительное | les-23 | Также прилагательное vet — жирный. |
+| warm houden | — | сохранять в тепле | слово / сочетание | les-23 | Houd de soep warm. |
+| voorin | — | впереди, в передней части | слово / сочетание | les-23 | voorin de bus zitten. |
