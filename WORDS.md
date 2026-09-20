@@ -236,8 +236,8 @@ Suggested columns:
 | het meisje | girl | девочка | noun | les-05 | listening vocabulary |
 | de baby | baby | младенец | noun | les-05 | listening vocabulary |
 | het gezin | family, household | семья | noun | les-05 | listening vocabulary |
-| horen | to hear | слышать | verb | les-05 | listening vocabulary |
-| praten | to talk | разговаривать | verb | les-05 | listening vocabulary |
+| horen | to hear | слышать | verb | les-05, les-24 | listening vocabulary Perfectum: heeft gehoord. |
+| praten | to talk | разговаривать | verb | les-05, les-24 | listening vocabulary Perfectum: heeft gepraat. |
 | raden | to guess | угадывать | verb | les-05 | speaking task |
 | beschrijven | to describe | описывать | verb | les-05 | speaking task |
 | noemen | to name, mention | называть | verb | les-05 | speaking task |
@@ -273,16 +273,16 @@ Suggested columns:
 | samen | together | вместе | adverb | les-06 | sentence building |
 | dichtbij | nearby | близко | adverb | les-06 | demonstratives |
 | ver weg | far away | далеко | phrase | les-06 | demonstratives |
-| wonen | to live | жить | verb | les-06 | present tense |
+| wonen | to live | жить | verb | les-06, les-24 | present tense Perfectum: heeft gewoond; продолжающееся действие: Ik woon al vier jaar in Amsterdam. |
 | spreken | to speak | говорить | verb | les-06 | present tense |
 | gaan | to go | идти, ехать | verb | les-06 | present tense |
-| luisteren | to listen | слушать | verb | les-06 | present tense |
+| luisteren | to listen | слушать | verb | les-06, les-24 | present tense Perfectum: heeft geluisterd. |
 | schrijven | to write | писать | verb | les-06 | present tense |
 | lezen | to read | читать | verb | les-06 | present tense |
 | maken | to make, to do | делать | verb | les-06 | exercises/tasks |
 | beantwoorden | to answer | отвечать | verb | les-06 | questions |
 | leren | to learn | учить, изучать | verb | les-06 | course context |
-| zeggen | to say | сказать | verb | les-06 | useful for dialogues |
+| zeggen | to say | сказать | verb | les-06, les-24 | useful for dialogues Perfectum: heeft gezegd. |
 | groot | big, tall | большой, высокий | adjective | les-06, les-18 | attributive `grote` |
 | klein | small | маленький | adjective | les-06 | adjective practice |
 | mooi | beautiful, nice | красивый | adjective | les-06, les-18 | attributive `mooie`; `een mooi het-woord` |
@@ -317,7 +317,7 @@ Suggested columns:
 | op het internet surfen | to surf the internet | сидеть в интернете | verb phrase | les-07 | agenda activity |
 | komen | to come | приходить | verb | les-07 | present tense review |
 | doen | to do | делать | verb | les-07 | present tense review |
-| reizen | to travel | путешествовать, ехать | verb | les-07 | used with gaan + infinitief |
+| reizen | to travel | путешествовать, ехать | verb | les-07, les-24 | used with gaan + infinitief Perfectum: is naar Japan gereisd; z в инфинитиве → -d. |
 | sporten | to exercise, play sports | заниматься спортом | verb | les-07 | used with gaan + infinitief |
 | repareren | to repair | ремонтировать | verb | les-07 | agenda/home task |
 | helpen | to help | помогать | verb | les-07 | agenda/home task |
@@ -397,7 +397,7 @@ Suggested columns:
 | wil | want, wants | хочу, хочешь, хочет | verb form | les-09 | singular form of `willen` (ik/jij/hij/zij/u) |
 | wilt | want | хотите, хочешь | verb form | les-09 | alternative form with `jij`/`u` |
 | willen (plural form) | want | хотим, хотите, хотят | verb form | les-09 | wij/jullie/zij willen |
-| huren | to rent | снимать, арендовать | verb | les-09 | housing |
+| huren | to rent | снимать, арендовать | verb | les-09, les-24 | housing Perfectum: heeft gehuurd. |
 | kopen | to buy | покупать | verb | les-09 | housing |
 | zoeken | to look for, search | искать | verb | les-09 | `een huis zoeken` |
 | te huur | for rent | сдается в аренду | phrase | les-09 | advertisement |
@@ -470,9 +470,9 @@ Suggested columns:
 | poetsen | to brush, to polish | чистить | verb | les-10, les-23 | `tanden poetsen` Poets je tanden! — Почисти зубы! |
 | koken | to cook | готовить | verb | les-10 | in de keuken |
 | zetten | to put, to place | ставить | verb | les-10 | `de auto/fiets zetten` |
-| pakken | to take, to grab | брать, хватать | verb | les-10 | `de sleutel pakken` |
+| pakken | to take, to grab | брать, хватать | verb | les-10, les-24 | `de sleutel pakken` Perfectum: heeft gepakt. |
 | vinden | to find | находить | verb | les-10 | `de sleutel niet vinden` |
-| vergeten | to forget | забывать | verb | les-10 | `de sleutel vergeten` |
+| vergeten | to forget | забывать | verb | les-10, les-24 | `de sleutel vergeten` Perfectum: is de sleutel vergeten; также возможно hebben. |
 | kunnen | can, to be able to | мочь | verb | les-10 | `ik kan niet werken` |
 | lachen | to laugh | смеяться | verb | les-10 | reading text |
 | liggen | to lie, to be located | лежать | verb | les-10 | `de sleutel ligt binnen` |
@@ -505,8 +505,8 @@ Suggested columns:
 | kunt | can | можешь, можете | verb form | les-11 | alternative form with `jij`/`u` |
 | kunnen (plural form) | can | можем, можете, могут | verb form | les-11 | wij/jullie/zij kunnen |
 | autorijden | to drive (a car) | водить машину | verb | les-11 | `Ik kan autorijden.` |
-| passen | to fit, to try on | подходить, примерять | verb | les-11 | `de trui past`; clothing-store use repeated in les-19 |
-| halen | to fetch, to get | забирать, доставать | verb | les-11 | `medicijnen halen` |
+| passen | to fit, to try on | подходить, примерять | verb | les-11, les-24 | `de trui past`; clothing-store use repeated in les-19 Perfectum: heeft gepast. |
+| halen | to fetch, to get | забирать, доставать | verb | les-11, les-24 | `medicijnen halen` Perfectum: heeft medicijnen gehaald. |
 | eerste | first | первый | ordinal | les-11 | 1e; also in les-05 |
 | tweede | second | второй | ordinal | les-11 | 2e |
 | derde | third | третий | ordinal | les-11 | 3e |
@@ -714,7 +714,7 @@ Suggested columns:
 | niet waar | not true, false | неправда | phrase | les-13 | listening task |
 | Assen | Assen | Ассен | place | les-13 | city, grammar example |
 | Amsterdam | Amsterdam | Амстердам | place | les-13 | city, grammar example |
-| dansen | to dance | танцевать | verb | les-13 | huiswerk: `Ik kan niet dansen.` |
+| dansen | to dance | танцевать | verb | les-13, les-24 | huiswerk: `Ik kan niet dansen.` Perfectum: heeft gedanst. |
 | studeren | to study | учиться | verb | les-13 | `Loes studeert in Delft.` |
 | de oefening | exercise | упражнение | noun | les-13 | huiswerk |
 | het ziekenhuis | hospital | больница | noun | les-13 | workplace |
@@ -768,7 +768,7 @@ Suggested columns:
 | goedkoop | cheap | дешёвый | adjective | les-14 | opposite of `duur` |
 | in de aanbieding | on sale, on offer | по акции | phrase | les-14 | supermarket |
 | de bon | receipt | чек | noun | les-14 | `Wilt u de bon?` |
-| pinnen | to pay by debit card | платить картой | verb | les-14 | `Ik wil pinnen.` |
+| pinnen | to pay by debit card | платить картой | verb | les-14, les-24 | `Ik wil pinnen.` Также: снимать наличные; € 50 pinnen. Perfectum: heeft gepind. |
 | de pinpas | debit card | банковская карта | noun | les-14 | `met de pinpas betalen` |
 | contant betalen | to pay cash | платить наличными | verb phrase | les-14 | `contant of pinnen?` |
 | het pak | pack, carton; suit | пакет, упаковка; костюм | noun | les-14, les-18 | `een pak melk`; plural `de pakken` |
@@ -792,7 +792,7 @@ Suggested columns:
 | gezond | healthy | полезный, здоровый | adjective | les-14 | `omdat het gezond is` |
 | de energie | energy | энергия | noun | les-14 | `omdat het energie geeft` |
 | makkelijk | easy | легко | adjective | les-14 | `makkelijk mee te nemen` |
-| vullen | to fill, to be filling | наполнять, насыщать | verb | les-14, les-23 | `omdat het goed vult` Также: een gaatje vullen — пломбировать кариозную полость. |
+| vullen | to fill, to be filling | наполнять, насыщать | verb | les-14, les-23, les-24 | `omdat het goed vult` Также: een gaatje vullen — пломбировать кариозную полость. Perfectum: heeft het gaatje gevuld. |
 | blij maken | to make happy | радовать | verb phrase | les-14 | `omdat dat me blij maakt` |
 | blij | happy, glad | радостный | adjective | les-14 | `Ik ben blij.` |
 | snel | fast, quick | быстро | adverb/adjective | les-14 | `omdat het snel klaar is` |
@@ -880,7 +880,7 @@ Suggested columns:
 | de uitnodiging | invitation | приглашение | noun | les-15 | luisteren |
 | een feestje geven | to throw a party | устраивать вечеринку | phrase | les-15 | luisteren |
 | het cadeautje | small present | подарочек | noun | les-15 | diminutive of `het cadeau` |
-| ruilen | to swap, to exchange | обменивать | verb | les-15 | luisteren |
+| ruilen | to swap, to exchange | обменивать | verb | les-15, les-24 | luisteren Perfectum: heeft geruild. |
 | lijken op | to resemble, to look like | быть похожим на | verb | les-15 | `Hij lijkt op zijn vader.` |
 | missen | to miss (someone/something) | скучать по | verb | les-15 | `Ik mis mijn familie.` |
 | overleden | deceased, passed away | умерший | adjective | les-15 | `Mijn moeder is overleden.` |
@@ -1246,7 +1246,7 @@ Suggested columns:
 | het scheidbare werkwoord | separable verb | разделяемый глагол | grammar noun | les-21 | prefix separates in a main clause |
 | aankomen | to arrive | прибывать | separable verb | les-21 | `ik kom ... aan` |
 | omdraaien | to turn over | переворачивать | separable verb | les-21 | `hij draait ... om` |
-| opsturen | to send | отправлять | separable verb | les-21 | `ik stuur ... op` |
+| opsturen | to send | отправлять | separable verb | les-21, les-24 | `ik stuur ... op` Perfectum: heeft opgestuurd. |
 | oversteken | to cross | переходить | separable verb | les-21 | `het kind steekt ... over` |
 | uitleggen | to explain | объяснять | separable verb | les-21 | `de docent legt ... uit` |
 | de klacht | complaint, symptom | жалоба, симптом | noun | les-21 | plural `de klachten` |
@@ -1274,7 +1274,7 @@ Suggested columns:
 | slapen | — | спать | глагол | les-22 | ik slaap; hij slaapt; 's nachts goed slapen |
 | de ochtendzon | — | утреннее солнце | существительное | les-22 | van de ochtendzon genieten |
 | genieten van | — | наслаждаться чем-либо | глагольное сочетание | les-22 | Ik geniet van de ochtendzon. |
-| wandelen | — | гулять, ходить пешком | глагол | les-22 | lekker wandelen — с удовольствием гулять |
+| wandelen | — | гулять, ходить пешком | глагол | les-22, les-24 | lekker wandelen — с удовольствием гулять Perfectum: heeft een uur gewandeld. |
 | diep | — | глубоко; глубокий | наречие / прилагательное | les-22 | diep ademhalen |
 | ademhalen | — | дышать; делать вдох | глагол | les-22 | Разделяемый: ik haal diep adem. |
 | het dagboek | — | дневник | существительное | les-22 | Мн. ч.: de dagboeken. |
@@ -1366,3 +1366,45 @@ Suggested columns:
 | het vet | — | жир | существительное | les-23 | Также прилагательное vet — жирный. |
 | warm houden | — | сохранять в тепле | слово / сочетание | les-23 | Houd de soep warm. |
 | voorin | — | впереди, в передней части | слово / сочетание | les-23 | voorin de bus zitten. |
+
+## Les 24
+
+| Dutch | English | Russian | Type | Lesson | Notes |
+| --- | --- | --- | --- | --- | --- |
+| de pil | — | таблетка | существительное | les-24 | Мн. ч.: de pillen; een pil innemen. |
+| de zalf | — | мазь | существительное | les-24 | Обычно неисчисляемое; de zalf op de huid smeren. |
+| de druppel | — | капля | существительное | les-24 | Мн. ч.: de druppels. |
+| het doosje | — | коробочка, упаковка | существительное | les-24 | Мн. ч.: de doosjes. |
+| innemen | — | принимать внутрь | разделяемый глагол | les-24 | ik neem in; heeft ingenomen. |
+| de huid | — | кожа | существительное | les-24 | de zalf op de huid smeren. |
+| smeren | — | намазывать, наносить | глагол | les-24 | heeft gesmeerd; zalf op de huid smeren. |
+| de drogist | — | магазин бытовых и аптечных товаров; его продавец | существительное | les-24 | Мн. ч.: de drogisten; bij de drogist. |
+| daar | — | там, туда | наречие | les-24 | Ik heb daar gewoond. |
+| de keer | — | раз | существительное | les-24 | twee keer per dag; мн. ч.: de keren, после числительного обычно keer. |
+| dagelijks | — | ежедневно | наречие / прилагательное | les-24 | dagelijks een schone zakdoek gebruiken. |
+| sommige | — | некоторые | определитель | les-24 | sommige medicijnen; некоторые из группы. |
+| de loopneus | — | насморк, текущий нос | существительное | les-24 | een loopneus hebben. |
+| een verstopte neus | — | заложенный нос | сочетание | les-24 | Ik heb een verstopte neus. |
+| lichte koorts | — | небольшая температура | сочетание | les-24 | lichte koorts hebben; без артикля. |
+| de zakdoek | — | носовой платок | существительное | les-24 | Мн. ч.: de zakdoeken. |
+| de deken | — | одеяло | существительное | les-24 | Мн. ч.: de dekens. |
+| de hoesttablet | — | таблетка от кашля | существительное | les-24 | Мн. ч.: de hoesttabletten. |
+| de zuigtablet | — | пастилка, таблетка для рассасывания | существительное | les-24 | Мн. ч.: de zuigtabletten. |
+| de warme drank | — | тёплый напиток | сочетание | les-24 | Мн. ч.: de warme dranken. |
+| rust nodig hebben | — | нуждаться в отдыхе | сочетание | les-24 | Ik heb wat rust nodig. |
+| uitrusten | — | отдыхать | разделяемый глагол | les-24 | ik rust uit; heeft uitgerust; Rust goed uit! |
+| het perfectum | — | перфект, завершённое прошедшее время | грамматический термин | les-24 | hebben / zijn + voltooid deelwoord. |
+| het voltooid deelwoord | — | причастие прошедшего времени | грамматический термин | les-24 | Мн. ч.: de voltooide deelwoorden; gewerkt, ingenomen. |
+| al | — | уже | наречие | les-24 | Heb je al gegeten? |
+| net | — | только что | наречие | les-24 | Ik heb net gebeld. |
+| al eens | — | уже когда-либо, уже раз | сочетание | les-24 | Heb je deze film al eens gezien? |
+| al lang | — | уже давно | сочетание | les-24 | Ik woon hier al lang; не требует perfectum. |
+| worden | — | становиться | глагол | les-24 | is geworden; Hij is ziek geworden. |
+| leven | — | жить, быть живым | глагол | les-24 | heeft geleefd; v в инфинитиве → -d. |
+| beloven | — | обещать | глагол | les-24 | heeft beloofd; без дополнительного ge-. |
+| vieren | — | праздновать | глагол | les-24 | heeft gevierd. |
+| de wedstrijd | — | матч, соревнование | существительное | les-24 | Мн. ч.: de wedstrijden. |
+| sturen | — | отправлять | глагол | les-24 | heeft gestuurd; een e-mail sturen. |
+| smaken | — | быть на вкус | глагол | les-24 | heeft gesmaakt; lekker smaken. |
+| rennen | — | бегать | глагол | les-24 | heeft gerend — действие; is naar huis gerend — направление. |
+| drukken | — | нажимать | глагол | les-24 | heeft gedrukt; op de knop drukken. |
