@@ -317,7 +317,7 @@ Suggested columns:
 | op het internet surfen | to surf the internet | сидеть в интернете | verb phrase | les-07 | agenda activity |
 | komen | to come | приходить | verb | les-07 | present tense review |
 | doen | to do | делать | verb | les-07 | present tense review |
-| reizen | to travel | путешествовать, ехать | verb | les-07, les-24 | used with gaan + infinitief Perfectum: is naar Japan gereisd; z в инфинитиве → -d. |
+| reizen | to travel | путешествовать, ехать | verb | les-07, les-24, les-25 | used with gaan + infinitief Perfectum: is naar Japan gereisd; z в инфинитиве → -d. Imperfectum: reisde / reisden; учитываем z инфинитива. |
 | sporten | to exercise, play sports | заниматься спортом | verb | les-07 | used with gaan + infinitief |
 | repareren | to repair | ремонтировать | verb | les-07 | agenda/home task |
 | helpen | to help | помогать | verb | les-07 | agenda/home task |
@@ -570,7 +570,7 @@ Suggested columns:
 | de rand | edge | край | noun | les-11 | `aan de rand van de stad` |
 | het bos | forest | лес | noun | les-11 | place |
 | kindvriendelijk | child-friendly | подходящий для детей | adjective | les-11 | describing a neighborhood |
-| dat is lang geleden | that was long ago | давно не виделись | phrase | les-11 | listening |
+| dat is lang geleden | that was long ago | давно не виделись | phrase | les-11, les-25 | listening geleden — назад о времени; lang geleden — давно. |
 | zullen wij afspreken | shall we make an appointment | давай договоримся о встрече | phrase | les-11 | listening |
 | doe de groeten | say hi (to them) | передавай привет | phrase | les-11 | listening |
 | bezoeken | to visit | посещать, навещать | verb | les-11 | listening |
@@ -628,7 +628,7 @@ Suggested columns:
 | parkeren | to park | парковаться | verb | les-12 | `U mag hier parkeren.` |
 | gebruiken | to use | использовать | verb | les-12 | `Mag ik je telefoon gebruiken?` |
 | spelen | to play | играть | verb | les-12 | `buiten spelen` |
-| wachten | to wait | ждать | verb | les-12 | `U mag hier wachten.` |
+| wachten | to wait | ждать | verb | les-12, les-25 | `U mag hier wachten.` Imperfectum: wachtte / wachtten; двойная t. |
 | eerder | earlier | раньше | adverb | les-12 | `eerder naar huis` |
 | later | later | позже | adverb | les-12 | `wat later komen` |
 | de leraar | teacher | учитель | noun | les-12 | school |
@@ -1400,7 +1400,7 @@ Suggested columns:
 | al eens | — | уже когда-либо, уже раз | сочетание | les-24 | Heb je deze film al eens gezien? |
 | al lang | — | уже давно | сочетание | les-24 | Ik woon hier al lang; не требует perfectum. |
 | worden | — | становиться | глагол | les-24 | is geworden; Hij is ziek geworden. |
-| leven | — | жить, быть живым | глагол | les-24 | heeft geleefd; v в инфинитиве → -d. |
+| leven | — | жить, быть живым | глагол | les-24, les-25 | heeft geleefd; v в инфинитиве → -d. Imperfectum: leefde / leefden; учитываем v инфинитива. |
 | beloven | — | обещать | глагол | les-24 | heeft beloofd; без дополнительного ge-. |
 | vieren | — | праздновать | глагол | les-24 | heeft gevierd. |
 | de wedstrijd | — | матч, соревнование | существительное | les-24 | Мн. ч.: de wedstrijden. |
@@ -1408,3 +1408,14 @@ Suggested columns:
 | smaken | — | быть на вкус | глагол | les-24 | heeft gesmaakt; lekker smaken. |
 | rennen | — | бегать | глагол | les-24 | heeft gerend — действие; is naar huis gerend — направление. |
 | drukken | — | нажимать | глагол | les-24 | heeft gedrukt; op de knop drukken. |
+
+## Les 25
+
+Четыре новые активные единицы; остальные слова повторяются из предыдущих уроков. Новые формы знакомых глаголов даны в конспекте урока.
+
+| Dutch | English | Russian | Type | Lesson | Notes |
+| --- | --- | --- | --- | --- | --- |
+| vroeger | — | раньше, в прошлом | наречие | les-25 | Vroeger woonde ik hier. Не путать со сравнительной степенью vroeg: раньше по времени. |
+| toen | — | тогда; когда (в прошлом) | наречие / союз | les-25 | Toen was ik thuis. Toen ik klein was, woonde ik hier. |
+| geleden | — | назад (о времени) | наречие | les-25 | twee jaar geleden — два года назад; lang geleden — давно. |
+| het imperfectum | — | простое прошедшее время, имперфект | грамматический термин | les-25 | werkte / werkten; was / waren. Может описывать и завершённые события. |
