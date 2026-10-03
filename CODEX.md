@@ -160,6 +160,14 @@ Apply these requirements to generated extra homework unless the user explicitly 
 10. Starting with lesson 22, do not use `zullen` (including `zal`, `zult`, `zou`, `zouden`; the user referred to it as `zalen`) in generated homework or answer keys until the user says it has been covered. Use familiar modal verbs such as `kunnen`, `mogen`, `moeten`, and `willen`.
 11. Do not use `om ... te` infinitive constructions in generated homework or answer keys until the user says they have been covered. Prefer simple clauses and known modal verbs; do not introduce other unfamiliar `te`-infinitive constructions as a workaround.
 
+### Article clarity in Russian-to-Dutch exercises
+
+- In all generated exercises with Russian source sentences, make the intended definiteness of nouns clear whenever it determines the Dutch article. Russian alone often leaves this unspecified.
+- Prefer a short natural context; otherwise add a Russian parenthetical note such as «речь о конкретном, уже известном лекарстве», «один предмет, впервые упоминается» or «вещество вообще, без уточнения». Do not reveal de/het in the prompt: the learner should still choose the noun's article.
+- Distinguish definite de/het, indefinite een for singular countable nouns, and no article for nonspecific substances or indefinite plurals. Do not treat every noun without a Russian demonstrative as indefinite.
+- Do not mechanically add «этот/тот» to signal an article: these words may instead call for Dutch dit/deze/dat/die. Use a context note when an ordinary definite article is intended.
+- Check prompts against the answer key for article clarity before delivering exercises. If multiple article choices remain justified by the source, list the acceptable variants and their meaning in the key instead of marking only one as correct.
+
 ## Style
 
 - Be clear, practical, and beginner-friendly.
